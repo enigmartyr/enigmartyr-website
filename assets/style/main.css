@@ -1,0 +1,189 @@
+@font-face {
+    font-family: "whitrabt";
+    font-display: block;
+    src: url("/assets/font/whitrabt/whitrabt.otf") format('opentype'), url("/assets/font/whitrabt/whitrabt.woff2") format('woff'), url("/assets/font/whitrabt/whitrabt.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "QIJI";
+    font-display: block;
+    src: url("/assets/font/QIJI/qiji.woff2" ) format('woff'), url("/assets/font/QIJI/qiji.ttf" ) format('truetype');
+}
+
+@font-face {
+    font-family: "QIJI Combo";
+    font-display: block;
+    src: url("/assets/font/QIJI/qiji-combo.woff2" ) format('woff'), url("/assets/font/QIJI/qiji-combo.ttf" ) format('truetype');
+}
+
+@font-face {
+    font-family: "QIJI Fallback";
+    font-display: block;
+    src: url("/assets/font/QIJI/qiji-fallback.woff2" ) format('woff'), url("/assets/font/QIJI/qiji-fallback.ttf" ) format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020A";
+    unicode-range: U+4E00-9FFF;
+    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020A";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020Base-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020Base-Regular.ttf" ) format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020A";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020Base-Italic.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020Base-Italic.ttf" ) format('truetype');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "TT2020B";
+    unicode-range: U+4E00-9FFF;
+    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020B";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020StyleB-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleB-Regular.ttf" ) format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020B";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020StyleB-Italic.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleB-Italic.ttf" ) format('truetype');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "TT2020D";
+    unicode-range: U+4E00-9FFF;
+    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020D";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020StyleD-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleD-Regular.ttf" ) format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020D";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020StyleD-Italic.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleD-Italic.ttf" ) format('truetype');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "TT2020E";
+    unicode-range: U+4E00-9FFF;
+    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020E";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020StyleE-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleE-Regular.ttf" ) format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020E";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020StyleE-Italic.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleE-Italic.ttf" ) format('truetype');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "TT2020F";
+    unicode-range: U+4E00-9FFF;
+    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020F";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020StyleF-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleF-Regular.ttf" ) format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020G";
+    unicode-range: U+4E00-9FFF;
+    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "TT2020G";
+    font-display: block;
+    src: url("/assets/font/TT2020/TT2020StyleG-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleG-Regular.ttf" ) format('truetype');
+}
+
+:root {
+    --site-primary-color: #7DF9FF;
+    --site-secondary-color: #FF837D;
+    --site-background-color: color-mix(in srgb, black, var(--site-primary-color) 07.5%);
+    --site-disabled-color:   color-mix(in srgb, black, var(--site-primary-color) 25.0%);
+}
+
+body {
+    background-color: var(--site-background-color);
+    color: var(--site-primary-color);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+}
+
+#links {
+    width:       400px;
+    text-align:   left;
+    font-size:     x-large;
+    color:           white;
+    display:          flex;
+    flex-direction: column;
+}
+
+#links a {
+    color: var(--site-primary-color);
+    text-decoration: none;
+    margin:      10px 0px;
+    margin-top:      20px;
+    border-radius:    5px;
+    padding:         10px;
+    border: white 1px solid;
+}
+
+#links a:hover {
+    background-color: var(--site-secondary-color);
+    cursor: pointer;
+}
+
+/* Navbar */
+#navbar {
+    display:       flex;
+    flex-direction: row;
+    padding:       20px;
+}
+  
+#navbar a {
+    color: var(--site-primary-color);
+    margin-right:    20px;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+#navbar a:hover {
+    cursor: pointer;
+    color: var(--site-secondary-color);
+}
+
+html, body, #main, #page {
+    position: relative;
+    display:      flex;
+    flex-direction: column;
+    width:        100%;
+    height:       100%;
+    margin:          0;
+}
