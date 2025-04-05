@@ -1,0 +1,203 @@
+:root {
+    --tl-button-size: 25px;
+    --year-length-in-pixels: 25px;
+    --tl-padding-width: 25vw;
+}
+
+body.ew-scrolling {
+    cursor: grabbing !important;
+
+    & * {
+        cursor:inherit;
+
+        &:not(#main):not(.tl-greater):not(.tl-proper) {
+            pointer-events: none;
+            user-select:   none;
+        }
+    }
+}
+
+.tl-greater {
+    position:      relative;
+    min-height: max-content;
+    width:             100%;
+    scrollbar-width:   none;
+    overflow-x:      scroll;
+    overflow-y:      hidden;
+}
+
+.tl-proper {
+    position:  relative;
+    width:  fit-content;
+    height:        75px;
+    display:       flex;
+    flex-direction: row;
+    align-content:   flex-end;
+    justify-content: flex-end;
+    cursor:           grab;
+
+    &::after {
+        z-index: 999;
+        content: "";
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        right: 0;
+        background-color: var(--site-background-color);
+        transition: width 5s;
+    }
+
+    &.mounted::after {
+        width: 0;
+    }
+}
+
+
+.tl-greater > .tl-proper > .tl-padding {
+    position: relative;
+    width: var(--tl-padding-width);
+}
+
+.tl-segment {
+    height: inherit;
+    left: 0;
+    right: 0;
+}
+
+.tl-segment > .tl-line-segment {
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.tl-segment.tl-head,
+.tl-segment.tl-tail {
+    position: absolute;
+    width: calc(5 * var(--year-length-in-pixels));
+}
+
+.tl-segment.tl-head {
+    justify-self: end;
+    right: var(--tl-padding-width);
+}
+
+.tl-segment.tl-head > .tl-line-segment {
+    background: linear-gradient(to right, var(--site-primary-color) 0%, var(--site-background-color) 100%);
+}
+
+.tl-segment.tl-tail {
+    left: calc(var(--tl-padding-width) + var(--tl-button-size));
+}
+
+.tl-segment.tl-tail > .tl-line-segment {
+    background: linear-gradient(to left, var(--site-primary-color) 0%, var(--site-background-color) 100%);
+}
+
+.tl-segment.tl-body {
+    position: relative;
+    width: calc(var(--year-length-in-pixels) * var(--length));
+}
+
+.tl-segment.tl-body > .tl-line-segment {
+    z-index: -1;
+    background-color: var(--site-primary-color);
+}
+
+.tl-segment.tl-body > .tl-tick {
+    position: absolute;
+    width: 1px;
+    top: 50%;
+    transform: translateY(-50%);
+    left: calc(var(--year-length-in-pixels) * var(--offset));
+    background-color: var(--site-primary-color);
+}
+
+.tl-segment.tl-body > .tl-tick:nth-child(-n+5),
+.tl-segment.tl-body > .tl-tick:nth-last-child(-n+5) {
+    z-index: 1;
+    width: 1px;
+    filter: blur(1px);
+    background-color: var(--site-background-color);
+}
+
+.tl-segment.tl-body > .tl-tick.tl-tiny-tick {
+    height: 5px;
+}
+
+.tl-segment.tl-body > .tl-tick.tl-small-tick {
+    height: 10px;
+}
+
+.tl-segment.tl-body > .tl-tick.tl-large-tick {
+    height: 15px;
+}
+
+.tl-segment.tl-body > .tl-tick.tl-large-tick::before {
+    content: attr(data-date);
+    position: absolute;
+    bottom: 20px;
+    left:    50%;
+    transform: translateX(-50%);
+}
+
+.tl-button-greater {
+    position:       sticky;
+    z-index:             1;
+    display:          flex;
+    flex-direction: column;
+    height:           100%;
+    aspect-ratio:        1;
+    top:                 0;
+    left:                0;
+    cursor:        default;
+}
+
+.tl-button-greater::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    --blur: 5px;
+    transform: translateY(-50%) translateX(calc(-2 * var(--blur)));
+    height: calc(100% + 3 * var(--blur));
+    width: calc(100% + 3 * var(--blur));
+    filter: blur(var(--blur));
+    background-color: var(--site-background-color);
+}
+
+.tl-button-greater > .tl-button {
+    position: absolute;
+    height: var(--tl-button-size);
+    left: 50%;
+    background-color: var(--site-primary-color);
+    transition: background-color 1s;
+    aspect-ratio: 1;
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+}
+
+.tl-button:hover, .tl-button:active {
+    background-color: var(--site-secondary-color);
+    transition:            background-color 0.25s;
+}
+
+.tl-button.disabled {
+    background-color: var(--site-disabled-color);
+}
+
+.tl-button:not(.disabled) {
+    cursor: pointer;
+}
+
+.tl-button-greater > .tl-button.tl-zoom-in {
+    top: calc((100% - 2 * var(--tl-button-size)) / 3);
+    transform: translateX(-50%) scaleX(-1);
+}
+
+.tl-button-greater > .tl-button.tl-zoom-out {
+    bottom: calc((100% - 2 * var(--tl-button-size)) / 4);
+    transform: translateX(-50%) rotate(180deg);
+}
