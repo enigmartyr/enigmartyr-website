@@ -1,0 +1,128 @@
+{
+  "name": {
+    "full": "Hazen Robert Argue",
+    "last": "Argue"
+  },
+  "span": [
+    1921,
+    1991
+  ],
+  "portraiture": {
+    "sketch": " hazen_argue.gif",
+    "normal": " hazen_argue.webp",
+    "source": "<i>Hazen Argue.</i> Photograph. Accessed January 31, 2025. https://commons.wikimedia.org/wiki/File:Hazen_Argue.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1940,
+        1944
+      ],
+      "name": "<b>Student</b>, University of Saskatchewan, Saskatoon",
+      "subs": [
+        {
+          "term": [
+            1940,
+            1944
+          ],
+          "name": "Bachelor of Science, Agriculture",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1949
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1949
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Wood Mountain|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1949,
+        1963
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1963
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of Assiniboia",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1966,
+        1991
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1966,
+            1991
+          ],
+          "name": "<b>Senator</b>, Saskatchewan",
+          "subs": [
+            {
+              "term": [
+                1972,
+                1979
+              ],
+              "name": "<b>Chairman</b>, Standing Committee on Agriculture",
+              "subs": []
+            },
+            {
+              "term": [
+                1980,
+                1984
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1980,
+                    1984
+                  ],
+                  "name": "<b>Minister of State</b>, Canadian Wheat Board, ❰CA❱ ⟨Department of Agriculture|Agriculture and Agri-Food Canada⟩",
+                  "subs": []
+                }
+              ]
+            },
+            {
+              "term": [
+                1986,
+                1988
+              ],
+              "name": "<b>Chairman</b>, Special Committee on Preventive Health Care",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1980,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰CA❱ Privy Council",
+      "subs": []
+    }
+  ]
+}

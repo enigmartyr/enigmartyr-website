@@ -1,0 +1,92 @@
+{
+  "name": {
+    "full": "Joseph Beal Steere",
+    "last": "Steere"
+  },
+  "span": [
+    1842,
+    1940
+  ],
+  "portraiture": {
+    "sketch": " joseph_steere.gif",
+    "normal": " joseph_steere.webp",
+    "source": "<i>Joseph Beal Steere.</i> Photograph. Accessed September 17, 2024. https://commons.wikimedia.org/wiki/File:Cabinet_card_portrait_Joseph_Beal_Steere.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1864,
+        1870
+      ],
+      "name": "<b>Student</b>, University of Michigan, Ann Arbor",
+      "subs": [
+        {
+          "term": [
+            1864,
+            1868
+          ],
+          "name": "Bachelor of Arts, Natural History",
+          "subs": []
+        },
+        {
+          "term": [
+            1868,
+            1870
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1876,
+        1894
+      ],
+      "name": "<b>Scholar</b>, University of Michigan, Ann Arbor",
+      "subs": [
+        {
+          "term": [
+            1876,
+            1879
+          ],
+          "name": "<b>Professor, Assistant</b>, Department of Paleontology",
+          "subs": []
+        },
+        {
+          "term": [
+            1877,
+            1879
+          ],
+          "name": "<b>Professor, Assistant</b>, Department of Zoology",
+          "subs": []
+        },
+        {
+          "term": [
+            1879,
+            1881
+          ],
+          "name": "<b>Curator</b>, Museum of Natural History",
+          "subs": []
+        },
+        {
+          "term": [
+            1879,
+            1881
+          ],
+          "name": "<b>Professor</b>, Department of Paleontology",
+          "subs": []
+        },
+        {
+          "term": [
+            1879,
+            1894
+          ],
+          "name": "<b>Professor</b>, Department of Zoology",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

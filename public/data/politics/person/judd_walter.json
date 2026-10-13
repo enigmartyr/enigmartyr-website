@@ -1,0 +1,111 @@
+{
+  "name": {
+    "full": "Walter Henry Judd",
+    "last": "Judd"
+  },
+  "span": [
+    1898,
+    1994
+  ],
+  "portraiture": {
+    "normal": " walter_judd.webp",
+    "sketch": " walter_judd.gif",
+    "source": "“Walter H. Judd” In <i>Pocket Congressional Directory</i>, 1955:70. USGPO, 1955. https://www.google.com/books/edition/Pocket_Congressional_Directory/ADuHAAAAMAAJ"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1916,
+        1918
+      ],
+      "name": "<b>Student</b>, University of Nebraska, Lincoln",
+      "subs": []
+    },
+    {
+      "term": [
+        1918,
+        1919
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defence",
+      "subs": [
+        {
+          "term": [
+            1918,
+            1920
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1918,
+                1919
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1919,
+            1920
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1919,
+                1920
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1920,
+        1923
+      ],
+      "name": "<b>Student</b>, University of Nebraska, Lincoln",
+      "subs": [
+        {
+          "term": [
+            1920,
+            1920
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        },
+        {
+          "term": [
+            1920,
+            1923
+          ],
+          "name": "Doctor of Medicine",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1943,
+        1963
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1943,
+            1963
+          ],
+          "name": "<b>Representative</b>, Minnesota",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

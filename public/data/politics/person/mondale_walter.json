@@ -1,0 +1,188 @@
+{
+  "name": {
+    "full": "Walter Frederick Mondale",
+    "last": "Mondale"
+  },
+  "span": [
+    1928,
+    2021
+  ],
+  "portraiture": {
+    "sketch": " walter_mondale.gif",
+    "normal": " walter_mondale.webp",
+    "source": "<i>Vice President Elect Walter Mondale.</i> Photograph. Accessed September 3, 2024. https://www.loc.gov/item/2017658303/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1948,
+        1950
+      ],
+      "name": "<b>Student</b>, Macalester College, Saint Paul",
+      "subs": []
+    },
+    {
+      "term": [
+        1950,
+        1951
+      ],
+      "name": "<b>Student</b>, University of Minnesota, Minneapolis",
+      "subs": [
+        {
+          "term": [
+            1950,
+            1951
+          ],
+          "name": "Bachelor of Arts, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1951,
+        1953
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defense",
+      "subs": [
+        {
+          "term": [
+            1951,
+            1953
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1951,
+                null
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1953
+              ],
+              "name": "(OR-04) <b>Corporal</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1953,
+        1956
+      ],
+      "name": "<b>Student</b>, University of Minnesota, Minneapolis",
+      "subs": [
+        {
+          "term": [
+            1953,
+            1956
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1956,
+        1960
+      ],
+      "name": "<b>Legal Practitioner</b>, “Larson, Loevinger, Lindquist & Freeman”",
+      "subs": []
+    },
+    {
+      "term": [
+        1960,
+        1964
+      ],
+      "name": "<b>Legal Officer</b>, ❰US-MN❱ Office of the Attorney General",
+      "subs": [
+        {
+          "term": [
+            1960,
+            1964
+          ],
+          "name": "<b>Attorney General</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1964,
+        1976
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1964,
+            1976
+          ],
+          "name": "<b>Senator</b>, Minnesota",
+          "subs": [
+            {
+              "term": [
+                1970,
+                1973
+              ],
+              "name": "<b>Chairman</b>, Select Committee on Equal Education Opportunity",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1977,
+        1981
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Office of the President",
+      "subs": [
+        {
+          "term": [
+            1977,
+            1981
+          ],
+          "name": "<b>President, Vice</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1993,
+        1996
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1993,
+            1996
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1993,
+                1996
+              ],
+              "name": "<b>Ambassador</b>, Japan",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

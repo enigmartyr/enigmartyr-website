@@ -1,0 +1,128 @@
+{
+  "name": {
+    "full": "Oliver Shewell Franks",
+    "last": "Franks"
+  },
+  "span": [
+    1905,
+    1992
+  ],
+  "portraiture": {
+    "normal": " oliver_franks.webp",
+    "sketch": " oliver_franks.gif",
+    "source": "<i>Oliver Shewell Franks.</i> Photograph. Accessed January 25, 2025. https://www.npg.org.uk/collections/search/portrait/mw100853/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1923,
+        1927
+      ],
+      "name": "<b>Student</b>, University of Oxford, Oxford",
+      "subs": [
+        {
+          "term": [
+            1922,
+            1927
+          ],
+          "name": "Bachelor of Arts, Classics",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1937,
+        1939
+      ],
+      "name": "<b>Scholar</b>, University of Glasgow, Glasgow",
+      "subs": [
+        {
+          "term": [
+            1937,
+            1939
+          ],
+          "name": "<b>Professor</b>, Moral Philosophy",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1939,
+        1946
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ Civil Service",
+      "subs": [
+        {
+          "term": [
+            1939,
+            null
+          ],
+          "name": "<b>Clerk</b>, ⟨Ministry of Supply|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1946
+          ],
+          "name": "<b>Secretary, Permanent</b>, ⟨Ministry of Supply|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1948,
+        1952
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+      "subs": [
+        {
+          "term": [
+            1948,
+            1952
+          ],
+          "name": "<b>Diplomat</b>, ❰UK❱ ⟨Consular Service|Diplomatic Service⟩",
+          "subs": [
+            {
+              "term": [
+                1948,
+                1952
+              ],
+              "name": "<b>Ambassador</b>, United States of America",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1949,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰UK❱ Privy Council",
+      "subs": []
+    },
+    {
+      "term": [
+        1962,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Lords",
+      "subs": [
+        {
+          "term": [
+            1962,
+            -1
+          ],
+          "name": "<b>Peer</b>, Baron of Headington",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

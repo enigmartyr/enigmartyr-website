@@ -1,0 +1,157 @@
+{
+  "name": {
+    "full": "Dean Gooderham Acheson",
+    "last": "Acheson"
+  },
+  "span": [
+    1893,
+    1971
+  ],
+  "portraiture": {
+    "normal": " dean_acheson.webp",
+    "sketch": " dean_acheson.gif",
+    "source": "<i>Dean Acheson.</i> Photograph. Accessed September 18, 2024. https://alphahistory.com/coldwar/dean-acheson/"
+  },
+  "backgrounds": [
+    "Veteran(Army)",
+    "LegalPractitioner",
+    "Bureaucrat(Domestic)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1912,
+        1915
+      ],
+      "name": "<b>Student</b>, Yale University, New Haven",
+      "subs": [
+        {
+          "term": [
+            1912,
+            1915
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1915,
+        1918
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1915,
+            1918
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1916,
+        1917
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defence",
+      "subs": [
+        {
+          "term": [
+            1916,
+            1917
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1916,
+                1917
+              ],
+              "name": "(OR-01) Private",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1919,
+        1921
+      ],
+      "name": "<b>Legal Practitioner</b>, Office of Supreme Court Justice Louis Brandeis",
+      "subs": [
+        {
+          "term": [
+            1919,
+            1921
+          ],
+          "name": "<b>Law Clerk</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1921,
+        1946
+      ],
+      "name": "<b>Legal Practitioner</b>, “Covington & Burling”",
+      "subs": []
+    },
+    {
+      "term": [
+        1933,
+        1933
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of the Treasury",
+      "subs": [
+        {
+          "term": [
+            1933,
+            1933
+          ],
+          "name": "<b>Secretary, Under</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1941,
+        1953
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1941,
+            1945
+          ],
+          "name": "<b>Secretary, Assistant</b>, Office of Legislative Affairs",
+          "subs": []
+        },
+        {
+          "term": [
+            1945,
+            1947
+          ],
+          "name": "<b>Secretary, Under</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1949,
+            1953
+          ],
+          "name": "<b>Secretary of State</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "name": {
+    "full": "Harry S Truman",
+    "last": "Truman"
+  },
+  "span": [
+    1884,
+    1972
+  ],
+  "portraiture": {
+    "sketch": " harry_truman.gif",
+    "normal": " harry_truman.webp",
+    "source": "<i>Harry S. Truman.</i> Photograph. Accessed September 15, 2024. https://www.nytimes.com/2022/03/11/books/review/the-trials-of-harry-s-truman-jeffrey-frank.html"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1917,
+        1953
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1905,
+            1911
+          ],
+          "name": "<b>Enlisted</b>, Reserve Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1905,
+                null
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1911
+              ],
+              "name": "(OR-04) <b>Corporal</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1917,
+            1919
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1917,
+                1918
+              ],
+              "name": "(OF-01) <b>Lieutenant, First</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1918,
+                1919
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1920,
+            1953
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1920,
+                1925
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1925,
+                1932
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1932,
+                1953
+              ],
+              "name": "(OF-05) <b>Colonel</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1922,
+        1935
+      ],
+      "name": "<b>Judicial Officer</b>, District of Jackson County, Missouri",
+      "subs": [
+        {
+          "term": [
+            1922,
+            1925
+          ],
+          "name": "<b>Judge</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1927,
+            1935
+          ],
+          "name": "<b>Judge, Presiding</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1935,
+        1945
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1935,
+            1945
+          ],
+          "name": "<b>Senator</b>, Missouri",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1953
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Office of the President",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1945
+          ],
+          "name": "<b>President, Vice</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1945,
+            1953
+          ],
+          "name": "<b>President of the United States</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

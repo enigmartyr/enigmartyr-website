@@ -1,0 +1,126 @@
+{
+  "name": {
+    "full": "William Michael Reisman",
+    "last": "Reisman"
+  },
+  "span": [
+    1939,
+    null
+  ],
+  "portraiture": {
+    "normal": " william_reisman.webp",
+    "sketch": " william_reisman.gif",
+    "source": "<i>W. Michael Reisman.</i> Photograph. Accessed December 21, 2024. https://onlineexhibits.library.yale.edu/s/YJIL-50/item/19817"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1956,
+        1960
+      ],
+      "name": "<b>Student</b>, Johns Hopkins University, Baltimore",
+      "subs": [
+        {
+          "term": [
+            1956,
+            1960
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1960,
+        1963
+      ],
+      "name": "<b>Student</b>, Hebrew University, Jerusalem",
+      "subs": [
+        {
+          "term": [
+            1960,
+            1963
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1963,
+        1965
+      ],
+      "name": "<b>Student</b>, Yale University, New Haven",
+      "subs": [
+        {
+          "term": [
+            1963,
+            1964
+          ],
+          "name": "Master of Laws",
+          "subs": []
+        },
+        {
+          "term": [
+            1964,
+            1965
+          ],
+          "name": "Doctor of the Science of Law",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1965,
+        null
+      ],
+      "name": "<b>Scholar</b>, Yale University, New Haven",
+      "subs": [
+        {
+          "term": [
+            1965,
+            1969
+          ],
+          "name": "<b>Research Assistant</b>, School of International Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1969,
+            1972
+          ],
+          "name": "<b>Professor, Associate</b>, School of International Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1972,
+            1982
+          ],
+          "name": "<b>Professor</b>, School of International Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1982,
+            1998
+          ],
+          "name": "<b>Professor, <i>Wesley Newcomb Hohfeld</i></b>, School of International Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1998,
+            null
+          ],
+          "name": "<b>Professor Emeritus, <i>Myres Smith McDougal</i></b>, School of International Law",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

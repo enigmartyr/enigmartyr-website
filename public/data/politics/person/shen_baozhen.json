@@ -1,0 +1,197 @@
+{
+  "name": {
+    "full": "Shen Baozhen (沈葆楨)",
+    "last": "Shen (沈)"
+  },
+  "span": [
+    1820,
+    1879
+  ],
+  "portraiture": {
+    "sketch": " shen_baozhen.gif",
+    "normal": " shen_baozhen.webp",
+    "source": "<i>Shen Baozhen.</i> Photograph. Accessed February 10, 2025. https://commons.wikimedia.org/wiki/File:%E6%B2%88%E8%91%86%E6%A5%A8%EF%BC%88%E9%81%A0%E6%9D%B1%E6%9C%88%E5%88%8A%E6%9C%89%E8%AA%A4%EF%BC%89.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        1847
+      ],
+      "name": "<b>Student</b>",
+      "subs": [
+        {
+          "term": [
+            null,
+            1836
+          ],
+          "name": "County Examination (秀才科)",
+          "subs": []
+        },
+        {
+          "term": [
+            1836,
+            1840
+          ],
+          "name": "Provincial Examination (鄉試)",
+          "subs": []
+        },
+        {
+          "term": [
+            1840,
+            1847
+          ],
+          "name": "Metropolitan Examination (會試)",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1836,
+        -1
+      ],
+      "name": "<b>Scholar</b>",
+      "subs": [
+        {
+          "term": [
+            1836,
+            1840
+          ],
+          "name": "<b>Xiucai (秀才)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1840,
+            1847
+          ],
+          "name": "<b>Juren (舉人)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1847,
+            -1
+          ],
+          "name": "<b>Jinshi (進士)</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1855,
+        -1
+      ],
+      "name": "<b>Bureaucrat</b>",
+      "subs": [
+        {
+          "term": [
+            1854,
+            1855
+          ],
+          "name": "<b>Investigating Censor (监察御史)</b>, Province (省) of Jiangnan (江南)",
+          "subs": []
+        },
+        {
+          "term": [
+            1855,
+            1855
+          ],
+          "name": "<b>Investigating Censor (监察御史)</b>, Province (省) of Guizhou (贵州)",
+          "subs": []
+        },
+        {
+          "term": [
+            1855,
+            1856
+          ],
+          "name": "<b>Prefect (知府)</b>, Municipality (Prefecture; 府) of Jiujiang (九江), Province (省) of Jiangxi (江西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1856,
+            1857
+          ],
+          "name": "<b>Prefect (知府)</b>, Municipality (Prefecture; 府) of Guangxin (广信), Province (省) of Jiangxi (江西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1857,
+            1859
+          ],
+          "name": "<b>Circuit Intendant (Taotai; 道臺)</b>, Guangrao-Jiunan Circuit (广饶九南道), Province (省) of Jiangxi (江西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1860,
+            1860
+          ],
+          "name": "<b>Circuit Intendant (Taotai; 道臺)</b>, Jinan-Ganning Circuit (吉南贛寧道), Province (省) of Jiangxi (江西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1861,
+            1865
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Jiangxi (江西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1861,
+            1865
+          ],
+          "name": "<b>Right Censor-in-chief, Vice (右副都御史)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Minister of War, Vice (兵部侍郎)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1867,
+            1875
+          ],
+          "name": "<b>Minister of Fuzhou Naval Affairs (福州船政大臣)</b>, Mawei Shipyard (馬尾造船廠)",
+          "subs": []
+        },
+        {
+          "term": [
+            1874,
+            1875
+          ],
+          "name": "<b>Minister for Taiwan Maritime Defense and Foreign Affairs (辦理臺灣等處海防兼理各國事務大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1875,
+            null
+          ],
+          "name": "<b>Minister of Commerce (辦理通商事务大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1875,
+            -1
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Liangjiang (兩江)",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

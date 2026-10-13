@@ -1,0 +1,164 @@
+{
+  "name": {
+    "full": "Michael Joseph Mansfield",
+    "last": "Mansfield"
+  },
+  "span": [
+    1903,
+    2001
+  ],
+  "portraiture": {
+    "normal": " michael_mansfield.webp",
+    "sketch": " michael_mansfield.gif",
+    "source": "<i>Mike Mansfield.</i> Photograph. Accessed August 4, 2024. https://www.mtmemory.org/nodes/view/20145"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1918,
+        1922
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defence",
+      "subs": [
+        {
+          "term": [
+            1918,
+            1919
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1918,
+                1919
+              ],
+              "name": "(OR-01) <b>⟨Seaman, Apprentice|Seaman, Recruit⟩</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1919,
+            1920
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1919,
+                1920
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1920,
+            1922
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Marine Corps",
+          "subs": [
+            {
+              "term": [
+                1920,
+                1922
+              ],
+              "name": "(OR-02) <b>Private First Class</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1943,
+        1953
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1943,
+            1953
+          ],
+          "name": "<b>Representative</b>, Montana",
+          "subs": [
+            {
+              "term": [
+                1949,
+                1951
+              ],
+              "name": "<b>Chairman</b>, Special Committee on Campaign Expenditures",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1953,
+        1977
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1953,
+            1977
+          ],
+          "name": "<b>Senator</b>, Montana",
+          "subs": [
+            {
+              "term": [
+                1960,
+                1963
+              ],
+              "name": "<b>Chairman</b>, Committee on Rules and Administration",
+              "subs": []
+            },
+            {
+              "term": [
+                1973,
+                1974
+              ],
+              "name": "<b>Chairman</b>, Special Committee on Secret and Confidential Documents",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1977,
+        1988
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1977,
+            1988
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1977,
+                1988
+              ],
+              "name": "<b>Ambassador</b>, Japan",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "name": {
+    "full": "Usher Lloyd Burdick",
+    "last": "Burdick"
+  },
+  "span": [
+    1879,
+    1960
+  ],
+  "portraiture": {
+    "normal": " usher_burdick.webp",
+    "sketch": " usher_burdick.gif",
+    "source": "<i>Usher L. Burdick.</i> Photograph. Accessed August 5, 2024. https://statemuseum.nd.gov/photobook/details?I%20RecID=PH_I_91178"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1896,
+        1900
+      ],
+      "name": "<b>Student</b>, ⟨Mayville Normal School|Mayville State University⟩, Mayville",
+      "subs": [
+        {
+          "term": [
+            1896,
+            1900
+          ],
+          "name": "Bachelor of Arts, Teaching",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1900,
+        1904
+      ],
+      "name": "<b>Student</b>, University of Minnesota, Minneapolis",
+      "subs": [
+        {
+          "term": [
+            1902,
+            1904
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1904,
+        1907
+      ],
+      "name": "<b>Legal Practitioner</b>, “Burdick's Law Office”",
+      "subs": []
+    },
+    {
+      "term": [
+        1907,
+        1911
+      ],
+      "name": "<b>Politician</b>, ❰US-ND❱ North Dakota House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1907,
+            1911
+          ],
+          "name": "<b>Representative</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1911,
+        1913
+      ],
+      "name": "<b>Politician</b>, ❰US-ND❱ North Dakota Office of the Governor",
+      "subs": [
+        {
+          "term": [
+            1911,
+            1913
+          ],
+          "name": "<b>Governor, Lieutenant</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1913,
+        1920
+      ],
+      "name": "<b>Legal Officer</b>, District of Williams County, North Dakota",
+      "subs": [
+        {
+          "term": [
+            1913,
+            1915
+          ],
+          "name": "<b>State's Attorney</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1915,
+            1920
+          ],
+          "name": "<b>Special Prosecutor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1929,
+        1932
+      ],
+      "name": "<b>Legal Officer</b>, ❰US❱ Department of Justice",
+      "subs": [
+        {
+          "term": [
+            1929,
+            1932
+          ],
+          "name": "<b>U.S. Attorney, Assistant</b>, District Court for the District of North Dakota",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1935,
+        1959
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1935,
+            1945
+          ],
+          "name": "<b>Representative</b>, North Dakota",
+          "subs": []
+        },
+        {
+          "term": [
+            1945,
+            1959
+          ],
+          "name": "<b>Representative</b>, North Dakota",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

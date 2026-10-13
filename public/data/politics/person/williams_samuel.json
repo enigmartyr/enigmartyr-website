@@ -1,0 +1,94 @@
+{
+  "name": {
+    "full": "Samuel Wells Williams",
+    "last": "Williams"
+  },
+  "span": [
+    1812,
+    1884
+  ],
+  "portraiture": {
+    "sketch": " samuel_williams.gif",
+    "normal": " samuel_williams.webp",
+    "source": "<i>Samuel Wells Williams.</i> Photograph. Accessed February 8, 2025. https://www.facebook.com/photo/?fbid=2454834787955850"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1830,
+        1832
+      ],
+      "name": "<b>Student</b>, ⟨Rensselaer Institute|Rensselaer Polytechnic Institute⟩, Troy",
+      "subs": [
+        {
+          "term": [
+            1830,
+            1832
+          ],
+          "name": "Bachelor of Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1853,
+        1976
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1853,
+            1976
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Consular Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1853,
+                1856
+              ],
+              "name": "<b>Interpreter, Student</b>, Tokyo, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1856,
+                1860
+              ],
+              "name": "<b>Secretary</b>, ⟨Peking|Beijing⟩, China",
+              "subs": []
+            },
+            {
+              "term": [
+                1860,
+                1876
+              ],
+              "name": "<b>Chargé d'affaires</b>, ⟨Peking|Beijing⟩, China",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1877,
+            null
+          ],
+          "name": "<b>Scholar</b>, Yale University, New Haven",
+          "subs": [
+            {
+              "term": [
+                1877,
+                null
+              ],
+              "name": "<b>Professor</b>, Chinese Language and Literature",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

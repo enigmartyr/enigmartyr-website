@@ -1,0 +1,102 @@
+{
+  "name": {
+    "full": "Kidder Randolph Breese",
+    "last": "Breese"
+  },
+  "span": [
+    1831,
+    1881
+  ],
+  "portraiture": {
+    "sketch": " kidder_breese.gif",
+    "normal": " kidder_breese.webp",
+    "source": "<i>Lieutenant Kidder R. Breese.</i> Photograph. Accessed August 7, 2024. https://www.history.navy.mil/our-collections/photography/us-people/b/breese-kidder-r/nh-92565.html"
+  },
+  "backgrounds": [
+    "Veteran(Navy)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1831,
+        1881
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1846,
+            1852
+          ],
+          "name": "<b>Midshipman</b>, United States Naval Academy, Maryland",
+          "subs": []
+        },
+        {
+          "term": [
+            1852,
+            1860
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1847,
+                1855
+              ],
+              "name": "(OF-01) ⟨<b>Midshipman, Passed</b>|<b>Ensign</b>⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1855,
+                1855
+              ],
+              "name": "(OF-01) ⟨<b>Master</b>|<b>Lieutenant (Junior Grade)</b>⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1855,
+                1862
+              ],
+              "name": "(OF-02) <b>Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1862,
+                1866
+              ],
+              "name": "(OF-03) <b>Commander, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1866,
+                1874
+              ],
+              "name": "(OF-04) <b>Commander</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1874,
+                -1
+              ],
+              "name": "(OF-05) <b>Captain</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1873,
+            1875
+          ],
+          "name": "<b>Commandant</b>, United States Naval Academy, Maryland",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

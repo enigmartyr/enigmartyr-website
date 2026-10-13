@@ -1,0 +1,168 @@
+{
+  "name": {
+    "full": "“George” Kung-chao Yeh (葉公超)",
+    "last": "Yeh"
+  },
+  "span": [
+    1904,
+    1981
+  ],
+  "portraiture": {
+    "sketch": " george_yeh.gif",
+    "normal": " george_yeh.webp",
+    "source": "<i>叶公超.</i> Photograph. Accessed September 14, 2024. https://k.sina.cn/article_5765389469_157a4dc9d001017eyq.html"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1919,
+        1924
+      ],
+      "name": "<b>Student</b>, Amherst College, Amherst",
+      "subs": [
+        {
+          "term": [
+            1919,
+            1924
+          ],
+          "name": "Bachelor of Arts, English",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1924,
+        1926
+      ],
+      "name": "<b>Student</b>, University of Cambridge, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1924,
+            1926
+          ],
+          "name": "Master of Arts, Indo-European Linguistics",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1937,
+        1938
+      ],
+      "name": "<b>Scholar</b>, ⟨Changsha Temporary University|⟩, Changsha",
+      "subs": [
+        {
+          "term": [
+            1897,
+            1938
+          ],
+          "name": "<b>Director</b>, Department of Foreign Literature",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1938,
+        1939
+      ],
+      "name": "<b>Scholar</b>, ⟨National Southwestern Associated University|Yunnan Normal University⟩, Kunming",
+      "subs": [
+        {
+          "term": [
+            1938,
+            1939
+          ],
+          "name": "<b>Director</b>, Department of Foreign Literature",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1946,
+        1978
+      ],
+      "name": "<b>Bureaucrat</b>, ❰⟨CN|TW⟩❱ Ministry of Foreign Affairs",
+      "subs": [
+        {
+          "term": [
+            1946,
+            1947
+          ],
+          "name": "<b>Counselor</b>, European Department",
+          "subs": []
+        },
+        {
+          "term": [
+            1946,
+            1947
+          ],
+          "name": "<b>Director General</b>, European Department",
+          "subs": []
+        },
+        {
+          "term": [
+            1947,
+            1949
+          ],
+          "name": "<b>Minister, Vice</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1949,
+            1949
+          ],
+          "name": "<b>Minister, Deputy</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1949,
+            1958
+          ],
+          "name": "<b>Minister of Foreign Affairs</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1958,
+            1961
+          ],
+          "name": "<b>Ambassador</b>, United States",
+          "subs": []
+        },
+        {
+          "term": [
+            1961,
+            1978
+          ],
+          "name": "<b>Minister without Portfolio</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1978,
+        -1
+      ],
+      "name": "<b>Bureaucrat</b>, ❰⟨CN|TW⟩❱ Office of the President",
+      "subs": [
+        {
+          "term": [
+            1978,
+            -1
+          ],
+          "name": "<b>Advisor</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "name": {
+    "full": "Major James William Coldwell",
+    "last": "Coldwell"
+  },
+  "span": [
+    1888,
+    1974
+  ],
+  "portraiture": {
+    "sketch": " major_coldwell.gif",
+    "normal": " major_coldwell.webp",
+    "source": "<i>M. J. Coldwell.</i> Photograph. Accessed January 25, 2025. https://www.gettyimages.com/detail/50498241"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1922,
+        1932
+      ],
+      "name": "<b>Politician</b>, Municipality (City) of Regina, Saskatchewan",
+      "subs": [
+        {
+          "term": [
+            1922,
+            1932
+          ],
+          "name": "<b>Alderman</b>, Regina City Council",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1929,
+        1930
+      ],
+      "name": "<b>Politician</b>, ❰CA-SK❱ Saskatchewan Legislative Assembly",
+      "subs": [
+        {
+          "term": [
+            1929,
+            1930
+          ],
+          "name": "<b>Chairman</b>, Public Service Inquiry Commission",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1935,
+        1958
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1935,
+            1958
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Rosetown—Biggar|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1964,
+        1966
+      ],
+      "name": "<b>Bureaucrat</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1964,
+            1966
+          ],
+          "name": "<b>Member</b>, Advisory Committee to Study Curtailment of Election Expenditures",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1964,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰CA❱ Privy Council",
+      "subs": [
+        {
+          "term": [
+            1966,
+            1969
+          ],
+          "name": "<b>Commissioner</b>, Royal Commission on Security",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

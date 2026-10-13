@@ -1,0 +1,135 @@
+{
+  "name": {
+    "full": "Allister Herbert George Grosart",
+    "last": "Grosart"
+  },
+  "span": [
+    1906,
+    1984
+  ],
+  "portraiture": {
+    "sketch": " allister_grosart.gif",
+    "normal": " allister_grosart.webp",
+    "source": "<i>Grosart, Allister.</i> Photograph. Accessed January 31, 2025. https://digitalarchive.tpl.ca/objects/269889/grosart-allister"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1923,
+        1927
+      ],
+      "name": "<b>Student</b>, University of Toronto, Toronto",
+      "subs": [
+        {
+          "term": [
+            1923,
+            1927
+          ],
+          "name": "Bachelor of Arts, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1939,
+        1945
+      ],
+      "name": "<b>Serviceman</b>, ❰CA❱ ⟨Department of Militia and Defence|Canadian Armed Forces⟩",
+      "subs": [
+        {
+          "term": [
+            1939,
+            1945
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰CA❱ Army",
+          "subs": [
+            {
+              "term": [
+                1939,
+                null
+              ],
+              "name": "(OF-01) Lieutenant",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "(OF-02) Captain",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1945
+              ],
+              "name": "(OF-03) Major",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1962,
+        1981
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1962,
+            1981
+          ],
+          "name": "<b>Senator</b>, Ontario",
+          "subs": [
+            {
+              "term": [
+                1973,
+                1976
+              ],
+              "name": "<b>Chairman, Vice</b>, Standing Committee on Foreign Affairs",
+              "subs": []
+            },
+            {
+              "term": [
+                1979,
+                1979
+              ],
+              "name": "<b>Chairman</b>, Standing Joint Committee on the Restaurant of Parliament",
+              "subs": []
+            },
+            {
+              "term": [
+                1979,
+                1979
+              ],
+              "name": "<b>Chairman</b>, Standing Joint Committee on the Library of Parliament",
+              "subs": []
+            },
+            {
+              "term": [
+                1979,
+                1980
+              ],
+              "name": "<b>Speaker of the Senate</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1981,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰CA❱ Privy Council",
+      "subs": []
+    }
+  ]
+}

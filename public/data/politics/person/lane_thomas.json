@@ -1,0 +1,129 @@
+{
+  "name": {
+    "full": "Thomas Joseph Lane",
+    "last": "Lane"
+  },
+  "span": [
+    1898,
+    1994
+  ],
+  "portraiture": {
+    "normal": " thomas_lane.webp",
+    "sketch": " thomas_lane.gif",
+    "source": "“Thomas J. Lane” In <i>Pocket Congressional Directory</i>, 1959:63. USGPO, 1959. https://www.google.com/books/edition/Pocket_Congressional_Directory/AtJFAQAAMAAJ"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defence",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Active</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "(OF-01) <b>Private</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1921,
+        1925
+      ],
+      "name": "<b>Student</b>, Suffolk University, Boston",
+      "subs": [
+        {
+          "term": [
+            1921,
+            1925
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1927,
+        1938
+      ],
+      "name": "<b>Politician</b>, ❰US-MA❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1927,
+            1938
+          ],
+          "name": "<b>Representative</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1939,
+        1941
+      ],
+      "name": "<b>Politician</b>, ❰US-MA❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1939,
+            1941
+          ],
+          "name": "<b>Senator</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1941,
+        1963
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1941,
+            1963
+          ],
+          "name": "<b>Representative</b>, Massachusetts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1965,
+        1977
+      ],
+      "name": "<b>Legal Practitioner</b>, ❰US-MA❱ Massachusetts Office of the Governor",
+      "subs": [
+        {
+          "term": [
+            1965,
+            1977
+          ],
+          "name": "<b>Legal Advisor</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

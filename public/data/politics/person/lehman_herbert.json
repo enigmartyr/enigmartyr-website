@@ -1,0 +1,161 @@
+{
+  "name": {
+    "full": "Herbert Henry Lehman",
+    "last": "Lehman"
+  },
+  "span": [
+    1878,
+    1963
+  ],
+  "portraiture": {
+    "normal": " herbert_lehman.webp",
+    "sketch": " herbert_lehman.gif",
+    "source": "Herbert H. Lehman.</i> Photograph. Accessed September 14, 2024. https://www.gettyimages.com/detail/1357447764"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1895,
+        1899
+      ],
+      "name": "<b>Student</b>, Williams College, Williamson",
+      "subs": [
+        {
+          "term": [
+            1895,
+            1899
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1917,
+        1917
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1917,
+            1917
+          ],
+          "name": "<b>Textile Expert</b>, Department of the Navy",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1917,
+        1919
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1917,
+            1919
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1917,
+                1918
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1918,
+                1918
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1918,
+                1919
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1928,
+        1942
+      ],
+      "name": "<b>Politician</b>, ❰US-NY❱ New York Office of the Governor",
+      "subs": [
+        {
+          "term": [
+            1928,
+            1932
+          ],
+          "name": "<b>Governor, Lieutenant</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1932,
+            1942
+          ],
+          "name": "<b>Governor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1942,
+        1946
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1943
+          ],
+          "name": "<b>Director</b>, ⟨Office of Foreign Relief and Rehabilitation Operations|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1942,
+            1946
+          ],
+          "name": "<b>Director General</b>, ⟨United Nations Relief and Rehabilitation Administration|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1949,
+        1956
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1956
+          ],
+          "name": "<b>Senator</b>, New York",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "name": {
+    "full": "Zhao Shenzhen (趙慎畛)",
+    "last": "Zhao (趙)"
+  },
+  "span": [
+    1762,
+    1826
+  ],
+  "portraiture": null,
+  "backgrounds": [
+    "Scholar",
+    "Bureaucrat(Domestic)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "County Examination (秀才科)",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1794
+          ],
+          "name": "Special Examination (恩科)",
+          "subs": []
+        },
+        {
+          "term": [
+            1794,
+            1796
+          ],
+          "name": "Metropolitan Examination (會試)",
+          "subs": []
+        },
+        {
+          "term": [
+            1796,
+            1796
+          ],
+          "name": "Palace Examination (殿試)",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        null,
+        -1
+      ],
+      "name": "<b>Scholar</b>",
+      "subs": [
+        {
+          "term": [
+            null,
+            1794
+          ],
+          "name": "<b>Xiucai (秀才)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1794,
+            1796
+          ],
+          "name": "<b>Juren (舉人)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1796,
+            1796
+          ],
+          "name": "<b>Gongshi (貢士)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1796,
+            -1
+          ],
+          "name": "<b>Jinshi (進士)</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1802,
+        null
+      ],
+      "name": "<b>Bureaucrat</b>",
+      "subs": [
+        {
+          "term": [
+            1802,
+            1805
+          ],
+          "name": "<b>Investigating Censor (监察御史)</b>, Province (省) of Shandong (山東)",
+          "subs": []
+        },
+        {
+          "term": [
+            1805,
+            1805
+          ],
+          "name": "<b>Supervising Censor (監察御史)</b>, Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1805,
+            1805
+          ],
+          "name": "<b>Supervising Censor (監察御史)</b>, Municipality (Prefecture; 府) of Beijing (北京), Province (省) of Hebei (河北)",
+          "subs": []
+        },
+        {
+          "term": [
+            1806,
+            1807
+          ],
+          "name": "<b>Supervising Secretary (給事中)</b>, Office of Justice (刑科)",
+          "subs": []
+        },
+        {
+          "term": [
+            1810,
+            1812
+          ],
+          "name": "<b>Supervising Secretary (給事中)</b>, Office of Rites (禮科)",
+          "subs": []
+        },
+        {
+          "term": [
+            1812,
+            1814
+          ],
+          "name": "<b>Circuit Intendant (Taotai; 道臺)</b>, Huichaojia Circuit (延建邵道), Province (省) of Guangdong (廣東)",
+          "subs": []
+        },
+        {
+          "term": [
+            1814,
+            1815
+          ],
+          "name": "<b>Surveillance Commissioner, Provincial (按察使)</b>, Province (省) of Guangxi (廣西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1815,
+            1818
+          ],
+          "name": "<b>Treasurer (布政使)</b>, Province (省) of Guangdong (廣東)",
+          "subs": []
+        },
+        {
+          "term": [
+            1818,
+            1822
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Guangxi (廣西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1822,
+            1825
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Min-Zhe (閩浙)",
+          "subs": []
+        },
+        {
+          "term": [
+            1823,
+            1823
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1825,
+            1826
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Yun-Gui (雲貴)",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "name": {
+    "full": "Kenneth Carl Krentz",
+    "last": "Krentz"
+  },
+  "span": [
+    1899,
+    1962
+  ],
+  "portraiture": {
+    "sketch": " kenneth_krentz.gif",
+    "normal": " kenneth_krentz.webp",
+    "source": "<i>Kenneth C. Krentz.</i> Photograph. Accessed August 8, 2024. https://www.newspapers.com/image/300962762/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1918,
+        1919
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1918,
+            1919
+          ],
+          "name": "<b>Enlisted</b>, Reserve Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1918,
+                1919
+              ],
+              "name": "(OR-01) <b>⟨Seaman, Apprentice|Seaman, Recruit⟩</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1926,
+        1943
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1926,
+            1943
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1926,
+                1929
+              ],
+              "name": "<b>Clerk</b>, Hong Kong, ⟨United Kingdom|China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1929,
+                1932
+              ],
+              "name": "<b>Consul, Vice</b>, Hong Kong, ⟨United Kingdom|China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1932,
+                1937
+              ],
+              "name": "<b>Consul, Vice</b>, Kobe, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1937,
+                1938
+              ],
+              "name": "<b>Consul</b>, Osaka, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1938,
+                1940
+              ],
+              "name": "<b>Consul</b>, ⟨Canton|Guangdong⟩, China",
+              "subs": []
+            },
+            {
+              "term": [
+                1940,
+                1942
+              ],
+              "name": "<b>Consul</b>, ⟨Mukden|Shenyang⟩, China",
+              "subs": []
+            },
+            {
+              "term": [
+                1942,
+                1943
+              ],
+              "name": "<b>Consul</b>, ⟨Bombay|Mumbai⟩, India",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1943,
+        1944
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Office of Strategic Services|Central Intelligence Agency⟩",
+      "subs": [
+        {
+          "term": [
+            1943,
+            1944
+          ],
+          "name": "<b>Assistant</b>, Board of Research and Analysis",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1944,
+        1957
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1944,
+            1946
+          ],
+          "name": "<b>Chief, Assistant</b>, Division of Foreign Service Administration",
+          "subs": []
+        },
+        {
+          "term": [
+            1946,
+            1949
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1946,
+                1947
+              ],
+              "name": "<b>Consul General</b>, ⟨Hankow|Hankou⟩, China",
+              "subs": []
+            },
+            {
+              "term": [
+                1947,
+                1949
+              ],
+              "name": "<b>Consul General</b>, Taipei, ⟨Republic of China|Taiwan⟩",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1949,
+            1953
+          ],
+          "name": "<b>Clerk</b>, Policy Planning Staff",
+          "subs": []
+        },
+        {
+          "term": [
+            1953,
+            1957
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1953,
+                1957
+              ],
+              "name": "<b>Consul General</b>, London, England",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

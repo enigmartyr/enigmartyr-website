@@ -1,0 +1,119 @@
+{
+  "name": {
+    "full": "George John Charles Petty-Fitzmaurice",
+    "last": "Petty-Fitzmaurice"
+  },
+  "span": [
+    1912,
+    1999
+  ],
+  "portraiture": {
+    "normal": " petty_fitzmaurice_george.webp",
+    "sketch": " petty_fitzmaurice_george.gif",
+    "source": "<i>Lord Lansdowne.</i> Photograph. Accessed January 25, 2025. https://www.gettyimages.com/detail/818839658"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1940,
+        1944
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1940,
+            1944
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰UK❱ Army",
+          "subs": [
+            {
+              "term": [
+                1940,
+                1942
+              ],
+              "name": "(OF-01) Lieutenant",
+              "subs": []
+            },
+            {
+              "term": [
+                1942,
+                1944
+              ],
+              "name": "(OF-02) Captain",
+              "subs": []
+            },
+            {
+              "term": [
+                1944,
+                1944
+              ],
+              "name": "(OF-03) Major",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1944,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Lords",
+      "subs": [
+        {
+          "term": [
+            1944,
+            -1
+          ],
+          "name": "<b>Peer</b>, Marquess of Lansdowne",
+          "subs": [
+            {
+              "term": [
+                1958,
+                1962
+              ],
+              "name": "<b>Secretary of State, Under</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1962,
+                1964
+              ],
+              "name": "<b>Minister of State</b>, ❰UK❱ ⟨Colonial Office|Foreign, Commonwealth and Development Office⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1950,
+        1950
+      ],
+      "name": "<b>Judicial Officer</b>, District (County) of Perthshire, Scotland",
+      "subs": [
+        {
+          "term": [
+            1950,
+            1950
+          ],
+          "name": "<b>Justice of the Peace</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1964,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰UK❱ Privy Council",
+      "subs": []
+    }
+  ]
+}

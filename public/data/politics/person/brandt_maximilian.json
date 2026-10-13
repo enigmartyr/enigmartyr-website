@@ -1,0 +1,185 @@
+{
+  "name": {
+    "full": "Maximilian August Scipio von Brandt",
+    "last": "von Brandt"
+  },
+  "span": [
+    1835,
+    1920
+  ],
+  "portraiture": {
+    "sketch": " maximilian_brandt.gif",
+    "normal": " maximilian_brandt.webp",
+    "source": "<i>Max von Brandt.</i> Photograph. Accessed July 23, 2025. https://commons.wikimedia.org/wiki/File:Max_von_Brandt.png"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Serviceman</b>, ❰DE❱ ⟨Prussian Ministry of War|⟩",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Enlisted</b>, Reserve Component (Landwehr), ❰DE❱ ⟨Royal Prussian Army|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1860,
+        1866
+      ],
+      "name": "<b>Bureaucrat</b>, ❰DE❱ ⟨Kingdom of Prussia|Federal Republic of Germany⟩",
+      "subs": [
+        {
+          "term": [
+            null,
+            1866
+          ],
+          "name": "<b>Diplomat</b>, ❰DE❱ ⟨Prussian Consular Service|⟩",
+          "subs": [
+            {
+              "term": [
+                null,
+                1860
+              ],
+              "name": "<b>Secretary</b>, Cairo, Egypt",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1860
+              ],
+              "name": "<b>Secretary</b>, Alexandria, Egypt",
+              "subs": []
+            },
+            {
+              "term": [
+                1860,
+                1861
+              ],
+              "name": "<b>Attaché</b>, Prussian East Asia Expedition",
+              "subs": []
+            },
+            {
+              "term": [
+                1862,
+                1866
+              ],
+              "name": "<b>Consul</b>, Yokohama, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1862,
+                1866
+              ],
+              "name": "<b>Consul</b>, Tokyo, Japan",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1866,
+        1866
+      ],
+      "name": "<b>Servicemember</b>, ❰DE❱ ⟨Prussian Ministry of War|⟩",
+      "subs": [
+        {
+          "term": [
+            1866,
+            1866
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰DE❱ ⟨Royal Prussian Army|⟩",
+          "subs": [
+            {
+              "term": [
+                1866,
+                1866
+              ],
+              "name": "<b>Aide-de-camp</b>, Office of the Governor-General, ⟨Moravia|Czech Republic⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1867,
+        1883
+      ],
+      "name": "<b>Bureaucrat</b>, ❰DE❱ ⟨Kingdom of Prussia|Federal Republic of Germany⟩",
+      "subs": [
+        {
+          "term": [
+            1867,
+            1883
+          ],
+          "name": "<b>Diplomat</b>, ❰DE❱ ⟨Prussian Consular Service|⟩",
+          "subs": [
+            {
+              "term": [
+                1867,
+                1868
+              ],
+              "name": "<b>Chargé d'affaires</b>, Tokyo, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1867,
+                1871
+              ],
+              "name": "<b>Consul General</b>, Tokyo, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1871,
+                1875
+              ],
+              "name": "<b>Minister</b>, Tokyo, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1875,
+                1883
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|<b>Ambassador</b>⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1882,
+                1883
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|<b>Ambassador</b>⟩, ⟨Great Joseon|Republic of Korea⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1886,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰DE❱ Privy Council",
+      "subs": []
+    }
+  ]
+}

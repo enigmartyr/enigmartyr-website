@@ -1,0 +1,196 @@
+{
+  "name": {
+    "full": "David Nelson Rowe",
+    "last": "Rowe"
+  },
+  "span": [
+    1905,
+    1985
+  ],
+  "portraiture": {
+    "normal": " david_rowe.webp",
+    "sketch": " david_rowe.gif",
+    "source": "<i>Dr. David Nelson Rowe.</i> Photograph. Accessed December 21, 2024. https://www.newspapers.com/image/107800588/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1923,
+        1927
+      ],
+      "name": "<b>Student</b>, Princeton University, Princeton",
+      "subs": [
+        {
+          "term": [
+            1923,
+            1927
+          ],
+          "name": "Bachelor of Arts, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1927,
+        1930
+      ],
+      "name": "<b>Student</b>, University of Southern California, Los Angeles",
+      "subs": [
+        {
+          "term": [
+            1927,
+            1930
+          ],
+          "name": "Master of Arts, History",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1930,
+        1935
+      ],
+      "name": "<b>Student</b>, University of Chicago, Chicago",
+      "subs": [
+        {
+          "term": [
+            1930,
+            1935
+          ],
+          "name": "Doctor of Philosophy, History",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1935,
+        1937
+      ],
+      "name": "<b>Scholar</b>, Harvard University, Cambridge",
+      "subs": []
+    },
+    {
+      "term": [
+        1937,
+        1938
+      ],
+      "name": "<b>Scholar</b>, College of Chinese Studies, Beijing",
+      "subs": []
+    },
+    {
+      "term": [
+        1938,
+        1943
+      ],
+      "name": "<b>Scholar</b>, Princeton University, Princeton",
+      "subs": [
+        {
+          "term": [
+            1938,
+            1943
+          ],
+          "name": "<b>Lecturer</b>, Far Eastern Affairs",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1941,
+        null
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1941,
+            null
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1941,
+                null
+              ],
+              "name": "<b>Assistant</b>, ⟨Chungking|Chongqing⟩, China",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        null,
+        1942
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Office of Strategic Services|Central Intelligence Agency⟩",
+      "subs": [
+        {
+          "term": [
+            null,
+            1942
+          ],
+          "name": "<b>Assistant</b>, Board of Research and Analysis",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1974
+      ],
+      "name": "<b>Scholar</b>, Yale University, New Haven",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1950
+          ],
+          "name": "<b>Professor, Assistant</b>, International Relations",
+          "subs": []
+        },
+        {
+          "term": [
+            1950,
+            1974
+          ],
+          "name": "<b>Professor</b>, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1964,
+        null
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defense",
+      "subs": [
+        {
+          "term": [
+            1964,
+            null
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1964,
+                null
+              ],
+              "name": "(OF-05) Colonel",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

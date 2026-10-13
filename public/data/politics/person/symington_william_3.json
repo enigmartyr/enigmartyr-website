@@ -1,0 +1,153 @@
+{
+  "name": {
+    "full": "William Stuart Symington III",
+    "last": "Symington"
+  },
+  "span": [
+    1901,
+    1988
+  ],
+  "portraiture": {
+    "sketch": " william_symington_3.gif",
+    "normal": " william_symington_3.webp",
+    "source": "<i>W. Stuart Symington.</i> Photograph. Accessed September 17, 2024. https://www.maxwell.af.mil/News/Display/Article/2937152/freedom-to-serve/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1918,
+        1919
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1918,
+            null
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1918,
+                null
+              ],
+              "name": "(OR-02) <b>Private First Class</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Cadet</b>, Officers Training School, ⟨Camp Zachary Taylor|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1919
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                null,
+                1919
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1919,
+        1923
+      ],
+      "name": "<b>Student</b>, Yale University, New Haven",
+      "subs": [
+        {
+          "term": [
+            1919,
+            1923
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1946
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Office of War Mobilization|⟩",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1945
+          ],
+          "name": "<b>Chairman</b>, ⟨Surplus Property Board|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1945,
+            1946
+          ],
+          "name": "<b>Administrator</b>, ⟨Surplus War Property Administration|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1946,
+        1950
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1946,
+            1947
+          ],
+          "name": "<b>⟨Assistant Secretary of War for Air|Secretary of the Air Force⟩</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1947,
+            1950
+          ],
+          "name": "<b>Secretary of the Air Force</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1952,
+        1976
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1952,
+            1976
+          ],
+          "name": "<b>Senator</b>, Missouri",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

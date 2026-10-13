@@ -1,0 +1,134 @@
+{
+  "name": {
+    "full": "Edward Howard House",
+    "last": "House"
+  },
+  "span": [
+    1836,
+    1901
+  ],
+  "portraiture": {
+    "normal": " edward_house.webp",
+    "sketch": " edward_house.gif",
+    "source": "<i>Edward Howard House.</i> Photograph. Accessed February 21, 2025. https://commons.wikimedia.org/wiki/File:EdwardHowardHouse.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1854,
+        1858
+      ],
+      "name": "<b>Journalist</b>, <i>The Boston Courier</i>",
+      "subs": []
+    },
+    {
+      "term": [
+        1858,
+        1877
+      ],
+      "name": "<b>Journalist</b>, <i>The New York Tribune</i>",
+      "subs": [
+        {
+          "term": [
+            1860,
+            1861
+          ],
+          "name": "<b>Correspondent, Foreign</b>, Paris, France",
+          "subs": []
+        },
+        {
+          "term": [
+            1861,
+            1865
+          ],
+          "name": "<b>Correspondent, War</b>, American Civil War",
+          "subs": []
+        },
+        {
+          "term": [
+            1870,
+            1877
+          ],
+          "name": "<b>Correspondent, Foreign</b>, Tokyo, Japan",
+          "subs": []
+        },
+        {
+          "term": [
+            1874,
+            1874
+          ],
+          "name": "<b>Correspondent, War</b>, Taiwan Expedition",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1870,
+        1880
+      ],
+      "name": "<b>Scholar</b>, ⟨Western Learning College|University of Tokyo⟩, Tokyo",
+      "subs": [
+        {
+          "term": [
+            1870,
+            1880
+          ],
+          "name": "<b>Professor</b>, English Language",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1870,
+        1880
+      ],
+      "name": "<b>Bureaucrat</b>, ❰JP❱ Ministry of Education (文部省)",
+      "subs": [
+        {
+          "term": [
+            1877,
+            1880
+          ],
+          "name": "<b>Advisor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1877,
+        1880
+      ],
+      "name": "<b>Journalist</b>, <i>Tokio Times</i>",
+      "subs": []
+    },
+    {
+      "term": [
+        1882,
+        1885
+      ],
+      "name": "<b>Journalist</b>, <i>Japan Mail</i>",
+      "subs": []
+    },
+    {
+      "term": [
+        1882,
+        1885
+      ],
+      "name": "<b>Scholar</b>, University of Tokyo, Tokyo",
+      "subs": [
+        {
+          "term": [
+            1882,
+            1885
+          ],
+          "name": "<b>Professor</b>, English Language",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

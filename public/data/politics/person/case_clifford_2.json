@@ -1,0 +1,153 @@
+{
+  "name": {
+    "full": "Clifford Philip Case Jr.",
+    "last": "Case"
+  },
+  "span": [
+    1904,
+    1982
+  ],
+  "portraiture": {
+    "sketch": " clifford_case_2.gif",
+    "normal": " clifford_case_2.webp",
+    "source": "<i>CASE, Clifford Philip.</i> Photograph. Accessed September 17, 2024. https://bioguide.congress.gov/search/bio/c000220"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1921,
+        1925
+      ],
+      "name": "<b>Student</b>, Rutgers University, New Brunswick",
+      "subs": [
+        {
+          "term": [
+            1921,
+            1925
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1928
+      ],
+      "name": "<b>Student</b>, Columbia University, New York",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1928
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1928,
+        1953
+      ],
+      "name": "<b>Legal Practitioner</b>, “Simpson Thacher & Bartlett”",
+      "subs": []
+    },
+    {
+      "term": [
+        1938,
+        1942
+      ],
+      "name": "<b>Politician</b>, Municipality (City) of Rahway, New Jersey",
+      "subs": [
+        {
+          "term": [
+            1938,
+            1942
+          ],
+          "name": "<b>Council Member</b>, Rahway Common Council",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1943,
+        1945
+      ],
+      "name": "<b>Politician</b>, ❰US-NJ❱ New Jersey General Assembly",
+      "subs": [
+        {
+          "term": [
+            1943,
+            1945
+          ],
+          "name": "<b>Assemblyman</b>, Union County",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1944,
+        1953
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1944,
+            1953
+          ],
+          "name": "<b>Representative</b>, New Jersey",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1955,
+        1979
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1955,
+            1979
+          ],
+          "name": "<b>Senator</b>, New Jersey",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1979,
+        -1
+      ],
+      "name": "<b>Legal Practitioner</b>, “Curtis, Mallet-Prevost, Colt & Mosle”",
+      "subs": []
+    },
+    {
+      "term": [
+        1979,
+        -1
+      ],
+      "name": "<b>Scholar</b>, Rutgers University, New Brunswick",
+      "subs": [
+        {
+          "term": [
+            1979,
+            -1
+          ],
+          "name": "<b>Lecturer</b>, Politics",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

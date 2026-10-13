@@ -1,0 +1,178 @@
+{
+  "name": {
+    "full": "Wayne Lyman Morse",
+    "last": "Morse"
+  },
+  "span": [
+    1900,
+    1974
+  ],
+  "portraiture": {
+    "normal": " wayne_morse.webp",
+    "sketch": " wayne_morse.gif",
+    "source": "“Wayne L. Morse” In <i>Pocket Congressional Directory</i>, 1953:114. USGPO, 1953. https://www.google.com/books/edition/Pocket_Congressional_Directory/qlvNxFEn5UEC"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1919,
+        1923
+      ],
+      "name": "<b>Student</b>, University of Wisconsin, Madison",
+      "subs": [
+        {
+          "term": [
+            1919,
+            1923
+          ],
+          "name": "Bachelor of Arts, Philosophy",
+          "subs": []
+        },
+        {
+          "term": [
+            1923,
+            1924
+          ],
+          "name": "Master of Arts, Speech",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1923,
+        1929
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1923,
+            1929
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1923,
+                1929
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1928
+      ],
+      "name": "<b>Student</b>, University of Minnesota, Minneapolis",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1928
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1928
+      ],
+      "name": "<b>Scholar</b>, University of Minnesota, Minneapolis",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1928
+          ],
+          "name": "<b>Lecturer</b>, Argumentation",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1928,
+        1929
+      ],
+      "name": "<b>Student</b>, Columbia University, New York",
+      "subs": [
+        {
+          "term": [
+            1928,
+            1929
+          ],
+          "name": "Doctor of Juridical Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1929,
+        1944
+      ],
+      "name": "<b>Scholar</b>, University of Oregon, Eugene",
+      "subs": [
+        {
+          "term": [
+            1929,
+            1929
+          ],
+          "name": "<b>Professor, Assistant</b>, Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1929,
+            1931
+          ],
+          "name": "<b>Professor, Associate</b>, Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1931,
+            1929
+          ],
+          "name": "<b>Professor</b>, Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1931,
+            1944
+          ],
+          "name": "<b>Dean</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1969
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1969
+          ],
+          "name": "<b>Senator</b>, Oregon",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

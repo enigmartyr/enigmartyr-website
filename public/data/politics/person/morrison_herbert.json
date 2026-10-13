@@ -1,0 +1,206 @@
+{
+  "name": {
+    "full": "Herbert Stanley Morrison",
+    "last": "Morrison"
+  },
+  "span": [
+    1888,
+    1965
+  ],
+  "portraiture": {
+    "normal": " herbert_morrison.webp",
+    "sketch": " herbert_morrison.gif",
+    "source": "<i>Herbert Stanley Morrison, Baron Morrison of Lambeth.</i> Photograph. Accessed January 25, 2025. https://www.npg.org.uk/collections/search/portrait/mw102294/Herbert-Stanley-Morrison-Baron-Morrison-of-Lambeth"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1919,
+        1921
+      ],
+      "name": "<b>Politician</b>, Municipality (Borough) of ⟨Hackney, England|⟩",
+      "subs": [
+        {
+          "term": [
+            1920,
+            1921
+          ],
+          "name": "<b>Mayor</b>, ⟨Hackney Borough Council|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1922,
+        1940
+      ],
+      "name": "<b>Politician</b>, District (Region) of Greater London, England",
+      "subs": [
+        {
+          "term": [
+            1934,
+            1940
+          ],
+          "name": "⟨<b>Leader</b>, London County Council|<b>Mayor</b>, Greater London Authority⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1923,
+        1924
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1923,
+            1924
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Hackney South|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1929,
+        1931
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1929,
+            1931
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Hackney South|⟩",
+          "subs": [
+            {
+              "term": [
+                1929,
+                1931
+              ],
+              "name": "⟨<b>Minister of Transport</b>|<b>Secretary of State for Transport</b>⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1935,
+        1951
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1935,
+            1945
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Hackney South|⟩",
+          "subs": [
+            {
+              "term": [
+                1940,
+                1940
+              ],
+              "name": "<b>⟨Minister of Supply|⟩</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1940,
+                1945
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰UK❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1940,
+                    1945
+                  ],
+                  "name": "<b>Secretary of State for the Home Department</b>",
+                  "subs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "term": [
+            1945,
+            1959
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Lewisham South|⟩",
+          "subs": [
+            {
+              "term": [
+                1945,
+                1951
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰UK❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1945,
+                    1951
+                  ],
+                  "name": "<b>Leader of the House of Commons</b>",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1951,
+                    1951
+                  ],
+                  "name": "⟨<b>Secretary of State for Foreign Affairs</b>|<b>Secretary of State for Foreign, Commonwealth and Development Affairs</b>⟩",
+                  "subs": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1940,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰UK❱ Privy Council",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1951
+          ],
+          "name": "<b>Lord President of the Council</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1959,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Lords",
+      "subs": [
+        {
+          "term": [
+            1959,
+            -1
+          ],
+          "name": "<b>Peer</b>, Baron of Lambeth",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

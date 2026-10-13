@@ -1,0 +1,287 @@
+{
+  "name": {
+    "full": "Clement Richard Attlee",
+    "last": "Attlee"
+  },
+  "span": [
+    1883,
+    1967
+  ],
+  "portraiture": {
+    "normal": " clement_attlee.webp",
+    "sketch": " clement_attlee.gif",
+    "source": "<i>British Prime Minister Clement Attlee.</i> Photograph. Accessed January 25, 2025. https://www.trumanlibrary.gov/photograph-records/99-48"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1901,
+        1904
+      ],
+      "name": "<b>Student</b>, University of Oxford, Oxford",
+      "subs": [
+        {
+          "term": [
+            1901,
+            1904
+          ],
+          "name": "Bachelor of Arts, Modern History",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1912,
+        1914
+      ],
+      "name": "<b>Scholar</b>, University of London, London",
+      "subs": [
+        {
+          "term": [
+            1912,
+            1914
+          ],
+          "name": "<b>Lecturer</b>, Social Administration",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1914,
+        1919
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1914,
+            1919
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰UK❱ Army",
+          "subs": [
+            {
+              "term": [
+                1914,
+                1915
+              ],
+              "name": "(OF-01) Lieutenant",
+              "subs": []
+            },
+            {
+              "term": [
+                1915,
+                1917
+              ],
+              "name": "(OF-02) Captain",
+              "subs": []
+            },
+            {
+              "term": [
+                1917,
+                1919
+              ],
+              "name": "(OF-03) Major",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1919,
+        1920
+      ],
+      "name": "<b>Politician</b>, Municipality (Borough) of ⟨Stepney, England|⟩",
+      "subs": [
+        {
+          "term": [
+            1919,
+            1920
+          ],
+          "name": "<b>Mayor</b>, Stepney Borough Council",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1922,
+        1955
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1922,
+            1950
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Limehouse|⟩",
+          "subs": [
+            {
+              "term": [
+                1924,
+                1924
+              ],
+              "name": "<b>Secretary of State, Under</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1950,
+            1955
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Walthamstow West|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1930,
+            1931
+          ],
+          "name": "<b>Cabinet Minister</b>, ❰UK❱ Cabinet",
+          "subs": [
+            {
+              "term": [
+                1930,
+                1931
+              ],
+              "name": "<b>Chancellor of the Duchy of Lancaster</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1931,
+                1931
+              ],
+              "name": "<b>⟨Postmaster General|⟩</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1935,
+            1940
+          ],
+          "name": "<b>Shadow Minister</b>, ❰UK❱ Shadow Cabinet",
+          "subs": [
+            {
+              "term": [
+                1935,
+                1940
+              ],
+              "name": "<b>Leader of the Opposition</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1942,
+            1950
+          ],
+          "name": "<b>Cabinet Minister</b>, ❰UK❱ Cabinet",
+          "subs": [
+            {
+              "term": [
+                1942,
+                1943
+              ],
+              "name": "⟨<b>Secretary of State for Dominion Affairs</b>|<b>Secretary of State for Foreign, Commonwealth and Development Affairs</b>⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1942,
+                1945
+              ],
+              "name": "<b>Prime Minister, Deputy</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1945,
+                1951
+              ],
+              "name": "<b>Prime Minister</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1945,
+                1946
+              ],
+              "name": "⟨<b>Minister of Defense</b>|<b>Secretary of State for Defence</b>⟩",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1951,
+            1955
+          ],
+          "name": "<b>Shadow Minister</b>, ❰UK❱ Shadow Cabinet",
+          "subs": [
+            {
+              "term": [
+                1951,
+                1955
+              ],
+              "name": "<b>Leader of the Opposition</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1935,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰UK❱ Privy Council",
+      "subs": [
+        {
+          "term": [
+            1940,
+            1941
+          ],
+          "name": "<b>Lord Keeper of the Privy Seal</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1943,
+            1945
+          ],
+          "name": "<b>Lord President of the Council</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1955,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Lords",
+      "subs": [
+        {
+          "term": [
+            1955,
+            -1
+          ],
+          "name": "<b>Peer</b>, Earl Attlee",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

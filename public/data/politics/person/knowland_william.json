@@ -1,0 +1,140 @@
+{
+  "name": {
+    "full": "William Fife Knowland",
+    "last": "Knowland"
+  },
+  "span": [
+    1908,
+    1974
+  ],
+  "portraiture": {
+    "normal": " william_knowland.webp",
+    "sketch": " william_knowland.gif",
+    "source": "Passaglia, Elio, and Karma Beal. “William F. Knowland.” In <i>A Unique Institution: The National Bureau of Standards, 1950-1969, 925:91. Spec. Pub. (NIST SP). Accessed August 5, 2024. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication925.pdf"
+  },
+  "backgrounds": [
+    "Veteran(Navy)",
+    "Politician"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1925,
+        1929
+      ],
+      "name": "<b>Student</b>, University of California, Berkeley",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1929
+          ],
+          "name": "Bachelor of Arts, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1933,
+        1935
+      ],
+      "name": "<b>Politician</b>, ❰US-CA❱ California State Assembly",
+      "subs": [
+        {
+          "term": [
+            1933,
+            1935
+          ],
+          "name": "<b>Assemblyman</b>, 14th district",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1935,
+        1939
+      ],
+      "name": "<b>Politician</b>, ❰US-CA❱ California State Senate",
+      "subs": [
+        {
+          "term": [
+            1935,
+            1939
+          ],
+          "name": "<b>Senator</b>, 16th district",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1942,
+        1945
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defence",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1942
+          ],
+          "name": "<b>Enlisted</b>, Active Component, Navy",
+          "subs": [
+            {
+              "term": [
+                1942,
+                1942
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1942,
+            1943
+          ],
+          "name": "<b>Cadet</b>, Officer Candidate School, ⟨Fort Benning|Fort Moore⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1943,
+            1945
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1943,
+                1945
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1959
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1959
+          ],
+          "name": "<b>Senator</b>, California",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

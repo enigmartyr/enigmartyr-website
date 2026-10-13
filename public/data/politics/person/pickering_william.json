@@ -1,0 +1,117 @@
+{
+  "name": {
+    "full": "William Alexander Pickering",
+    "last": "Pickering"
+  },
+  "span": [
+    1840,
+    1907
+  ],
+  "portraiture": {
+    "normal": " pickering_william.webp",
+    "sketch": " pickering_william.gif",
+    "source": "<i>William A. Pickering.</i> Photograph. Accessed January 25, 2025. https://commons.wikimedia.org/wiki/File:William_A._Pickering.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1862,
+        1867
+      ],
+      "name": "<b>Bureaucrat</b>, ❰CN❱ Ministry of Revenue (Great Qing)",
+      "subs": [
+        {
+          "term": [
+            1862,
+            1867
+          ],
+          "name": "<b>Customs Officer</b>, ❰CN❱ ⟨Imperial Maritime Customs Service|Chinese Maritime Customs Service⟩",
+          "subs": [
+            {
+              "term": [
+                1862,
+                1863
+              ],
+              "name": "<b>Tidewaiter</b>, Fuzhou, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1863,
+                null
+              ],
+              "name": "<b>Tidewaiter</b>, ⟨Tamsui|New Taipei City⟩, ⟨Great Qing|Taiwan⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "<b>Tidewaiter</b>, Keelung, ⟨Great Qing|Taiwan⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1865
+              ],
+              "name": "<b>Tidewaiter</b>, ⟨Takou|Kaohsiung⟩, ⟨Great Qing|Taiwan⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1865,
+                1867
+              ],
+              "name": "<b>Chief</b>, ⟨Anping|Tainan⟩, ⟨Great Qing|Taiwan⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1871,
+        1889
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ Colonial Office",
+      "subs": [
+        {
+          "term": [
+            1871,
+            1889
+          ],
+          "name": "<b>Interpreter, Chinese</b>, The Straight Settlements",
+          "subs": []
+        },
+        {
+          "term": [
+            1874,
+            null
+          ],
+          "name": "<b>Police Magistrate</b>, The Straight Settlements",
+          "subs": []
+        },
+        {
+          "term": [
+            1874,
+            null
+          ],
+          "name": "<b>Justice of the Peace</b>, The Straight Settlements",
+          "subs": []
+        },
+        {
+          "term": [
+            1877,
+            1889
+          ],
+          "name": "<b>Protector of Chinese</b>, The Straight Settlements",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

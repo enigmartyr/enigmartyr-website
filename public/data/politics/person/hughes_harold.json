@@ -1,0 +1,121 @@
+{
+  "name": {
+    "full": "Harold Everett Hughes",
+    "last": "Hughes"
+  },
+  "span": [
+    1922,
+    1996
+  ],
+  "portraiture": {
+    "sketch": " harold_hughes.gif",
+    "normal": " harold_hughes.webp",
+    "source": "<i>Gov. Harold Everett Hughes.</i> Photograph. Accessed September 17, 2024. https://www.nga.org/governor/harold-everett-hughes/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1942,
+        1945
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1945
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1942,
+                1945
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1958,
+        1962
+      ],
+      "name": "<b>Politician</b>, ❰US-IA❱ ⟨Iowa State Commerce Commission|Iowa Utilities Commission⟩",
+      "subs": [
+        {
+          "term": [
+            null,
+            1962
+          ],
+          "name": "<b>Chairman</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1963,
+        1969
+      ],
+      "name": "<b>Politician</b>, ❰US-IA❱ Iowa Office of the Governor",
+      "subs": [
+        {
+          "term": [
+            1963,
+            1969
+          ],
+          "name": "<b>Governor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1969,
+        1975
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1969,
+            1975
+          ],
+          "name": "<b>Senator</b>, Michigan",
+          "subs": [
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "<b>Chairman</b>, Special Subcommittee on Alcoholism and Narcotics",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1975,
+        1976
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1975,
+            1976
+          ],
+          "name": "<b>Consultant</b>, Committee on the Judiciary",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": {
+    "full": "Walter Franklin George",
+    "last": "George"
+  },
+  "span": [
+    1878,
+    1957
+  ],
+  "portraiture": {
+    "normal": " walter_george.webp",
+    "sketch": " walter_george.gif",
+    "source": "<i>Walter Franklin George.</i> Photograph. Accessed August 4, 2024. https://bioguide.congress.gov/search/bio/G000131"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1922,
+        1957
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1922,
+            1957
+          ],
+          "name": "<b>Senator</b>, Georgia",
+          "subs": [
+            {
+              "term": [
+                1940,
+                1942
+              ],
+              "name": "<b>Chairman</b>, Committee on Foreign Relations",
+              "subs": []
+            },
+            {
+              "term": [
+                1941,
+                1953
+              ],
+              "name": "<b>Chairman</b>, Committee on Finance",
+              "subs": []
+            },
+            {
+              "term": [
+                1955,
+                1957
+              ],
+              "name": "<b>Chairman</b>, Committee on Foreign Relations",
+              "subs": []
+            },
+            {
+              "term": [
+                1955,
+                1957
+              ],
+              "name": "<b>President pro tempore</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1957,
+        -1
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1957,
+            -1
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1957,
+                -1
+              ],
+              "name": "<b>Ambassador-at-large</b>, NATO",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

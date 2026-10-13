@@ -1,0 +1,147 @@
+{
+  "name": {
+    "full": "Herbert James Allen",
+    "last": "Allen"
+  },
+  "span": [
+    1841,
+    1912
+  ],
+  "portraiture": null,
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1861,
+        1875
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+      "subs": [
+        {
+          "term": [
+            1861,
+            1875
+          ],
+          "name": "<b>Diplomat</b>, ❰UK❱ ⟨Consular Service|Diplomatic Service⟩",
+          "subs": [
+            {
+              "term": [
+                1861,
+                1863
+              ],
+              "name": "<b>Interpreter, Student</b>, Fuzhou, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1863,
+                1866
+              ],
+              "name": "<b>Assistant, 3rd Class</b>, Fuzhou, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1866,
+                1869
+              ],
+              "name": "<b>Assistant, 2nd Class</b>, Fuzhou, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1869,
+                1872
+              ],
+              "name": "<b>Assistant, 1st Class</b>, Fuzhou, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1872,
+                1873
+              ],
+              "name": "<b>Interpreter</b>, Fuzhou, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1873,
+                1875
+              ],
+              "name": "<b>Consul, Vice</b>, ⟨Tamsui|New Taipei City⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1876,
+            1876
+          ],
+          "name": "<b>Diplomat</b>, ❰UK❱ Diplomatic Service",
+          "subs": [
+            {
+              "term": [
+                1876,
+                1876
+              ],
+              "name": "<b>Secretary, Assistant</b>, Beijing, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1877,
+            1888
+          ],
+          "name": "<b>Diplomat</b>, ❰UK❱ ⟨Consular Service|Diplomatic Service⟩",
+          "subs": [
+            {
+              "term": [
+                1877,
+                1880
+              ],
+              "name": "<b>Consul</b>, Zhenjiang, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1880,
+                1888
+              ],
+              "name": "<b>Consul</b>, ⟨Newchwang|Yingkou⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1876,
+        1876
+      ],
+      "name": "<b>Judicial Officer</b>, District (County) of Pembroke, Wales",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Justice of the Peace</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1909,
+            1909
+          ],
+          "name": "<b>High Sheriff</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

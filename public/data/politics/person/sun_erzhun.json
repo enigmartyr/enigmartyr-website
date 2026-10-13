@@ -1,0 +1,192 @@
+{
+  "name": {
+    "full": "Sun Erzhun (趙慎畛)",
+    "last": "Sun (趙)"
+  },
+  "span": [
+    1770,
+    1832
+  ],
+  "portraiture": {
+    "normal": " sun_erzhun.webp",
+    "sketch": " sun_erzhun.gif",
+    "source": "<i>孫爾準.</i> Sketch. Accessed April 12, 2026. https://commons.wikimedia.org/wiki/File:%E5%AD%AB%E7%88%BE%E6%BA%96.jpg"
+  },
+  "backgrounds": [
+    "Scholar",
+    "Bureaucrat(Domestic)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "County Examination (秀才科)",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1795
+          ],
+          "name": "Provincial Examination (鄉試)",
+          "subs": []
+        },
+        {
+          "term": [
+            1795,
+            1805
+          ],
+          "name": "Metropolitan Examination (會試)",
+          "subs": []
+        },
+        {
+          "term": [
+            1805,
+            1805
+          ],
+          "name": "Palace Examination (殿試)",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        null,
+        -1
+      ],
+      "name": "<b>Scholar</b>",
+      "subs": [
+        {
+          "term": [
+            null,
+            1795
+          ],
+          "name": "<b>Xiucai (秀才)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1795,
+            1805
+          ],
+          "name": "<b>Juren (舉人)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1805,
+            1805
+          ],
+          "name": "<b>Gongshi (貢士)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1805,
+            -1
+          ],
+          "name": "<b>Jinshi (進士)</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1814,
+        null
+      ],
+      "name": "<b>Bureaucrat</b>",
+      "subs": [
+        {
+          "term": [
+            1814,
+            1815
+          ],
+          "name": "<b>Prefect (知府)</b>, Municipality (Prefecture; 府) of Tingzhou (汀州), Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1815,
+            1819
+          ],
+          "name": "<b>Salt Commissioner (鹽法道)</b>, Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1819,
+            1819
+          ],
+          "name": "<b>Censorate Commissioner, Provincial (按察使)</b>, Province (省) of Jiangxi (江西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1819,
+            1820
+          ],
+          "name": "<b>Censorate Commissioner, Provincial (按察使)</b>, Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1820,
+            1821
+          ],
+          "name": "<b>Treasurer (布政使)</b>, Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1821,
+            1821
+          ],
+          "name": "<b>Treasurer (布政使)</b>, Province (省) of Guangdong (廣東)",
+          "subs": []
+        },
+        {
+          "term": [
+            1821,
+            1821
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Guangdong (廣東)",
+          "subs": []
+        },
+        {
+          "term": [
+            1821,
+            1823
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Anhui (安徽)",
+          "subs": []
+        },
+        {
+          "term": [
+            1823,
+            1825
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1825,
+            1832
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Min-Zhe (閩浙)",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

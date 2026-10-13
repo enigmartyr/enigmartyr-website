@@ -1,0 +1,97 @@
+{
+  "name": {
+    "full": "Allan Charles Devaney",
+    "last": "Devaney"
+  },
+  "span": [
+    1904,
+    1956
+  ],
+  "portraiture": null,
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1924,
+        1928
+      ],
+      "name": "<b>Student</b>, Georgetown College, Georgetown",
+      "subs": [
+        {
+          "term": [
+            1924,
+            1928
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1928,
+        1942
+      ],
+      "name": "<b>Judicial Officer</b>, ❰US❱ Department of Justice",
+      "subs": [
+        {
+          "term": [
+            1928,
+            null
+          ],
+          "name": "<b>Law Clerk</b>, Office of the Solicitor of the Treasury",
+          "subs": []
+        },
+        {
+          "term": [
+            1928,
+            null
+          ],
+          "name": "<b>Law Clerk</b>, Office of the Solicitor of Commerce",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1942
+          ],
+          "name": "<b>Chief Examiner</b>, ❰US❱ Immigration and Naturalization Service",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1943,
+        -1
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Immigration and Naturalization Service",
+      "subs": [
+        {
+          "term": [
+            1943,
+            1953
+          ],
+          "name": "<b>Commissioner, Assistant</b>, Adjudications Division",
+          "subs": []
+        },
+        {
+          "term": [
+            1953,
+            -1
+          ],
+          "name": "<b>Commissioner, Assistant</b>, Inspections and Examinations Division",
+          "subs": []
+        },
+        {
+          "term": [
+            1953,
+            -1
+          ],
+          "name": "<b>Commissioner, District</b>, Inspections and Examinations Division",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

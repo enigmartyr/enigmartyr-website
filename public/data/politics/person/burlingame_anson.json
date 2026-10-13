@@ -1,0 +1,146 @@
+{
+  "name": {
+    "full": "Anson Burlingame",
+    "last": "Burlingame"
+  },
+  "span": [
+    1820,
+    1870
+  ],
+  "portraiture": {
+    "sketch": " anson_burlingame.gif",
+    "normal": " anson_burlingame.webp",
+    "source": "<i>Anson Burlingame.</i> Photograph. Accessed February 1, 2025. https://www.findagrave.com/memorial/7500072/anson-burlingame"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1838,
+        1841
+      ],
+      "name": "<b>Student</b>, University of Michigan, Detroit",
+      "subs": [
+        {
+          "term": [
+            1838,
+            1841
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1844,
+        1846
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1844,
+            1846
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1852,
+        1854
+      ],
+      "name": "<b>Politician</b>, ❰US-MA❱ Massachusetts Senate",
+      "subs": [
+        {
+          "term": [
+            1852,
+            1854
+          ],
+          "name": "<b>Senator</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1855,
+        1861
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1855,
+            1861
+          ],
+          "name": "<b>Representative</b>, Massachusetts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1862,
+        1867
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1862,
+            1867
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Diplomatic Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1862,
+                null
+              ],
+              "name": "⟨<b>Minister Resident</b>|<b>Minister Counselor</b>⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1867
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|<b>Ambassador Plenipotentiary</b>⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1867,
+        -1
+      ],
+      "name": "<b>Bureaucrat</b>, ❰CN❱ ⟨Grand Council (軍機處)|⟩",
+      "subs": [
+        {
+          "term": [
+            1867,
+            -1
+          ],
+          "name": "<b>Diplomat</b>, ❰CN❱ ⟨Zongli Yamen (總理衙門)|⟩",
+          "subs": [
+            {
+              "term": [
+                1867,
+                -1
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|<b>Ambassador-at-large</b>⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

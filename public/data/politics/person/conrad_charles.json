@@ -1,0 +1,111 @@
+{
+  "name": {
+    "full": "Charles Magill Conrad",
+    "last": "Conrad"
+  },
+  "span": [
+    1804,
+    1878
+  ],
+  "portraiture": {
+    "sketch": " charles_conrad.gif",
+    "normal": " charles_conrad.webp",
+    "source": "<i>Charles Magill Conrad.</i> Photograph. Accessed February 19, 2025. https://commons.wikimedia.org/wiki/File:Charles_Magill_Conrad.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1839,
+        1840
+      ],
+      "name": "<b>Politician</b>, ❰US-LA❱ Louisiana House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1839,
+            1840
+          ],
+          "name": "<b>v</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1841,
+        1843
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1841,
+            1843
+          ],
+          "name": "<b>Senator</b>, Louisiana",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1849,
+        1850
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1849,
+            1850
+          ],
+          "name": "<b>Representative</b>, Louisiana",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1850,
+        1853
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1850,
+            1853
+          ],
+          "name": "<b>⟨Secretary of War|Secretary of Defence⟩</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1851,
+            1851
+          ],
+          "name": "<b>Secretary of the Navy</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1852,
+        1852
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1852,
+            1852
+          ],
+          "name": "<b>Secretary State</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

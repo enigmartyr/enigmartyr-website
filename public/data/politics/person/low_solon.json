@@ -1,0 +1,163 @@
+{
+  "name": {
+    "full": "Solon Earl Low",
+    "last": "Low"
+  },
+  "span": [
+    1900,
+    1962
+  ],
+  "portraiture": {
+    "sketch": " solon_low.gif",
+    "normal": " solon_low.webp",
+    "source": "<i>Solon E. Low.</i> Photograph. Accessed January 25, 2025. https://www.newspapers.com/image/481781771/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Bureaucrat</b>, Municipality (Village) of Arrowwood, Alberta",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Secretary</b>, Board of Trade",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Bureaucrat</b>, Municipality (Village) of Stirling, Alberta",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>President</b>, Board of Trade",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1935,
+        1945
+      ],
+      "name": "<b>Politician</b>, ❰CA-AB❱ Alberta Legislative Assembly",
+      "subs": [
+        {
+          "term": [
+            1935,
+            1940
+          ],
+          "name": "<b>Member of the Legislative Assembly (MLA)</b>, Warner",
+          "subs": [
+            {
+              "term": [
+                1937,
+                1940
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA-AB❱ Executive Council (Cabinet)",
+              "subs": [
+                {
+                  "term": [
+                    1937,
+                    1940
+                  ],
+                  "name": "⟨<b>Provincial Treasurer</b>|<b>Minister of Finance</b>⟩",
+                  "subs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "term": [
+            1940,
+            1944
+          ],
+          "name": "<b>Member of the Legislative Assembly (MLA)</b>, Vegreville",
+          "subs": [
+            {
+              "term": [
+                1940,
+                1944
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA-AB❱ Executive Council (Cabinet)",
+              "subs": [
+                {
+                  "term": [
+                    1940,
+                    1942
+                  ],
+                  "name": "⟨<b>Provincial Treasurer</b>|<b>Minister of Finance</b>⟩",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1942,
+                    1944
+                  ],
+                  "name": "<b>Minister of Education</b>",
+                  "subs": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "term": [
+            1944,
+            1945
+          ],
+          "name": "<b>Member of the Legislative Assembly (MLA)</b>, Warner",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1958
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1958
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Peace River|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1961,
+        -1
+      ],
+      "name": "<b>Judicial Officer</b>, ❰CA-AB❱ ⟨Provincial Court of Alberta|Alberta Court of Justice⟩",
+      "subs": [
+        {
+          "term": [
+            1961,
+            -1
+          ],
+          "name": "<b>Judge</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

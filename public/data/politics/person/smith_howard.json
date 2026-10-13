@@ -1,0 +1,103 @@
+{
+  "name": {
+    "full": "Howard Alexander Smith",
+    "last": "Smith"
+  },
+  "span": [
+    1880,
+    1966
+  ],
+  "portraiture": {
+    "sketch": " howard_smith.gif",
+    "normal": " howard_smith.webp",
+    "source": "<i>Howard Alexander Smith.</i> Photograph. Accessed August 4, 2024. https://bioguide.congress.gov/search/bio/S000553"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1897,
+        1901
+      ],
+      "name": "<b>Student</b>, Princeton University, Princeton",
+      "subs": [
+        {
+          "term": [
+            1897,
+            1901
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1901,
+        1904
+      ],
+      "name": "<b>Student</b>, Columbia University, New York",
+      "subs": [
+        {
+          "term": [
+            1901,
+            1904
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1897,
+        1901
+      ],
+      "name": "<b>Scholar</b>, Princeton University, Princeton",
+      "subs": [
+        {
+          "term": [
+            1820,
+            1927
+          ],
+          "name": "<b>Secretary, Executive</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1927,
+            1930
+          ],
+          "name": "<b>Lecturer</b>, Politics",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1944,
+        1959
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1944,
+            1959
+          ],
+          "name": "<b>Senator</b>, New Jersey",
+          "subs": [
+            {
+              "term": [
+                1953,
+                1955
+              ],
+              "name": "<b>Chairman</b>, ⟨Committee on Labor and Public Welfare|Committee on Heath, Education, Labor, and Pensions⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

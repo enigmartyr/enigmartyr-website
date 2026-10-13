@@ -1,0 +1,82 @@
+{
+  "name": {
+    "full": "Bonham Ward Bax",
+    "last": "Bax"
+  },
+  "span": [
+    1837,
+    1877
+  ],
+  "portraiture": null,
+  "backgrounds": [
+    "Veteran(Navy)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1852,
+        -1
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1852,
+            null
+          ],
+          "name": "<b>Cadet</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            -1
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰UK❱ Navy",
+          "subs": [
+            {
+              "term": [
+                null,
+                1857
+              ],
+              "name": "(OF-01) Midshipman",
+              "subs": []
+            },
+            {
+              "term": [
+                1857,
+                1858
+              ],
+              "name": "(OF-01) ⟨Mate|Sub-lieutenant⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1858,
+                1867
+              ],
+              "name": "(OF-02) Lieutenant",
+              "subs": []
+            },
+            {
+              "term": [
+                1867,
+                1875
+              ],
+              "name": "(OF-04) Commander",
+              "subs": []
+            },
+            {
+              "term": [
+                1875,
+                -1
+              ],
+              "name": "(OF-05) Captain",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

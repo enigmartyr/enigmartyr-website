@@ -1,0 +1,188 @@
+{
+  "name": {
+    "full": "Louis Arthur Johnson",
+    "last": "Johnson"
+  },
+  "span": [
+    1891,
+    1966
+  ],
+  "portraiture": {
+    "sketch": " louis_johnson.gif",
+    "normal": " louis_johnson.webp",
+    "source": "<i>Asst. Sec. of War Louis A. Johnson.</i> Photograph. Accessed August 4, 2024. https://www.loc.gov/item/2017828566/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1908,
+        1912
+      ],
+      "name": "<b>Student</b>, University of Virginia, Charlottesville",
+      "subs": [
+        {
+          "term": [
+            1908,
+            1912
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1916,
+        1940
+      ],
+      "name": "<b>Politician</b>, ❰US-WV❱ House of Delegates",
+      "subs": [
+        {
+          "term": [
+            1916,
+            1916
+          ],
+          "name": "<b>Delegate</b>, Harrison County",
+          "subs": [
+            {
+              "term": [
+                1916,
+                1916
+              ],
+              "name": "<b>Chairman</b>, Judiciary Committee",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1917,
+        null
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1917,
+            1917
+          ],
+          "name": "<b>Cadet</b>, Officers Training School, Fort Benjamin Harrison",
+          "subs": []
+        },
+        {
+          "term": [
+            1917,
+            1919
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1917,
+                1919
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1919,
+            null
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1919,
+                1928
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1928,
+                null
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1937,
+        1940
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1937,
+            1940
+          ],
+          "name": "<b>Secretary, ⟨Assistant|Deputy⟩</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1942,
+        1942
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1942
+          ],
+          "name": "<b>Minister</b> and “Personal Representative of the President”, India",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1942,
+        1947
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of Justice",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1947
+          ],
+          "name": "<b>Clerk</b>, ⟨Office of Alien Property Custodian|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1949,
+        1950
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1950
+          ],
+          "name": "<b>⟨Secretary of War|Secretary of Defense⟩</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

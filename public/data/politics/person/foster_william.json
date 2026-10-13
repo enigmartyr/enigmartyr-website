@@ -1,0 +1,186 @@
+{
+  "name": {
+    "full": "William Chapman Foster",
+    "last": "Foster"
+  },
+  "span": [
+    1897,
+    1984
+  ],
+  "portraiture": {
+    "normal": " william_foster.webp",
+    "sketch": " william_foster.gif",
+    "source": "<i>William Chapman Foster.</i> Photograph. Accessed September 14, 2024. https://mitmuseum.mit.edu/collections/person/8522"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1915,
+        1917
+      ],
+      "name": "<b>Student</b>, Massachusetts Institute of Technology, Cambridge",
+      "subs": []
+    },
+    {
+      "term": [
+        1917,
+        1919
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1917,
+            1919
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1917,
+                1919
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1919,
+        1920
+      ],
+      "name": "<b>Student</b>, Massachusetts Institute of Technology, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1919,
+            1920
+          ],
+          "name": "Bachelor of Engineering, Chemical Engineering",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1944,
+        1946
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1944,
+            null
+          ],
+          "name": "<b>Clerk</b>, Purchase Division, Army Service Forces, ❰US❱ Army",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Director, Assistant</b>, Purchase Division, Army Service Forces, ❰US❱ Army",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Director, Deputy</b>, Purchase Division, Army Service Forces, ❰US❱ Army",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Director</b>, Purchase Division, Army Service Forces, ❰US❱ Army",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1946
+          ],
+          "name": "<b>Chairman</b>, Purchase Policy Advisory Committee, Army Service Forces, ❰US❱ Army",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1946,
+        1948
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of Commerce",
+      "subs": [
+        {
+          "term": [
+            1946,
+            1948
+          ],
+          "name": "<b>Secretary, Under</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1950,
+        1951
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Economic Cooperation Administration|⟩",
+      "subs": [
+        {
+          "term": [
+            1950,
+            1951
+          ],
+          "name": "<b>Administrator</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1951,
+        1953
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of Defense",
+      "subs": [
+        {
+          "term": [
+            1951,
+            1953
+          ],
+          "name": "<b>Secretary, Deputy</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1962,
+        1968
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Arms Control and Disarmament Agency|⟩",
+      "subs": [
+        {
+          "term": [
+            1962,
+            1968
+          ],
+          "name": "<b>Director</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

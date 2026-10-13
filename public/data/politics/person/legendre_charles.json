@@ -1,0 +1,170 @@
+{
+  "name": {
+    "full": "Charles–Guillaum–Joseph–Émile le Gendre",
+    "last": "LeGendre"
+  },
+  "span": [
+    1830,
+    1899
+  ],
+  "portraiture": {
+    "normal": " charles_legendre.webp",
+    "sketch": " charles_legendre.gif",
+    "source": "<i>C.W. Le Gendre.</i> Photograph. Accessed December 21, 2024. https://www.loc.gov/pictures/resource/cwpb.05131/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>, ⟨Royal College of Rheims|University of Reims⟩, Rheims",
+      "subs": []
+    },
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>, ⟨University of Paris|⟩, Paris",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1861,
+        1865
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1861,
+            1865
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1861,
+                1862
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1862,
+                1863
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1863,
+                null
+              ],
+              "name": "(OF-05) <b>Colonel</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1865
+              ],
+              "name": "(OF-06) <b>General, Brigadier</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1866,
+        1872
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1866,
+            1872
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Consular Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1866,
+                1872
+              ],
+              "name": "<b>Consul</b>, ⟨Amoy|Xiamen⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1872,
+        1874
+      ],
+      "name": "<b>Bureaucrat</b>, ❰JP❱ Ministry of Foreign Affairs (外務省)",
+      "subs": [
+        {
+          "term": [
+            1872,
+            1875
+          ],
+          "name": "<b>Advisor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1874,
+        1874
+      ],
+      "name": "<b>Bureaucrat</b>, ❰JP❱ Ministry of War (陸海軍省)",
+      "subs": [
+        {
+          "term": [
+            1874,
+            1874
+          ],
+          "name": "<b>Advisor</b>, ❰JP❱ Bureau of Taiwan Aborigine Affairs (蕃地事務局)",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1890,
+        -1
+      ],
+      "name": "<b>Bureaucrat</b>, ❰KR❱ ⟨Ministry of the Interior|Ministry of the Interior and Safety⟩",
+      "subs": [
+        {
+          "term": [
+            1890,
+            -1
+          ],
+          "name": "<b>Minister, Deputy</b>, ⟨Imperial Household Department|⟩",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": {
+    "full": "John Rutherford Alcock",
+    "last": "Alcock"
+  },
+  "span": [
+    1809,
+    1897
+  ],
+  "portraiture": {
+    "normal": " rutherford_alcock.webp",
+    "sketch": " rutherford_alcock.gif",
+    "source": "<i>Rutherford Alcock.</i> Photograph. Accessed January 25, 2025. https://commons.wikimedia.org/wiki/File:Rutherford_Alcock,_Lock_%26_Whitfield_woodburytype,_1876-84.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1836,
+        1837
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1836,
+            1837
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰UK❱ Army",
+          "subs": [
+            {
+              "term": [
+                1836,
+                1837
+              ],
+              "name": "(OF-01) Lieutenant",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1843,
+        1870
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+      "subs": [
+        {
+          "term": [
+            1843,
+            1870
+          ],
+          "name": "<b>Diplomat</b>, ❰UK❱ ⟨Consulate Service|Diplomatic Service⟩",
+          "subs": [
+            {
+              "term": [
+                1843,
+                1844
+              ],
+              "name": "b>Secretary</b>, ⟨Amoy|Xiamen⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1844,
+                1846
+              ],
+              "name": "b>Consul</b>, Fuzhou, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1846,
+                1856
+              ],
+              "name": "b>Consul</b>, Shanghai, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1856,
+                1859
+              ],
+              "name": "b>Consul</b>, ⟨Canton|Guangdong⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1859,
+                1860
+              ],
+              "name": "b>Consul General</b>, Tokyo, Japan",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1843,
+            1870
+          ],
+          "name": "<b>Diplomat</b>, ❰UK❱ ⟨Consular Service|Diplomatic Service⟩",
+          "subs": [
+            {
+              "term": [
+                1860,
+                1865
+              ],
+              "name": "b>Minister Plenipotentiary</b>, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1865,
+                1870
+              ],
+              "name": "b>Minister Plenipotentiary</b>, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

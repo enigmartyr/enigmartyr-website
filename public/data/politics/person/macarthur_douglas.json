@@ -1,0 +1,166 @@
+{
+  "name": {
+    "full": "Douglas MacArthur",
+    "last": "MacArthur"
+  },
+  "span": [
+    1880,
+    1964
+  ],
+  "portraiture": {
+    "sketch": " douglas_macarthur.gif",
+    "normal": " douglas_macarthur.webp",
+    "source": "<i>Douglas MacArthur.</i> Photograph. Accessed August 4, 2024. https://www.loc.gov/item/2016859437/"
+  },
+  "backgrounds": [
+    "HeadOfMilitary(Army)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1899,
+        1951
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1899,
+            1903
+          ],
+          "name": "<b>Cadet</b>, United States Military Academy, West Point",
+          "subs": []
+        },
+        {
+          "term": [
+            1903,
+            1951
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1903,
+                1904
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1904,
+                1911
+              ],
+              "name": "(OF-01) <b>Lieutenant, First</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1911,
+                1915
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1915,
+                1917
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1917,
+                1918
+              ],
+              "name": "(OF-05) <b>Colonel</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1918,
+                1925
+              ],
+              "name": "(OF-06) <b>General, Brigadier</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1925,
+                1941
+              ],
+              "name": "(OF-07) <b>General, Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1941,
+                1941
+              ],
+              "name": "(OF-08) <b>General, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1941,
+                1944
+              ],
+              "name": "(OF-09) <b>General</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1944,
+                1951
+              ],
+              "name": "(OF-10) <b>General of the Army</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1919,
+            1922
+          ],
+          "name": "<b>Superintendent</b>, United States Military Academy, West Point",
+          "subs": []
+        },
+        {
+          "term": [
+            1930,
+            1935
+          ],
+          "name": "<b>Chief of Staff</b>, Department of the Army",
+          "subs": []
+        },
+        {
+          "term": [
+            1935,
+            1941
+          ],
+          "name": "<b>Military Advisor</b>, Philippines",
+          "subs": []
+        },
+        {
+          "term": [
+            1945,
+            1951
+          ],
+          "name": "<b>Supreme Allied Commander</b>, Allied Powers",
+          "subs": []
+        },
+        {
+          "term": [
+            1950,
+            1951
+          ],
+          "name": "<b>Governor</b>, Ryukyu Islands",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

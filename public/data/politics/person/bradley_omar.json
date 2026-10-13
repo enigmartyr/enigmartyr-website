@@ -1,0 +1,172 @@
+{
+  "name": {
+    "full": "Omar Nelson Bradley",
+    "last": "Bradley"
+  },
+  "span": [
+    1893,
+    1981
+  ],
+  "portraiture": {
+    "sketch": " omar_bradley.gif",
+    "normal": " omar_bradley.webp",
+    "source": "<i>Bradley, Omar, General.</i> Photograph. Accessed August 7, 2024. https://www.loc.gov/resource/hec.21734/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1911,
+        1953
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1911,
+            1915
+          ],
+          "name": "<b>Cadet</b>, United States Military Academy, West Point",
+          "subs": []
+        },
+        {
+          "term": [
+            1915,
+            1951
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1915,
+                1916
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1916,
+                1917
+              ],
+              "name": "(OF-01) <b>Lieutenant, First</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1917,
+                1918
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1920,
+                1922
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1922,
+                1924
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1924,
+                1936
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1936,
+                1941
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1941,
+                1942
+              ],
+              "name": "(OF-06) <b>General, Brigadier</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1942,
+                1943
+              ],
+              "name": "(OF-07) <b>General, Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1943,
+                1944
+              ],
+              "name": "(OF-08) <b>General, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1944,
+                1945
+              ],
+              "name": "(OF-07) <b>General, Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1945,
+                1950
+              ],
+              "name": "(OF-09) <b>General</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1950,
+                1953
+              ],
+              "name": "(OF-10) <b>General of the Army</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1948,
+            1949
+          ],
+          "name": "<b>Chief of Staff</b>, ❰US❱ Department of the Army",
+          "subs": []
+        },
+        {
+          "term": [
+            1949,
+            1951
+          ],
+          "name": "<b>Chairman</b>, NATO Military Committee",
+          "subs": []
+        },
+        {
+          "term": [
+            1949,
+            1953
+          ],
+          "name": "<b>Chairman</b>, Joint Chiefs of Staff",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

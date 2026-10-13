@@ -1,0 +1,319 @@
+{
+  "name": {
+    "full": "Paul Joseph James Guillaume Martin Sr.",
+    "last": "Martin"
+  },
+  "span": [
+    1903,
+    1992
+  ],
+  "portraiture": {
+    "sketch": " paul_martin_1.gif",
+    "normal": " paul_martin_1.webp",
+    "source": "<i>Paul Martin Sr.</i> Photograph. Accessed January 31, 2025. https://canadaehx.com/2023/02/01/paul-martin-sr/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1918,
+        1921
+      ],
+      "name": "<b>Student</b>, Saint Alexander's College, Gatineau",
+      "subs": []
+    },
+    {
+      "term": [
+        1921,
+        1928
+      ],
+      "name": "<b>Student</b>, St. Michael's College, Toronto",
+      "subs": [
+        {
+          "term": [
+            1921,
+            1925
+          ],
+          "name": "Bachelor of Arts, Philosophy",
+          "subs": []
+        },
+        {
+          "term": [
+            1925,
+            1928
+          ],
+          "name": "Master of Arts, Philosophy",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1928
+      ],
+      "name": "<b>Student</b>, Osgoode Hall Law School, Toronto",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1928
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1928
+      ],
+      "name": "<b>Legal Practitioner</b>, “Henderson & McGuire”",
+      "subs": []
+    },
+    {
+      "term": [
+        1928,
+        1929
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1928,
+            1929
+          ],
+          "name": "Master of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1930,
+        1933
+      ],
+      "name": "<b>Legal Practitioner</b>, “McTague, Clark, Springsteen, Racine, & Spencer”",
+      "subs": []
+    },
+    {
+      "term": [
+        1930,
+        -1
+      ],
+      "name": "<b>Scholar</b>, ⟨Assumption College|Assumption University⟩, Windsor",
+      "subs": [
+        {
+          "term": [
+            1930,
+            null
+          ],
+          "name": "<b>Lecturer</b>, Political Science",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            -1
+          ],
+          "name": "<b>Professor, Adjunct</b>, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1933,
+        1944
+      ],
+      "name": "<b>Legal Practitioner</b>, “Martin & Laird”",
+      "subs": []
+    },
+    {
+      "term": [
+        1944,
+        1950
+      ],
+      "name": "<b>Legal Practitioner</b>, “Martin, Laird & Easton”",
+      "subs": []
+    },
+    {
+      "term": [
+        1950,
+        1957
+      ],
+      "name": "<b>Legal Practitioner</b>, “Martin, Laird, Easton & Cowan”",
+      "subs": []
+    },
+    {
+      "term": [
+        1957,
+        1966
+      ],
+      "name": "<b>Legal Practitioner</b>, “Martin, Laird, Easton, Cowan & Chauvin”",
+      "subs": []
+    },
+    {
+      "term": [
+        1967,
+        1972
+      ],
+      "name": "<b>Legal Practitioner</b>, “Martin, Laird & Cowan”",
+      "subs": []
+    },
+    {
+      "term": [
+        1935,
+        1966
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1935,
+            1968
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Essex East|⟩",
+          "subs": [
+            {
+              "term": [
+                1943,
+                1945
+              ],
+              "name": "⟨<b>Assistant, Parliamentary</b>|<b>Secretary, Parliamentary</b>⟩, ❰CA❱ ⟨Department of Labour|Employment and Social Development Canada⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1945,
+                1950
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1945,
+                    1946
+                  ],
+                  "name": "⟨<b>Secretary of State for Canada</b>|⟩",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1946,
+                    1957
+                  ],
+                  "name": "⟨<b>Minister of National Health and Welfare</b>|<b>Minister of Health</b>⟩, ❰CA❱ ⟨Department of National Health and Welfare|Health Canada⟩",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1947,
+                    1948
+                  ],
+                  "name": "<b>Chairman</b>, Special Committee on Prices",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1950,
+                    1950
+                  ],
+                  "name": "<b>Minister of Labour</b>, ❰CA❱ ⟨Department of Labour|Employment and Social Development Canada⟩",
+                  "subs": []
+                }
+              ]
+            },
+            {
+              "term": [
+                1963,
+                1968
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1963,
+                    1968
+                  ],
+                  "name": "⟨<b>Secretary of State for External Affairs</b>|<b>Minister of Foreign Affairs</b>⟩, ❰CA❱ ⟨Department of External Affairs|Department of Foreign Affairs, Trade and Development (Global Affairs Canada)⟩",
+                  "subs": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰CA❱ Privy Council",
+      "subs": []
+    },
+    {
+      "term": [
+        1968,
+        1974
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1968,
+            1974
+          ],
+          "name": "<b>Senator</b>, Windsor—Walkerville",
+          "subs": [
+            {
+              "term": [
+                1968,
+                1974
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1968,
+                    1974
+                  ],
+                  "name": "⟨<b>Leader of the Government in the Senate</b>|<b>Representative of the Government in the Senate</b>⟩",
+                  "subs": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1974,
+        1979
+      ],
+      "name": "<b>Bureaucrat</b>, ❰CA❱ ⟨Department of External Affairs|Department of Foreign Affairs, Trade and Development (Global Affairs Canada)⟩",
+      "subs": [
+        {
+          "term": [
+            1974,
+            1979
+          ],
+          "name": "<b>Diplomat</b>, ❰CA❱ Diplomatic Corps Services",
+          "subs": [
+            {
+              "term": [
+                1974,
+                1979
+              ],
+              "name": "<b>Ambassador (High Commissioner)</b>, The United Kingdom of Great Britain and Northern Ireland",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

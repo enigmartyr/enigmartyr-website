@@ -1,0 +1,185 @@
+{
+  "name": {
+    "full": "Edward “Ted” Moore Kennedy",
+    "last": "Kennedy"
+  },
+  "span": [
+    1932,
+    2009
+  ],
+  "portraiture": {
+    "sketch": " edward_kennedy.gif",
+    "normal": " edward_kennedy.webp",
+    "source": "<i>Senator Ted Kennedy.</i> Photograph. Accessed September 17, 2024. https://www.seattlepi.com/local/seattle-history/slideshow/P-I-photos-from-the-1970s-5577.php"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1950,
+        1951
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": []
+    },
+    {
+      "term": [
+        1951,
+        1953
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defense",
+      "subs": [
+        {
+          "term": [
+            1951,
+            1953
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1951,
+                null
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1953
+              ],
+              "name": "(OR-02) <b>Private First Class</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1953,
+        1956
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1953,
+            1956
+          ],
+          "name": "Bachelor of Arts, History and Government",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1956,
+        1959
+      ],
+      "name": "<b>Student</b>, University of Virginia, Charlottesville",
+      "subs": [
+        {
+          "term": [
+            1956,
+            1959
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1961,
+        1962
+      ],
+      "name": "<b>Legal Officer</b>, District of Suffolk County, Massachusetts",
+      "subs": [
+        {
+          "term": [
+            1961,
+            1962
+          ],
+          "name": "<b>District Attorney, Assistant</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1962,
+        2009
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1962,
+            2009
+          ],
+          "name": "<b>Senator</b>, Massachusetts",
+          "subs": [
+            {
+              "term": [
+                1965,
+                1981
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on Refugees and Escapees",
+              "subs": []
+            },
+            {
+              "term": [
+                1971,
+                1981
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on Health and Scientific Research",
+              "subs": []
+            },
+            {
+              "term": [
+                1978,
+                2009
+              ],
+              "name": "<b>Chairman</b>, Committee on the Judiciary",
+              "subs": []
+            },
+            {
+              "term": [
+                1986,
+                1995
+              ],
+              "name": "<b>Chairman</b>, ⟨Committee on Labor and Human Resources|Committee on Health, Education, Labor and Pensions⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                2001,
+                2003
+              ],
+              "name": "<b>Chairman</b>, Committee on Health, Education, Labor and Pensions",
+              "subs": []
+            },
+            {
+              "term": [
+                2004,
+                2006
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on Immigration, Citizenship and Border Safety",
+              "subs": []
+            },
+            {
+              "term": [
+                2007,
+                -1
+              ],
+              "name": "<b>Chairman</b>, Committee on Health, Education, Labor and Pensions",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

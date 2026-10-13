@@ -1,0 +1,137 @@
+{
+  "name": {
+    "full": "Hubert Horatio Humphrey",
+    "last": "Humphrey"
+  },
+  "span": [
+    1911,
+    1978
+  ],
+  "portraiture": {
+    "normal": " hubert_humphrey.webp",
+    "sketch": " hubert_humphrey.gif",
+    "source": "Hubert H. Humphrey.</i> Photograph. Accessed September 14, 2024. https://www.bu.edu/hhh/about/hubert-h-humphrey/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1937,
+        1939
+      ],
+      "name": "<b>Student</b>, University of Minnesota, Minneapolis",
+      "subs": [
+        {
+          "term": [
+            1937,
+            1939
+          ],
+          "name": "Bachelor of Arts, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1939,
+        1940
+      ],
+      "name": "<b>Student</b>, Louisiana State University, Baton Rouge",
+      "subs": [
+        {
+          "term": [
+            1939,
+            1940
+          ],
+          "name": "Master of Arts, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1943,
+        1944
+      ],
+      "name": "<b>Scholar</b>, Macalester College, Saint Paul",
+      "subs": [
+        {
+          "term": [
+            1943,
+            1944
+          ],
+          "name": "<b>Professor</b>, Political Science",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1949
+      ],
+      "name": "<b>Politician</b>, Municipality (City) of Minneapolis, Minnesota",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1949
+          ],
+          "name": "<b>Mayor</b>, Minneapolis City Hall",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1949,
+        1964
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1964
+          ],
+          "name": "<b>Senator</b>, Minnesota",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1965,
+        1969
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Office of the President",
+      "subs": [
+        {
+          "term": [
+            1965,
+            1969
+          ],
+          "name": "<b>President, Vice</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1971,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1971,
+            -1
+          ],
+          "name": "<b>Senator</b>, Minnesota",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

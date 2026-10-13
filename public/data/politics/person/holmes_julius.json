@@ -1,0 +1,233 @@
+{
+  "name": {
+    "full": "Julius Cecil Holmes",
+    "last": "Holmes"
+  },
+  "span": [
+    1899,
+    1968
+  ],
+  "portraiture": {
+    "sketch": " julius_holmes.gif",
+    "normal": " julius_holmes.webp",
+    "source": "<i>Julius Cecil Holmes.</i> Photograph. Accessed August 4, 2024. https://commons.wikimedia.org/wiki/File:Julius_C._Holmes.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1917,
+        1922
+      ],
+      "name": "<b>Student</b>, University of Kansas, Lawrence",
+      "subs": [
+        {
+          "term": [
+            1917,
+            1922
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1937
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1937
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1925,
+                1927
+              ],
+              "name": "<b>Consul, Vice</b>, Marseille, France",
+              "subs": []
+            },
+            {
+              "term": [
+                1927,
+                1929
+              ],
+              "name": "<b>Consul, Vice</b>, Izmir, Turkey",
+              "subs": []
+            },
+            {
+              "term": [
+                1929,
+                1930
+              ],
+              "name": "<b>Consul, Vice</b>, Tirana, Albania",
+              "subs": []
+            },
+            {
+              "term": [
+                1929,
+                1930
+              ],
+              "name": "<b>Secretary, Third</b>, Tirana, Albania",
+              "subs": []
+            },
+            {
+              "term": [
+                1930,
+                1934
+              ],
+              "name": "<b>Secretary, Third</b>, Bucharest, Romania",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1934,
+            1937
+          ],
+          "name": "<b>Chief, Assistant</b>, Office of the Chief of Protocol",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1942,
+        1945
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defence",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1945
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1942,
+                1942
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1942,
+                1942
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1942,
+                1943
+              ],
+              "name": "(OF-05) <b>Colonel</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1943,
+                1945
+              ],
+              "name": "(OF-06) <b>General, Brigadier</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1948,
+        1965
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1948,
+            1965
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1948,
+                1954
+              ],
+              "name": "<b>Minister</b>, London, United Kingdom",
+              "subs": []
+            },
+            {
+              "term": [
+                1948,
+                1954
+              ],
+              "name": "<b>Special Assistant</b>, ⟨Bureau of European Affairs|Bureau of European and Eurasian Affairs⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1955,
+                1956
+              ],
+              "name": "<b>Consul General</b>, Tangier, Morocco",
+              "subs": []
+            },
+            {
+              "term": [
+                1956,
+                1959
+              ],
+              "name": "<b>Special Assistant</b>, Office of the Secretary of State",
+              "subs": []
+            },
+            {
+              "term": [
+                1959,
+                1961
+              ],
+              "name": "<b>Minister</b>, Hong Kong",
+              "subs": []
+            },
+            {
+              "term": [
+                1959,
+                1961
+              ],
+              "name": "<b>Consul General</b>, Hong Kong",
+              "subs": []
+            },
+            {
+              "term": [
+                1959,
+                1961
+              ],
+              "name": "<b>Consul General</b>, Macau",
+              "subs": []
+            },
+            {
+              "term": [
+                1961,
+                1965
+              ],
+              "name": "<b>Ambassador</b>, Iran",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

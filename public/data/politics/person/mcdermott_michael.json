@@ -1,0 +1,93 @@
+{
+  "name": {
+    "full": "Michael “Mack” James McDermott",
+    "last": "McDermott"
+  },
+  "span": [
+    1894,
+    1955
+  ],
+  "portraiture": {
+    "normal": " michael_mcdermott.webp",
+    "sketch": " michael_mcdermott.gif",
+    "source": "<i>Michael J. McDermott.</i> Photograph. Accessed September 18, 2024. https://www.newspapers.com/image/869758026/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1917,
+        1920
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1917,
+            1920
+          ],
+          "name": "<b>Clerk</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1920,
+        1954
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1920,
+            1924
+          ],
+          "name": "<b>Clerk</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1924,
+            1927
+          ],
+          "name": "<b>Chief, Assistant</b>, ⟨Division of Current Information|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1927,
+            1944
+          ],
+          "name": "<b>Chief</b>, ⟨Division of Current Information|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1944,
+            1953
+          ],
+          "name": "<b>Special Assistant for Press Relations</b>, Office of Press Relations",
+          "subs": []
+        },
+        {
+          "term": [
+            1953,
+            1954
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1953,
+                1954
+              ],
+              "name": "<b>Ambassador</b>, El Salvador",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

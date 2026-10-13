@@ -1,0 +1,78 @@
+{
+  "name": {
+    "full": "Frederick Ferdinand Low",
+    "last": "Low"
+  },
+  "span": [
+    1828,
+    1894
+  ],
+  "portraiture": {
+    "sketch": " frederick_low.gif",
+    "normal": " frederick_low.webp",
+    "source": "<i>Frederick Ferdinand Low.</i> Photograph. Accessed February 6, 2025. https://hd.housedivided.dickinson.edu/node/42862"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1862,
+        1863
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1862,
+            1863
+          ],
+          "name": "<b>Representative</b>, California",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1863,
+        1867
+      ],
+      "name": "<b>Politician</b>, ❰US-CA❱ California Office of the Governor",
+      "subs": [
+        {
+          "term": [
+            1863,
+            1867
+          ],
+          "name": "<b>Governor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1869,
+        1873
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1869,
+            1873
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Diplomatic Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1869,
+                1873
+              ],
+              "name": "<b>Minister Plenipotentiary</b>, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

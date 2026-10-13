@@ -1,0 +1,191 @@
+{
+  "name": {
+    "full": "Ding Richang (丁日昌)",
+    "last": "Ding (丁)"
+  },
+  "span": [
+    1823,
+    1882
+  ],
+  "portraiture": {
+    "sketch": " ding_richang.gif",
+    "normal": " ding_richang.webp",
+    "source": "<i>丁日昌.</i> Photograph. Accessed February 14, 2025. https://www.tongxianghuicn.com/picture/870723.jhtml?libId=1682"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        1842
+      ],
+      "name": "<b>Student</b>",
+      "subs": [
+        {
+          "term": [
+            null,
+            1842
+          ],
+          "name": "County Examination (秀才科)",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1842,
+        -1
+      ],
+      "name": "<b>Scholar</b>",
+      "subs": [
+        {
+          "term": [
+            1842,
+            -1
+          ],
+          "name": "<b>Xiucai (秀才)</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1859,
+        1861
+      ],
+      "name": "<b>Bureaucrat</b>",
+      "subs": [
+        {
+          "term": [
+            1859,
+            1861
+          ],
+          "name": "<b>Magistrate, County (知縣)</b>, District (County; 县) of Wan'an (万安), Province (省) of Jiangxi (江西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1861,
+            1861
+          ],
+          "name": "<b>Magistrate, County (知縣)</b>, District (County; 县) of Luling (庐陵), Province (省) of Jiangxi (江西)",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1861,
+        1863
+      ],
+      "name": "<b>Serviceman</b>",
+      "subs": [
+        {
+          "term": [
+            1861,
+            1863
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ⟨Huai Army (淮軍)|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1862,
+        null
+      ],
+      "name": "<b>Bureaucrat</b>",
+      "subs": [
+        {
+          "term": [
+            1862,
+            1863
+          ],
+          "name": "<b>Magistrate, County (知縣)</b>, District (County; 县) of Wan'an (万安), Province (省) of Jiangxi (江西)",
+          "subs": []
+        },
+        {
+          "term": [
+            1863,
+            1865
+          ],
+          "name": "<b>Magistrate, District (知州)</b> without Portfolio",
+          "subs": []
+        },
+        {
+          "term": [
+            1865,
+            null
+          ],
+          "name": "<b>General Manager (總辦)</b>, Jiangnan Machinery Manufacturing Bureau (江南機器製造總局)",
+          "subs": []
+        },
+        {
+          "term": [
+            1865,
+            1867
+          ],
+          "name": "<b>Circuit Intendant (Taotai; 道臺)</b>, Susongtai Circuit (苏松太道), Province (省) of Jiangsu (江蘇)",
+          "subs": []
+        },
+        {
+          "term": [
+            1867,
+            1870
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Jiangsu (江蘇)",
+          "subs": []
+        },
+        {
+          "term": [
+            1875,
+            1878
+          ],
+          "name": "<b>Minister of Fuzhou Naval Affairs (福州船政大臣)</b>, Mawei Shipyard (馬尾造船廠)",
+          "subs": []
+        },
+        {
+          "term": [
+            1875,
+            1878
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "<b>Right Censor-in-chief, Vice (右副都御史)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1878,
+            null
+          ],
+          "name": "<b>Right Censor-in-chief, Vice (右副都御史)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1879,
+            -1
+          ],
+          "name": "<b>Minister of the Zongli Yamen (总理各国事务衙门大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1879,
+            -1
+          ],
+          "name": "<b>Governor-General (總督)</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

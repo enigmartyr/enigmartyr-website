@@ -1,0 +1,205 @@
+{
+  "name": {
+    "full": "Harrison “Pete” Arlington Williams Jr.",
+    "last": "Williams"
+  },
+  "span": [
+    1919,
+    2001
+  ],
+  "portraiture": {
+    "sketch": " harrison_williams_2.gif",
+    "normal": " harrison_williams_2.webp",
+    "source": "<i>Harrison Williams.</i> Photograph. Accessed September 17, 2024. https://www.senate.gov/artandhistory/history/common/image/HarrisonWilliams.htm"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1938,
+        1941
+      ],
+      "name": "<b>Student</b>, Oberlin College, Oberlin",
+      "subs": [
+        {
+          "term": [
+            1938,
+            1941
+          ],
+          "name": "Bachelor of Arts, Economics",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1929
+      ],
+      "name": "<b>Student</b>, Georgetown University, Washington",
+      "subs": []
+    },
+    {
+      "term": [
+        1941,
+        1945
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1941,
+            1943
+          ],
+          "name": "<b>Enlisted</b>, Reserve Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1941,
+                1943
+              ],
+              "name": "(OR-03) <b>Seaman</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1943,
+            1945
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1943,
+                1945
+              ],
+              "name": "(OF-01) <b>Lieutenant Junior Grade</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1946,
+        1948
+      ],
+      "name": "<b>Student</b>, Columbia University, New York",
+      "subs": [
+        {
+          "term": [
+            1946,
+            1948
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1953,
+        1956
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1953,
+            1956
+          ],
+          "name": "Bachelor of Arts, History and Government",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1956,
+        1959
+      ],
+      "name": "<b>Student</b>, University of Virginia, Charlottesville",
+      "subs": [
+        {
+          "term": [
+            1956,
+            1959
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1951,
+        1952
+      ],
+      "name": "<b>Legal Practitioner</b>, “Cox & Walburg”",
+      "subs": []
+    },
+    {
+      "term": [
+        1951,
+        1952
+      ],
+      "name": "<b>Scholar</b>, Rutgers University, New Brunswick",
+      "subs": [
+        {
+          "term": [
+            1951,
+            1952
+          ],
+          "name": "<b>Lecturer</b>, Business Law",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1953,
+        1957
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1953,
+            1957
+          ],
+          "name": "<b>Representative</b>, New Jersey",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1959,
+        1982
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1959,
+            1982
+          ],
+          "name": "<b>Senator</b>, New Jersey",
+          "subs": [
+            {
+              "term": [
+                1967,
+                1971
+              ],
+              "name": "<b>Chairman</b>, Special Committee on Aging",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "name": {
+    "full": "Harold Anthony Nutting",
+    "last": "Nutting"
+  },
+  "span": [
+    1920,
+    1999
+  ],
+  "portraiture": {
+    "normal": " harold_nutting.webp",
+    "sketch": " harold_nutting.gif",
+    "source": "<i>Anthony Nutting.</i> Photograph. Accessed January 25, 2025. https://www.gettyimages.com/detail/992102778"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>, University of Cambridge, Cambridge",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "Bachelor of Arts, Agriculture",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1939,
+        1940
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1939,
+            1940
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰UK❱ Army",
+          "subs": [
+            {
+              "term": [
+                1939,
+                1940
+              ],
+              "name": "(OR-01) Private",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1940,
+        1945
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+      "subs": [
+        {
+          "term": [
+            1940,
+            1945
+          ],
+          "name": "<b>Undercover Operative</b>, ❰UK❱ ⟨Foreign Intelligence Service|Secret Intelligence Service⟩",
+          "subs": [
+            {
+              "term": [
+                1940,
+                1941
+              ],
+              "name": "<b>Attaché</b>, British Embassy, Paris",
+              "subs": []
+            },
+            {
+              "term": [
+                1941,
+                1944
+              ],
+              "name": "<b>Attaché</b>, British Embassy, Madrid",
+              "subs": []
+            },
+            {
+              "term": [
+                1944,
+                1945
+              ],
+              "name": "<b>Attaché</b>, British Embassy, Rome",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1956
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1956
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Melton|⟩",
+          "subs": [
+            {
+              "term": [
+                1951,
+                1954
+              ],
+              "name": "<b>Secretary of State, Under</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1954,
+                1956
+              ],
+              "name": "<b>Minister of State</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1954,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰UK❱ Privy Council",
+      "subs": []
+    }
+  ]
+}

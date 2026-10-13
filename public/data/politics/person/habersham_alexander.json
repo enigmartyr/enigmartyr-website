@@ -1,0 +1,64 @@
+{
+  "name": {
+    "full": "Alexander Wylly Habersham",
+    "last": "Habersham"
+  },
+  "span": [
+    1826,
+    1883
+  ],
+  "portraiture": null,
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1845,
+        1860
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1845,
+            1847
+          ],
+          "name": "<b>Midshipman</b>, United States Naval Academy, Maryland",
+          "subs": []
+        },
+        {
+          "term": [
+            1847,
+            1860
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1847,
+                null
+              ],
+              "name": "(OF-01) ⟨<b>Midshipman, Passed</b>|<b>Ensign</b>⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1855
+              ],
+              "name": "(OF-01) ⟨<b>Master</b>|<b>Lieutenant (Junior Grade)</b>⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1855,
+                1860
+              ],
+              "name": "(OF-02) <b>Lieutenant</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

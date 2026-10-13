@@ -1,0 +1,235 @@
+{
+  "name": {
+    "full": "Robert Anthony Eden",
+    "last": "Eden"
+  },
+  "span": [
+    1897,
+    1977
+  ],
+  "portraiture": {
+    "normal": " robert_eden.webp",
+    "sketch": " robert_eden.gif",
+    "source": "<i>Anthony Eden.</i> Photograph. Accessed January 25, 2025. https://www.iwm.org.uk/collections/item/object/205022126"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1915,
+        1923
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1915,
+            1921
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰UK❱ Army",
+          "subs": [
+            {
+              "term": [
+                1915,
+                1917
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1917,
+                1919
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1920,
+                1921
+              ],
+              "name": "(OF-01) <b>Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1921,
+                1921
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1921,
+            1923
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰UK❱ Army",
+          "subs": [
+            {
+              "term": [
+                1921,
+                null
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1923
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1919,
+        1922
+      ],
+      "name": "<b>Student</b>, University of Oxford, Oxford",
+      "subs": [
+        {
+          "term": [
+            1919,
+            1922
+          ],
+          "name": "Bachelor of Arts, Oriental Languages",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1923,
+        1957
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1923,
+            1957
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of Warwick and Leamington",
+          "subs": [
+            {
+              "term": [
+                1931,
+                1934
+              ],
+              "name": "<b>Secretary of State, Under</b>, ⟨Foreign Office|Foreign, Commonwealth, and Development Office⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1934,
+                1945
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰UK❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1935,
+                    1938
+                  ],
+                  "name": "⟨<b>Secretary of State for Foreign Affairs</b>|<b>Secretary of State for Foreign, Commonwealth and Development Affairs</b>⟩",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1939,
+                    1940
+                  ],
+                  "name": "⟨<b>Secretary of State for Dominion Affairs</b>|<b>Secretary of State for Foreign, Commonwealth and Development Affairs</b>⟩",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1939,
+                    1940
+                  ],
+                  "name": "⟨<b>Secretary of State for War</b>|<b>Secretary of State for Defence</b>⟩",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1940,
+                    1945
+                  ],
+                  "name": "⟨<b>Secretary of State for Foreign Affairs</b>|<b>Secretary of State for Foreign, Commonwealth and Development Affairs</b>⟩",
+                  "subs": []
+                }
+              ]
+            },
+            {
+              "term": [
+                1951,
+                1957
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰UK❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1951,
+                    1955
+                  ],
+                  "name": "⟨<b>Secretary of State for Foreign Affairs</b>|<b>Secretary of State for Foreign, Commonwealth and Development Affairs</b>⟩",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1951,
+                    1955
+                  ],
+                  "name": "<b>Prime Minister, Deputy</b>",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1955,
+                    1957
+                  ],
+                  "name": "<b>Prime Minister</b>",
+                  "subs": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1934,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰UK❱ Privy Council",
+      "subs": []
+    },
+    {
+      "term": [
+        1961,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Lords",
+      "subs": [
+        {
+          "term": [
+            1961,
+            -1
+          ],
+          "name": "<b>Peer</b>, Earl of Avon",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

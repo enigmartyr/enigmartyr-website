@@ -1,0 +1,144 @@
+{
+  "name": {
+    "full": "Joseph William Ballantine",
+    "last": "Ballantine"
+  },
+  "span": [
+    1888,
+    1973
+  ],
+  "portraiture": {
+    "normal": " joseph_ballantine.webp",
+    "sketch": " joseph_ballantine.gif",
+    "source": "<i>Joseph William Ballantine.</i> Photograph. Accessed September 18, 2024. https://www.ancestry.com/mediaui-viewer/collection/1030/tree/193165012/person/402515483278/media/652a771b-2926-48ac-9877-95ab95273be6"
+  },
+  "backgrounds": [
+    "Bureaucrat(Diplomatic)",
+    "Bureaucrat(Domestic)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1905,
+        1909
+      ],
+      "name": "<b>Student</b>, Amherst College, Amherst",
+      "subs": [
+        {
+          "term": [
+            1905,
+            1909
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1909,
+        1947
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1909,
+            1947
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Consular Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1909,
+                1911
+              ],
+              "name": "<b>Interpreter, Student</b>, Tokyo, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1911,
+                1912
+              ],
+              "name": "<b>Consul, Deputy</b>, Kobe, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1912,
+                1914
+              ],
+              "name": "<b>Consul, Deputy</b>, ⟨Taihoku|Taipei⟩, ⟨Japan|Taiwan⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1914,
+                1914
+              ],
+              "name": "<b>Consul, Deputy</b>, Yokohama, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1921,
+                1923
+              ],
+              "name": "<b>Consul</b>, ⟨Dairen|Dalian⟩, China",
+              "subs": []
+            },
+            {
+              "term": [
+                1923,
+                1929
+              ],
+              "name": "<b>Consul</b>, Tokyo, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1930,
+                1932
+              ],
+              "name": "<b>Consul</b>, ⟨Canton|Guangdong⟩, China",
+              "subs": []
+            },
+            {
+              "term": [
+                1932,
+                1934
+              ],
+              "name": "<b>Consul General</b>, ⟨Canton|Guangdong⟩, China",
+              "subs": []
+            },
+            {
+              "term": [
+                1934,
+                null
+              ],
+              "name": "<b>Consul General</b>, ⟨Mukden|Shenyang⟩, China",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1944,
+            1945
+          ],
+          "name": "<b>Director</b>, Office of Far Eastern Affairs",
+          "subs": []
+        },
+        {
+          "term": [
+            1945,
+            1947
+          ],
+          "name": "<b>Special Assistant</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

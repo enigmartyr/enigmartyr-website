@@ -1,0 +1,297 @@
+{
+  "name": {
+    "full": "Lester Bowles Pearson",
+    "last": "Pearson"
+  },
+  "span": [
+    1897,
+    1972
+  ],
+  "portraiture": {
+    "normal": " lester_pearson.webp",
+    "sketch": " lester_pearson.gif",
+    "source": "<i>Lester B. Pearson.</i> Photograph. Accessed January 25, 2025. https://commons.wikimedia.org/wiki/File:Lester_B._Pearson_(1963_ABC_press_photo).jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1914,
+        1915
+      ],
+      "name": "<b>Student</b>, University of Toronto, Toronto",
+      "subs": []
+    },
+    {
+      "term": [
+        1915,
+        1917
+      ],
+      "name": "<b>Serviceman</b>, ❰CA❱ ⟨Department of Militia and Defence|Canadian Armed Forces⟩",
+      "subs": [
+        {
+          "term": [
+            1915,
+            1917
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰CA❱ Army",
+          "subs": [
+            {
+              "term": [
+                1915,
+                null
+              ],
+              "name": "(OR-01) Private",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1917
+              ],
+              "name": "(OR-03) Corporal",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1917,
+        1918
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1917,
+            1918
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰UK❱ Army",
+          "subs": [
+            {
+              "term": [
+                1917,
+                1918
+              ],
+              "name": "(OF-01) Lieutenant",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1918,
+        1919
+      ],
+      "name": "<b>Student</b>, University of Toronto, Toronto",
+      "subs": [
+        {
+          "term": [
+            1918,
+            1919
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1921,
+        1925
+      ],
+      "name": "<b>Student</b>, University of Oxford, Oxford",
+      "subs": [
+        {
+          "term": [
+            1921,
+            1923
+          ],
+          "name": "Bachelor of Arts, Modern History",
+          "subs": []
+        },
+        {
+          "term": [
+            1923,
+            1925
+          ],
+          "name": "Master of Arts, Modern History",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1928
+      ],
+      "name": "<b>Scholar</b>, University of Toronto, Toronto",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1928
+          ],
+          "name": "<b>Professor, Assistant</b>, Modern History",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1928,
+        1946
+      ],
+      "name": "<b>Bureaucrat</b>, ❰CA❱ ⟨Department of External Affairs|Department of Foreign Affairs, Trade and Development (Global Affairs Canada)⟩",
+      "subs": [
+        {
+          "term": [
+            1928,
+            1946
+          ],
+          "name": "<b>Diplomat</b>, ❰CA❱ Diplomatic Corps Services",
+          "subs": [
+            {
+              "term": [
+                1928,
+                1935
+              ],
+              "name": "<b>Secretary, First</b>, Ottawa, Canada",
+              "subs": []
+            },
+            {
+              "term": [
+                1935,
+                1941
+              ],
+              "name": "<b>Secretary, First</b>, London, England",
+              "subs": []
+            },
+            {
+              "term": [
+                1942,
+                1944
+              ],
+              "name": "<b>Minister Counsellor</b>, Washington, DC",
+              "subs": []
+            },
+            {
+              "term": [
+                1944,
+                1945
+              ],
+              "name": "<b>Minister Plenipotentiary</b>, Washington, DC",
+              "subs": []
+            },
+            {
+              "term": [
+                1945,
+                1946
+              ],
+              "name": "<b>Ambassador</b>, The United States of America",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1946,
+            1948
+          ],
+          "name": "<b>Secretary of State, Under</b>, ❰CA❱ ⟨Department of External Affairs|Department of Foreign Affairs, Trade and Development (Global Affairs Canada)⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1948,
+        1968
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1948,
+            1968
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Algoma East|⟩",
+          "subs": [
+            {
+              "term": [
+                1948,
+                1957
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1948,
+                    1957
+                  ],
+                  "name": "⟨<b>Secretary of State for External Affairs</b>|<b>Minister of Foreign Affairs</b>⟩, ❰CA❱ ⟨Department of External Affairs|Department of Foreign Affairs, Trade and Development (Global Affairs Canada)⟩",
+                  "subs": [
+                    {
+                      "term": [
+                        1952,
+                        1953
+                      ],
+                      "name": "<b>President</b>, ❰NATO❱ General Assembly",
+                      "subs": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "term": [
+                1963,
+                1968
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1963,
+                    1968
+                  ],
+                  "name": "Prime Minister",
+                  "subs": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1948,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰CA❱ Privy Council",
+      "subs": [
+        {
+          "term": [
+            1931,
+            1931
+          ],
+          "name": "<b>Secretary</b>, Royal Commission on Trading in Grain Futures",
+          "subs": []
+        },
+        {
+          "term": [
+            1934,
+            1935
+          ],
+          "name": "<b>Secretary</b>, Royal Commission on Price Spreads",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

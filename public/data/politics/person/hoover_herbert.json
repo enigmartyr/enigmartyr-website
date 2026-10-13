@@ -1,0 +1,80 @@
+{
+  "name": {
+    "full": "Herbert Clark Hoover",
+    "last": "Hoover"
+  },
+  "span": [
+    1874,
+    1964
+  ],
+  "portraiture": {
+    "sketch": " herbert_hoover.gif",
+    "normal": " herbert_hoover.webp",
+    "source": "<<i>Herbert Hoover.</i> Photograph. Accessed September 18, 2024. https://www.loc.gov/item/2016885717/"
+  },
+  "backgrounds": [
+    "Bureaucrat(Domestic)",
+    "HeadOfState"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1891,
+        1895
+      ],
+      "name": "<b>Student</b>, Stanford University, Stanford",
+      "subs": [
+        {
+          "term": [
+            1891,
+            1895
+          ],
+          "name": "Bachelor of Science, Geology",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1917,
+        1918
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨United States Food Administration|⟩",
+      "subs": []
+    },
+    {
+      "term": [
+        1921,
+        1928
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of Commerce",
+      "subs": [
+        {
+          "term": [
+            1921,
+            1928
+          ],
+          "name": "<b>Secretary of Commerce</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1929,
+        1933
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Office of the President",
+      "subs": [
+        {
+          "term": [
+            1929,
+            1933
+          ],
+          "name": "<b>President of the United States</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

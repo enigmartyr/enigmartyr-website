@@ -1,0 +1,240 @@
+{
+  "name": {
+    "full": "Donald Dixon Edgar",
+    "last": "Edgar"
+  },
+  "span": [
+    1907,
+    1972
+  ],
+  "portraiture": {
+    "normal": " donald_edgar.webp",
+    "sketch": " donald_edgar.gif",
+    "source": "<i>Donald Dixon Edgar.</i> Photograph. Accessed September 18, 2024. https://www.ae-memoir.com/photogallery"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1924,
+        1928
+      ],
+      "name": "<b>Student</b>, Williams College, Williamstown",
+      "subs": [
+        {
+          "term": [
+            1924,
+            1928
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1930,
+        1962
+      ],
+      "name": "<b>Bureaucrat, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1930,
+            1940
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1930,
+                1931
+              ],
+              "name": "<b>Consul, Vice</b>, Kingston, Canada",
+              "subs": []
+            },
+            {
+              "term": [
+                1931,
+                1933
+              ],
+              "name": "<b>Consul, Vice</b>, Hong Kong, ⟨United Kingdom|China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1933,
+                1936
+              ],
+              "name": "<b>Consul, Vice</b>, Havana, Cuba",
+              "subs": []
+            },
+            {
+              "term": [
+                1936,
+                1937
+              ],
+              "name": "<b>Secretary, Third</b>, Ciudad Trujillo, Dominican Republic",
+              "subs": []
+            },
+            {
+              "term": [
+                1937,
+                1940
+              ],
+              "name": "<b>Consul</b>, Geneva, Switzerland",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1940,
+            1941
+          ],
+          "name": "<b>Undercover Operative</b>, “The Edgar Clay Company”",
+          "subs": []
+        },
+        {
+          "term": [
+            1942,
+            1943
+          ],
+          "name": "<b>Clerk</b>, ⟨American Hemisphere Exports Office|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1943,
+            1944
+          ],
+          "name": "<b>Clerk</b>, ⟨Division of Exports and Requirements|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1944,
+            1944
+          ],
+          "name": "<b>Clerk</b>, ⟨Board of Economic Warfare|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1944,
+            1945
+          ],
+          "name": "<b>Clerk</b>, ⟨Office of American Republics|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1945,
+            1946
+          ],
+          "name": "<b>Clerk</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1946,
+            1947
+          ],
+          "name": "<b>Chief</b>, ⟨Central Intelligence Group|Central Intelligence Agency⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1947,
+            1957
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1947,
+                1948
+              ],
+              "name": "<b>Consul</b>, Taipei, ⟨Japan|Taiwan⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1948,
+                1950
+              ],
+              "name": "<b>Consul General</b>, Taipei, ⟨Japan|Taiwan⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1950,
+                1951
+              ],
+              "name": "<b>Secretary, First</b>, Rome, Italy",
+              "subs": []
+            },
+            {
+              "term": [
+                1953,
+                1955
+              ],
+              "name": "<b>Consul General</b>, Alexandria, Egypt",
+              "subs": []
+            },
+            {
+              "term": [
+                1955,
+                1957
+              ],
+              "name": "<b>Counsellor</b>, Rio de Janeiro, Brazil",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1957,
+            1959
+          ],
+          "name": "<b>Director</b>, ⟨International Educational Exchange Service|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1959,
+            1962
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1959,
+                1962
+              ],
+              "name": "<b>Consul General</b>, Marseille, France",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1947,
+        1962
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Office of the Director of National Intelligence",
+      "subs": [
+        {
+          "term": [
+            1947,
+            1962
+          ],
+          "name": "<b>Undercover Operative</b>, ❰US❱ Central Intelligence Agency",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

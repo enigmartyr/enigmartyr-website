@@ -1,0 +1,158 @@
+{
+  "name": {
+    "full": "Charles William Bradley",
+    "last": "Bradley"
+  },
+  "span": [
+    1807,
+    1865
+  ],
+  "portraiture": null,
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1825,
+        null
+      ],
+      "name": "<b>Student</b>, ⟨Washington College|Trinity College⟩, Hartford",
+      "subs": []
+    },
+    {
+      "term": [
+        null,
+        1830
+      ],
+      "name": "<b>Student</b>, ⟨General Protestant Episcopal Theological Seminary|General Theological Seminary⟩, New York",
+      "subs": [
+        {
+          "term": [
+            null,
+            1830
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        null,
+        1846
+      ],
+      "name": "<b>Student</b>, ⟨Hobart College|Hobart and William Smith Colleges⟩, Geneva",
+      "subs": [
+        {
+          "term": [
+            null,
+            1846
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1843,
+        1844
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US-CT❱ Connecticut House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1843,
+            1844
+          ],
+          "name": "<b>Clerk</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1846,
+        1847
+      ],
+      "name": "<b>Politician</b>, ❰US-CT❱ Office of the Secretary of the State",
+      "subs": [
+        {
+          "term": [
+            1846,
+            1847
+          ],
+          "name": "<b>Secretary of the State</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1849,
+        1860
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1849,
+            1860
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Consular Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1849,
+                1854
+              ],
+              "name": "<b>Consul</b>, ⟨Amoy|Xiamen⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1854,
+                1857
+              ],
+              "name": "<b>Consul</b>, Singapore, ⟨United Kingdom|Republic of Singapore⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1857,
+                1860
+              ],
+              "name": "<b>Consul</b>, ⟨Ningpo|Ningbo⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1860,
+        1863
+      ],
+      "name": "<b>Bureaucrat</b>, ❰CN❱ Ministry of Revenue (Great Qing)",
+      "subs": [
+        {
+          "term": [
+            1860,
+            1863
+          ],
+          "name": "<b>Customs Officer</b>, ❰CN❱ ⟨Imperial Maritime Customs Service|Chinese Maritime Customs Service⟩",
+          "subs": [
+            {
+              "term": [
+                1860,
+                1863
+              ],
+              "name": "<b>Tidewaiter</b>, Hankou, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

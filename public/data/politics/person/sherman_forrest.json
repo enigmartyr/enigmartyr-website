@@ -1,0 +1,116 @@
+{
+  "name": {
+    "full": "Forrest Percival Sherman",
+    "last": "Sherman"
+  },
+  "span": [
+    1896,
+    1951
+  ],
+  "portraiture": {
+    "normal": " forrest_sherman.webp",
+    "sketch": " forrest_sherman.gif",
+    "source": "<i>Captain Forrest P. Sherman.</i> Photograph. Accessed September 16, 2024. https://www.history.navy.mil/our-collections/photography/us-people/s/sherman-forrest-p.html"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1914,
+        1951
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defence",
+      "subs": [
+        {
+          "term": [
+            1914,
+            1917
+          ],
+          "name": "<b>Cadet</b>, United States Naval Academy, Annapolis",
+          "subs": []
+        },
+        {
+          "term": [
+            1917,
+            1951
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1917,
+                1922
+              ],
+              "name": "(OF-01) <b>Ensign</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1922,
+                1930
+              ],
+              "name": "(OF-02) <b>Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1930,
+                1937
+              ],
+              "name": "(OF-03) <b>Commander, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1937,
+                1942
+              ],
+              "name": "(OF-03) <b>Commander</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1942,
+                1943
+              ],
+              "name": "(OF-05) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1943,
+                1945
+              ],
+              "name": "(OF-07) <b>⟨Admiral, Rear|Rear Admiral Upper Half⟩</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1945,
+                1949
+              ],
+              "name": "(OF-08) <b>Admiral, Vice</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1949,
+                -1
+              ],
+              "name": "(OF-08) <b>Admiral</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1949,
+            -1
+          ],
+          "name": "<b>Chief of Naval Operations</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

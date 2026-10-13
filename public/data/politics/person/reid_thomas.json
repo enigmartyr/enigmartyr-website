@@ -1,0 +1,119 @@
+{
+  "name": {
+    "full": "Thomas Reid",
+    "last": "Reid"
+  },
+  "span": [
+    1886,
+    1968
+  ],
+  "portraiture": {
+    "sketch": " thomas_reid.gif",
+    "normal": " thomas_reid.webp",
+    "source": "<i>The Hon. Thomas Reid.</i> Photograph. Accessed January 31, 2025. https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=15145"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1922,
+        1930
+      ],
+      "name": "<b>Politician</b>, Municipality (City) of Surrey, British Columbia",
+      "subs": [
+        {
+          "term": [
+            1922,
+            1924
+          ],
+          "name": "<b>Council Member</b>, Surrey City Council",
+          "subs": []
+        },
+        {
+          "term": [
+            1924,
+            1930
+          ],
+          "name": "<b>Reeve</b>, Surrey City Council",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1930,
+        1949
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1930,
+            1949
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨New Westminster|⟩",
+          "subs": [
+            {
+              "term": [
+                1945,
+                1947
+              ],
+              "name": "<b>Chairman</b>, Standing Committee on Marine and Fisheries",
+              "subs": []
+            },
+            {
+              "term": [
+                1948,
+                1948
+              ],
+              "name": "⟨<b>Assistant, Parliamentary</b>|<b>Secretary, Parliamentary</b>⟩, ❰CA❱ ⟨Department of Fisheries|Fisheries and Oceans Canada⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1948,
+                1949
+              ],
+              "name": "⟨<b>Assistant, Parliamentary</b>|<b>Secretary, Parliamentary</b>⟩, ❰CA❱ ⟨Department of National Revenue|Canada Revenue Agency⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1949,
+                1949
+              ],
+              "name": "⟨<b>Assistant, Parliamentary</b>|<b>Secretary, Parliamentary</b>⟩, ❰CA❱ ⟨Department of National Health and Welfare|Health Canada⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1949,
+        1967
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1967
+          ],
+          "name": "<b>Senator</b>, British Columbia",
+          "subs": [
+            {
+              "term": [
+                1955,
+                1955
+              ],
+              "name": "<b>Chairman</b>, Special Committee on Traffic in Narcotic Drugs in Canada",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

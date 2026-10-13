@@ -1,0 +1,168 @@
+{
+  "name": {
+    "full": "Johann Kaspar Bluntschli",
+    "last": "Bluntschli"
+  },
+  "span": [
+    1808,
+    1881
+  ],
+  "portraiture": {
+    "sketch": " johann_bluntschli.gif",
+    "normal": " johann_bluntschli.webp",
+    "source": "<i>Johann Kaspar Bluntschli.</i> Photograph. Accessed September 22, 2024. https://theonlineportraitgallery.com/portrait/johann-kaspar-bluntschli/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1826,
+        1827
+      ],
+      "name": "<b>Student</b>, ⟨Political Institute|University of Zürich⟩, Zürich",
+      "subs": []
+    },
+    {
+      "term": [
+        1827,
+        1828
+      ],
+      "name": "<b>Student</b>, University of Berlin, Berlin",
+      "subs": []
+    },
+    {
+      "term": [
+        1828,
+        1829
+      ],
+      "name": "<b>Student</b>, ⟨Rhine University|University of Bonn⟩, Bonn",
+      "subs": [
+        {
+          "term": [
+            1828,
+            1829
+          ],
+          "name": "Doctor of Jurisprudence",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1830,
+        null
+      ],
+      "name": "<b>Scholar</b>, ⟨Political Institute|University of Zürich⟩, Zürich",
+      "subs": [
+        {
+          "term": [
+            1830,
+            1833
+          ],
+          "name": "<b>Instructor</b>, Roman Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1833,
+            1836
+          ],
+          "name": "<b>Professor, Associate</b>, Roman Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1836,
+            null
+          ],
+          "name": "<b>Professor</b>, Roman Law",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1837,
+        1847
+      ],
+      "name": "<b>Politician</b>, District (Canton) of Zürich, Switzerland",
+      "subs": [
+        {
+          "term": [
+            1844,
+            1847
+          ],
+          "name": "<b>President</b>, Great Council",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1848,
+        1861
+      ],
+      "name": "<b>Scholar</b>, University of Munich, Germany",
+      "subs": [
+        {
+          "term": [
+            1848,
+            1861
+          ],
+          "name": "<b>Professor</b>, Constitutional Law",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1861,
+        -1
+      ],
+      "name": "<b>Scholar</b>, Heidelberg University, Heidelberg",
+      "subs": [
+        {
+          "term": [
+            1861,
+            -1
+          ],
+          "name": "<b>Professor</b>, Constitutional Law",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1861,
+        1868
+      ],
+      "name": "<b>Politician</b>, Upper Chamber, ⟨Grand Duchy of Baden|⟩",
+      "subs": [
+        {
+          "term": [
+            1861,
+            1868
+          ],
+          "name": "<b>Deputy</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1868,
+        null
+      ],
+      "name": "<b>Politician</b>, ⟨German Customs Union|⟩",
+      "subs": []
+    },
+    {
+      "term": [
+        1873,
+        -1
+      ],
+      "name": "<b>Scholar</b>, Institute of International Law, Ghent",
+      "subs": []
+    }
+  ]
+}

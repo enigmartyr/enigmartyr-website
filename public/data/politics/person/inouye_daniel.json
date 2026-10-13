@@ -1,0 +1,188 @@
+{
+  "name": {
+    "full": "Daniel Ken Inouye",
+    "last": "Inouye"
+  },
+  "span": [
+    1924,
+    2012
+  ],
+  "portraiture": {
+    "sketch": " daniel_inouye.gif",
+    "normal": " daniel_inouye.webp",
+    "source": "<i>Sen. Daniel K. Inouye.</i> Photograph. Accessed September 17, 2024. https://www.nbcnews.com/politics/politics-news/daniel-inouye-senates-most-senior-senator-dies-88-flna1c7655673"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1943,
+        1947
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1943,
+            null
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1943,
+                null
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1944,
+                1944
+              ],
+              "name": "(OR-04) <b>Corporal</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1944,
+                null
+              ],
+              "name": "(OR-05) <b>Sergeant</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            null,
+            1947
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                null,
+                1947
+              ],
+              "name": "(OR-02) <b>Captain</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1947,
+        1934
+      ],
+      "name": "<b>Student</b>, University of Hawaiʻi, Mānoa",
+      "subs": [
+        {
+          "term": [
+            1931,
+            1934
+          ],
+          "name": "Bachelor of Arts, Government and Economics",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1947,
+        1934
+      ],
+      "name": "<b>Student</b>, George Washington University, Washington",
+      "subs": [
+        {
+          "term": [
+            1931,
+            1934
+          ],
+          "name": "Doctor of Jurisprudence",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1958,
+        1962
+      ],
+      "name": "<b>Politician</b>, ❰US-IA❱ ⟨Iowa State Commerce Commission|Iowa Utilities Commission⟩",
+      "subs": [
+        {
+          "term": [
+            null,
+            1962
+          ],
+          "name": "<b>Chairman</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1963,
+        1969
+      ],
+      "name": "<b>Politician</b>, ❰US-IA❱ Iowa Office of the Governor",
+      "subs": [
+        {
+          "term": [
+            1963,
+            1969
+          ],
+          "name": "<b>Governor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1969,
+        1975
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1969,
+            1975
+          ],
+          "name": "<b>Senator</b>, Iowa",
+          "subs": [
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "<b>Chairman</b>, Special Subcommittee on Alcoholism and Narcotics",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1975,
+        1976
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1975,
+            1976
+          ],
+          "name": "<b>Consultant</b>, Committee on the Judiciary",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

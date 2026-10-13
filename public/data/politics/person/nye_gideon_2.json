@@ -1,0 +1,70 @@
+{
+  "name": {
+    "full": "Gideon Nye, Jr",
+    "last": "Nye"
+  },
+  "span": [
+    1812,
+    1888
+  ],
+  "portraiture": {
+    "sketch": " gideon_nye_2.gif",
+    "normal": " gideon_nye_2.webp",
+    "source": "<i>Gidean Nye.</i> Photograph. Accessed February 19, 2025. https://m.thepaper.cn/kuaibao_detail.jsp?contid=23281055"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1845,
+        null
+      ],
+      "name": "<b>Bureaucrat</b>, ❰CL❱ Ministry of Foreign Affairs",
+      "subs": [
+        {
+          "term": [
+            1845,
+            null
+          ],
+          "name": "<b>Diplomat</b>, ❰CL❱ Diplomatic Corps",
+          "subs": [
+            {
+              "term": [
+                1845,
+                null
+              ],
+              "name": "b>Consul</b>, ⟨Canton|Guangzhou⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1857,
+        -1
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1857,
+            -1
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Diplomatic Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1857,
+                -1
+              ],
+              "name": "<b>Consul, Vice</b>, Macao, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

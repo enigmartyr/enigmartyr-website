@@ -1,0 +1,390 @@
+{
+  "name": {
+    "full": "Li Hongzhang (李鴻章)",
+    "last": "Li (李)"
+  },
+  "span": [
+    1823,
+    1901
+  ],
+  "portraiture": {
+    "sketch": " li_hongzhang.gif",
+    "normal": " li_hongzhang.webp",
+    "source": "<i>Li Hung Chang.</i> Photograph. Accessed February 10, 2025. https://commons.wikimedia.org/wiki/File:Li_Hung_Chang_in_1896.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        1847
+      ],
+      "name": "<b>Student</b>",
+      "subs": [
+        {
+          "term": [
+            null,
+            1843
+          ],
+          "name": "County Examination (秀才科)",
+          "subs": []
+        },
+        {
+          "term": [
+            1843,
+            1844
+          ],
+          "name": "Provincial Examination (鄉試)",
+          "subs": []
+        },
+        {
+          "term": [
+            1844,
+            1847
+          ],
+          "name": "Metropolitan Examination (會試)",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1843,
+        -1
+      ],
+      "name": "<b>Scholar</b>",
+      "subs": [
+        {
+          "term": [
+            1843,
+            1844
+          ],
+          "name": "<b>Xiucai (秀才)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1844,
+            1847
+          ],
+          "name": "<b>Juren (舉人)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1847,
+            -1
+          ],
+          "name": "<b>Jinshi (進士)</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1853,
+        1894
+      ],
+      "name": "<b>Serviceman</b>",
+      "subs": [
+        {
+          "term": [
+            1853,
+            1861
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ⟨Xiang Army (湘軍)|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1861,
+            1894
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ⟨Huai Army (淮軍)|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1879,
+            1894
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ⟨Beiyang Fleet (北洋舰队)|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1859,
+        -1
+      ],
+      "name": "<b>Bureaucrat</b>",
+      "subs": [
+        {
+          "term": [
+            1859,
+            1859
+          ],
+          "name": "<b>Circuit Intendant (Taotai; 道臺)</b>, Yanjianshao Circuit (延建邵道), Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1860,
+            1860
+          ],
+          "name": "<b>Circuit Intendant (Taotai; 道臺)</b>, Jinan-Gannan Circuit (吉南贛南道), Province (省) of Fujian (福建)",
+          "subs": []
+        },
+        {
+          "term": [
+            1862,
+            1867
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Jiangsu (江蘇)",
+          "subs": []
+        },
+        {
+          "term": [
+            1862,
+            1863
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Liangguang (兩廣)",
+          "subs": []
+        },
+        {
+          "term": [
+            1863,
+            1866
+          ],
+          "name": "<b>Minister of Commerce for the Five Ports (五口通商大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1863,
+            1866
+          ],
+          "name": "<b>Minister of Commerce for the Southern Coast (南洋通商大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1865,
+            1866
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Liangjiang (兩江)",
+          "subs": []
+        },
+        {
+          "term": [
+            1867,
+            1870
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Huguang (湖廣)",
+          "subs": []
+        },
+        {
+          "term": [
+            1867,
+            1870
+          ],
+          "name": "<b>Minister of War (兵部尚書)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1868,
+            1872
+          ],
+          "name": "<b>Grand Secretary, Deputy (協辦大學士)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1869,
+            1869
+          ],
+          "name": "<b>Governor (巡撫)</b>, Province (省) of Hubei (湖北)",
+          "subs": []
+        },
+        {
+          "term": [
+            1870,
+            1882
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Zhili (直隸)",
+          "subs": []
+        },
+        {
+          "term": [
+            1870,
+            1882
+          ],
+          "name": "<b>Minister of Commerce for the Northern Coast (北洋通商大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1871,
+            1871
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>, ⟨Empire of Japan|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1872,
+            1874
+          ],
+          "name": "<b>Grand Secretary of the Wuying Hall (武英殿大學士)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1874,
+            1874
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>, ⟨Peruvian Republic|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1874,
+            1882
+          ],
+          "name": "<b>Grand Secretary of the Wenhua Hall (文華殿大學士)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1875,
+            1876
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>, United Kingdom",
+          "subs": []
+        },
+        {
+          "term": [
+            1880,
+            1880
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>, ⟨Empire of Brazil|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1883,
+            1895
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Zhili (直隸)",
+          "subs": []
+        },
+        {
+          "term": [
+            1883,
+            1895
+          ],
+          "name": "<b>Minister of Commerce for the Northern Coast (北洋通商大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1884,
+            1886
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>, ⟨French Third Republic|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1885,
+            1885
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>, ⟨Empire of Japan|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1887,
+            1887
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>, ⟨Kingdom of Portugal|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1895,
+            1895
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>, ⟨Empire of Japan|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1895,
+            1901
+          ],
+          "name": "<b>⟨<b>Minister Plenipotentiary</b>|<b>Ambassador-at-large</b>⟩ (頭等專使大臣)</b>, Western Powers",
+          "subs": []
+        },
+        {
+          "term": [
+            1899,
+            1899
+          ],
+          "name": "<b>Minister of Commerce (办理通商事务大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1899,
+            1900
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Liangguang (兩廣)",
+          "subs": []
+        },
+        {
+          "term": [
+            1900,
+            -1
+          ],
+          "name": "<b>Governor-General (總督)</b>, Multi-Province Region (总督区) of Zhili (直隸)",
+          "subs": []
+        },
+        {
+          "term": [
+            1900,
+            -1
+          ],
+          "name": "<b>Minister of Commerce for the Northern Coast (北洋通商大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1900,
+            1901
+          ],
+          "name": "<b>Minister Plenipotentiary (全权大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1901,
+            -1
+          ],
+          "name": "<b>Minister of the Zongli Yamen (总理各国事务衙门大臣)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1901,
+            -1
+          ],
+          "name": "<b>Minister of Government Affairs (督辦政務處大臣)</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

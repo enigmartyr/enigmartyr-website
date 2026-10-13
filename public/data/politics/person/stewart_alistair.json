@@ -1,0 +1,52 @@
+{
+  "name": {
+    "full": "Alistair McLeod Stewart",
+    "last": "Stewart"
+  },
+  "span": [
+    1905,
+    1970
+  ],
+  "portraiture": {
+    "sketch": " alistair_steward.gif",
+    "normal": " alistair_steward.webp",
+    "source": "<i>Alistair Stewart.</i> Photograph. Accessed February 2, 2025. https://www.newspapers.com/image/39288714/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>, University of Edinburgh, Edinburgh",
+      "subs": [
+        {
+          "term": [
+            null,
+            null
+          ],
+          "name": "Bachelor of Science, Agriculture",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1958
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1958
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of Winnipeg North",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

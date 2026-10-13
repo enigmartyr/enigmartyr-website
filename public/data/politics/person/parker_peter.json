@@ -1,0 +1,110 @@
+{
+  "name": {
+    "full": "Peter Parker",
+    "last": "Parker"
+  },
+  "span": [
+    1804,
+    1888
+  ],
+  "portraiture": {
+    "sketch": " peter_parker.gif",
+    "normal": " peter_parker.webp",
+    "source": "<i>Hon. Parker.</i> Photograph. Accessed February 19, 2025. https://catalog.archives.gov/id/528706"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1826,
+        1830
+      ],
+      "name": "<b>Student</b>, Amherst College, Amherst",
+      "subs": []
+    },
+    {
+      "term": [
+        1830,
+        1834
+      ],
+      "name": "<b>Student</b>, Yale University, New Haven",
+      "subs": [
+        {
+          "term": [
+            1830,
+            1831
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        },
+        {
+          "term": [
+            1831,
+            1834
+          ],
+          "name": "Doctor of Medicine",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1845,
+        1857
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1845,
+            1857
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Diplomatic Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1845,
+                1847
+              ],
+              "name": "<b>Secretary</b>, Macao, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1847,
+                1855
+              ],
+              "name": "<b>Charge d’Affaires</b>, Macao, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1855,
+                1857
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|<b>Ambassador Plenipotentiary</b>⟩, Macao, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1857,
+        1865
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Office of the President",
+      "subs": [
+        {
+          "term": [
+            1857,
+            1865
+          ],
+          "name": "<b>Advisor</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "name": {
+    "full": "Hedley Norman Bull",
+    "last": "Bull"
+  },
+  "span": [
+    1932,
+    1985
+  ],
+  "portraiture": {
+    "normal": " hedley_bull.webp",
+    "sketch": " hedley_bull.gif",
+    "source": "<i>Hedley Bull.</i> Photograph. Accessed January 25, 2025. https://ecpr.eu/Prizes/PrizeDetails.aspx?PrizeID=11"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1949,
+        1952
+      ],
+      "name": "<b>Student</b>, University of Sydney, Sydney",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1952
+          ],
+          "name": "Bachelor of Arts, History and Philosophy",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1953,
+        1955
+      ],
+      "name": "<b>Student</b>, University of Sydney, Sydney",
+      "subs": [
+        {
+          "term": [
+            1953,
+            null
+          ],
+          "name": "Bachelor of Philosophy, Politics",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1955
+          ],
+          "name": "Master of Arts, Politics",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1955,
+        1967
+      ],
+      "name": "<b>Scholar</b>, University of London, London",
+      "subs": [
+        {
+          "term": [
+            1955,
+            1958
+          ],
+          "name": "<b>Lecturer, Assistant</b>, International Relations",
+          "subs": []
+        },
+        {
+          "term": [
+            1959,
+            1962
+          ],
+          "name": "<b>Lecturer</b>, International Relations",
+          "subs": []
+        },
+        {
+          "term": [
+            1963,
+            1967
+          ],
+          "name": "<b>Lecturer, Principal</b>, International Relations",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1963,
+        1964
+      ],
+      "name": "<b>Scholar</b>, Princeton University, Princeton",
+      "subs": [
+        {
+          "term": [
+            1963,
+            1964
+          ],
+          "name": "<b>Research Associate</b>, International Affairs",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1964,
+        1967
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+      "subs": [
+        {
+          "term": [
+            1964,
+            1967
+          ],
+          "name": "<b>Director</b>, ⟨Arms Control and Disarmament Research Unit|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1967,
+        1977
+      ],
+      "name": "<b>Scholar</b>, Australian National University, Canberra",
+      "subs": [
+        {
+          "term": [
+            1967,
+            1977
+          ],
+          "name": "<b>Professor</b>, International Relations",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1970,
+        1971
+      ],
+      "name": "<b>Scholar</b>, Columbia University, New York",
+      "subs": [
+        {
+          "term": [
+            1970,
+            1971
+          ],
+          "name": "<b>Professor</b>, War and Peace Studies",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1974,
+        1975
+      ],
+      "name": "<b>Scholar</b>, Jawaharlal Nehru University, Delhi",
+      "subs": [
+        {
+          "term": [
+            1974,
+            1975
+          ],
+          "name": "<b>Professor</b>, International Politics and Organization",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1977,
+        1985
+      ],
+      "name": "<b>Scholar</b>, University of Oxford, Oxford",
+      "subs": [
+        {
+          "term": [
+            1977,
+            1985
+          ],
+          "name": "<b>Professor, <i>Montague Burton</i></b>, International Relations",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

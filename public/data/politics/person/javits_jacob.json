@@ -1,0 +1,137 @@
+{
+  "name": {
+    "full": "Jacob Koppel Javits",
+    "last": "Javits"
+  },
+  "span": [
+    1904,
+    1986
+  ],
+  "portraiture": {
+    "sketch": " jacob_javits.gif",
+    "normal": " jacob_javits.webp",
+    "source": "<i>Javits, Jacob K. Honorable.</i> Photograph. Accessed September 16, 2024. https://hdl.loc.gov/loc.pnp/hec.21754"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1920,
+        1923
+      ],
+      "name": "<b>Student</b>, Columbia University, New York",
+      "subs": [
+        {
+          "term": [
+            1920,
+            1923
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1923,
+        1926
+      ],
+      "name": "<b>Student</b>, New York University, New York",
+      "subs": [
+        {
+          "term": [
+            1923,
+            1926
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1927,
+        1942
+      ],
+      "name": "<b>Legal Practitioner</b>, “Javits & Javits”",
+      "subs": []
+    },
+    {
+      "term": [
+        1942,
+        1945
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1945
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1942,
+                1945
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1947,
+        1954
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1947,
+            1954
+          ],
+          "name": "<b>Representative</b>, New York",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1955,
+        1957
+      ],
+      "name": "<b>Legal Officer</b>, ❰US-NY❱ Office of the Attorney General",
+      "subs": [
+        {
+          "term": [
+            1955,
+            1957
+          ],
+          "name": "<b>Attorney General</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1957,
+        1981
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1957,
+            1981
+          ],
+          "name": "<b>Senator</b>, New York",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

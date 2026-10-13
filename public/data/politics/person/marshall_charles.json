@@ -1,0 +1,162 @@
+{
+  "name": {
+    "full": "Charles Burton Marshall",
+    "last": "Marshall"
+  },
+  "span": [
+    1908,
+    1999
+  ],
+  "portraiture": {
+    "normal": " charles_marshall.webp",
+    "sketch": " charles_marshall.gif",
+    "source": "<i>Charles Burton Marshall.</i> Photograph. Accessed December 21, 2024. https://ancestors.familysearch.org/en/L2P7-297/charles-burton-marshall-1908-1999"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1930,
+        1933
+      ],
+      "name": "<b>Student</b>, ⟨Texas College of Mines and Metallurgy|University of Texas, El Paso⟩",
+      "subs": []
+    },
+    {
+      "term": [
+        1933,
+        1934
+      ],
+      "name": "<b>Student</b>, University of Texas, Austin",
+      "subs": [
+        {
+          "term": [
+            1933,
+            1934
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1934,
+        1938
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1934,
+            1938
+          ],
+          "name": "Doctor of Philosophy, Government",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1938,
+        1942
+      ],
+      "name": "<b>Scholar</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1938,
+            1942
+          ],
+          "name": "<b>Instructor</b>, Government",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1942,
+        1945
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1945
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1942,
+                null
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                1945
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1946,
+        1947
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1946,
+            1947
+          ],
+          "name": "<b>Consultant</b>, ⟨Intergovernmental Committee on Refugees|United Nations High Commissioner for Refugees⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1947,
+        1950
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1947,
+            1950
+          ],
+          "name": "<b>Consultant</b>, Committee on Foreign Affairs",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1950,
+        1953
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1950,
+            1953
+          ],
+          "name": "<b>Member</b>, Policy Planning Staff",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

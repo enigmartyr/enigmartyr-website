@@ -1,0 +1,44 @@
+{
+  "name": {
+    "full": "Gabriel James Morrison",
+    "last": "Morrison"
+  },
+  "span": [
+    1840,
+    1905
+  ],
+  "portraiture": {
+    "normal": " gabriel_morrison.webp",
+    "sketch": " gabriel_morrison.gif",
+    "source": "<i>Gabriel James Morrison.</i> Photograph. Accessed January 25, 2025. https://www.gracesguide.co.uk/File:Im1898EnV85-p251.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1862,
+        1864
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1862,
+            1864
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰UK❱ ⟨Volunteer Force|Army Reserve⟩",
+          "subs": [
+            {
+              "term": [
+                1862,
+                1864
+              ],
+              "name": "(OF-01) Lieutenant",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "name": {
+    "full": "Adlai Ewing Stevenson III",
+    "last": "Stevenson"
+  },
+  "span": [
+    1930,
+    2021
+  ],
+  "portraiture": {
+    "sketch": " adlai_stevenson_3.gif",
+    "normal": " adlai_stevenson_3.webp",
+    "source": "<i>Sen. Adlai Stevenson III.</i> Photograph. Accessed September 17, 2024. https://www.loc.gov/item/2017646210/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1949,
+        1952
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1952
+          ],
+          "name": "Bachelor of Arts, Government",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1952,
+        1961
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defense",
+      "subs": [
+        {
+          "term": [
+            1952,
+            null
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Marine Corps",
+          "subs": [
+            {
+              "term": [
+                1952,
+                null
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            null,
+            1954
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Marine Corps",
+          "subs": [
+            {
+              "term": [
+                null,
+                1954
+              ],
+              "name": "(OF-01) <b>Lieutenant, First</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1954,
+            1961
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰US❱ Marine Corps",
+          "subs": [
+            {
+              "term": [
+                null,
+                1961
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1954,
+        1957
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1954,
+            1957
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1958,
+        1964
+      ],
+      "name": "<b>Legal Practitioner</b>, “Brown & Platt”",
+      "subs": []
+    },
+    {
+      "term": [
+        1965,
+        1967
+      ],
+      "name": "<b>Politician</b>, ❰US-IL❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1965,
+            1967
+          ],
+          "name": "<b>Representative</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1967,
+        1970
+      ],
+      "name": "<b>Politician</b>, ❰US-IL❱ Office of the State Treasurer",
+      "subs": [
+        {
+          "term": [
+            1967,
+            1970
+          ],
+          "name": "<b>Treasurer</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1970,
+        1981
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1970,
+            1981
+          ],
+          "name": "<b>Senator</b>, Illinois",
+          "subs": [
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on Science, Technology and Space",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on International Finance",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on the Collection and Production of Intelligence",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on Oil and Gas Production",
+              "subs": []
+            },
+            {
+              "term": [
+                null,
+                null
+              ],
+              "name": "<b>Chairman</b>, Select Committee on Ethics",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

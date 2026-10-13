@@ -1,0 +1,120 @@
+{
+  "name": {
+    "full": "Charles Harvey Denby",
+    "last": "Denby"
+  },
+  "span": [
+    1830,
+    1904
+  ],
+  "portraiture": {
+    "sketch": " charles_denby.gif",
+    "normal": " charles_denby.webp",
+    "source": "<i>Charles Denby.</i> Photograph. Accessed February 1, 2025. https://commons.wikimedia.org/wiki/File:Charles_Denby_-_circa_1906_(cropped).jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>, ⟨Georgetown College|Georgetown University⟩, Washington",
+      "subs": []
+    },
+    {
+      "term": [
+        null,
+        1850
+      ],
+      "name": "<b>Student</b>, Virginia Military Institute, Lexington",
+      "subs": [
+        {
+          "term": [
+            null,
+            1850
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1856,
+        1857
+      ],
+      "name": "<b>Politician</b>, ❰US-IN❱ Indiana House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1856,
+            1857
+          ],
+          "name": "<b>Representative</b>, Vanderburgh County",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1861,
+        1863
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1861,
+            1863
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1861,
+                1862
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1862,
+                1863
+              ],
+              "name": "(OF-05) <b>Colonel</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1885,
+        1898
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1885,
+            1898
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Diplomatic Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1885,
+                1898
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|<b>Ambassador Plenipotentiary</b>⟩, ⟨Great Qing|People's Republic of China⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

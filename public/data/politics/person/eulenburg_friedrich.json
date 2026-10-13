@@ -1,0 +1,244 @@
+{
+  "name": {
+    "full": "Friedrich Albrecht Graf zu Eulenburg",
+    "last": "zu Eulenburg"
+  },
+  "span": [
+    1815,
+    1881
+  ],
+  "portraiture": {
+    "sketch": " eulenburg_friedrich.gif",
+    "normal": " eulenburg_friedrich.webp",
+    "source": "<i>Maximilian August Scipio von Brandt.</i> Photograph. Accessed July 23, 2025. https://commons.wikimedia.org/wiki/File:Friedrich_Albrecht_Graf_zu_Eulenburg.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>, ⟨University of Königsberg, Königsberg|Immanuel Kant Baltic Federal University, Kaliningrad⟩",
+      "subs": []
+    },
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>, ⟨Rhine University|University of Bonn⟩, Bonn",
+      "subs": []
+    },
+    {
+      "term": [
+        1835,
+        1837
+      ],
+      "name": "<b>Legal Officer</b>, Municipality (Town) of Frankfurt an der Oder, Brandenburg",
+      "subs": [
+        {
+          "term": [
+            1835,
+            1837
+          ],
+          "name": "<b>Law Clerk (Auscultator)</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1837,
+        null
+      ],
+      "name": "<b>Legal Officer</b>, District (Stadtkreis) of Koblenz, ⟨Prussian Rhine|Rhineland-Palatinate⟩",
+      "subs": [
+        {
+          "term": [
+            1837,
+            null
+          ],
+          "name": "<b>Attorney (Referendary)</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        null,
+        1843
+      ],
+      "name": "<b>Legal Officer</b>, District (Stadtkreis) of Cologne, ⟨Prussian Rhine|North Rhine-Westphalia⟩",
+      "subs": [
+        {
+          "term": [
+            null,
+            1842
+          ],
+          "name": "<b>Attorney (Referendary)</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1842,
+            1843
+          ],
+          "name": "<b>Assessor, Court</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1843,
+        1845
+      ],
+      "name": "<b>Legal Officer</b>, District (Stadtkreis) of Oppeln, ⟨Prussian Silesia|Opole Voivodeship⟩",
+      "subs": [
+        {
+          "term": [
+            1843,
+            1844
+          ],
+          "name": "<b>Assessor, Court</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1844,
+            1845
+          ],
+          "name": "<b>Assessor, Government</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1845,
+        1848
+      ],
+      "name": "<b>Legal Officer</b>, District (Stadtkreis) of Saalekreis, ⟨Prussian Saxony|Saxony-Anhalt⟩",
+      "subs": [
+        {
+          "term": [
+            1845,
+            1848
+          ],
+          "name": "<b>Assessor, Government</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1848,
+        1849
+      ],
+      "name": "<b>Bureaucrat</b>, ❰DE❱ ⟨Prussian Ministry of Finance|⟩",
+      "subs": [
+        {
+          "term": [
+            1848,
+            1849
+          ],
+          "name": "<b>Assistant</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1849,
+        1852
+      ],
+      "name": "<b>Bureaucrat</b>, ❰DE❱ ⟨Prussian Ministry of the Interior|⟩",
+      "subs": [
+        {
+          "term": [
+            1849,
+            1849
+          ],
+          "name": "<b>Assistant</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1849,
+            1852
+          ],
+          "name": "<b>Councilor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1852,
+        1862
+      ],
+      "name": "<b>Bureaucrat</b>, ❰DE❱ ⟨Kingdom of Prussia|Federal Republic of Germany⟩",
+      "subs": [
+        {
+          "term": [
+            1852,
+            1862
+          ],
+          "name": "<b>Diplomat</b>, ❰DE❱ ⟨Prussian Consular Service|⟩",
+          "subs": [
+            {
+              "term": [
+                1852,
+                1855
+              ],
+              "name": "<b>Consul General</b>, Antwerp, Belgium",
+              "subs": []
+            },
+            {
+              "term": [
+                1855,
+                1858
+              ],
+              "name": "<b>Councilor</b>, Antwerp, Belgium",
+              "subs": []
+            },
+            {
+              "term": [
+                1858,
+                1859
+              ],
+              "name": "<b>Chamberlain</b>, Warsaw, Poland",
+              "subs": []
+            },
+            {
+              "term": [
+                1859,
+                1862
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|<b>Ambassador-at-large</b>⟩, Prussian East Asia Expedition",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1862,
+        1878
+      ],
+      "name": "<b>Bureaucrat</b>, ❰DE❱ ⟨Prussian Ministry of the Interior|⟩",
+      "subs": [
+        {
+          "term": [
+            1862,
+            1878
+          ],
+          "name": "<b>Minister of the Interior</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

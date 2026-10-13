@@ -1,0 +1,135 @@
+{
+  "name": {
+    "full": "Hubert Ashton Graves",
+    "last": "Graves"
+  },
+  "span": [
+    1894,
+    1972
+  ],
+  "portraiture": {
+    "normal": " hubert_graves.webp",
+    "sketch": " hubert_graves.gif",
+    "source": "<i>Sir Hubert Ashton Graves.</i> Photograph. Accessed January 25, 2025. https://www.npg.org.uk/collections/search/portrait/mw222448/Sir-Hubert-Ashton-Graves"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1915,
+        null
+      ],
+      "name": "<b>Serviceman</b>, ❰UK❱ ⟨War Office|Ministry of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1915,
+            1918
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰UK❱ Army",
+          "subs": [
+            {
+              "term": [
+                1915,
+                1918
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1918,
+                null
+              ],
+              "name": "(OF-01) <b>Lieutenant</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1923,
+        1926
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ ⟨Inland Revenue|Revenue and Customs⟩",
+      "subs": [
+        {
+          "term": [
+            1923,
+            1926
+          ],
+          "name": "<b>Clerk</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1926,
+        1955
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ ⟨Foreign Office|Foreign, Commonwealth and Development Office⟩",
+      "subs": [
+        {
+          "term": [
+            1926,
+            1955
+          ],
+          "name": "<b>Diplomat</b>, ❰UK❱ ⟨Consular Service|Diplomatic Service⟩",
+          "subs": [
+            {
+              "term": [
+                1926,
+                1928
+              ],
+              "name": "<b>Interpreter, Student</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1928,
+                1938
+              ],
+              "name": "<b>Consul, Vice</b>, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1938,
+                null
+              ],
+              "name": "<b>Consul</b>, Osaka, Japan",
+              "subs": []
+            },
+            {
+              "term": [
+                1946,
+                1951
+              ],
+              "name": "<b>Counselor</b>, Washington, D.C., United States",
+              "subs": []
+            },
+            {
+              "term": [
+                1951,
+                1954
+              ],
+              "name": "<b>Ambassador</b>, ⟨Indochinese Federation|⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1954,
+                1955
+              ],
+              "name": "<b>Ambassador</b>, ⟨Republic of Vietnam|Socialist Republic of Vietnam⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

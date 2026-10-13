@@ -1,0 +1,111 @@
+{
+  "name": {
+    "full": "John Foster Dulles",
+    "last": "Dulles"
+  },
+  "span": [
+    1888,
+    1959
+  ],
+  "portraiture": {
+    "sketch": " julius_holmes.gif",
+    "normal": " julius_holmes.webp",
+    "source": "<i>John Foster Dulles.</i> Photograph. Accessed August 4, 2024. https://bioguide.congress.gov/search/bio/D000522"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1917,
+        1919
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defence⟩",
+      "subs": [
+        {
+          "term": [
+            1917,
+            1919
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1917,
+                1918
+              ],
+              "name": "(OF-02) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1918,
+                1919
+              ],
+              "name": "(OF-03) <b>Major</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1949,
+        1949
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1949
+          ],
+          "name": "<b>Senator</b>, New York",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1950,
+        1959
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1950,
+            1950
+          ],
+          "name": "<b>Consultant</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1950,
+            1951
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1950,
+                1951
+              ],
+              "name": "<b>Ambassador-at-large</b>",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1953,
+            1959
+          ],
+          "name": "<b>Secretary of State</b>",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": {
+    "full": "Charles Egbert de Long",
+    "last": "de Long"
+  },
+  "span": [
+    1832,
+    1876
+  ],
+  "portraiture": {
+    "sketch": " charles_delong.gif",
+    "normal": " charles_delong.webp",
+    "source": "<i>Charles DeLong.</i> Photograph. Accessed February 7, 2025. https://commons.wikimedia.org/wiki/File:Charles_DeLong.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1858,
+        1859
+      ],
+      "name": "<b>Politician</b>, ❰US-CA❱ California State Assembly",
+      "subs": [
+        {
+          "term": [
+            1858,
+            1859
+          ],
+          "name": "<b>Assemblyman</b>, ⟨Yuba County|3rd district⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1861,
+        1862
+      ],
+      "name": "<b>Politician</b>, ❰US-CA❱ California State Senate",
+      "subs": [
+        {
+          "term": [
+            1861,
+            1862
+          ],
+          "name": "<b>Senator</b>, ⟨Yuba County|1st district⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1869,
+        1873
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1869,
+            1873
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ ⟨Diplomatic Service|Foreign Service⟩",
+          "subs": [
+            {
+              "term": [
+                1869,
+                1872
+              ],
+              "name": "⟨<b>Minister Resident</b>|⟩, ⟨Empire of Japan|⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1872,
+                1873
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|⟩, ⟨Empire of Japan|⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1871,
+        1871
+      ],
+      "name": "<b>Bureaucrat</b>, ❰⟨<b>HI</b>|US-HI⟩❱ ⟨Ministry of Foreign Affairs|⟩",
+      "subs": [
+        {
+          "term": [
+            1871,
+            1871
+          ],
+          "name": "<b>Diplomat</b>, ❰⟨<b>HI</b>|US-HI⟩❱ ⟨Diplomatic Corps|⟩",
+          "subs": [
+            {
+              "term": [
+                1871,
+                1871
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|⟩, ⟨Empire of Japan|⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "name": {
+    "full": "Philip Aloysius Hart",
+    "last": "Hart"
+  },
+  "span": [
+    1912,
+    1976
+  ],
+  "portraiture": {
+    "sketch": " philip_hart.gif",
+    "normal": " philip_hart.webp",
+    "source": "<i>Philip A. Hart (D-MI).</i> Photograph. Accessed September 17, 2024. https://www.senate.gov/about/images/hart-philip-aloysius.htm"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1931,
+        1934
+      ],
+      "name": "<b>Student</b>, Georgetown University, Washington",
+      "subs": [
+        {
+          "term": [
+            1931,
+            1934
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1934,
+        1937
+      ],
+      "name": "<b>Student</b>, University of Michigan, Ann Arbor",
+      "subs": [
+        {
+          "term": [
+            1934,
+            1937
+          ],
+          "name": "Doctor of Jurisprudence",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1938,
+        1941
+      ],
+      "name": "<b>Legal Practitioner</b>, “Beaumont, Smith & Harris”",
+      "subs": []
+    },
+    {
+      "term": [
+        1941,
+        1946
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ Department of Defence",
+      "subs": [
+        {
+          "term": [
+            1941,
+            1946
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1941,
+                1946
+              ],
+              "name": "(OF-04) <b>Colonel, Lieutenant</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1946,
+        1949
+      ],
+      "name": "<b>Legal Practitioner</b>, “Monaghan, Hart & Crawmer”",
+      "subs": []
+    },
+    {
+      "term": [
+        1949,
+        1952
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US-MI❱ ⟨Department of Commerce|Department of Licensing and Regulatory Affairs⟩",
+      "subs": [
+        {
+          "term": [
+            1949,
+            1951
+          ],
+          "name": "<b>Commissioner</b>, ⟨Corporation and Securities Commission|⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1951,
+            1952
+          ],
+          "name": "<b>Director</b>, ⟨Office of Price Stabilization|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1952,
+        1953
+      ],
+      "name": "<b>Legal Officer</b>, ❰US❱ Department of Justice",
+      "subs": [
+        {
+          "term": [
+            1952,
+            1953
+          ],
+          "name": "<b>U.S. Attorney</b>, District Court for the Eastern District of Michigan",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1953,
+        1954
+      ],
+      "name": "<b>Legal Practitioner</b>, ❰US-MI❱ Michigan Office of the Governor",
+      "subs": [
+        {
+          "term": [
+            1953,
+            1954
+          ],
+          "name": "<b>Legal Advisor</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1955,
+        1959
+      ],
+      "name": "<b>Politician</b>, ❰US-MI❱ Michigan Office of the Governor",
+      "subs": [
+        {
+          "term": [
+            1955,
+            1959
+          ],
+          "name": "<b>Governor, Lieutenant</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1959,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1959,
+            -1
+          ],
+          "name": "<b>Senator</b>, Michigan",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

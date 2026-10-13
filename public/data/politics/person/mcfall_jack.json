@@ -1,0 +1,196 @@
+{
+  "name": {
+    "full": "Jack Kirkham McFall",
+    "last": "McFall"
+  },
+  "span": [
+    1905,
+    1990
+  ],
+  "portraiture": {
+    "normal": " jack_mcfall.webp",
+    "sketch": " jack_mcfall.gif",
+    "source": "<i>Jack K. McFall.</i> Photograph. Accessed September 16, 2024. https://commons.wikimedia.org/wiki/File:Jack_K_McFall.jpg"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1925,
+        1929
+      ],
+      "name": "<b>Student</b>, Georgetown University, Washington",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1929
+          ],
+          "name": "Bachelor of Science, Foreign Service",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1928
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1928
+          ],
+          "name": "<b>Secretary, Assistant</b>, Office of Senator Arthur Robinson",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1929,
+        1933
+      ],
+      "name": "<b>Student</b>, ⟨National University School of Law|Georgetown University⟩, Washington",
+      "subs": [
+        {
+          "term": [
+            1929,
+            1933
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1928,
+        1941
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1928,
+            1941
+          ],
+          "name": "<b>Secretary, Executive</b>, Committee on Appropriations",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1941,
+        1945
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1941,
+            1945
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1941,
+                1945
+              ],
+              "name": "(OF-04) <b>Commander</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1946,
+        1947
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1946,
+            1947
+          ],
+          "name": "<b>Secretary, Executive</b>, Committee on Appropriations",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1948,
+        1955
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1948,
+            1949
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1948,
+                1949
+              ],
+              "name": "<b>Consul</b>, Montreal, Canada",
+              "subs": []
+            },
+            {
+              "term": [
+                1949,
+                1949
+              ],
+              "name": "<b>Consul</b>, Athens, Greece",
+              "subs": []
+            },
+            {
+              "term": [
+                1949,
+                1949
+              ],
+              "name": "<b>Secretary, First</b>, Athens, Greece",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1949,
+            1952
+          ],
+          "name": "<b>Secretary, Assistant</b>, ⟨Bureau of Congressional Relations|Bureau of Legislative Affairs⟩",
+          "subs": []
+        },
+        {
+          "term": [
+            1952,
+            1955
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1952,
+                1955
+              ],
+              "name": "⟨<b>Minister Plenipotentiary</b>|<b>Ambassador</b>⟩, Finland",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "name": {
+    "full": "David Manker Abshire",
+    "last": "Abshire"
+  },
+  "span": [
+    1926,
+    2014
+  ],
+  "portraiture": {
+    "normal": " david_abshire.webp",
+    "sketch": " david_abshire.gif",
+    "source": "<i>David M. Abshire.</i> Photograph. Accessed September 16, 2024. https://www.rlounsbery.org/post/remembering-david-m-abshire-1926-2014"
+  },
+  "backgrounds": [
+    "Veteran(Army)",
+    "Scholar",
+    "Bureaucrat(Diplomatic)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1947,
+        1955
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1947,
+            1951
+          ],
+          "name": "<b>Cadet</b>, United States Military Academy, West Point",
+          "subs": []
+        },
+        {
+          "term": [
+            1951,
+            1955
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1951,
+                1955
+              ],
+              "name": "(OF-01) <b>Lieutenant, Second</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1955,
+        1959
+      ],
+      "name": "<b>Student</b>, Georgetown University, Washington",
+      "subs": [
+        {
+          "term": [
+            1955,
+            1959
+          ],
+          "name": "Doctor of Philosophy, History",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1955,
+        1959
+      ],
+      "name": "<b>Scholar</b>, Georgetown University, Washington",
+      "subs": [
+        {
+          "term": [
+            1955,
+            1959
+          ],
+          "name": "<b>Professor, Adjunct</b>, Foreign Service",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1970,
+        1973
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1970,
+            1973
+          ],
+          "name": "<b>Secretary, Assistant</b>, ⟨Bureau of Congressional Relations|Bureau of Legislative Affairs⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1974,
+        1977
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ ⟨United States Information Agency|⟩",
+      "subs": [
+        {
+          "term": [
+            1974,
+            1977
+          ],
+          "name": "<b>Chairman</b>, Board for International Broadcasting",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1981,
+        1982
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Office of the President",
+      "subs": [
+        {
+          "term": [
+            1981,
+            1982
+          ],
+          "name": "<b>Advisor</b>, ⟨President's Foreign Intelligence Advisory Board|President's Intelligence Advisory Board⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1983,
+        1987
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Department of State",
+      "subs": [
+        {
+          "term": [
+            1983,
+            1987
+          ],
+          "name": "<b>Diplomat</b>, ❰US❱ Foreign Service",
+          "subs": [
+            {
+              "term": [
+                1983,
+                1987
+              ],
+              "name": "<b>Ambassador-at-large</b>, NATO",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1987,
+        1991
+      ],
+      "name": "<b>Bureaucrat</b>, ❰US❱ Office of the President",
+      "subs": [
+        {
+          "term": [
+            1987,
+            1987
+          ],
+          "name": "<b>Special Counselor</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1991,
+            1991
+          ],
+          "name": "<b>Advisor</b>, ⟨President's Task Force on U.S. Government International Broadcasting|⟩",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

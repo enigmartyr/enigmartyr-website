@@ -1,0 +1,180 @@
+{
+  "name": {
+    "full": "Freeman Clarke Snow",
+    "last": "Snow"
+  },
+  "span": [
+    1841,
+    1894
+  ],
+  "portraiture": null,
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1861,
+        1862
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1861,
+            1862
+          ],
+          "name": "<b>Enlisted</b>, Active Component, ❰US❱ Army",
+          "subs": [
+            {
+              "term": [
+                1861,
+                1862
+              ],
+              "name": "(OR-01) <b>Private</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1869,
+        1873
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1869,
+            1873
+          ],
+          "name": "Bachelor of Arts, International Law and Constitutional History",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1874,
+        1876
+      ],
+      "name": "<b>Scholar</b>, United States Naval Academy, Annapolis",
+      "subs": [
+        {
+          "term": [
+            1874,
+            1876
+          ],
+          "name": "<b>Professor, Assistant</b>, History",
+          "subs": []
+        },
+        {
+          "term": [
+            1874,
+            1876
+          ],
+          "name": "<b>Professor, Assistant</b>, Law",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1876,
+        null
+      ],
+      "name": "<b>Student</b>, France",
+      "subs": []
+    },
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Student</b>, Heidelberg University, Heidelberg",
+      "subs": []
+    },
+    {
+      "term": [
+        null,
+        1877
+      ],
+      "name": "<b>Student</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            null,
+            1877
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1877
+          ],
+          "name": "Master of Arts, History",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1877
+          ],
+          "name": "Doctor of Philosophy, History",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1880,
+        -1
+      ],
+      "name": "<b>Scholar</b>, Harvard University, Cambridge",
+      "subs": [
+        {
+          "term": [
+            1880,
+            1884
+          ],
+          "name": "<b>Instructor</b>, Forensics",
+          "subs": []
+        },
+        {
+          "term": [
+            1881,
+            1883
+          ],
+          "name": "<b>Instructor</b>, History",
+          "subs": []
+        },
+        {
+          "term": [
+            1886,
+            -1
+          ],
+          "name": "<b>Instructor</b>, International Law",
+          "subs": []
+        },
+        {
+          "term": [
+            1888,
+            1888
+          ],
+          "name": "<b>Instructor</b>, French Language",
+          "subs": []
+        },
+        {
+          "term": [
+            1892,
+            1892
+          ],
+          "name": "<b>Instructor</b>, English Literature",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

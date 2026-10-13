@@ -1,0 +1,144 @@
+{
+  "name": {
+    "full": "Kefauver",
+    "last": "Yeh"
+  },
+  "span": [
+    1903,
+    1963
+  ],
+  "portraiture": {
+    "normal": " carey_kefauver.webp",
+    "sketch": " carey_kefauver.gif",
+    "source": "<i>Carey Estes Kefauver.</i> Photograph. Accessed August 5, 2024. https://bioguide.congress.gov/search/bio/K000044"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1920,
+        1924
+      ],
+      "name": "<b>Student</b>, University of Wisconsin, Madison",
+      "subs": [
+        {
+          "term": [
+            1920,
+            1924
+          ],
+          "name": "Bachelor of Arts",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1925,
+        1927
+      ],
+      "name": "<b>Student</b>, Yale University, New Haven",
+      "subs": [
+        {
+          "term": [
+            1925,
+            1927
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1927,
+        null
+      ],
+      "name": "<b>Legal Practitioner</b>, “Cooke, Swaney & Cooke”",
+      "subs": []
+    },
+    {
+      "term": [
+        null,
+        null
+      ],
+      "name": "<b>Legal Practitioner</b>, “Sizer, Chambliss & Kefauver”",
+      "subs": []
+    },
+    {
+      "term": [
+        null,
+        1939
+      ],
+      "name": "<b>Legal Practitioner</b>, “Duggan, McDonald, & Kefauver”",
+      "subs": []
+    },
+    {
+      "term": [
+        1939,
+        1949
+      ],
+      "name": "<b>Politician</b>, ❰US❱ House of Representatives",
+      "subs": [
+        {
+          "term": [
+            1939,
+            1949
+          ],
+          "name": "<b>Representative</b>, Tennessee",
+          "subs": [
+            {
+              "term": [
+                1946,
+                1946
+              ],
+              "name": "<b>Chairman</b>, Select Committee on Small Business",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1949,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰US❱ Senate",
+      "subs": [
+        {
+          "term": [
+            1949,
+            -1
+          ],
+          "name": "<b>Senator</b>, Tennessee",
+          "subs": [
+            {
+              "term": [
+                1950,
+                1951
+              ],
+              "name": "<b>Chairman</b>, Special Committee to Investigate Crime in Interstate Commerce",
+              "subs": []
+            },
+            {
+              "term": [
+                1953,
+                1953
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on Juvenile Delinquency",
+              "subs": []
+            },
+            {
+              "term": [
+                1957,
+                -1
+              ],
+              "name": "<b>Chairman</b>, Subcommittee on Antitrust and Monopoly",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

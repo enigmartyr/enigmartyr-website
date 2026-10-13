@@ -1,0 +1,103 @@
+{
+  "name": {
+    "full": "Matthew Calbraith Perry",
+    "last": "Perry"
+  },
+  "span": [
+    1794,
+    1858
+  ],
+  "portraiture": {
+    "sketch": " matthew_perry.gif",
+    "normal": " matthew_perry.webp",
+    "source": "<i>Commodore Matthew Calbraith Perry.</i> Photograph. Accessed August 7, 2024. https://commons.wikimedia.org/wiki/File:Commodore_Matthew_Calbraith_Perry.png"
+  },
+  "backgrounds": [
+    "Veteran(Navy)"
+  ],
+  "appointment": [
+    {
+      "term": [
+        1809,
+        1858
+      ],
+      "name": "<b>Serviceman</b>, ❰US❱ ⟨Department of War|Department of Defense⟩",
+      "subs": [
+        {
+          "term": [
+            1809,
+            1855
+          ],
+          "name": "<b>Commissioned</b>, Active Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1809,
+                1815
+              ],
+              "name": "(OF-01) ⟨<b>Midshipman, Passed</b>|<b>Ensign</b>⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1815,
+                1824
+              ],
+              "name": "(OF-02) <b>Lieutenant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1824,
+                1826
+              ],
+              "name": "(OF-03) ⟨<b>Commandant, Lieutenant</b>|<b>Commander, Lieutenant</b>⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1826,
+                1837
+              ],
+              "name": "(OF-04) ⟨<b>Commandant, Master</b>|<b>Commander</b>⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1837,
+                1841
+              ],
+              "name": "(OF-05) <b>Captain</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1841,
+                1855
+              ],
+              "name": "(OF-06) ⟨<b>Commodore</b>|<b>Rear Admiral (Lower Half)</b>⟩",
+              "subs": []
+            }
+          ]
+        },
+        {
+          "term": [
+            1855,
+            1858
+          ],
+          "name": "<b>Commissioned</b>, Reserve Component, ❰US❱ Navy",
+          "subs": [
+            {
+              "term": [
+                1855,
+                1858
+              ],
+              "name": "(OF-07) <b>Rear Admiral</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

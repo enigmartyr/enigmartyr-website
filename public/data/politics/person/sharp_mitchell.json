@@ -1,0 +1,193 @@
+{
+  "name": {
+    "full": "Mitchell William Sharp",
+    "last": "Sharp"
+  },
+  "span": [
+    1911,
+    2004
+  ],
+  "portraiture": {
+    "sketch": " mitchell_sharp.gif",
+    "normal": " mitchell_sharp.webp",
+    "source": "<i>Mitchell Sharp.</i> Photograph. Accessed February 1, 2025. https://digitalarchive.tpl.ca/objects/310950/mitchell-sharp-commissioner-northern-pipeline-agency"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1930,
+        1934
+      ],
+      "name": "<b>Student</b>, University of Manitoba, Winnipeg",
+      "subs": [
+        {
+          "term": [
+            1930,
+            1934
+          ],
+          "name": "Bachelor of Arts, Economics",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1942,
+        1958
+      ],
+      "name": "<b>Bureaucrat</b>, ❰CA❱ ⟨Civil Service|Public Service⟩",
+      "subs": [
+        {
+          "term": [
+            1942,
+            1958
+          ],
+          "name": "<b>Civil Servant</b>, ❰CA❱ ⟨Department of Trade and Commerce|Department of Foreign Affairs, Trade and Development (Global Affairs Canada)⟩",
+          "subs": [
+            {
+              "term": [
+                1942,
+                1946
+              ],
+              "name": "<b>Clerk</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1946,
+                1947
+              ],
+              "name": "<b>Executive Assistant</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1947,
+                1951
+              ],
+              "name": "<b>Director</b>, Economic Policy Division",
+              "subs": []
+            },
+            {
+              "term": [
+                1951,
+                1957
+              ],
+              "name": "<b>Deputy Minister, Associate</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1957,
+                1958
+              ],
+              "name": "<b>Deputy Minister</b>",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1963,
+        1978
+      ],
+      "name": "<b>Politician</b>, ❰CA❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1963,
+            1978
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Eglinton|⟩",
+          "subs": [
+            {
+              "term": [
+                1963,
+                1974
+              ],
+              "name": "<b>Cabinet Minister</b>, ❰CA❱ Cabinet",
+              "subs": [
+                {
+                  "term": [
+                    1963,
+                    1966
+                  ],
+                  "name": "⟨<b>Minister of Trade and Commerce</b>|<b>Minister for International Trade</b>⟩, ❰CA❱ ⟨Department of Trade and Commerce|Department of Foreign Affairs, Trade and Development (Global Affairs Canada)⟩",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1965,
+                    1968
+                  ],
+                  "name": "<b>Minister of Finance</b>, ❰CA❱ Department of Finance",
+                  "subs": []
+                },
+                {
+                  "term": [
+                    1968,
+                    1974
+                  ],
+                  "name": "⟨<b>Secretary of State for External Affairs</b>|<b>Minister of Foreign Affairs</b>⟩, ❰CA❱ ⟨Department of External Affairs|Department of Foreign Affairs, Trade and Development (Global Affairs Canada)⟩",
+                  "subs": []
+                }
+              ]
+            },
+            {
+              "term": [
+                1974,
+                1976
+              ],
+              "name": "<b>Leader of the Government in the House of Commons</b>",
+              "subs": []
+            },
+            {
+              "term": [
+                1974,
+                1978
+              ],
+              "name": "<b>Chairman</b>, Standing Committee of Selection",
+              "subs": []
+            },
+            {
+              "term": [
+                1974,
+                1978
+              ],
+              "name": "<b>Chairman</b>, Standing Committee on Procedure and Organization",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1963,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰CA❱ Privy Council",
+      "subs": [
+        {
+          "term": [
+            1974,
+            1976
+          ],
+          "name": "<b>President of the King's Privy Council for Canada</b>",
+          "subs": []
+        },
+        {
+          "term": [
+            1993,
+            2003
+          ],
+          "name": "<b>Advisor</b>, ❰CA❱ Office of the Prime Minister",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}

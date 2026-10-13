@@ -1,0 +1,160 @@
+{
+  "name": {
+    "full": "Janet Lee",
+    "last": "Lee"
+  },
+  "span": [
+    1904,
+    1988
+  ],
+  "portraiture": {
+    "normal": " janet_lee.webp",
+    "sketch": " janet_lee.gif",
+    "source": "<i>Jennie Lee.</i> Photograph. Accessed January 25, 2025. https://heritage.humanists.uk/jennie-lee/"
+  },
+  "backgrounds": [],
+  "appointment": [
+    {
+      "term": [
+        1922,
+        1927
+      ],
+      "name": "<b>Student</b>, University of Edinburgh",
+      "subs": [
+        {
+          "term": [
+            1922,
+            null
+          ],
+          "name": "Bachelor of Arts, Education",
+          "subs": []
+        },
+        {
+          "term": [
+            null,
+            1926
+          ],
+          "name": "Master of Arts, Education",
+          "subs": []
+        },
+        {
+          "term": [
+            1926,
+            1927
+          ],
+          "name": "Bachelor of Laws",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1929,
+        1931
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1929,
+            1931
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨North Lanarkshire|⟩",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1940,
+        1945
+      ],
+      "name": "<b>Bureaucrat</b>, ❰UK❱ ⟨Ministry of Aircraft Production|⟩",
+      "subs": [
+        {
+          "term": [
+            1940,
+            1945
+          ],
+          "name": "<b>Political Correspondent</b>",
+          "subs": []
+        }
+      ]
+    },
+    {
+      "term": [
+        1945,
+        1970
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Commons",
+      "subs": [
+        {
+          "term": [
+            1945,
+            1970
+          ],
+          "name": "<b>Member of Parliament (MP)</b>, Electoral District of ⟨Cannock|⟩",
+          "subs": [
+            {
+              "term": [
+                1964,
+                1965
+              ],
+              "name": "<b>Secretary of State, Under</b>, ❰UK❱ ⟨Ministry of Public Building and Works|⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1964,
+                1970
+              ],
+              "name": "⟨<b>Minister of State for the Arts</b>|<b>Minister of State</b>, ❰UK❱ Department for Digital, Culture, Media and Sport⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1965,
+                1967
+              ],
+              "name": "<b>Secretary of State, Under</b>, ❰UK❱ ⟨Department of Education and Science|Department for Education and Skills⟩",
+              "subs": []
+            },
+            {
+              "term": [
+                1967,
+                1970
+              ],
+              "name": "<b>Minister of State</b>, ❰UK❱ ⟨Department of Education and Science|Department for Education⟩",
+              "subs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "term": [
+        1966,
+        -1
+      ],
+      "name": "<b>Privy Councilor</b>, ❰UK❱ Privy Council",
+      "subs": []
+    },
+    {
+      "term": [
+        1970,
+        -1
+      ],
+      "name": "<b>Politician</b>, ❰UK❱ House of Lords",
+      "subs": [
+        {
+          "term": [
+            1970,
+            -1
+          ],
+          "name": "<b>Peer</b>, Baroness of Asheridge",
+          "subs": []
+        }
+      ]
+    }
+  ]
+}
