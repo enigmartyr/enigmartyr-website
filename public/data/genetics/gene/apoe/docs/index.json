@@ -1,0 +1,188 @@
+{
+  "paper_1986_10_03_wardell": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_1986_10_03_wardell.pdf",
+    "external_source": "https://europepmc.org/article/MED/3038959",
+    "source_descript": "Apolipoprotein E2-Christchurch (136 Arg----Ser). New variant of human apolipoprotein E in a patient with type III hyperlipoproteinemia.",
+    "source_citation": "https://doi.org/10.1172/jci113096"
+  },
+  "paper_1987_10_06_lalazar": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_1987_10_06_lalazar.pdf",
+    "external_source": "https://europepmc.org/article/MED/2831187",
+    "source_descript": "Site-specific mutagenesis of human apolipoprotein E. Receptor binding activity of variants with single amino acid substitutions.",
+    "source_citation": "https://doi.org/10.1016/s0021-9258(18)68957-4"
+  },
+  "paper_1995_04_10_pocovi": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/1995_04_10_pocovi.pdf",
+    "external_source": "https://europepmc.org/article/MED/8724110",
+    "source_descript": "Incomplete dominance of type III hyperlipoproteinemia is associated with the rare apolipoprotein E2 (Arg136-->Ser) variant in multigenerational pedigree studies.",
+    "source_citation": "https://doi.org/10.1016/0021-9150(95)06745-0"
+  },
+  "paper_1999_03_25_vialettes": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/1995_04_10_pocovi.pdf",
+    "external_source": "https://europepmc.org/article/MED/10911769",
+    "source_descript": "Dietary fat clearance in type V hyperlipoproteinaemia secondary to a rare variant of human apolipoprotein E: the apolipoprotein E3 (Arg 136-->Ser)",
+    "source_citation": "https://doi.org/10.1017/s0007114500000787"
+  },
+  "paper_2004_08_18_hubacek": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2004_08_18_hubacek.pdf",
+    "external_source": "https://europepmc.org/article/MED/15641930",
+    "source_descript": "Rare variant of apolipoprotein E (Arg136 -->Ser) in two normolipidemic individuals.",
+    "source_citation": ""
+  },
+  "paper_2011_06_20_georgiadou": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2011_06_20_georgiadou.pdf",
+    "external_source": "https://europepmc.org/article/MED/22069485",
+    "source_descript": "Biophysical analysis of apolipoprotein E3 variants linked with development of type III hyperlipoproteinemia.",
+    "source_citation": "https://doi.org/10.1371/journal.pone.0027037"
+  },
+  "paper_2016_04_20_candas_estebanez": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2016_04_20_candas_estebanez.pdf",
+    "external_source": "https://europepmc.org/article/MED/27566675",
+    "source_descript": "APOE Variants E2, E3, and E4 Can Be Miscalled By Classical PCR-RFLP When The Christchurch Variant Is Also Present.",
+    "source_citation": "https://doi.org/10.1002/jcla.22040"
+  },
+  "paper_2019_01_10_arboleda_velasquez": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2019_01_10_arboleda_velasquez.pdf",
+    "external_source": "https://europepmc.org/article/MED/31686034",
+    "source_descript": "Resistance to autosomal dominant Alzheimer's disease in an APOE3 Christchurch homozygote: a case report.",
+    "source_citation": "https://doi.org/10.1038/s41591-019-0611-3"
+  },
+  "paper_2022_01_21_henao_restrepo": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2022_01_21_henao_restrepo.pdf",
+    "external_source": "https://europepmc.org/article/MED/36130084",
+    "source_descript": "Gliovascular alterations in sporadic and familial Alzheimer's disease: APOE3 Christchurch homozygote glioprotection.",
+    "source_citation": "https://doi.org/10.1111/bpa.13119"
+  },
+  "paper_2022_03_29_sepulveda_falla": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2022_03_29_sepulveda_falla.pdf",
+    "external_source": "https://europepmc.org/article/MED/35838824",
+    "source_descript": "Distinct tau neuropathology and cellular profiles of an APOE3 Christchurch homozygote protected against autosomal dominant Alzheimer's dementia.",
+    "source_citation": "https://doi.org/10.1007/s00401-022-02467-8"
+  },
+  "paper_2023_01_06_marino": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2023_01_06_marino.pdf",
+    "external_source": "https://europepmc.org/article/MED/37791598",
+    "source_descript": "APOE Christchurch-mimetic therapeutic antibody reduces APOE-mediated toxicity and tau phosphorylation.",
+    "source_citation": "https://doi.org/10.1002/alz.13436"
+  },
+  "paper_2023_06_26_chen": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2023_06_26_chen.pdf",
+    "external_source": "https://europepmc.org/article/MED/39814008",
+    "source_descript": "ApoE3 R136S binds to Tau and blocks its propagation, suppressing neurodegeneration in mice with Alzheimer's disease.",
+    "source_citation": "https://doi.org/10.1016/j.neuron.2024.12.015"
+  },
+  "paper_2023_07_12_haider": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2023_07_12_haider.pdf",
+    "external_source": "https://europepmc.org/article/MED/38703665",
+    "source_descript": "Generation of three isogenic, gene-edited iPSC lines carrying the APOE-Christchurch mutation into the three common APOE variants: APOE2Ch, APOE3Ch and APOE4Ch.",
+    "source_citation": "https://doi.org/10.1016/j.scr.2024.103414"
+  },
+  "paper_2023_09_12_murakami": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2023_09_12_murakami.pdf",
+    "external_source": "https://europepmc.org/article/MED/38649269",
+    "source_descript": "Inhibitory Roles of Apolipoprotein E Christchurch Astrocytes in Curbing Tau Propagation Using Human Pluripotent Stem Cell-Derived Models.",
+    "source_citation": "https://doi.org/10.1523/jneurosci.1709-23.2024"
+  },
+  "paper_2023_07_16_chen": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2023_07_16_chen.pdf",
+    "external_source": "https://europepmc.org/article/MED/38086389",
+    "source_descript": "APOE3ch alters microglial response and suppresses Aβ-induced tau seeding and spread.",
+    "source_citation": "https://doi.org/10.1016/j.cell.2023.11.029"
+  },
+  "paper_2023_10_23_nelson": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2023_10_23_nelson.pdf",
+    "external_source": "https://europepmc.org/article/MED/37957317",
+    "source_descript": "The APOE-R136S mutation protects against APOE4-driven Tau pathology, neurodegeneration and neuroinflammation.",
+    "source_citation": "https://doi.org/10.1038/s41593-023-01480-8"
+  },
+  "paper_2024_01_05_guo": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2024_01_05_guo.pdf",
+    "external_source": "https://europepmc.org/article/MED/38571814",
+    "source_descript": "Decreased lipidated ApoE-receptor interactions confer protection against pathogenicity of ApoE and its lipid cargoes in lysosomes.",
+    "source_citation": "https://doi.org/10.1016/j.cell.2024.10.027"
+  },
+  "paper_2024_01_20_perez_corredor": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2024_01_20_perez_corredor.pdf",
+    "external_source": "https://europepmc.org/article/MED/38571814",
+    "source_descript": "APOE3 Christchurch modulates β-catenin/Wnt signaling in iPS cell-derived cerebral organoids from Alzheimer's cases.",
+    "source_citation": "https://doi.org/10.3389/fnmol.2024.1373568"
+  },
+  "paper_2024_02_02_liu": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2024_02_02_liu.pdf",
+    "external_source": "https://europepmc.org/article/MED/38609581",
+    "source_descript": "APOE3ch alleviates Aβ and tau pathology and neurodegeneration in the human APP(NL-G-F) cerebral organoid model of Alzheimer's disease.",
+    "source_citation": "https://doi.org/10.1038/s41422-024-00957-w"
+  },
+  "paper_2024_04_10_naguib": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2024_04_10_naguib.pdf",
+    "external_source": "https://europepmc.org/article/MED/40555238",
+    "source_descript": "The R136S mutation in the APOE3 gene confers resilience against tau pathology via inhibition of the cGAS-STING-IFN pathway.",
+    "source_citation": "https://doi.org/10.1016/j.immuni.2025.05.023"
+  },
+  "paper_2024_06_05_tran": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2024_06_05_tran.pdf",
+    "external_source": "https://europepmc.org/article/MED/39844286",
+    "source_descript": "Inhibitory Roles of Apolipoprotein E Christchurch Astrocytes in Curbing Tau Propagation Using Human Pluripotent Stem Cell-Derived Models.",
+    "source_citation": "https://doi.org/10.1186/s13024-024-00793-x"
+  },
+  "paper_2024_06_26_gunaydin": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2024_06_26_gunaydin.pdf",
+    "external_source": "https://europepmc.org/article/MED/39511891",
+    "source_descript": "AAVrh.10 delivery of novel APOE2-Christchurch variant suppresses amyloid and Tau pathology in Alzheimer's disease mice.",
+    "source_citation": "https://doi.org/10.1016/j.ymthe.2024.11.003"
+  },
+  "paper_2024_07_13_sun": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2024_07_13_sun.pdf",
+    "external_source": "https://europepmc.org/article/MED/39612244",
+    "source_descript": "Microglial APOE3 Christchurch protects neurons from Tau pathology in a human iPSC-based model of Alzheimer's disease.",
+    "source_citation": "https://doi.org/10.1016/j.celrep.2024.114982"
+  },
+  "paper_2025_01_15_perez_corredor": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2025_01_15_perez_corredor.pdf",
+    "external_source": "https://europepmc.org/article/MED/40637118",
+    "source_descript": "ApoE3 Christchurch and tau interaction as a protective mechanism against Alzheimer's disease.",
+    "source_citation": "https://doi.org/10.1002/alz.70396"
+  },
+  "paper_2025_02_21_holmes": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2025_02_21_holmes.pdf",
+    "external_source": "https://europepmc.org/article/MED/40883746",
+    "source_descript": "β-Amyloid induces microglial expression of GPC4 and APOE leading to increased neuronal tau pathology and toxicity.",
+    "source_citation": "https://doi.org/10.1186/s13024-025-00883-4"
+  },
+  "paper_2025_02_21_ralhan": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2025_02_21_ralhan.pdf",
+    "external_source": "https://europepmc.org/article/MED/41338186",
+    "source_descript": "Protective ApoE variants support neuronal function by effluxing oxidized phospholipids.",
+    "source_citation": "https://doi.org/10.1016/j.neuron.2025.10.040"
+  },
+  "paper_2025_03_05_tian": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2025_03_05_tian.pdf",
+    "external_source": "https://europepmc.org/article/MED/40964962",
+    "source_descript": "Protective mechanisms against Alzheimer's disease in APOE3-Christchurch homozygous astrocytes.",
+    "source_citation": "https://doi.org/10.1002/alz.70589"
+  },
+  "paper_2025_09_02_pineda_lopez": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2025_09_02_pineda_lopez.pdf",
+    "external_source": "https://europepmc.org/article/MED/41566550",
+    "source_descript": "Plasma extracellular vesicles from APOE3 Christchurch carriers display a protective phenotype in early stages of autosomal dominant Alzheimer's disease.",
+    "source_citation": "https://doi.org/10.1002/alz.71148"
+  },
+  "paper_2025_11_07_soto_faguas": {
+    "internal_source": "",
+    "external_source": "https://europepmc.org/article/PPR/PPR1115522",
+    "source_descript": "The Christchurch point mutation in mouse APOE reduces Aβ-induced tau and α-synuclein pathologies.",
+    "source_citation": ""
+  },
+  "paper_2025_09_30_raulin": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2025_09_30_raulin.pdf",
+    "external_source": "https://europepmc.org/article/MED/41916957",
+    "source_descript": "Astrocytic APOE3-Christchurch expression ameliorates brain amyloid-β pathology in 5xFAD mice.\n",
+    "source_citation": "https://doi.org/10.1038/s41398-026-04002-9"
+  },
+  "paper_2025_10_03_ihoeghian": {
+    "internal_source": "/data/genetics/gene/apoe/docs/r136s/paper_2025_10_03_ihoeghian.pdf",
+    "external_source": "https://europepmc.org/article/MED/41439768",
+    "source_descript": "Effect of protective mutation on structure and dynamics of APOE: a molecular dynamics simulation study.",
+    "source_citation": "https://doi.org/10.1039/d5cp03829d"
+  }
+}

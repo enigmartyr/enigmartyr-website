@@ -1,0 +1,56 @@
+{
+  "paper_2017_10_04_ma": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/paper_2017_10_04_ma.pdf",
+    "external_source": "https://europepmc.org/article/MED/29576450",
+    "source_descript": "Common PIEZO1 Allele in African Populations Causes RBC Dehydration and Attenuates Plasmodium Infection.",
+    "source_citation": "https://doi.org/10.1016/j.cell.2018.02.047"
+  },
+  "paper_2019_11_11_nguetse": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/paper_2019_11_11_nguetse.pdf",
+    "external_source": "https://europepmc.org/article/MED/32265284",
+    "source_descript": "A common polymorphism in the mechanosensitive ion channel PIEZO1 is associated with protection from severe malaria in humans.",
+    "source_citation": "https://doi.org/10.1073/pnas.1919843117"
+  },
+  "paper_2020_05_18_ma": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/paper_2020_05_18_ma.pdf",
+    "external_source": "https://europepmc.org/article/MED/33571427",
+    "source_descript": "A role of PIEZO1 in iron metabolism in mice and humans.",
+    "source_citation": "https://doi.org/10.1016/j.cell.2021.01.024"
+  },
+  "2020_07_16_passini": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/2020_07_16_passini.pdf",
+    "external_source": "https://europepmc.org/article/MED/34031557",
+    "source_descript": "Shear-stress sensing by PIEZO1 regulates tendon stiffness in rodents and influences jumping performance in humans.",
+    "source_citation": "https://doi.org/10.1038/s41551-021-00716-x"
+  },
+  "paper_2020_09_18_baxter": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/paper_2020_09_18_baxter.pdf",
+    "external_source": "https://europepmc.org/article/MED/33149214",
+    "source_descript": "Investigation of associations between Piezo1 mechanoreceptor gain-of-function variants and glaucoma-related phenotypes in humans and mice.",
+    "source_citation": "https://doi.org/10.1038/s41598-020-76026-0"
+  },
+  "paper_2022_09_27_gotschi": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/paper_2022_09_27_gotschi.pdf",
+    "external_source": "https://europepmc.org/article/MED/37227181",
+    "source_descript": "PIEZO1 gain-of-function gene variant is associated with elevated tendon stiffness in humans.",
+    "source_citation": "https://doi.org/10.1152/japplphysiol.00573.2022"
+  },
+  "paper_2022_10_01_adjemout": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/paper_2022_10_01_adjemout.pdf",
+    "external_source": "https://europepmc.org/article/MED/37554196",
+    "source_descript": "Concurrent PIEZO1 activation and ATP2B4 blockade effectively reduce the risk of cerebral malaria and inhibit in vitro Plasmodium falciparum multiplication in red blood cells.",
+    "source_citation": "https://doi.org/10.1016/j.gendis.2023.02.029"
+  },
+  "paper_2024_10_02_shan": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/paper_2024_10_02_shan.pdf",
+    "external_source": "https://europepmc.org/article/MED/40668110",
+    "source_descript": "Structure of human PIEZO1 and its slow-inactivating channelopathy mutants.",
+    "source_citation": "https://doi.org/10.7554/elife.101923"
+  },
+  "paper_2025_01_14_abad": {
+    "internal_source": "/data/genetics/gene/piezo1/docs/2756*/paper_2025_01_14_abad.pdf",
+    "external_source": "https://europepmc.org/article/MED/40390775",
+    "source_descript": "Coinheritance of polymorphic alleles of PIEZO1, G6PD and HBB enhances protection against malaria.",
+    "source_citation": "https://doi.org/10.1016/j.onehlt.2025.101051"
+  }
+}

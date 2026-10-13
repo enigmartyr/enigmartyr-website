@@ -1,0 +1,26 @@
+{
+  "paper_2002_09_02_kokaze": {
+    "internal_source": "/data/genetics/gene/mt_nd2/docs/l237m/paper_2002_09_02_kokaze.pdf",
+    "external_source": "https://europepmc.org/article/MED/14688809",
+    "source_descript": "Longevity-associated mitochondrial DNA 5178 A/C polymorphism and blood pressure in the Japanese population.",
+    "source_citation": "https://doi.org/10.1038/sj.jhh.1001632"
+  },
+  "paper_2006_10_04_gusdon": {
+    "internal_source": "/data/genetics/gene/mt_nd2/docs/l237m/paper_2006_10_04_gusdon.pdf",
+    "external_source": "https://europepmc.org/article/MED/17189252",
+    "source_descript": "Nuclear and mitochondrial interaction involving mt-Nd2 leads to increased mitochondrial reactive oxygen species production.",
+    "source_citation": "https://doi.org/10.1074/jbc.m609367200"
+  },
+  "paper_2007_10_25_gusdon": {
+    "internal_source": "/data/genetics/gene/mt_nd2/docs/l237m/paper_2007_10_25_gusdon.pdf",
+    "external_source": "https://europepmc.org/article/MED/18281288",
+    "source_descript": "mt-Nd2a suppresses reactive oxygen species production by mitochondrial complexes I and III.",
+    "source_citation": "https://doi.org/10.1074/jbc.m708801200"
+  },
+  "paper_2021_04_08_tian": {
+    "internal_source": "/data/genetics/gene/mt_nd2/docs/l237m/paper_2021_04_08_tian.pdf",
+    "external_source": "https://europepmc.org/article/MED/34336093",
+    "source_descript": "Protective Effect of Mitochondrial ND2 C5178A Gene Mutation on Cell and Mitochondrial Functions.",
+    "source_citation": "https://doi.org/10.1155/2021/4728714"
+  }
+}
