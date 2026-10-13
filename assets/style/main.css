@@ -1,139 +1,116 @@
 @font-face {
-    font-family: "whitrabt";
+    font-family: "Enigmafont";
     font-display: block;
-    src: url("/assets/font/whitrabt/whitrabt.otf") format('opentype'), url("/assets/font/whitrabt/whitrabt.woff2") format('woff'), url("/assets/font/whitrabt/whitrabt.ttf") format('truetype');
+    src: url("/assets/font/Enigmafont/Enigmafont.woff2" ) format('woff');
 }
 
 @font-face {
-    font-family: "QIJI";
+    font-family: "Rollerscript-Smooth";
     font-display: block;
-    src: url("/assets/font/QIJI/qiji.woff2" ) format('woff'), url("/assets/font/QIJI/qiji.ttf" ) format('truetype');
+    src: url("/assets/font/Rollerscript/Rollerscript-Smooth.woff2" ) format('woff');
 }
 
 @font-face {
-    font-family: "QIJI Combo";
+    font-family: "Rollerscript-Rough";
     font-display: block;
-    src: url("/assets/font/QIJI/qiji-combo.woff2" ) format('woff'), url("/assets/font/QIJI/qiji-combo.ttf" ) format('truetype');
+    src: url("/assets/font/Rollerscript/Rollerscript-Rough.woff2" ) format('woff');
 }
 
 @font-face {
-    font-family: "QIJI Fallback";
+    font-family: "Computo";
     font-display: block;
-    src: url("/assets/font/QIJI/qiji-fallback.woff2" ) format('woff'), url("/assets/font/QIJI/qiji-fallback.ttf" ) format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020A";
-    unicode-range: U+4E00-9FFF;
-    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020A";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020Base-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020Base-Regular.ttf" ) format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020A";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020Base-Italic.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020Base-Italic.ttf" ) format('truetype');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "TT2020B";
-    unicode-range: U+4E00-9FFF;
-    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020B";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020StyleB-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleB-Regular.ttf" ) format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020B";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020StyleB-Italic.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleB-Italic.ttf" ) format('truetype');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "TT2020D";
-    unicode-range: U+4E00-9FFF;
-    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020D";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020StyleD-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleD-Regular.ttf" ) format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020D";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020StyleD-Italic.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleD-Italic.ttf" ) format('truetype');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "TT2020E";
-    unicode-range: U+4E00-9FFF;
-    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020E";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020StyleE-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleE-Regular.ttf" ) format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020E";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020StyleE-Italic.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleE-Italic.ttf" ) format('truetype');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: "TT2020F";
-    unicode-range: U+4E00-9FFF;
-    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020F";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020StyleF-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleF-Regular.ttf" ) format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020G";
-    unicode-range: U+4E00-9FFF;
-    src: url("/assets/font/QIJI/qiji-combo.woff2") format('woff'), url("/assets/font/QIJI/qiji-combo.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: "TT2020G";
-    font-display: block;
-    src: url("/assets/font/TT2020/TT2020StyleG-Regular.woff2" ) format('woff'), url("/assets/font/TT2020/TT2020StyleG-Regular.ttf" ) format('truetype');
+    src: url("/assets/font/Computo/Computo-Monospace.woff2") format('woff');
+    /* makes size proportional to "whitrabt" font */
+    size-adjust: 67.686%;
 }
 
 :root {
     --site-primary-color: #7DF9FF;
     --site-secondary-color: #FF837D;
-    --site-background-color: color-mix(in srgb, black, var(--site-primary-color) 07.5%);
-    --site-disabled-color:   color-mix(in srgb, black, var(--site-primary-color) 25.0%);
+    --site-foreground-color: color-mix(in srgb, white, color-mix(in srgb, var(--site-primary-color), var(--site-secondary-color) 33.33%) 07.5%);
+    --site-background-color: color-mix(in srgb, black, color-mix(in srgb, var(--site-primary-color), var(--site-secondary-color) 33.33%) 07.5%);
+    --site-dimmed-primary-color: color-mix(in srgb, var(--site-background-color), var(--site-primary-color) 50.0%);
+    --site-dimmed-secondary-color: color-mix(in srgb, var(--site-background-color), var(--site-secondary-color) 50.0%);
+    --site-disabled-primary-color: color-mix(in srgb, var(--site-background-color), var(--site-primary-color) 25.0%);
+    --site-disabled-secondary-color: color-mix(in srgb, var(--site-background-color), var(--site-secondary-color) 25.0%);
+    --vertical-scanline-height: 3px;
+
+    --accent-width: 0.25ch;
+    --horizontal-shadow:
+            0.5px 0 var(--site-background-color),
+            -0.5px 0 var(--site-background-color);
+    --vertical-shadow:
+        0 0.5px var(--site-background-color),
+        0 -0.5px var(--site-background-color);
 }
 
+.typing-cursor {
+    color: var(--site-secondary-color);
+    text-shadow: 0 0 5px var(--site-secondary-color);
+}
+
+
 body {
+    font-family: "Enigmafont", sans-serif;
     background-color: var(--site-background-color);
     color: var(--site-primary-color);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     overflow: hidden;
+
+    &::before {
+        content: "";
+        z-index: 100;
+        position: fixed;
+        display: block;
+        width: 100%;
+        height: 100%;
+        filter: blur(calc(1ch/10)) url(#bloom) ;
+        pointer-events: none;
+        background: repeating-linear-gradient(
+                0deg,
+                color-mix(in srgb, var(--site-background-color) 15%, transparent),
+                color-mix(in srgb, var(--site-background-color) 15%, transparent) var(--vertical-scanline-height),
+                transparent var(--vertical-scanline-height),
+                transparent calc(2 * var(--vertical-scanline-height))
+        );
+        animation: scanlines 1s linear infinite;
+    }
+
+    &::after {
+        content: "";
+        z-index: 101;
+        position: fixed;
+        width: 0.5ch;
+        height: 100%;
+        pointer-events: none;
+        opacity: 0.25;
+        mix-blend-mode: darken;
+        background-color: var(--site-background-color);
+        animation: scan 15s linear infinite;
+    }
+}
+
+[lang="zh"] {
+    line-break: anywhere;
+}
+
+#main {
+}
+
+@keyframes scanlines {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(calc(2 * var(--vertical-scanline-height))); }
+}
+
+@keyframes scan {
+    0% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(100vw);
+    }
+    100% {
+        transform: translateX(100vw);
+    }
 }
 
 #links {
@@ -148,8 +125,7 @@ body {
 #links a {
     color: var(--site-primary-color);
     text-decoration: none;
-    margin:      10px 0px;
-    margin-top:      20px;
+    margin:        20px 0;
     border-radius:    5px;
     padding:         10px;
     border: white 1px solid;
@@ -162,21 +138,30 @@ body {
 
 /* Navbar */
 #navbar {
+    position:    sticky;
+    z-index:        1;
     display:       flex;
     flex-direction: row;
     padding:       20px;
+    top: 0;
+    left: 0;
 }
-  
+
 #navbar a {
-    color: var(--site-primary-color);
+    color: var(--site-primary-color) !important;
+    filter: drop-shadow(1px 0px 0px var(--site-background-color))
+            drop-shadow(-1px 0px 0px var(--site-background-color))
+            drop-shadow(0px 1px 0px var(--site-background-color))
+            drop-shadow(0px -1px 0px var(--site-background-color));
     margin-right:    20px;
     text-decoration: none;
-    transition: color 0.2s ease;
+    transition: color 1s;
 }
 
 #navbar a:hover {
     cursor: pointer;
     color: var(--site-secondary-color);
+    transition: color 0.25s;
 }
 
 html, body, #main, #page {
@@ -186,4 +171,73 @@ html, body, #main, #page {
     width:        100%;
     height:       100%;
     margin:          0;
+}
+
+:focus {
+    outline: none;
+}
+
+::selection, ::target-text, ::search-text, mark {
+    text-decoration-line: underline;
+    text-decoration-thickness: var(--accent-width);
+    text-underline-offset: var(--accent-width);
+}
+
+::target-text, ::search-text {
+    background-color: transparent;
+    text-decoration-color: goldenrod;
+}
+
+::selection, ::search-text:current {
+    background-color: transparent;
+    text-decoration-color: var(--site-secondary-color);
+}
+
+mark {
+    background-color: inherit;
+    color: inherit;
+    text-decoration-color: var(--site-primary-color);
+}
+
+.bipolar-button {
+    aspect-ratio: 1;
+    mask-repeat: no-repeat;
+    mask-size: calc(100% - 10px);
+    mask-position: center;
+    mask-image: var(--button-image-still);
+    background: var(--site-primary-color);
+    transition: background-color 1s, opacity 1s;
+
+    &:not(.disabled):active, &:hover:not(.disabled) {
+        cursor: pointer;
+        mask-image: var(--button-image-hover);
+        background: var(--site-secondary-color);
+        transition: background-color 0.25s;
+    }
+
+    &.disabled {
+        pointer-events: none;
+        background: var(--site-disabled-primary-color);
+        opacity: 0;
+        transition: background-color 0.25s, opacity 0.25s;
+    }
+}
+
+.typing-cursor {
+    display: inline-block;
+    white-space: pre;
+}
+
+.typing-cursor.blinking::after {
+    content: '_';
+    animation: blink-anim 1s step-end infinite;
+}
+
+@keyframes blink-anim {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+.snapping-scroll {
+    overflow: hidden;
 }

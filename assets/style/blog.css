@@ -1,7 +1,5 @@
 #text-area {
     font-family: "whitrabt", sans-serif !important;
-    --area-background-color: color-mix(in srgb, var(--site-background-color), var(--site-primary-color) 2.5%);
-    background: var(--area-background-color);
     overflow-y:     scroll;
     scrollbar-width:  none;
     position:     relative;
@@ -48,7 +46,7 @@
                     }
 
                     &.disabled {
-                        color: var(--site-disabled-color);
+                        color: var(--site-disabled-primary-color);
                     }
 
                     &:not(.disabled) {

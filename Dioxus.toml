@@ -1,14 +1,8 @@
 [application]
 
-# App (Project) Name
-name = "website"
-
 [web.app]
-
-# HTML title tag content
 title = "website"
 
-# include `assets` in web platform
 [web.resource]
 
 # Additional CSS style files

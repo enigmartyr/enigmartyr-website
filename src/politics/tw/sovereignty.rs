@@ -1,4826 +1,533 @@
-use std::any::TypeId;
-use dioxus::document::Stylesheet;
-use dioxus::prelude::*;
-use dioxus::web::WebEventExt;
-use crate::generic::web::timeline::Timeline;
-use crate::politics::data::person::*;
+/*use dioxus::prelude::*;
+use crate::{block, p, translated_p, parse_segments, subtitle};
 use crate::politics::data::file::*;
-use web_sys::{HtmlCollection, window};
-use crate::politics::tw::sovereignty::TipType::*;
-use log::debug;
+use crate::politics::data::person::*;
+use crate::politics::{PureTextLang, ParagraphType, TextSegment, Paragraph, Chapter, ChapterBlock, Politics, stable_hash, Section};
 
-const BLOG_CSS: Asset = asset!("/assets/style/blog.css");
 
-pub fn c_1886_11_17_denby_01() -> Element {
-    rsx!(FileCitation {
-        file: &US_CRUS_1887_1887,
-        FigureAttribution {
-            figure: &CHARLES_BRADLEY,
-            locale: [
-                rsx!(span { "US Legation" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { "Nov 17th, 1886" })
-            ],
-            h2 {
-                "Importance of the Island of Formosa in Our Trade with China"
-            },
-            p {
-                "The steady growth of the foreign trade of Formosa and the great military          \
-                importance of the island, forming, as it does, to use the words of a recent        \
-                memorial to the throne, “ a portal to the Southern China Sea and a bulwark for     \
-                seven provinces,” authorize me to call your attention to the present condition of  \
-                the island and its importance in our trade with China."
-            },
-            p {
-                "Although having nominally possession of Formosa since the latter part of the      \
-                seventeenth century, ", mark { "the Chinese have only been able to establish their \
-                rule along the coast, the interior of the island being still inhabited by          \
-                independent tribes of aborigines" }, " who live chiefly by hunting, and who have   \
-                ever shown unconquerable aversion to the Chinese."
-            },
-            p {
-                "In their fondness for head hunting they resemble the Dayaks of Borneo, and we     \
-                learn from a recent memorial of the military administrator in Formosa that the     \
-                murders committed by them number over a thousand yearly."
-            },
-            p {
-                "Notwithstanding the animosity of the natives and the inability of the authorities \
-                to afford adequate protection to persons and property, the natural resources of    \
-                Formosa and t he wonderful fertility of its soil have for years past caused a      \
-                stream of emigration to flow thither from the provinces on the mainland, and day   \
-                by day the area of cultivation is spreading and the natural products becoming      \
-                better known and more thoroughly worked."
-            },
-            p {
-                "The present military administrator in Formosa, Lin-Ming-Chuan, whose energetic    \
-                defense against the French, in 1884-'85 called forth the admiration of China,      \
-                appears to be doing much in the way of establishing order and developing the       \
-                resources of the island."
-            },
-            p {
-                "Memorializing the throne under date of July 20 last, he states that he has been   \
-                able this year to bring into subjection over 400 villages, that over 70,000 people \
-                have embraced civilization, and that over 20,000 acres of land earlier brought     \
-                under cultivation, but since abandoned, have been reclaimed."
-            },
-            p {
-                "The defenses of Formosa have also attracted the serious attention of the military \
-                administrator, and the ports on the west and north coasts, the only ones           \
-                accessible, as well as the Pescadore Islands, are being fortified and armed with   \
-                the most approved type of Krupp and Armstrong guns. It is also intended to         \
-                establish telegraph lines and to connect the island with the mainland by a         \
-                submarine cable. A short railway will in all probability be constructed between    \
-                Kelung and Tamsui, and the name of an American firm, well known in China, is       \
-                mentioned in connection with this last undertaking."
-            },
-            p {
-                "Heretofore Formosa has been an integral part of the province of Fuhkien, but on   \
-                the 16th of January, of this year, there appeared a decree ordering it to be       \
-                constituted a separate province, but, joined to Fuhkien and the Pescadore Islands, \
-                made the headquarters of the general of the Haitan division."
-            },
-            p {
-                del { "..." }
-            },
-            p {
-                style: "text-align-last: right;",
-                "—Charles Denby"
-            }
-        }
-    })
+fn ch_migration_ban() -> Chapter {
+    ("Migration Ban", vec![
+        block!("TODO", [
+            translated_p!(
+                ZH,
+                crafted: [EN "Memorial on the Investigation and Management of Village Clearing in Taiwan (5th Year of Daoguang [1825])"],
+                foreign: [ZH "查辦臺灣清莊事宜疏（道光五年）"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "by ", fig &ZHAO_SHENZEN, EN " and ", fig &SUN_ERZHUN],
+                foreign: [ZH "趙慎畛、孫爾準"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Governor-General of Fujian and Zhejiang, Zhao Shenzhen, and Governor of Fujian, Sun Erzhun, humbly kneel and memorialize", EN " regarding the various matters of conducting village clearings and suppressing smuggling in Taiwan."],
+                foreign: [ZH "閩浙總督臣趙慎畛、福建巡撫臣孫爾準跪奏，", ZH "爲查辦臺灣清莊緝私各事宜事。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [mark [EN "Taiwan is suspended in isolation across the sea,", EN " lacking permanent inhabitants and characterized by unstable customs.", EN " Mainland vagrants frequently cross the waters through illegal means."], EN " These idle wanderers lack specialized trades for support,", EN " possess no ancestral lands to cultivate,", EN " and are naturally defined by an indolent and slothful disposition.", EN " Even when hired for labor,", EN " they remain incapable of enduring toilsome hardship.", EN " If they are not hiding in gambling dens,", EN " then they are lurking about to commit acts of petty theft."],
+                foreign: [mark [ZH "竊照臺灣孤懸海外，", ZH "民無土著，", ZH "俗本輕浮，"], ZH "素有內地遊民，", ZH "偷越私渡，", ZH "此等遊手好閒之人，", ZH "既無藝業可守，", ZH "又無田地可耕，", ZH "且懶惰性成，", ZH "即傭工力作，", ZH "亦復不耐辛勞，", ZH "非匿跡於賭場，", ZH "即潛蹤於鼠竊。"]
+            ),
+            translated_p!(
+                ZH,
+crafted: [EN "Drifting in a foreign land with no way to trace their origins,", EN "it is feared they will gradually gather in increasing numbers,", EN "forming gangs and factions.", EN "When the local area is at peace,", EN "they engage in reckless robbery,", EN "bringing harm to the neighborhoods.", EN "Furthermore, the population of Taiwan Prefecture consists mostly of people from Zhangzhou and Quanzhou,", EN "who are naturally inclined toward contention.", EN "At the slightest sign of a trivial dispute,", EN "these vagrants immediately seize the opportunity to join in,", EN "lending their strength to acts of violence.", EN "In minor cases, this incites armed clan feuds,", EN "while in major cases, they plot rebellious activities."],
+foreign: [ZH "異鄉飄泊，", ZH "無可稽查，", ZH "恐漸聚漸多，", ZH "成羣結黨，", ZH "當地方無事之時，", ZH "肆行搶劫，", ZH "爲害閭閻，", ZH "而臺郡率皆漳泉民人，", ZH "素尚忿爭，", ZH "一遇雀角微嫌，", ZH "該遊民等即乘機附和，", ZH "助勢逞兇，", ZH "小則激成械鬥，", ZH "大則謀爲不軌。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Last year's southern route bandits, Xu Shang and Yang Liangbin,", EN " gathered crowds to incite unrest,", EN " likely instigated by such vagrant elements.", EN " Fortunately, high officials acted with speed,", EN " capturing leaders and accomplices,", EN " and eradicating the threat entirely.", EN " However, mainland vagrants still persist,", EN " and their expulsion is vital for long-term security.", EN " No method is superior to 'Village Clearing',", EN " which is simpler to organize than the full baojia system."],
+                foreign: [ZH "上年南路匪徒許尚、楊良斌等，", ZH "糾衆滋事，", ZH "即恐有遊民從中煽誘。", ZH "幸該鎮道府等拏辦妥速，", ZH "當將首夥各犯，", ZH "殲除殆盡。", ZH "但內地遊民，", ZH "尚未絕跡，", ZH "亟須查逐清釐，", ZH "以爲久安之計。", ZH "然欲查逐遊民，", ZH "莫善於清莊一法，", ZH "其事較編查保甲，", ZH "尤爲簡而易行。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "During policing crises in Yanping and Jianning,", EN " we adapted the baojia regulations", EN " into the 'Lianjia' (united-armor) method,", EN " which yielded successful results.", EN " Village clearing is similar in its implementation.", EN " When your minister Sun Erzun traveled to Taiwan,", EN " he ordered strict village clearing,", EN " forbidding any harboring of bandits.", EN " This was previously reviewed by the Emperor on the record."],
+                foreign: [ZH "前年臣等因延平、建寧等郡捕務緊要，", ZH "曾飭各屬於保甲之外，", ZH "小爲變通，", ZH "辦理連甲，", ZH "頗有成效。", ZH "清莊亦與聯甲相仿。", ZH "上年臣孫爾準赴臺時，", ZH "亦飭臺屬力行清莊之法，", ZH "毋許容留匪類，", ZH "均於稽察棚民複查保甲案內，", ZH "先後奏蒙聖鑑在案。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Taiwan is settled by Zhangzhou, Quanzhou, and Cantonese groups,", EN " residing within villages divided by regional origin.", EN " Each village has established headmen,", EN " and the villagers follow their management.", EN " We have ordered Taiwan's high officials", EN " to hold local magistrates accountable", EN " for ensuring these headmen", EN " lead elders and village chiefs", EN " in conducting rigorous inspections."],
+                foreign: [ZH "緣臺灣向系漳、泉、粵三籍之人，", ZH "分莊居住，", ZH "各莊設有頭人，", ZH "莊民鹹聽頭人管束。", ZH "臣等見覆分飭臺灣鎮道府，", ZH "督飭廳縣，", ZH "責成該頭人，", ZH "率同客長鄉耆，", ZH "並莊正、保正人等，", ZH "實力查察。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Any suspicious strangers,", EN " or those wandering near temples and rest stops", EN " without kin to support them,", EN " are deemed to be foreign vagrants.", EN " Headmen must report them to officials,", EN " who shall determine their native origin.", EN " They shall be expelled across the water,", EN " tattooed with 'Cross Water' as a mark,", EN " and deported to their original home districts.", EN " Return to Taiwan is strictly prohibited."],
+                foreign: [ZH "如有面生可疑，", ZH "或在古廟涼亭及飯歇處所飄流無定之人，", ZH "查無親屬相依者，", ZH "既屬外來遊民。", ZH "該頭人等立即稟報地方官，", ZH "訊明內地籍貫，", ZH "照例逐令過水，", ZH "面刺過水二字，", ZH "遞迴原籍安插，", ZH "毋許復行偷渡赴臺；"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Even regarding those seeking work as porters,", EN " porter headmen must verify their characters.", EN " If they are truly honest commoners,", EN " with signed guarantees,", EN " they may remain and serve in the trade.", EN " However, those of unknown origin or violent temper,", EN " prone to inciting trouble,", EN " must be reported,", EN " and expelled to the mainland."],
+                foreign: [ZH "即在夫行投充小夫者，", ZH "亦令夫頭查明，", ZH "果系良民誠實安分者，", ZH "出具保結，", ZH "仍準在行充夫，", ZH "如來歷不明，", ZH "及好勇鬥很，", ZH "動輒生事之徒，", ZH "亦俱報明本管官，", ZH "一律驅逐回籍。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Headmen clearing their own villages", EN " ensures every household is informed.", EN " This avoids the harassment of runners", EN " and complex paperwork.", EN " Villagers, defending their homes, cooperate gladly.", EN " Magistrates, upon receiving reports,", EN " must immediately interrogate suspects.", EN " Vagrants are to be guarded strictly,", EN " and deported in groups.", EN " Given the sea's dangers,", EN " secure transport is essential.", EN " We have ordered the drafting of regulations,", EN " to prevent trouble or escapes mid-journey."],
+                foreign: [ZH "該頭人等，", ZH "各清各莊，", ZH "家喻戶曉，", ZH "既無胥役紛查之擾，", ZH "又無門牌冊籍之繁。", ZH "各莊民自衛自家，", ZH "亦樂於從事。", ZH "臺地各廳縣，", ZH "一據頭人稟報，", ZH "立時訊明，", ZH "先將該遊民嚴加看管，", ZH "或數人或數十人，", ZH "分起押解回內，", ZH "海洋險阻，", ZH "必須妥爲管解，", ZH "亦令議立章程，", ZH "以免中途滋事疏脫。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Arriving at mainland ports,", EN " local officials will manage their return stage by stage.", EN " Quanzhou and Zhangzhou magistrates", EN " must receive these deportees,", EN " requiring clan elders to provide bonds", EN " and enforcing strict control over them.", EN " They must not wander out again.", EN " Meanwhile, mainland and Taiwan officials", EN " must instruct port guards", EN " to inspect all vessels with genuine vigor.", EN " Should any wicked people illegally cross,", EN " both people and vessels shall be prosecuted."],
+                foreign: [ZH "俟解至內地入口，", ZH "即由地方官逐程遞解，", ZH "並通飭泉州、漳州各府廳縣，", ZH "如遇臺灣遞解遊民到境，", ZH "按照籍貫，", ZH "飭命該處鄉耆族房取保，", ZH "嚴行管束，", ZH "毋許私自外出，", ZH "一面分檄內地，", ZH "臺灣該管各文武，", ZH "嚴飭守口員弁，", ZH "凡遇船隻出入口者，", ZH "務須實力盤詰。", ZH "如有奸民越渡臺洋，", ZH "即將人船拏解究辦。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "With rigorous investigations,", EN " vagrants cannot sneak into Taiwan,", EN " and local peace is attained.", EN " Regarding Taiwan’s salt administration,", EN " merchant households traditionally hire guards.", EN " However, coastal criminals", EN " are building illegal pans", EN " to illicitly produce and sell salt,", EN " which is most severe in Chiayi County.", EN " These salt bandits are precisely such vagrants.", EN " If not arrested promptly,", EN " they will gather in force", EN " and harm the land."],
+                foreign: [ZH "似此稽查嚴密，", ZH "庶遊民不能溷跡赴臺，", ZH "地方獲就安謐。", ZH "至臺灣府鹽務，", ZH "向由販戶承辦，", ZH "自行選僱哨捕巡緝，", ZH "見聞該處沿海奸民，", ZH "私設埕坎，", ZH "擅自曬鹽販賣，", ZH "惟嘉義縣境內爲尤甚。", ZH "此等曬私匪類，", ZH "即系遊民，", ZH "若不及早查拏，", ZH "日久嘯聚，", ZH "亦足爲土地之害。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "We have already dispatched urgent directives to intendants", EN " to supervise local magistrate agents.", EN " In coordination with merchants,", EN " they must conduct tight inspections.", EN " Producers everywhere must be captured,", EN " suppressing smuggling", EN " and ensuring official sales.", EN " This secures revenue and food supplies,", EN " while depriving bandits of a living.", EN " Mainland criminals", EN " will be deterred by the news.", EN " Taiwan will be cleared of such elements,", EN " benefiting this vital maritime region."],
+                foreign: [ZH "業經飛飭臺灣道府，", ZH "督飭廳縣，", ZH "選派幹役，", ZH "協同販戶，", ZH "嚴緊查緝，", ZH "將各處私曬匪徒，", ZH "拏獲解究，", ZH "俾私販斂戢，", ZH "官引暢銷，", ZH "不特課賦民食，", ZH "無短絀匱乏之虞，", ZH "且令匪棍流民，", ZH "無托足謀生之所，", ZH "則內地奸徒，", ZH "聞風畏縮，", ZH "不敢再行前往，", ZH "而臺地得以一律肅清，", ZH "實於海外要區，", ZH "大有巔益。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Taiwan’s distance across the sea", EN " makes comprehensive surveillance difficult.", EN " We fear distant magistrates", EN " may become negligent or lax.", EN " We are conducting secret inquiries.", EN " Strict orders have been issued:", EN " officials clearing vagrants", EN " without disturbing civilians", EN " shall be rewarded", EN " as dedicated servants of the state."],
+                foreign: [ZH "惟臺灣重洋間隔，", ZH "非如內地之耳目易周，", ZH "恐該廳縣以距省窵遠，", ZH "意存泄玩，", ZH "臣等見在密加訪察，", ZH "並嚴札通飭該廳縣等，", ZH "如將境內遊民人等，", ZH "認真細查，", ZH "押逐淨盡，", ZH "使民間不受擾累，", ZH "即系實心任事之員，", ZH "定當量予獎勵。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Failure in performance,", EN " through laziness or incompetence,", EN " by failing to expel vagrants,", EN " proves unfitness for defense.", EN " They shall be recalled,", EN " demoted in rank,", EN " or reassigned as assistants,", EN " per the severity of the failure.", EN " Those feigning compliance", EN " or seeking avoidance", EN " will face immediate impeachment", EN " as a warning to others.", EN " Incentives and penalties", EN " will motivate local officials.", EN " Taiwan authorities will investigate locally", EN " and report the truth with honesty.", EN " Favoritism shall incur heavy punishment."],
+                foreign: [ZH "如奉行不力，", ZH "或由於辦事懈怠，", ZH "或限於才質迂疏，", ZH "雖經查逐，", ZH "未能悉數驅除，", ZH "即不加緊搜查，", ZH "有初鮮終，", ZH "亦難勝海疆之任，", ZH "應即撤回內地，", ZH "或改補簡缺，", ZH "或降補佐雜，", ZH "分別輕重，", ZH "奏明辦理。", ZH "若竟陽奉陰違，", ZH "或畏難苟安，", ZH "膜置不辦，", ZH "則自甘暴棄，", ZH "立即嚴參示儆。", ZH "如此酌定勸懲，", ZH "使各廳縣，", ZH "共知奮興警懼，", ZH "方可冀收實效，", ZH "仍令該鎮道府，", ZH "就近確查，", ZH "隨時據實稟報，", ZH "毋得稍事徇護，", ZH "並乾重咎。"]
+            ),
+            translated_p!(
+                ZH,
+                crafted: [EN "Regarding this vital maritime security issue,", EN " we respectfully submit this formal memorial,", EN " seeking Your Majesty's divine review and instructions."],
+                foreign: [ZH "臣等爲海疆地方緊要起見，", ZH "謹恭折具奏，", ZH "伏乞皇上聖鑑訓示。"]
+            )
+        ])
+    ])
+}
+fn ch_vicious_natives() -> Chapter {
+    ("Vicious Natives", vec![
+        block!("Perry Expedition (1852-1855)", [
+            p!(@Initial:
+                EN "The Perry Expedition was commanded by United States Commodore ",
+                fig &PERRY_MATTHEW,
+                EN ", under orders from President Millard Fillmore. Perry's primary goal was to force an end to Japan's 220-year-old policy of isolation and to open Japanese ports to American trade, through the use of gunboat diplomacy if necessary. By the time Commodore Perry's squadron of four ships sailed into Tokyo Bay on July 8, 1853, the Japanese Tokugawa government had already fended off similarly unwelcome intrusions by the French, the Russians, the Dutch, and the British."
+            ),
+            p!(EN "The expedition made multiple port calls before reaching Japan, including stops at Cape Town, Sri Lanka, Singapore, and Hong Kong. Finally, on March 31, 1854, Perry signed the Convention of Kanagawa which opened the ports of Shimoda and Hakodate to American ships, provided for care of shipwrecked sailors, and the establishment of an American consulate in Shimoda. After Perry returned to the United States in 1855, Congress voted to grant him a reward of $20,000 in appreciation of his work in Japan."),
+            p!(
+                EN "During their expedition, a visit was paid to the Island of Taiwan, with the goal of locating a rumored coal deposit. Record of this visit survives in the writing of one ",
+                fig &BREESE_KIDDER,
+                EN "."
+            ),
+            p!(EN "Breese was appointed a Navy Midshipman in 1847 during the Mexican–American War and served on the sea until 1852, when he was assigned to the United States Naval Academy to prepare for examination. Warranted a Passed Midshipman in June 1852, Breese took part in the Commodore Perry's expedition to Japan for the next three years."),
+            p!(EN "Breese would attain the rank of Captain (NATO 0F-5) during his lifetime."),
+            p!(EN "His retelling of the occasion at Taiwan is as follows", file &BOOK_SPROSTON, EN ":"),
+            p!(@Excerpt: EN "In the morning when I turned out we were under topsails and courses running free. Keelung Island was close aboard, a small conical island four miles from the port, and looming up through the mist right ahead rose the high land of Formosa. Several heavy squalls obliged us to lay to until they cleared off, when, taking advantage of a lull, we stood in, taking on board a Chinese pilot; and before meridian were at anchor in the harbour of Keelung."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "Several of the officers, this day, visited a coal mine about a mile from the town. They found it of easy access and apparently good quality. The mandarins state that the junks load with this useful, and, in this part of the world, scarce article, at a port eighty miles to the southward of this place. We wanted to form a party, and, assisted by a Chinese guide, make a land excursion to the mines, but ", mark [EN "on inquiry we found that on account of the barbarous tribes—and, as they say here, also cannibals—which infest the country, none of the Chinese would show us the way; so here the expedition ends, no doubt."]),
+            p!(@Excerpt: EN "We visited this port with two objects in view; namely, to obtain coal (which we have at least found) and to discover if there were any prisoners upon the islands—unfortunate seamen cast away on this inhospitable land and doomed either to death or slavery. But on this point ", mark [ EN "we have been unable to gain any information."]),
+            p!(EN "Breese's account of the Perry Expedition's visit to Taiwan was a glimpse into the island's violent and lawless nature, as perceived by the expedition. The refusal of Chinese guides to lead the party to the coal mines, citing the presence of \"barbarous tribes\" and rumored cannibals, demonstrates the dangerous and untamed reputation of Taiwan's native inhabitants.")
+        ]),
+        block!("Eulenburg Expedition (1859-1862)", [
+            p!(@Initial: EN "Both of these dudes say the same thing about the attack in 1860:", file &BOOK_EULENBURG, file &BOOK_BRANDT_1)
+        ]),
+        block!("Bax Expedition ()", [
+            p!(@Initial: fig &BAX_BONHAM),
+            p!(file &BOOK_BAX, EN ":"),
+            p!(@Excerpt: EN "There were two villages of <ins>Pepohoan</ins> on the south side of <ins>Su'ao Bay</ins>, which were carefully protected by stockades of bamboo, and had a watchtower near the centre, as they also sometimes suffer from the attacks of the savages. In consequence of the crews of vessels that are wrecked on the east coast of Formosa being always ill-treated and often killed, I was desirous of making some arrangement with the tribes to be kind to foreigners who were thrown into their power, and to forward them on to the Chinese, who would send then in to the nearest consulate, according to the treaty. An English gentleman belonging to the Chinese custom service, and who was stationed at Kelung, and had come as my guest to this place, was also anxious to accomplish the same object. We therefore landed with his Chinese servant, and tried to get a guide at the <ins>Pepohoan</ins> villages, but unfortunately without success, as they said they had a feud at present with the nearest savage tribes, and any of their people would be killed if taken by them. The Chinese, of course, refused to go, as they were always at open war."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "On the 25th of May the \"Dwarf\" left Nagasaki to follow the Japanese expedition; after a favourable run we called in at Kelung and coaled, and obtained all the information we could about it<del>...</del>"),
+            p!(@Excerpt: EN "A short time before the arrival of the \"Dwarf\" at Kelung, three canoes, containing twelve men belonging to the Pellew islands, had reached Kelung. They had been blown away from home while fishing, and had been sixty-four days at sea, and had travelled about 1,300 miles. A fourth canoe had been driven off with them, but had parted company a few days before the others had arrived at Kelung, and had not since been heard of. They had lived on the fish they caught, and the rain supplied them with water to drink, as their bamboo vessels for holding it were very small. They had coasted Formosa, but had not dared to land for fear of being killed by the natives; at last they were fortunately set close in to Kelung, and discovered by the Europeans at the custom-house, who had them brought in<del>...</del>"),
+            p!(@Excerpt: EN "When they were first picked up they were in a very emaciated condition, but by the kind treatment they received they soon recovered. On finding their way on board the ship they appeared in good spirits and were much petted by the seamen. In consequence of the great difficulty of getting these people back to their homes again, there being no communication between Kelung and the Pellew islands, they were sent to Hongkong in an English steamer, and from that place an English man-of-war eventually took them back to the Pellew islands.")
+        ])
+    ])
 }
 
-pub fn c_1858_11_20_bradley_01() -> Element {
-    rsx!(FileCitation {
-        file: &US_C035_S02_REPORT_N0068,
-        FigureAttribution {
-            figure: &CHARLES_BRADLEY,
-            locale: [
-                rsx!(span { "US Consulate" }),
-                rsx!(span { "Ningbo, China" }),
-                rsx!(span { "Nov 20th, 1858" })
-            ],
-            h2 {
-                "Notes on the Additional Chinese Ports Opened by Conventions with the Four Treaty  \
-                Powers"
-            },
-            p {
-                "Niuchwang, in the Manchu province of Shinking, is the most northern port opened   \
-                by any of the treaties. It is situated at the mouth of the Liau river, which       \
-                empties into the northeastern extremity of the Gulf of Liautung, in about latitude \
-                40° 45' N., longitude 122° 50' E., some thirteen leagues from Moukden, the         \
-                capital. The limited productions of the province are wheat, barley, pulse, millet, \
-                ginseng, rhubarb, timber, camels and horses, some of which are now exchanged at Kí-\
-                iu-wan, (a market town on and within the frontiers of Corea,) and others are       \
-                bartered with the Euhkien junkmen, who mostly monopolize the trade of the place by \
-                sea. A few of the native craft also ply between this and Tientsin, laden with      \
-                grain for the “Great Northern Capital.” The harbor is artificial, formed by        \
-                strongly built stone piers, between which an opening is left capable of admitting  \
-                the largest junks, which, however, can only enter and depart at high water; at low \
-                tide the larger vessels remaining within it always ground. Tire winters in this    \
-                region are represented as long and intensely severe. I imagine that no American    \
-                consul will be required here, and that the opening of the port was obtained by     \
-                Great Britain rather as a convenient place for watching the movements of Russia    \
-                towards the south and west than for the inconsiderable commercial advantages which \
-                it affords. Count Poutiatine, the Russian minister, was opposed to this            \
-                concession, and I think it was solely on political grounds."
-            },
-            p {
-                del { "..." }
-            },
-            p {
-                "Taiwan-fu, the departmental city in the island of Taiwan, (Formosa,) is situated  \
-                on the southwest coast of the island, in latitude 23° N., longitude 120° 7' 50″ E. \
-                It carries on a large and thrifty commerce with many places on the main land and   \
-                in the Eastern seas, exporting rice, maize, fruits, timber, camphor, indigo, salt, \
-                sulphur, &c. A considerable and increasing European trade has been permitted at    \
-                this port for the past three or four years. I deem it highly important that it     \
-                should have a consular officer, not only for the protection of commerce, which     \
-                cannot fail to be considerable, but also for the sake of our seamen, ", mark {
-                "many of whom are from time to time wrecked on the Formosan coast, where they are  \
-                either put to death or held in captivity" }, " or otherwise suffer extreme         \
-                hardships."
-            },
-            p {
-                del { "..." }
-            },
-            p {
-                "Mr. Interpreter Martin very sensibly remarks that 11 the effect of giving to      \
-                foreign ships the range of the coast will probably be to throw the whole coasting  \
-                trade into their hands, to the detriment of the native junks.” Already the Chinese \
-                prefer foreign vessels, not only because they are swift, insurable, and secure     \
-                from pirates, but because they sail more cheaply than junks, the latter being      \
-                subject to restrictions, impressments, and dangers, which oblige them to charge    \
-                high freights. All that was needed to complete the ascend ency of the foreign ship \
-                has now been acquired in the reduction of tonnage dues and exemption from more     \
-                than one payment in four months. Small American vessels, (say from 300 to 450 or   \
-                500 tons,) well officered, will doubtless secure a good part of the coast trade,   \
-                and are likely to sail more safely than heretofore, since, with the displacement   \
-                of the native craft, the pirates who preyed upon them may be expected to disappear."
-            },
-            p {
-                "Until, however, our tonnage measurement shall have been altered, and made to      \
-                conform with that of Great Britain and of maritime Europe in general, we shall     \
-                probably be under chartered by the vessels of those countries; paying, as they do, \
-                four mace for fifty feet, as tonnage dues, whilst we pay the same for forty feet."
-            },
-            p {
-                style: "text-align-last: right;",
-                "—C. W. Bradley"
-            }
-        }
-    })
+fn ch_divided_island() -> Chapter {
+    ("Divided Island", vec![
+        block!("Perry Expedition, Revisited", [
+            p!(@Initial:
+                EN "Previously, we explored Commodore ",
+                fig &PERRY_MATTHEW,
+                EN "'s expedition to Japan in 1853, specifically their interim visit to Taiwan, as recounted by ",
+                fig &BREESE_KIDDER,
+                EN ". Their expedition's attempt to locate rumored coal deposits was unsuccessful, on account of the refusal by Chinese guides to venture inland due to their fear of the barbarous tribes and \"cannibals\"."
+            ),
+            p!(EN "Here, we look again to Breese's commentary on Taiwan, its isolation, and the dynamics between its Chinese settlers and native tribes, alongside Perry's thoughts on the matter. Breese's account of Taiwan continues", file &BOOK_SPROSTON, EN ":"),
+            p!(@Excerpt: EN "The Chinese have but little intercourse with the savage tribes, that we can discover, holding but an insecure footing themselves and liable to attacks from their formidable enemies at any moment. This is in every sense an unknown island to civilized nations, and years will in all probability lapse before any determined steps will be taken to explore it to any great extent."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "Formosa is a large island off the Province of <ins>Fujian</ins> China, from which it is separated by a channel from 90 to 120 miles in breadth. Its length is about 250 miles by 50 or so in width. It was the last conquest made <ins>in</ins> the present Tartar dynasty, and even now, it is only a conquest by name, as the Chinese are restricted to a very small part of the Island. Vessels have now and then been wrecked upon its inhospitable shores, <ins>and</ins> the fates of all have been death or captivity."),
+            p!(EN "Breese reveals that Chinese dominion over Taiwan was largely nominal and geographically limited, described as \"only a conquest by name\" with the Chinese \"restricted to a very small part of the Island.\" The Chinese presence was militarily insecure, facing constant threats from indigenous populations, and had failed to establish effective control or integration across the island. Essentially, Chinese authority existed more as a theoretical claim than as practical governance over Taiwan."),
+            p!(EN "Perry also has written on the subject. In his report to Congress, Perry implored that the United States should make itself a greater presence in Asia, \"especially\" with regard to Taiwan", file &US_C033_S02_REPORT_N0097, EN ":"),
+            p!(@Excerpt: EN "The day will however arrive, and at no distant period, when political events, and the unanimous and urgent appeals of our commercial men, will make it obligatory on the United States to look with greater solicitude to our eastern commerce, and to extend the advantages of our national friendship and protection, as well to Japan and <ins>Ryukyu</ins> as to other powers but little better known to western nations."),
+            p!(@Excerpt: EN "I may refer to <ins>Thailand</ins>, Cambodia, <ins>Vietnam</ins>, parts of Borneo and Sumatra, and many of the islands of the eastern archipelago, and more especially to the island of Formosa."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "It only belongs to us to endeavor to act justly and honorably in all our foreign relations, and I cannot but believe that we should be just to ourselves and to the world, to <ins>encourage</ins> whatever practical measures might be suggested to change for the better the political and civil condition of China and Japan, and the countries more to the south; and especially with respect to Formosa. The United States alone should assume the initiative."),
+            p!(EN "He then supplied his thoughts with relation to Taiwan:"),
+            p!(@Excerpt: EN "The imperial authorities maintaining a feeble and precarious footing only in isolated parts of the island; a large portion being in possession of independent tribes, and yet such is its productiveness in minerals, drugs, and the more valuable products of those genial regions, that at this time a revenue, estimated at a million of dollars, is collected, though little or none of it goes into the imperial treasury."),
+            p!(@Excerpt: EN "The inhabitants of the island may be divided into two classes: the first composed of those at present submitting to the authority of China, whether of native or Chinese blood; and the other, and probably the more numerous portion, of natives, yet in their unconquered and primitive state. The whole population has been estimated at two, and by some, as high as three millions; and looking to the peculiar abstemiousness of the people of the east, who rarely indulge in any other than vegetable food, it may reasonably be supposed that an island of the extent of Formosa, and of such fertility, could subsist even a larger number."),
+            p!(EN "He even went so far as to advocate for American possession of the island:"),
+            p!(@Excerpt: EN "It may, I think, be safely assumed that an American settlement at Kelung would be looked upon with favor by the Chinese<del>...</del>"),
+            p!(@Excerpt: EN "Grants of land and important privileges, including the advantages of working the coal mines, could, doubtless, be obtained by purchase at nominal cost<del>...</del>"),
+            p!(@Excerpt: EN "Kelung would become a port of general resort for vessels of all nations. The settlers might not only direct the working of the mines, already fully described in this volume, but the products of the land could be largely increased by the introduction of those improvements in agriculture and the mechanic arts which have been hitherto unknown to the Chinese<del>...</del>"),
+            p!(@Excerpt: EN "An American settlement, once firmly established in Formosa, would gradually increase its social and political power, its area of landed possessions, and consequently its wealth and usefulness. Neither of the European governments could reasonably object to its advancement<del>...</del>"),
+            p!(@Excerpt: EN "The geographical position of Formosa renders it eminently suited as an entrepôt for American trade, from which communications might be established with China, Japan, <ins>Ryukyu</ins>, <ins>Vietnam</ins>, Cambodia, <ins>Thailand</ins>, the Philippines, and all the islands situated in the adjacent seas; and it recommends itself more strongly from the fact of its capability of furnishing abundant supplies of coal, which, in the present and increasing use of steam for purposes of commerce, will prove of vast importance to the eastern trade.<del>...</del>"),
+            p!(EN "Perry's report confirms that Chinese dominion over Taiwan remained extremely weak, describing Chinese authorities as maintaining \"a feeble and precarious footing only in isolated parts of the island\" with \"a large portion being in possession of independent tribes.\" Even more telling, while some revenue was collected from the island, \"little or none of it goes into the imperial treasury,\" indicating Chinese administrative control was so limited they couldn't effectively extract resources from their supposed territory. Perry saw this weakness as an opportunity for American expansion, believing the Chinese presence was so tenuous that an American settlement could gradually expand its influence across the island.")
+        ]),
+        block!("Bax Expedition, Revisited", [
+            p!(@Initial: fig &BAX_BONHAM),
+            p!(file &BOOK_BAX, EN ":"),
+            p!(@Excerpt: EN "We remained here for a few days, and then went on to a large bay, about fifty miles to the southward, called <ins>Su'ao</ins> Bay, which is on the border between the Chinese and savage territory. It is a fine bay, but open to the east, and therefore unsafe in the typhoon season, except for junks and very small gun-vessels that can anchor behind the reef at the end of the bay. A Chinese village is built by a small river, and has a slightly cultivated valley around it. Everywhere else the mountains and hills come close down to the water. On the savage side they are densely wooded; but those hills on the Chinese side are bare of trees, not only on account of cultivation, but also to deprive the savages of the advantage of attacking them by crawling up under cover of the forest, which is their favourite mode of fighting. A few farms were scattered about the valley at the head of the bay, but the farmers had to go to their work in the fields with their weapons ready for use, and keeping one man on the look-out to give the alarm. Many of the fields nearest to the savages had evidently been uncultivated for some time on account of their savage neighbours."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "China <ins>has</ins> possession of a part of Formosa, and <ins>claims</ins> the whole of it."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "The savages held possession of the mountains, and were in a constant state of warfare with the Chinese settlers on the low country."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "All the villages near the S.W. point of Formosa were peopled by Chinese and <ins>Pepohoans</ins>, and owned allegiance to China. On the east side of the bay, the savage tribes held the country, and were constantly fighting with their more civilized neighbours, who have to keep their weapons by them ready for use while cultivating their fields.")
+        ]),
+        block!("Morrison on the Status of Taiwan", [
+            p!(@Initial:
+                fig &MORRISON_GABRIEL,
+                EN " was a pioneering British civil engineer whose business ventures in China played a crucial role in the early development of the country's railway infrastructure during the late 19th century. Born in London and educated at Glasgow University under the renowned professor Lord Kelvin, Morrison brought technical expertise to the Far East, having previously participated in laying the first transatlantic telegraph cable."
+            ),
+            p!(EN "His most significant achievement came in 1876 when he served as engineer-in-charge of China's first railway project, successfully constructing and opening the line between Shanghai and Wusong under the consulting supervision of Sir G.B. Bruce, though the Chinese Government soon purchased and dismantled the railway."),
+            p!(EN "Following this initial project, Morrison established himself permanently in Shanghai as a civil engineer and devoted considerable energy to promoting the development of trunk railway lines throughout China. His business approach was characterized by extensive travel through the Chinese interior."),
+            p!(EN "In 1885, he formed the partnership of \"Morrison & Cratton\" with architect F.M. Cratton, and their firm became associated with many large engineering works undertaken in Shanghai and other Chinese cities. Morrison also served on the Shanghai Municipal Council and was the first President of the Society of Engineers and Architects in Shanghai, demonstrating his significant influence in the foreign business community."),
+            p!(EN "In 1877, his \"business took him to the island\" of Taiwan, and he had his thoughts on the island published that very year", file &GAZETTE_GEO_MAG_V04, EN ":"),
+            p!(@Excerpt: EN "It is only a very few years since the Island of Formosa, or Taiwan, as it is called by the Chinese, was practically an unknown land, and even now the number of Europeans who have penetrated into the interior is very small."),
+            p!(@Excerpt: EN "In April 1877, business took me to the island, and during my stay I visited all the treaty ports, and journeyed overland from <ins>Tainan</ins> to Kelung, a distance by road of 218 miles."),
+            p!(@Excerpt: EN "My business gave me the entree of the Governor's Yamen, and required that I should collect as much information as possible, from observation and from reports, as well as from interviews with those acquainted with the country. Although I did not penetrate into the savage district, and cannot therefore describe any previously unknown land, still I believe that much of the information contained in the following pages has never been published, and I have no doubt will be found useful by any one wishing to visit the island, or to make himself acquainted with its present condition or future prospects."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "Although nominally a part of China, the sovereignty of the Chinese only extends over about half the island; over certain other parts they exercise a nominal sway, but there are still some portions into which no Chinaman dares to enter."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "Even subsequent to the appointment of British consuls, the natives were in the habit of murdering the crews of any vessels wrecked on their coast. The crew of the U.S. vessel 'Rover' met with this fate, and the U.S. consul at Amoy, of whose district Formosa formed a part, seeing that it was useless at that time to negotiate with the Chinese authorities, who were powerless, determined to go direct to the savages."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "The island may be divided, either according to its physical character or according to its inhabitants; but, practically, it makes little difference which method is adopted, because, roughly speaking, the flat portion is civilised, while the mountainous portion is savage."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "The country which has just been described is the flat and civilised portion of the island. The hilly and uncivilised portion is of quite a different character. The west coast of the island is so low that it can hardly be seen at a distance of 3 or 4 miles, and houses and trees near the coast are liable to be mistaken for junks at a very slight distance. The east coast, on the other hand, is generally mountainous, with deep water very close to the shore. A ridge of mountains runs up the centre of the island. Mount Morrison, the highest of the range, is said to be 12,850 feet, and Mount Sylvia 11,300 feet. Mount Morrison is not named after the well known missionary and Chinese scholar, but after the captain of one of the early vessels trading to <ins>Tainan</ins>."),
+            p!(@Excerpt: EN "All the land east of the mountains is supposed to be hilly, and inhabited by savages."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "For some time the Chinese have had military stationed on the borders of the savage country, trying to open up communication with the east coast. <ins>Su'ao</ins> Bay, on the east coast, and all to the north of it, have been in Chinese hands for many years. South of it, there are two Chinese settlements, called <ins>Xincheng</ins> and <ins>Hualien</ins>. The most northerly has been in existence twenty years, but has never numbered more than a hundred Chinese. In <ins>Hualien</ins>, on the other hand, there are about 700 Chinese and about 1000 semi-civilised savages."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "The people who inhabit the two parts of the island differ as much in their characteristics as do the two portions of country."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "In travelling through the civilised part of the island, it is a good thing to take a proper supply of provisions. Carrying coolies can easily be obtained, and no advantage is to be derived from going badly provided, except the advantage of being more than usually uncomfortable. <del>...</del> It must, of course, be understood that these remarks refer only to the civilised portion of the island. When the traveller makes up his mind to enter the borders of the savage country, he must cut down his baggage to the smallest possible dimensions, and, if he carries provisions, should only carry a small supply to guard against emergencies, and not for general use. And here it may be well to speak of carrying a revolver or other weapon."),
+            p!(EN "Morrison's account once again reflects the limited nature of Chinese control over Taiwan during this period. His observation that Chinese sovereignty \"only extends over about half the island\" is  consistent with other contemporary assessments, with effective control confined largely to the western coastal plains while mountainous regions remained under indigenous control."),
+            p!(EN "Morrison describes Chinese military forces \"stationed on the borders of the savage country, trying to open up communication with the east coast\"—language that suggests ongoing efforts at expansion. The minimal Chinese settlements on the east coast, with Xincheng numbering fewer than a hundred residents after twenty years, further illustrates the tenuous nature of Chinese territorial claims beyond the core administrative areas.")
+        ])
+    ])
 }
 
-pub fn c_1855_02_14_perry_01() -> Element {
-    rsx!(FileCitation {
-        file: &US_C033_S02_REPORT_N0097,
-        FigureAttribution {
-            figure: &MATTHEW_PERRY,
-            locale: [
-                rsx!(span { "14 Wall street" }),
-                rsx!(span { "New York, NY" }),
-                rsx!(span { "Feb 14th, 1855" })
-            ],
-            p {
-                "But, after all, these events in the history and fate of nations are doubtless     \
-                directed by an overruling Providence, and probably we could not, if we would,      \
-                change their course, or avert our ultimate destiny. It only belongs to us to       \
-                endeavor to act justly and honorably in all our foreign relations, and I cannot    \
-                but believe that we should be just to ourselves and to the world, to en", ins {
-                "c" }, "ourage whatever practical measures might be suggested to change for the    \
-                better the political and civil condition of China and Japan, and the countries     \
-                more to the south; and especially with respect to Formosa. The United States alone \
-                should assume the initiative. ", mark { "This magnificent island, though nominally \
-                a province of China, is practically independent. The imperial authorities          \
-                maintaining a feeble and precarious footing only in isolated parts of the island;"
-                }, " a large portion being in possession of independent tribes, and yet such is    \
-                its productiveness in minerals, drugs, and the more valuable products of those     \
-                genial regions, that at this time a revenue, estimated at a million of dollars, is \
-                collected, though little or none of it goes into the imperial treasury."
-            },
-            p {
-                "The inhabitants of the island may be divided into two classes: the first composed \
-                of those at present submitting to the authority of China, whether of native or     \
-                Chinese blood; and the other, and ", mark { "probably the more numerous portion" },
-                ", of natives, yet in their unconquered and primitive state. The whole population  \
-                has been estimated at two, and by some, as high as three millions; and looking to  \
-                the peculiar abstemiousness of the people of the east, who rarely indulge in any   \
-                other than vegetable food, it may reasonably be supposed that an island of the     \
-                extent of Formosa, and of such fertility, could subsist even a larger number."
-            }
-        }
-    })
+fn ch_taiwan_expedition() -> Chapter {
+    ("Taiwan Expedition", vec![
+        block!("Chinese Absolve Responsibility", [
+            p!(@Initial: fig &BAX_BONHAM),
+            p!(file &BOOK_BAX, EN ":"),
+            p!(@Excerpt: EN "Hitherto they had always replied to complaints of foreign nations, by stating that they had no control over the savage tribes on the east coast, and that the foreigners must punish them themselves.")
+        ]),
+        block!("Japanese Land Troops in Chinese Territory", [
+            p!(@Initial: fig &BAX_BONHAM),
+            p!(file &BOOK_BAX, EN ":"),
+            p!(@Excerpt: EN "When the Chinese found what a formidable force had been landed at <ins>Hengchun</ins>, they denied that the Japanese had ever applied to them, or that they had ever given them permission to land an armed force in Formosa, as they now began to fear that the Japanese meditated the conquest of the whole island. From the size of the expedition, and from the reports of the Chinese officials of the number of Japanese, who, calling themselves merchants, had been travelling over and examining every part of the country for some time previously, their fears appeared to have some good foundation."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "When the Japanese had first landed, they made their camp among the low sand ridges near the beach; the camp was made of tents, and was clean and well kept. Afterwards, when the summer advanced and the weather became too hot for living under canvas, they moved to another camp that they had made of wooden huts with double roofs of thatch, about a mile farther off and more inland. The second camp had something the appearance of a Japanese village; the floors of the huts were raised off the ground to keep them dry, and a hospital was erected, and every precaution taken for the health of the troops. The first camp was broken up when the second one was finished. There were no warships at <ins>Hengchun</ins> when we first arrived, but afterwards the Japanese steam corvette and gunboat, and also transports, came in occasionally, bringing stores and munitions of war, and taking away any sick people that it was necessary to send to Japan. The vessels never remained longer than they could help at anchor in the bay."),
+            p!(@Excerpt: EN "The Chinese town of <ins>Hengchun</ins> was situated about a mile and a half inland. The mountains commenced abruptly about two, or two and a half miles from the beach; between them and the sea the land was fairly cultivated with rice and sweet potatoes; several Chinese villages were scattered about. From this there could be no doubt that the place where the Japanese had made their camp was bonafide Chinese <ins>territory</ins>."),
+            p!(@Excerpt: EN "<del>...</del>"),
+            p!(@Excerpt: EN "I may as well here mention that, although I do not profess to form an opinion as to the course taken by the Japanese in avenging the death of their countrymen, whether they were right or wrong in landing such a large force in Chinese territory, the effect has been very beneficial to all nations that possess vessels trading in these seas, as it has caused the Chinese to send gun-boats and officials to several savage villages on the coast, and to endeavour to induce the chiefs to be kind to any shipwrecked people that should fall into their power in future. The Japanese quite ignored the old excuse of the Chinese that they had no control over those tribes, and therefore could not be responsible for their acts.")
+        ]),
+    ])
 }
 
-pub fn c_1851_10_10_perry_01() -> Element {
-    rsx!(FileCitation {
-        file: &NYDH_1851_10_12,
-        FigurelessAttribution {
-            locale: [
-                rsx!(span { "14 Wall street" }),
-                rsx!(span { "New York, NY" }),
-                rsx!(span { "Oct 8th, 1851" })
-            ],
-            p {
-                "Hon. W. A. Graham, Secretary of the U. S. Navy:"
-            },
-            p {
-                "Sir: Prompted by feelings of humanity, combined with those of duty, I             \
-                respectfully solicit your attention to the following circumstances of the loss of  \
-                the bark Coquette, commanded by my brother, Captain Prescott."
-            },
-            p {
-                "He left Shanghae with his vessel, in September, 1849, for Canton, in company with \
-                two brigs. A few days after their departure a severe typhoon arose, and the        \
-                Coquette, with the two brigs, never reached the port of their destination.         \
-                Recently two seamen were taken by an English vessel of war from the island of      \
-                Formosa. They state that the bark Coquette, with a brig, had been wrecked on that  \
-                island, and that the crews were either murdered or made prisoners."
-            },
-            p {
-                "I would inquire if the department over which you preside can take any steps by    \
-                which the above statements may be tested, and if the missing crews are imprisoned? \
-                Whether or not some measures can be adopted to secure their liberation?            \
-                Respectfully yours,"
-            },
-            p {
-                style: "text-align-last: right;",
-                "—H. W. Prescott"
-            }
-        },
-        FigureAttribution {
-            figure: &CHARLES_CONRAD,
-            locale: [
-                rsx!(span { "Navy Department" }),
-                rsx!(span { "Washington, DC" }),
-                rsx!(span { "Oct 10th, 1874" })
-            ],
-            p {
-                "H. W. Prescott, 14 Wall street, New York:"
-            },
-            p {
-                "Sir: Your letter of the 8th instant, in relation to the wreck of the bark         \
-                Coquette, under the command of your brother, Captain Prescott, has been received."
-            },
-            p {
-                "A copy of your communication will be sent to Commodore Aulick, commanding the     \
-                East India Squadron, with instructions to send one of the vessels of his command   \
-                to the island of Formosa, for the purpose of ascertaining the facts in the case of \
-                the wreck of the bark Coquette, and the treatment of the crew."
-            },
-            p {
-                "I am, Sir, respectfully, your obedient servant,"
-            },
-            p {
-                style: "text-align-last: right;",
-                "—C. M. Conrad, Acting Secretary of the Navy"
-            }
-        }
-    })
+fn ch_western_sympathies() -> Chapter {
+    ("Western \"Sympathies\"", vec![
+        block!("Wade, of Britain", [
+
+        ]),
+        block!("Williams, of America", [
+
+        ]),
+        block!("de Geofroy, of France", [
+
+        ]),
+        block!("von Brandt, of Prussia", [
+            p!(@Initial:
+                fig &VONBRANDT_MAXIMILIAN,
+                EN ", a career diplomat of Prussian origin, having served more-or-less a decade each in Japan and China, would later recount his understanding of events.",
+                EN " He would only find office in China shortly <i>following</i> the events of 1874, therefor his perspective would have been from the vantage of his office in Japan."
+            ),
+            p!(EN "Some decades later, in 1897, he would publish a text detailing his work on the Asian continent."),
+            p!(EN "He betrayed no bias to either Japan or China (having been involved with both by that point), and was quite critical of Japanese means and motivations, but none-the-less <i>does</i> place blame with the Chinese."),
+            p!(EN "It became his view, after having been present in both Japan and China in official capacities, that", file &BOOK_BRANDT_1, EN ":"),
+            p!(@Excerpt: EN "With characteristic clumsiness, China denied responsibility for these incidents, which gave rise to the Japanese expedition to South Formosa in 1874."),
+            p!(EN "In 1901, another of his works, also recounting his thoughts and actions at the time, again places blame with the Chinese", file &BOOK_BRANDT_2, EN ":"),
+            p!(@Excerpt: EN "The Mikado government <del>...</del> decided to take action against the savages on the southern tip of Formosa, since, based on the foolish declarations of the Tsungli Yamen, it believed it could assume that China would give Japan a free hand there. The new American ambassador, Mr. Bingham, seemed to share this view<del>...</del>"),
+            p!(EN "He even recounts his efforts to dissuade the Japanese against their expedition", file &BOOK_BRANDT_2, EN ":"),
+            p!(@Excerpt: EN "My English colleague and I, along with some of the other representatives, had done our best to dissuade the Japanese government from the venture, which would have required great sacrifices of money and men, promised no practical success, and could at least involve them in unpleasantness."),
+            p!(EN "Notably, he does not list 'Chinese sovereignty' as a cause for concern.")
+        ])
+    ])
 }
 
-pub fn c_1851_10_10_conrad_01() -> Element {
-    rsx!(FileCitation {
-        file: &NYDH_1851_10_12,
-        FigurelessAttribution {
-            locale: [
-                rsx!(span { "14 Wall street" }),
-                rsx!(span { "New York, NY" }),
-                rsx!(span { "Oct 8th, 1851" })
-            ],
-            p {
-                "Hon. W. A. Graham, Secretary of the U. S. Navy:"
-            },
-            p {
-                "Sir: Prompted by feelings of humanity, combined with those of duty, I             \
-                respectfully solicit your attention to the following circumstances of the loss of  \
-                the bark Coquette, commanded by my brother, Captain Prescott."
-            },
-            p {
-                "He left Shanghae with his vessel, in September, 1849, for Canton, in company with \
-                two brigs. A few days after their departure a severe typhoon arose, and the        \
-                Coquette, with the two brigs, never reached the port of their destination.         \
-                Recently two seamen were taken by an English vessel of war from the island of      \
-                Formosa. They state that the bark Coquette, with a brig, had been wrecked on that  \
-                island, and that the crews were either murdered or made prisoners."
-            },
-            p {
-                "I would inquire if the department over which you preside can take any steps by    \
-                which the above statements may be tested, and if the missing crews are imprisoned? \
-                Whether or not some measures can be adopted to secure their liberation?            \
-                Respectfully yours,"
-            },
-            p {
-                style: "text-align-last: right;",
-                "—H. W. Prescott"
-            }
-        },
-        FigureAttribution {
-            figure: &CHARLES_CONRAD,
-            locale: [
-                rsx!(span { "Navy Department" }),
-                rsx!(span { "Washington, DC" }),
-                rsx!(span { "Oct 10th, 1874" })
-            ],
-            p {
-                "H. W. Prescott, 14 Wall street, New York:"
-            },
-            p {
-                "Sir: Your letter of the 8th instant, in relation to the wreck of the bark         \
-                Coquette, under the command of your brother, Captain Prescott, has been received."
-            },
-            p {
-                "A copy of your communication will be sent to Commodore Aulick, commanding the     \
-                East India Squadron, with instructions to send one of the vessels of his command   \
-                to the island of Formosa, for the purpose of ascertaining the facts in the case of \
-                the wreck of the bark Coquette, and the treatment of the crew."
-            },
-            p {
-                "I am, Sir, respectfully, your obedient servant,"
-            },
-            p {
-                style: "text-align-last: right;",
-                "—C. M. Conrad, Acting Secretary of the Navy"
-            }
-        }
-    })
+fn ch_wartime_agreements() -> Chapter {
+    ("Wartime Agreements", vec![
+        block!("Atlantic Charter", [
+            subtitle!("Operation RIVIERA"),
+            p!(@Initial: EN "",
+            ),
+        ]),
+        block!("Declaration by the United Nations", [
+            p!(@Initial: EN "",
+                file &US_MEMO_1941_12_08_GAUSS,
+                file &US_MEMO_1941_12_08_HULL,
+                file &US_MEMO_1941_12_10_ROOSEVELT,
+                file &US_MEMO_1941_12_12_WELLES,
+                file &TW_MEMO_1941_12_12_SOONG,
+                file &US_MEMO_1941_12_16_GAUSS,
+                file &US_MEMO_1941_12_17_STIMSON,
+                file &US_MEMO_1941_12_19_HULL,
+                file &US_MEMO_1941_12_19_SAVAGE_1,
+                file &US_MEMO_1941_12_19_SAVAGE_2,
+                file &US_MEMO_1941_12_22_HULL,
+                file &US_MEMO_1942_01_01_EARLY,
+                file &US_MEMO_1942_01_01_ROOSEVELT,
+                file &BOOK_HULL,
+                file &BOOK_CHURCHILL_1,
+                file &US_SERIAL_FRUS_1942_1942_V01,
+                file &US_MEMO_1942_01_XX_CCS
+            ),
+            subtitle!("Operation ARCADIA"),
+            p!(@Excerpt: EN "My associates and I had been preparing a comprehensive summary of our relations with Japan, culminating in Pearl Harbor, which the President might wish to send to Congress. We completed this about December 10, and Mr. Roosevelt sent it as a message to Congress on December 15. <del>...</del>"),
+            subtitle!("Operation ARCADIA"),
+            p!(@Excerpt: EN "My associates and I had been preparing a comprehensive summary of our relations with Japan, culminating in Pearl Harbor, which the President might wish to send to Congress. We completed this about December 10, and Mr. Roosevelt sent it as a message to Congress on December 15. <del>...</del>"),
+            p!(@Excerpt: EN "I was then beginning to work, along with my associates at the State Department, on a far more important declaration—that which later was called the Declaration by United Nations. Almost immediately after Pearl Harbor I had begun to consider the form of unity the nations fighting against Hitler and Japan should take. <del>...</del>"),
+            p!(@Excerpt: EN "On Saturday December 13 I asked Maxwell M. Hamilton, Chief of the Division of Far Eastern Affairs, to draw up a draft of a declaration to be made by the nations fighting the Axis, which would bind them together until victory and would commit them to the basic principles that we upheld. The following morning, Sunday, exactly one week after Pearl Harbor, I met with a group of my associates to discuss this declaration and another declaration setting up a Supreme War Council. <del>...</del>"),
+            p!(@Excerpt: EN "From December 15 to December 19 my associates and I spent considerable time perfecting drafts of the document that became the United Nations Declaration. We also discussed another document that would have created a Supreme War Council composed of the heads or representatives of the Governments of the United Kingdom, the United States, China, and the U.S.S.R. The function of the War Council would be \"to supervise and coordinate the general conduct of the war and to provide for its successful prosecution.\""),
+            p!(EN "TODO"),
+            p!(@Excerpt: EN "I sent both papers to the President at the White House at one o'clock on December 19", file &US_MEMO_1941_12_19_HULL, file &US_SERIAL_FRUS_1942_1942_V01, EN ", along with a memorandum outlining the activities of the Supreme War Council of 1917-1918. <del>...</del>"),
+            p!(@Excerpt: EN "In the Cabinet discussion that followed, there seemed to be general approval of both documents. The President raised only one point about which he had any hesitancy. This concerned the constitutionality of the Joint Declaration, which later became known officially as the Declaration by United Nations. He brought up especially the question whether he had the constitutional right to sign an agreement that pledged the signatories not to conclude a separate armistice or cease hostilities."),
+            p!(@Excerpt: EN "When I returned to the State Department I called my advisers in for a discussion of this point. We generally felt that there was no real doubt as to the constitutionality of the provisions. I suggested, however, that the provision might well be taken from the Joint Declaration, which would be signed by many countries, and placed in the Supreme War Council agreement, which would be signed by four countries. We therefore prepared new drafts, also embodying two other minor changes, and I sent these to the White House that evening to be substituted for the two documents I had placed before the Cabinet.", file &US_MEMO_1941_12_19_SAVAGE_2),
+            p!(@Excerpt: EN "December 22 I sent the President an eight-page opinion by Green H. Hackworth, Legal Adviser of the State Department, to the effect that there was not the slightest question about the constitutionality of the President's undertaking not to cease hostilities against or conclude a separate armistice with the common enemies or any of them except by common agreement.", file &US_MEMO_1941_12_22_HULL, EN " I wrote the President that, in my judgment, Hackworth's opinion \"makes clear the legal and constitutional validity of this provision.\" <del>...</del> The President thereupon agreed that this clause could well be reinserted in the Declaration."),
+            p!(@Excerpt: EN "That day I gave the President a further memorandum on the Supreme War Council my associates and I proposed. <del>...</del> On the same day Prime Minister Churchill arrived in Washington. During the next few days the President went over with the Prime Minister our texts of the proposed Joint Declaration and of the proposal or the Supreme War Council. Mr. Churchill or Ambassador Halifax communicated these to London for the War Cabinet’s opinion."),
+            p!(@Excerpt: EN "The President sent me on December 27 his written comments on the two texts. Churchill had received recommendations from the War Cabinet on the Joint Declaration and the President said he had taken these into account. <del>...</del> The President said he had been trying to think of a way to obviate the necessity of two different documents, the Joint Declaration and the Supreme War Council proposal. <del>...</del> To meet his thought that there should not be two separate documents, we prepared a draft combining the Joint Declaration and the Supreme War Council proposal."),
+            p!(@Excerpt: EN "I now had ready three drafts to take to the White House—the new draft of the Joint Declaration, a copy of the December 19 draft on the Supreme War Council, and the amalgamated draft containing the Joint Declaration and the agreement on the Supreme War Council."),
+            p!(@Excerpt: EN "Lord Halifax joined in the later stages of the conference in my office. <del>...</del> Halifax and I then went to the White House for our conference with the President and the Prime Minister. During the conference it was apparent that Mr. Roosevelt and Mr. Churchill were not yet in agreement that a Supreme War Council should be set up. Most of our discussion was devoted to this subject. We therefore agreed to adopt the new draft of the Joint Declaration, standing alone, leaving the Supreme War Council draft for further discussion. <del>...</del>"),
+            p!(@Excerpt: EN "Two days later Litvinov came to my office with three amendments suggested by his Government.", file &US_MEMO_1941_12_29_HULL, EN " <del>...</del> The Ambassador seemed surprised when I said that the proposed declaration had not been delivered to any other country for signature pending Soviet Russia’s reaction. He had brought with him a separate declaration that Stalin planned to make upon the assumption that the Joint Declaration was already in circulation among other countries for signature. <del>...</del> I sent the Soviet amendments to the President later that day. <del>...</del> The President agreed to the incorporation of the Soviet amendments. <del>...</del>"),
+            p!(@Excerpt: EN "The following day, December 31, I sent the Joint Declaration in its final form to the President for signature by himself and the Prime Minister. I suggested that the President might desire to ask Ambassador Litvinov and T. V. Soong, who had just been made Foreign Minister of China, to attach their signatures at the White House. <del>...</del> Later I telephoned the President and suggested that since there would not be enough signatures on the document by the next day, January 1, it would be preferable to wait a few days before releasing it. The President and I agreed that the Joint Declaration should be dated January 1 and made public on January 2 or 3. <del>...</del>"),
+            p!(@Excerpt: EN "On the morning of December 31, while Prime Minister Churchill was having a bath in the White House, the President came to him and suggested that the Joint Declaration carry the title, \"Declaration by United Nations.\" The distinguished bather agreed, and thus the term \"United Nations\" came into being. The President had our final draft recopied at the White House so as to bear the new title."),
+            p!(@Excerpt: EN "On the first day of the New Year, Roosevelt, Churchill, Litvinov, and Soong signed the historic document. <del>...</del> While these signatures were being affixed, I issued a public statement, saying: \"The Declaration by the United Nations joins together, in the greatest common war effort in history, the purpose and will of twenty-six free nations, representing the overwhelming majority of the inhabitants of all six continents. This is a living proof that law-abiding and peace-loving nations can unite in using the sword when necessary to preserve liberty and justice and the fundamental values of mankind. Against this host we can be sure that the forces of barbaric savagery and organized wickedness cannot and will not prevail.\""),
+        ]),
+        block!("Moscow Declarations", [
+            p!(@Initial: EN "",
+
+            )
+        ]),
+        block!("Cairo Declaration", [
+            subtitle!("Operation SEXTANT"),
+            p!(@Initial: EN "",
+                file &US_MEMO_1942_03_07_GAUSS,
+                file &US_MEMO_1942_04_08_GAUSS,
+                file &US_MEMO_1942_04_16_GAUSS,
+                file &US_MEMO_1942_05_26_GAUSS,
+                file &US_MEMO_1942_07_14_GAUSS,
+                file &GAZETTE_1942_11_04_CDN,
+                file &US_MEMO_1943_03_09_DAVIES,
+                file &US_MEMO_1943_05_18_CURRIE,
+                file &US_MEMO_1943_10_18_GAUSS,
+                file &US_MEMO_1943_11_30_STETTINIUS,
+                file &US_MEMO_1943_12_02_HULL,
+                file &US_MEMO_1943_12_09_SUMMERLIN,
+                file &US_MEMO_1943_01_XX_CCS,
+                file &US_MEMO_1943_12_XX_CCS
+            )
+        ]),
+        block!("Tehran Declaration", [
+            subtitle!("Operation EUREKA"),
+            p!(@Initial: EN "",
+
+            )
+        ]),
+        block!("Declaration on Liberated Europe", [
+            subtitle!("Operation ARGONAUT"),
+            p!(@Initial: EN "",
+
+            )
+        ]),
+        block!("Potsdam Declaration", [
+            subtitle!("Operation TERMINAL"),
+            p!(@Initial: EN "",
+
+            )
+        ])
+    ])
 }
 
-pub fn c_1874_05_22_house_01() -> Element {
-    let t01 = rsx!(Tip { tip: S("Hengchun"), "Liangkiao" });
-    rsx!(FileCitation {
-        file: &BOOK_CHINESE_REPO_20,
-        FigureAttribution {
-            figure: &EDWARD_HOUSE,
-            locale: [
-                rsx!(span { "SS ", i { ruby { "Yūkō Maru", rt { "有功丸" }}}}),
-                rsx!(span { ruby { "Hengchun", rt { "恆春" }}, " Bay" }),
-                rsx!(span { "22 May 1874" })
-            ],
-            p {
-                "While the skirmish of the 22d was going on, several large ships entered and       \
-                anchored in ", { t01 }, " Bay. The earliest to arrive was the “Takasagu Maru”      \
-                which brought General Saigo, the Commander in Chief, with his staff, and fifteen   \
-                hundred soldiers and laborers. She was followed by a second transport, the         \
-                passengers in which increased the entire available force of fighting men to about  \
-                thirteen hundred. Before the disembarkation commenced, two other vessels           \
-                approached from a different direction, the nationality of which was at first       \
-                doubtful, but which presently proved to be a Chinese frigate and gunboat."
-            },
-            p {
-                "The arrival of these ships of war excited much curiosity, for, up to this time,   \
-                we, in Formosa, had received no definite or trustworthy intelligence of the views  \
-                of the Chinese government, since the commencement of the efforts of foreign        \
-                Ministers to divert them from the true issue, and great uncertainty was felt as to \
-                the course of action they might adopt."
-            },
-            p {
-                "It was a relief to find, on visiting these newcomers, that their visit was in no  \
-                respect unfriendly, for not only were all anxieties as to Chinese interference     \
-                thus allayed, but conclusive proofs were afforded of the falseness of the grounds  \
-                upon which the mischief-makers at Tokio and Peking had based their irritating      \
-                proceedings. According to these messengers, the government of China had never yet  \
-                objected in any degree to the Japanese movement, and one of the special errands of \
-                the ships was to communicate with the natives of the Liangkiao valley and to       \
-                assure the chiefs personally, and the people by posted proclamations, that the     \
-                Japanese were here to do a good work, that the Chinese authorities were in         \
-                sympathy with them, and that it should be the duty of all the inhabitants to       \
-                assist them in every way that lay in their power."
-            },
-            p {
-                "Making due allowance for the high-flown extravagance of some of their             \
-                declarations, it was abundantly clear that, up to this time, no hostile sentiments \
-                had been generally diffused among the Chinese officials; and indeed, evidence was  \
-                afterward supplied that the Admiral in command at Amoy had reiterated the          \
-                familiar assertions that his government was not responsible for and had no         \
-                jurisdiction over the savage population, some days after the first party of        \
-                Japanese had actually reached Formosa."
-            }
-        }
-    })
+fn ch_post_surrender_policies() -> Chapter {
+    ("Post Surrender Policies", vec![
+        block!("SWNCC 68: National Composition of Forces to Occupy Formosa", [
+            p!(@Initial: EN "", file &US_MEMO_1945_03_19_SWNCC, file &US_MEMO_1945_07_30_SWNCC_SFE, file &US_MEMO_1945_08_03_ROBERTS, file &US_MEMO_1945_08_06_SWNCC_SFE, file &US_MEMO_1945_08_10_MCFARLAND, file &US_MEMO_1945_08_23_SWNCC_SFE_1, file &US_MEMO_1945_08_23_SWNCC_SFE_2, file &US_MEMO_1945_09_19_SWNCC_SFE_1, file &US_MEMO_1945_09_21_SWNCC_1, file &US_MEMO_1945_09_25_SWNCC),
+        ]),
+        block!("SWNCC 150: Initial Post-Defeat Policy Relating to Japan", [
+            p!(@Initial: EN "",
+                file &US_MEMO_1944_05_04_BALLANTINE,
+                file &US_MEMO_1945_06_11_SWNCC,
+                file &US_MEMO_1945_08_11_SWNCC_1,
+                file &US_MEMO_1945_08_11_SWNCC_2,
+                file &US_MEMO_1945_08_12_SWNCC_1,
+                file &US_MEMO_1945_08_12_SWNCC_2,
+                file &US_MEMO_1945_08_22_SWNCC,
+                file &US_MEMO_1945_08_23_SWNCC_SFE_3,
+                file &US_MEMO_1945_08_30_SWNCC,
+                file &US_MEMO_1945_08_31_SWNCC,
+                file &US_MEMO_1945_09_06_SWNCC,
+                file &US_MEMO_1945_09_17_SWNCC_SFE,
+                file &US_MEMO_1945_09_19_SWNCC_SFE_2,
+                file &US_MEMO_1945_09_19_SWNCC,
+                file &US_MEMO_1945_09_21_SWNCC_1,
+                file &US_MEMO_1945_09_21_SWNCC_2,
+                file &US_MEMO_1945_09_24_SWNCC,
+                file &US_MEMO_1945_11_03_MCFARLAND,
+                file &US_MEMO_1945_11_27_SWNCC,
+                file &US_MEMO_1945_12_07_SWNCC,
+                file &US_MEMO_1945_12_14_SWNCC_SFE)
+        ]),
+        block!("SWNCC 181: Custody of Japanese Archives and Diplomatic Property", [
+            p!(@Initial: EN "", file &US_MEMO_1945_08_29_SWNCC, file &US_MEMO_1945_08_31_SWNCC, file &US_MEMO_1945_09_01_SWNCC_SFE, file &US_MEMO_1945_09_03_SWNCC, file &US_MEMO_1945_09_04_SWNCC_SFE_1, file &US_MEMO_1945_09_04_SWNCC_SFE_2, file &US_MEMO_1945_09_10_SWNCC, file &US_MEMO_1945_09_12_SWNCC, file &US_MEMO_1945_09_13_ACHESON, file &US_MEMO_1945_09_21_SWNCC_1, file &US_MEMO_1945_09_21_SWNCC_3, file &US_MEMO_1945_09_24_ROSS, file &US_MEMO_1945_10_10_SWNCC),
+        ]),
+        block!("SWNCC 272: Sovereignty of Formosa", [
+            p!(@Initial: EN ""),
+        ])
+    ])
 }
 
-pub fn c_1875_xx_xx_house_01() -> Element {
-    rsx!(FileCitation {
-        file: &BOOK_CHINESE_REPO_20,
-        FigureAttribution {
-            figure: &EDWARD_HOUSE,
-            locale: [
-                rsx!(span { ""}),
-                rsx!(span { "Tokyo, Japan" }),
-                rsx!(span { "circa 1875" })
-            ],
-            p {
-                "the office of Foreign Minister, he went as Ambassador to Peking chiefly to lay    \
-                his designs before the Chinese government, and to obtain their views upon that and \
-                other proposed Japanese projects. His public diplomatic successes during this      \
-                mission are matters of common notoriety. It was, in fact, through him that the     \
-                long unsettled question of Imperial audiences was brought to a prompt solution."
-            },
-            p {
-                "His success in the more private negotiations, hitherto unrevealed, was not less   \
-                complete, from his own point of view, but it was afterward generally admitted that \
-                although he obtained a distinct declaration from the Chinese of their              \
-                irresponsibility for the acts of the savages, and of their acquiescence in the     \
-                right of Japan to send a mission to regulate the affair independently, he was      \
-                unfortunate in not requiring from the evasive and crafty officials a formal        \
-                expression of this avowal, in writing."
-            },
-            p {
-                "The absence of documentary evidence in these particulars was at a later date      \
-                treacherously turned to the disadvantage of Japan, and it was only by the exercise \
-                of great firmness and spirit that the Chinese were ultimately compelled to abide   \
-                by the language they had used in these early discussions. The explanation of the   \
-                omission to secure a permanent record of their declarations is simple. The fact of \
-                their neither exercising nor claiming control over the savage region was so        \
-                commonly recognized that nothing beyond a verbal allusion to it was regarded as    \
-                essential."
-            },
-            p {
-                "The official chart published by the Chinese government defines the district under \
-                their jurisdiction as “bounded by mou", ins { "n" }, "tains in the rear”—the       \
-                territory of the aborigines being thus excluded. All inquiries by persons          \
-                interested in an explanation of the question had led to the same conclusions. Mr.  \
-                Burlingame, while investigating the “Rover” affair, had discovered that the        \
-                “savages were not Chinese, but outlaws of another race, who from time immemorial   \
-                had been a sort of wrecking banditti.” To demand a written acknowledgment of what  \
-                was accepted as an established truth appeared both unnecessary and injudicious;    \
-                and it has since been placed beyond reasonable doubt that the introduction of this \
-                issue as a disturbing element in later nego", ins { "t" }, "iations was a foreign  \
-                inspiration, and was suggested by disingenuous, and, as the event proved,          \
-                unskilful advisers of the Chinese councillors."
-            },
-            p {
-                del { "..." }
-            },
-            p {
-                "It was already evident that, by those who blindly opposed the movements of the    \
-                Japanese, a strong point would be made of the assumption of Chinese authority,     \
-                tardy as it was, over the whole island and people of Formosa. That this            \
-                declaration was an after-thought, and a very late after-thought, there could be no \
-                question. ", del { "... " }, "What more than this is needed to show the            \
-                worthlessness of the sudden assumption of universal authority in Formosa, or to    \
-                shatter the pretensions of those who endeavored to hold up the Japanese to obloquy \
-                as the invaders of established and acknowledged Chinese rights?"
-            },
-            p {
-                del { "..." }
-            },
-            p {
-                "In illustration of the absence of necessity for written declarations of so patent \
-                a fact as China's lack of authority over aboriginal Formosa, one of the members of \
-                the first Japanese delegation subsequently employed this comparison:"
-            },
-            p {
-                "“Until a recent time, the sovereigns of England called themselves kings of        \
-                France, and included the lilies of that country in their arms. That was a far more \
-                direct nominal claim than China ever assumed over Formosa. Yet an ambassador who   \
-                should have asked for a written declaration that England had no jurisdiction over  \
-                France would have been derided. A fact so universally known might indeed have been \
-                touched upon in verbal discussions, but its documentary acknowledgement would      \
-                never have been required.”"
-            }
-        }
-    })
+fn ch_territorial_adjustments() -> Chapter {
+    ("Territorial Adjustments", vec![
+        block!("Poland", [
+            p!(@Initial: EN "", file &US_MEMO_1945_07_21_THOMPSON, file &US_MEMO_1945_07_22_THOMPSON, file &US_MEMO_1945_07_27_THOMPSON, file &US_MEMO_1945_08_09_ROSS)
+        ]),
+        block!("Kuriles", [
+            p!(@Initial: EN "", file &US_MEMO_1945_05_12_GREW_1, file &US_MEMO_1945_05_12_GREW_2)
+        ])
+    ])
 }
 
-pub fn c_1851_05_xx_alcock_01() -> Element {
-    let t01 = rsx!(Tip { tip: S("Keelung"), "Keilung" });
-    rsx!(FileCitation {
-        file: &BOOK_CHINESE_REPO_20,
-        FigureAttribution {
-            figure: &RUTHERFORD_ALCOCK,
-            locale: [
-                rsx!(span { "UK Consulate"}),
-                rsx!(span { "Shanghai, China" }),
-                rsx!(span { "circa May 1851" })
-            ],
-            p {
-                "The Larpent, belonging to Mr. Thomas Ripley, left Liverpool for Shanghai on the   \
-                18th May last year, in command of Captain Gibson."
-            },
-            p {
-                "On the 12th September, (116 days out) at about 5 P.M., she was off Botel Tobago,  \
-                a small island sixty miles east from the south end of Formosa, when she was put    \
-                about and stood across to Formosa with a N.E. wind. The ship held on this tack     \
-                until 20 minutes past 9 P.M., when she struck on the mainland of Formosa stem on,  \
-                so close to land that the men could have got on shore from the flying jib-boom.    \
-                When she struck she was going at the rate of 4 or 5 knots. The fourth mate, Mr.    \
-                Bland, had the watch at the time; and he afterwards informed the men in the boat   \
-                that he went aft to tell the Captain there was land ahead."
-            },
-            p {
-                "From the survivors, who were in their hammocks, we learn that they were awoke by  \
-                the striking of the ship, and on rushing on deck found everything in confusion.    \
-                The watch ran to the braces, and backed the foreyard which sent her right off. It  \
-                was however soon seen that she had experienced great damage, and was making water  \
-                fast, and the crew was sent to the pumps. She had at this time ran a mile and      \
-                a-half from the shore; the water however gained so fast on them, that leaving the  \
-                pumps they commenced getting the boats out. The first got out was the jolly-boat,  \
-                but she was immediately stove alongside. The launch and starboard quarter-boat (a  \
-                life-boat) were afterwards got out, and into them were put provisions, a few       \
-                cutlasses, and some powder, but no shot."
-            },
-            p {
-                "The crew got into boats about 2 1/2 A.M., the Captain, first mate, and six men in \
-                the life-boat; the second, third, and fourth mates, and twenty men in the launch.  \
-                There was no sea, and they lay off to see the ship go down, which she did about    \
-                3.20 A.M. by Captain Gibson's watch. At daybreak both boats made for the shore,    \
-                and all hands landed. Shortly afterwards four of the inhabitants came down to the  \
-                beach; they were not Chinese, but belonged to one of the aboriginal tribes. They   \
-                tried to pilfer but were driven away with the cutlasses. The Captain, fearing      \
-                hostility on the part of the natives, ordered the boats to be launched, and they   \
-                then stood down the coast together until about 3 P.M., when the people in the      \
-                launch hailed the Captain, and told him they could go no further, as the boat was  \
-                making a great deal of water, and that it required eight men to bail her."
-            },
-            p {
-                "He replied that they must do the best they could, that if they liked they might   \
-                try and reach a Spanish settlement that lay eighty or 90 miles to the westward, or \
-                Hongkong. They told him they could not venture in the state the boat was in. He    \
-                then promised to stay by them until the boat was repaired; night came on, and the  \
-                launch hove to, having, according to the mate's calculation, run about 94 miles;   \
-                next morning the life-boat was not visible. The launch was then rowed ashore, and  \
-                the crew landed near Sugar-loaf point, where they hauled the boat up, and set      \
-                about repairing her and cooking provisions; while thus engaged they were fired     \
-                upon with matchlocks from a neighboring wood—several were killed and wounded, 9    \
-                took to the water, who were pursued by the natives in catamarans."
-            },
-            p {
-                "The 2d mate, Mr. Griffits, not being being a good swimmer, made back for the      \
-                land, but was attacked and his head cut off. Alexander Berries and George Harrison \
-                kept together, and escaped to a rock where they remained two days without food or  \
-                water. William Blake (carpenter) and James Hill (apprentice) escaped together in   \
-                another direction. The two first, driven by hunger, and shortly afterwards         \
-                encountered about fifty of their natives, who at first presented their matchlocks  \
-                at them, but did not fire. Two women then gave them clothes to wrap round their    \
-                loins, as they were naked; and an old man took them to his house. Three days       \
-                afterwards, George Armstrong escaped on a catamaran to a Chinese sampan lying off  \
-                the coast, but the men in her put him to death."
-            },
-            p {
-                "Berries remained with his protector about four months, when a Chinaman who lived  \
-                about 5 miles off bought him for six dollars. With this man, whose name was Kenah, \
-                he remained until he was taken on board the Antelope. While with this man, Berries \
-                learned that Blake and Hill had escaped to some Chinese village, and that some     \
-                time after they were sent 8 miles to the interior, where Berries saw them while    \
-                going with his master to a village called San Sianah. The master of Berries was    \
-                willing to give him his liberty; but as the other men's master would not part with \
-                them, they agreed to run with Berries to San Sianah, where they were hospitably    \
-                received by the Mandarin.  Their master's wife followed to reclaim them, and the   \
-                Mandarin paid her £14, the ransom she asked."
-            },
-            p {
-                "Shortly afterwards the Antelope was off the coast, when the Mandarin sent his son \
-                and four men in a boat to put them on board. Berries during his captivity made     \
-                four or five attempts to get on board English ships; and once nearly succeeded in  \
-                reaching the Flying Dutchman, but the wind getting up prevented him. Armstrong and \
-                Hill learned that the master in the life-boat had put into the village where they  \
-                were first captured, for the purpose of obtaining water, but none of them have     \
-                ever heard of him since. None of the three men state that they saw all their       \
-                comrades murdered, but they are the only survivors of the crew of the launch, as   \
-                during their residence they picked up a sufficient knowledge of the language to    \
-                understand what the natives said, and they never mentioned that there were any     \
-                more saved. There seems to be no hope for the life-boat and her crew."
-            }
-        }
-    })
+fn ch_taiwan_status() -> Chapter {
+    ("Taiwan Status: Awaiting Treaty", vec![
+        block!("Hoover on Taiwan", [
+            p!(@Initial:
+                EN "In 1949, U.S. President ",
+                fig &HOOVER_HERBERT,
+                EN ", in letter to Senator ",
+                fig &KNOWLAND_WILLIAM,
+                EN ", provided \"an argument that could be made\" with respect to the legal status of Taiwan",
+                file &BOOK_HOOVER,
+                EN ":"
+            ),
+            p!(@Excerpt:
+                EN "I do not think there is any purpose in my letter of today of introducing an argument in it as to the legal situation of Formosa. You might, however, think over an argument that could be made; namely, that Formosa and the Pescadores are still in ",
+                fig &MACARTHUR_DOUGLAS,
+                EN "'s jurisdiction. The Japanese acquired them from China in 1895. In subsequent years, we frequently ratified the <i>status quo</i> of their possessions."
+            ),
+            p!(@Excerpt: EN "The Cairo Declaration and the Potsdam surrender were executive acts which were never matters of treaties ratified by the Senate. Such a ratification would only come up in a treaty with Japan, and MacArthur might collaterally hold them pending a treaty.")
+        ])
+    ])
 }
 
-pub fn c_1855_12_xx_habersham_01() -> Element {
-    let t01 = rsx!(Tip { tip: S("Keelung"), "Keilung" });
-    rsx!(FileCitation {
-        file: &BOOK_HABERSHAM,
-        FigureAttribution {
-            figure: &ALEXANDER_HABERSHAM,
-            locale: [
-                rsx!(span { "USS ", i { "John Hancock" }}),
-                rsx!(span { "East China Sea" }),
-                rsx!(span { "circa Dec 1855" })
-            ],
-            p {
-                "I will say nothing more about Formosa for the present. We left its shores about   \
-                as wise as we were upon our arrival, and it was not until our second visit that    \
-                we picked up what little information now exists upon the files of the Expedition   \
-                in regard to it. Upon leaving ", { t01 }, " for Hong-Kong we kept along the east   \
-                coast of the island, in the vain search for a reported harbour. There was nothing  \
-                to be seen but an iron-bound coast with range after range of lofty mountains       \
-                lifting themselves above the heavy surf that broke along the entire beach. One day \
-                we thought we had discovered it: we saw ahead the smoke of distant villages rising \
-                back of a bight in the coast which looked very much like a harbour; but, upon      \
-                approaching it, we found ourselves mistaken. We, however, lowered a boat and       \
-                attempted to land, but the surf was breaking so furiously that it would have been  \
-                madness to have entered it. Besides, the beach was crowded by naked and excited    \
-                savages, whom it was generally reported were cannibals, and into whose company we  \
-                should consequently have preferred being thrown with reliable arms in our hands.   \
-                The two convicts, whom the captain had taken in the boat to interpret in case of   \
-                his being able to land, became so frightened at the savage appearance of those     \
-                reported man-eaters, that they went on their knees to him, protesting, through     \
-                the steward, that the islanders had eaten many of their countrymen, and that if he \
-                went any nearer they would do the same by him and the boat's crew."
-            },
-            p {
-              del { "..." }
-            },
-            p {
-                "The setting sun looked upon us as we returned on board, and before he had again   \
-                shone on those sloping greens we were well on our way around the south point of    \
-                the island, in search of a landing among the savages in their own country. This, I \
-                regret to say, we never found, the whole east coast being one continued line of    \
-                foaming breakers, that carried death upon their rolling crests to every thing like \
-                a boat. Where were the fine harbours of the Count de Benyowsky? The roaring of the \
-                surf was our only answer. More than once, however, impelled by our excessive       \
-                curiosity to learn more of these unknown people, did we attempt to land; and more  \
-                exciting attempts at shore-going I never participated in. Upon one of these        \
-                occasions we entered upon the dangerous trial with two of our best boats; but,     \
-                upon nearly losing the inner one, with all who were in her, we wisely returned on  \
-                board. We got more than one near view of the savages, however, heard their         \
-                voices, and answered their signs; but all this only increased our desire to know   \
-                more of them, for now we saw that they were veritable red men; and what were red   \
-                men doing on the island of Formosa?"
-            },
-            p {
-                "From what I could see over the distance which separated our boat from the crowded \
-                beach, I found the previous description of our “innocent sportsman” substantiated  \
-                by my own eyes and those of others. We saw an excited crowd of fine-looking men    \
-                and women, copper-coloured, and possessed of the slightest possible amount of      \
-                clothing,—the former boasting only a cloth tied around the head, while the latter  \
-                had but a thin loose garment that seemed to gather around the throat and extended  \
-                no farther than the knee. Some of the men were armed with bow and arrow, others    \
-                with very serviceable-looking matchlocks; the women held various articles in their \
-                hands, probably for barter, and, as we pulled away after our narrow escape, they   \
-                evinced their sorrow and desire to trade by loud cries and the most violent        \
-                gestures. Our Chinese boy had almost fainted from fright as the inner boat backed  \
-                into the surf in the attempt to land: he could only tremble and cry out, “Dey eat  \
-                man! dey eat man!” His friends on the other side had evidently impressed him with  \
-                that unpleasant national characteristic, and hence his fright when apparently      \
-                about to be rolled helplessly to their feet by a boiling surf."
-            },
-            p {
-              del { "..." }
-            },
-            p {
-                "We were surprised at this air of comfort among half-naked savages, and could not  \
-                but wonder how they could have built such nice-looking houses, until we finally    \
-                concluded that their prisoners had been made to turn their hands to masonry as     \
-                well as gardening. Thus ended our second and last visit to Formosa, and all that   \
-                we learned in regard to it may be condensed into a few words, viz:"
-            },
-            p {
-                "We found it two hundred and five miles long by about sixty average width. It runs \
-                N. by E. and S. by W., has a range of mountains running along its entire east      \
-                coast, and is peopled by two different races of men—Chinese and red men. ",
-                mark { "The former possess the north and west side of the island, the latter the   \
-                east and south, and they exist in a state of constant hostility." }, "The country  \
-                in the possession of the former is undulating or low, that of the latter rugged    \
-                and mountainous. There are harbours on the north and west side, and none on the    \
-                east. All else is conjecture. So much for Formosa and its mysterious red men."
-            }
-        }
-    })
+fn ch_on_the_nature_of_promises() -> Chapter {
+    ("On the Nature of Promises", vec![
+        block!("Declaration by the United Nations", [
+            p!(@Initial: EN "",
+                file &US_MEMO_1942_07_14_GAUSS,
+                file &BOOK_STILWELL,
+                file &US_MEMO_1943_12_09_GAUSS,
+                file &US_MEMO_1942_02_11_GEROW,
+                file &BOOK_MOUNTBATTEN
+            ),
+        ]),
+        block!("Operation BUCCANEER", [
+            p!(@Initial: EN "",
+                file &US_MEMO_1944_XX_XX_MCCREA,
+                file &US_MEMO_1944_06_22_VINCENT,
+                file &BOOK_LEAHY,
+                file &BOOK_KING,
+                file &US_MEMO_1943_12_05_HOPKINS,
+                file &US_MEMO_1943_12_06_ROOSEVELT,
+                file &US_MEMO_1943_12_09_HEARN
+            ),
+        ]),
+        block!("Equipped 90 Divisions", [
+            p!(@Initial: EN "",
+                file &US_MEMO_1945_08_11_HURLEY,
+                file &US_MEMO_1945_09_03_BYRNES,
+                file &US_MEMO_1945_09_03_ELSEY,
+                file &US_MEMO_1945_09_03_HULL,
+                file &US_MEMO_1945_09_05_LEAHY,
+                file &US_MEMO_1945_09_07_ACHESON,
+                file &US_MEMO_1945_09_12_SWNCC
+            ),
+        ])
+    ])
 }
 
-pub fn c_1898_05_12_pickering_01() -> Element {
-    let t01 = rsx!(Tip { tip: S("Governor-General of Min-Zhe"), "viceroy" });
-    let t02 = rsx!(Tip { tip: S("Fujian"), "Fuh-kien" });
-    let t03 = rsx!(Tip { tip: S("Zhejiang"), "Cheh-kiang" });
-    let t04 = rsx!(Tip { tip: S("Beijing"), "Pekin" });
-    let t05 = rsx!(Tip { tip: S("Taiwanfoo"), "Tainan" });
-    rsx!(FileCitation {
-        file: &BOOK_PICKERING,
-        FigureAttribution {
-            figure: &WILLIAM_PICKERING,
-            locale: [
-                rsx!(span { ""}),
-                rsx!(span { "" }),
-                rsx!(span { "12th May 1898" })
-            ],
-            p {
-                "The Chinese governed ", mark { "the portion of the island under their control" },
-                " merely for the benefit of the officials, and in many parts of Formosa within the \
-                Chinese pale anarchy prevailed for generations."
-            },
-            p {
-              del { "..." }
-            },
-            p {
-                "We now come to the Ch'i-hoan, or ‘raw savages’ of the high mountains. ", mark {
-                "These people remained untouched by the semi-civilisation of the Chinese           \
-                occupiers"}, " and they had never been visited in their haunts until 1865, when I  \
-                succeeded in gaining access to those near Mount Morrison, whilst Mr. Dodd, a       \
-                merchant of Tamsui, visited the tribes in the north of the island. Of my           \
-                excursions into their territories, and of what befell me there, I will tell later."
-            },
-            p {
-              del { "..." }
-            },
-            p {
-                "Until a few years before ", del { "..." }, ", Formosa, together with the          \
-                Pescadores Islands, was governed by a Tao-tai, or intendant of circuit, who        \
-                resided at the capital of the island, Taiwanfoo. The Tao-tai was directly          \
-                subordinate to the ", { t01 }, " of the two Chinese provinces ", { t02 }, " and ",
-                { t03 }, ", but he had the power of life and death, and also possessed the special \
-                privilege of communicating directly with the Emperor at ", { t04 }, ". He was the  \
-                highest magistrate, and was bound to make an annual inspection of the departments. \
-                It was believed that he was paid only 1,600 taels (not £6oo) by his imperial       \
-                master, but his emoluments from many sources were very large; those drawn from    \
-                the taxes on camphor especially reaching a fabulous amount."
-            },
-            p {
-                "The next in civil authority was the Tai-wan-Fu, or prefect, and then the Hiens,   \
-                or district magistrates."
-            },
-            p {
-                "The Hiens had charge of the seven or eight hien, or districts, into which ", mark {
-                "the part of the island under Chinese jurisdiction was divided" }, ". As I have    \
-                before stated, ", mark { "the Chinese could only claim dominion over the plain on  \
-                the west coast, and over one or two of the ranges of hills" }, ": the mountains in \
-                the interior, and the South Cape, being still in the possession of tribes of       \
-                aborigines and savages, all of whom were of totally different races and languages  \
-                to the Chinese."
-            },
-            p {
-              del { "..." }
-            },
-            p {
-                "At rare intervals some general, desirous of gaining a reputation at Pekin, and of \
-                testing the fighting quality of his troops, armed with European rifles, would      \
-                organise an expedition into the mountains to subdue a savage tribe, and to extend  \
-                the emperor’s dominion."
-            },
-            p {
-                "Usually, however, these valiant onslaughts were fruitless and disastrous, the     \
-                Chinese soldiers being either defeated from ambush or decimated by the deadly      \
-                fever of the jungle."
-            },
-            p {
-                "On one or two occasions a Chinese commander did indeed induce a savage tribe, by  \
-                liberal gifts, to consent to ‘the tonsure,’ thus owning themselves vassals of the  \
-                ‘Son of Heaven’ at Pekin."
-            },
-            p {
-                "The general upon this sent out for a supply of razors, and proudly announced his  \
-                great victory over the barbarians. When the shaving had been completed, he         \
-                returned with all speed to a life of ease in the capital, ", { t05 },
-                ", accompanied by the remains of his army."
-            },
-            p {
-                "Alas for the dominion of the illustrious ‘Son of Heaven’! As soon as the gifts    \
-                were consumed and their hair had grown, the savages, in almost every instance,     \
-                repented them of their bargain and of their new civilisation; and, throwing off    \
-                their allegiance, they returned to their familiar wild habits and customs."
-            },
-            p {
-              del { "..." }
-            },
-            p {
-                "A portion of this day's journey was through a wild and barren tract of country,   \
-                but in the afternoon we arrived at a Hak-ka town, called Lam-tsng, situated at the \
-                western foot of the last chain of mountains, which rise to a height of about 4,000 \
-                feet, and which separate, as the Chinese express it, ", mark { "‘the dominion of   \
-                men from the mountains of barbarism.’" }
-            }
-        }
-    })
+fn ch_executive_authority() -> Chapter {
+    ("Executive Authority", vec![
+        block!("TODO", [
+            p!(@Initial: EN "", file &US_MEMO_1945_08_09_ROSS),
+        ])
+    ])
 }
 
-pub fn c_1857_02_10_nye_01() -> Element {
-    rsx!(FileCitation {
-        file: &US_C035_S02_REPORT_N0022,
-        FigureAttribution {
-            figure: &GIDEON_NYE_2,
-            locale: [
-                rsx!(span { "US Legation"}),
-                rsx!(span { "Macao, China" }),
-                rsx!(span { "10 Feb 1857" })
-            ],
-            p {
-                "Sir: I hasten to beg your excellency's attention to the report of the loss of     \
-                the New York clipper ship “Highflyer,” upon the southern part of the neighboring   \
-                island of Formosa, with a hope that you may consider it in the light of the        \
-                information already in the archives of the government, of sufficient importance to \
-                justify your bringing it to the special notice of his excellency the naval         \
-                commander-in-chief."
-            },
-            p {
-                "It will be in the recollection of your excellency that I brought the subject of   \
-                the state of that portion of Formosa, and the circumstances of the disappearance   \
-                of several vessels when in the neighborhood thereof, to the notice of the          \
-                government several years ago, with reference more especially to the circumstance   \
-                of the disappearance of the clipper “Kelpie,” in 1848-9, with my brother,          \
-                Thomas S. H. Nye, on board as a passenger."
-            },
-            p {
-                "Subsequent occurences, and the presence of a large force at his excellency's      \
-                command, induced me to bring the subject to the notice of Commodore Perry three    \
-                years ago, who caused some search and inquiry to be made at Formosa; but the point \
-                of real interest in this question, viz: the southeastern part of the island, was   \
-                not examined."
-            },
-            p {
-                "More recently I have been interested in a commercial enterprise with Mr. Robinet  \
-                and Messrs. Williams, Anthon & Co., at Ape's Hill and other stations in Formosa,   \
-                and the invariable account that I have received has been that ", mark { "the       \
-                southeastern part of the island is in the possession of a mongrel race of great    \
-                ferocity, with whom and the Chinese who inhabit only the western side of the       \
-                island, there is constant hostility." }
-            },
-            p {
-                "The investigations conducted by the orders of your excellency when chargé of the  \
-                United States, and those more recently made by Commodore Perry's order, with such  \
-                information as I am in a condition to afford Commodore Armstrong, will suffice, I  \
-                am sure, to convince his excellency, in the first place, that, in the matter of    \
-                these shipwrecks, he has only to deal with the residents of ", mark { "that part   \
-                of the coast where the Chinese have never exercised jurisdiction" }, "; in the     \
-                second place, that these residents or inhabitants are simply cruel, bloodthirsty   \
-                savages, as little regardful of mercy as they are (from sheer brutal ignorance) of \
-                the power of civilized governments; and hence, in the third place, that it is a    \
-                duty to humanity and civilization to make an example of such of them as he can     \
-                gain access to, after making fully known to them the reason for so doing. I would  \
-                be glad if he took po", ins { "ss" }, "ession of that part of the island and held  \
-                it, in the interests of humanity and commerce, for the benefit as well of China,",
-                mark { "in respect to the only portion ever subject to her" }, ", as of all other  \
-                nations having intercourse with this part of the world."
-            }
-        }
-    })
+fn sc_historical_status() -> Section {
+    ("Historical Status: pre-1895", vec![
+        ch_migration_ban(),
+        ch_vicious_natives(),
+        ch_divided_island(),
+        ch_taiwan_expedition(),
+        ch_western_sympathies()
+    ])
 }
 
-pub fn c_1856_02_12_nye_01() -> Element {
-    let t01 = rsx!(Tip { tip: S("Pingtan Island"), "Hainan" });
-    let t02 = rsx!(Tip { tip: S("Shantou"), "Swatow" });
-    rsx!(FileCitation {
-        file: &NYDH_1857_04_18,
-        FigureAttribution {
-            figure: &GIDEON_NYE_2,
-            locale: [
-                rsx!(span { "Nye Bros. & Co."}),
-                rsx!(span { "Canton, China" }),
-                rsx!(span { "Feb 12th, 1856" })
-            ],
-            p {
-                "David Ogden, Esq., New York:"
-            },
-            p {
-                "Since writing the above we have heard, through Chinese, of a vessel at ", { t01 },
-                ", dismasted and refitting, bound from California to Hong Kong, and we have strong \
-                hopes that it proves to be the Highflyer. Yours, faithfully,"
-            },
-            p {
-                style: "text-align-last: right;",
-                "—Nye Bros. & Co."
-            }
-        },
-        FigureAttribution {
-            figure: &GIDEON_NYE_2,
-            locale: [
-                rsx!(span { "US Consulate"}),
-                rsx!(span { "Macao, China" }),
-                rsx!(span { "Apr 18th, 1857" })
-            ],
-            p {
-                "David Ogden, Esq., New York:"
-            },
-            p {
-                "Dear Sir: Referring to the former communications sent you upon the subject of     \
-                your missing ship, the Highflyer, I now regret to add the report that a ship was   \
-                lost upon the south part of Formosa in the autumn or winter of 1853, which I       \
-                suppose we must accept as applicable to your vessel, as the period corresponds     \
-                with her departure from California."
-            },
-            p {
-                "I say I regret this inference, because I have reason, from previous researches at \
-                that period, to believe that those of her passengers and crew who may have escaped \
-                to the shore, will have been murdered by the savage clan—a race who inhabit the    \
-                southeastern part of that island."
-            },
-            p {
-                "I addressed H. E., the Plenipotentiary, upon the subject, with a view to bring it \
-                to the notice of the naval commander-in-chief, on the day that I heard the report, \
-                and I am hopeful that a vessel may soon be spared from China to proceed to the     \
-                island to search for vestiges of the wreck, though the report received at Apes'    \
-                Hill was that the ship was burnt. With much feeling of sympathy for those whose    \
-                relations and friends have thus been lost, I remain, sir, yours, faithfully,"
-            },
-            p {
-                style: "text-align-last: right;",
-                "—Gideon Nye, Jr."
-            }
-        }
-    })
+fn sc_political_evolution() -> Section {
+    ("Political Evolution: 1895-1995", vec![
+        ch_wartime_agreements(),
+        ch_post_surrender_policies(),
+        ch_territorial_adjustments(),
+        ch_taiwan_status(),
+        ch_on_the_nature_of_promises(),
+        ch_executive_authority()
+    ])
 }
 
-pub fn c_1863_06_30_burlingame_01() -> Element {
-    rsx!(FileCitation {
-        file: &US_FRUS_1864_1864_P03,
-        FigureAttribution {
-            figure: &ANSON_BURLINGAME,
-            locale: [
-                rsx!(span { "US Legation" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { "Jun 30th, 1863" })
-            ],
-            p {
-                "The captain reported the wreck to the prefect of Taiwan, and besought protection  \
-                and help; but he moved so tardily, that before any officials reached the spot the  \
-                villagers had carried off everything, to the loss of more than $20,000."
-            }
-        }
-    })
-}
+fn sc_modern_developments() -> Section {
+    ("Modern Developments: post-1995", vec![
+    ])
+}*/
 
-pub fn c_1863_07_28_burlingame_01() -> Element {
-    let t01 = rsx!(Tip { tip: P(&CHARLES_LEGENDRE), "The United States consul" });
-    let t02 = rsx!(Tip { tip: S("modern-day Xiamen"), "Amoy" });
-    let t03 = rsx!(Tip { tip: S("modern-day Taiwan"), "Formosa" });
-    let t04 = rsx!(Tip { tip: S("modern-day Tainan"), ins { "the city of " }, "Taiwan" });
-    let t05 = rsx!(Tip { tip: S("modern-day Budai"), "Pu-tai-tsin" });
-    let t06 = rsx!(Tip { tip: S("Chiayi County"), "Kia-i" });
+use dioxus::prelude::*;
+use reqwest;
+use crate::politics::{Politics, stable_hash, IndexSection};
 
-    rsx!(FileCitation {
-        file: &US_FRUS_1864_1864_P03,
-        FigureAttribution {
-            figure: &ANSON_BURLINGAME,
-            locale: [
-                rsx!(span { "U.S. Legation" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { "Jul 28th, 1863" })
-            ],
-            p {
-                { t01 }, " at ", { t02 }, " has informed me that the American ship Iskanderia was  \
-                lost on ", { t03 }, ", December 27, 1861, on her way from ", { t04 }, " to Amoy,   \
-                at a place called ", { t05 }, ", in the district of ", { t06 }, ", distant about   \
-                ten miles from the city of Taiwan. The ship was half embedded in the sand when the \
-                villagers robbed her of everything, but did not wound the crew."
-            },
-            p {
-                "The captain reported the wreck to the prefect of Taiwan, and besought protection  \
-                and help; but he moved so tardily, that before any officials reached the spot the  \
-                villagers had carried off everything, to the loss of more than $20,000."
-            }
-        }
-    })
-}
+// --- ROUTE COMPONENTS ---
 
-pub fn c_1863_07_28_burlingame_02() -> Element {
-    let t01 = rsx!(Tip { tip: S("modern-day Taiwan"), "Formosa" });
-    let t02 = rsx!(Tip { tip: S("perhaps modern-day Tamsui"), "Tanshwin" });
-    let t03 = rsx!(Tip { tip: S("Keelung"), "Kilung" });
-
-    rsx!(FileCitation {
-        file: &US_FRUS_1864_1864_P03,
-        FigureAttribution {
-            figure: &ANSON_BURLINGAME,
-            locale: [
-                rsx!(span { "U.S. Legation" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { "Jul 28th, 1863" })
-            ],
-            p {
-                "I have also learned that the American ship Lucky Star, on her passage from        \
-                Shanghai to Hong-Kong, went ashore on ", { t01 }, ", last November, between ",
-                { t02 }, " and ", { t03 }, "."
-            },
-            p {
-                "When she was seen, more than two thousand natives arrived with knives and spears, \
-                assembled on the beach to watch her, and when the captain with his wife and son    \
-                reached the shore with a boat’s crew, they were all robbed of their clothes, the   \
-                female of her ornaments, and thus stripped, carried several miles into the         \
-                interior and held for a ransom of a thousand dollars."
-            },
-            p {
-                "The other sailors made their way to Tanshwai, and reported these proceedings to   \
-                the officers, who declined to act on the instant. The foreigners there learning    \
-                the state of the case, collected a party of men, and went to the place to bring    \
-                away all the party, but they found that the ship and her cargo of cotton, valued   \
-                at $80,000, had been entirely plundered."
-            }
-        }
-    })
-}
-
-pub fn c_1874_12_23_shen_01() -> Element {
-    rsx!(FileCitation {
-        file: &CN_THDS_V09_P181,
-        FigureAttribution {
-            figure: &SHEN_BAOZHEN,
-            locale: [
-                rsx!(span { "Forbidden City" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { "Dec 23th, 1874" })
-            ],
-            h1 {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "請移駐巡撫摺",
-                    rt {
-                        lang: "en",
-                        "Memorial Requesting the Transfer of the Provincial Governor"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "奏為台地善後，勢當漸圖；",
-                    rt {
-                        lang: "en",
-                        "This memorial concerns the reformation of Taiwan, which must be gradually planned;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "番境開荒，事關創始。",
-                    rt {
-                        lang: "en",
-                        "the cultivation of aboriginal territories is a foundational task."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "請旨移駐巡撫，以專責成，以經久遠事。",
-                    rt {
-                        lang: "en",
-                        "I request an imperial edict to transfer the Governor here, to take full   \
-                        charge and manage longterm affairs."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "竊臣等於十月二十七日將收回草房營地各情形奏明在案；",
-                    rt {
-                        lang: "en",
-                        "I humbly submitted previously a memorial on the twenty-seventh day of the \
-                        tenth month regarding the recovery of the thatched cottage garrison area;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "因思洋務稍鬆，即善後不容稍緩。",
-                    rt {
-                        lang: "en",
-                        "considering that foreign affairs have slightly relaxed, the reformation   \
-                        cannot be delayed."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "惟此次之善後，與往時不同。",
-                    rt {
-                        lang: "en",
-                        "However, this reformation is different from those of the past."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "台地之所謂善後，即台地之所謂創始也；",
-                    rt {
-                        lang: "en",
-                        "What is called “reformation” in Taiwan is actually what should be called  \
-                        “formation” in Taiwan;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "善後難，以創始為善後則尤難。",
-                    rt {
-                        lang: "en",
-                        "reformations are difficult, but beginning from scratch during a           \
-                        reformation is even more difficult."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臣等曩為海防孔亟，一面撫番，一面開路，以絕彼族覬覦之心，以消目前肘腋之患；",
-                    rt {
-                        lang: "en",
-                        "Previously, I humbly and urgently focused on coastal defense, while       \
-                        simultaneously pacifying the aborigines and building roads, in order to    \
-                        eliminate covetous intentions and to resolve the immediate threats;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "固未遑為經久之謀。",
-                    rt {
-                        lang: "en",
-                        "indeed we had no time to make long-term plans."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "數月以來，南北諸路，縋幽鑿險，斬棘披荊，雖各著成效；",
-                    rt {
-                        lang: "en",
-                        "Over these past months, on all roads north and south, we have descended   \
-                        into remote areas and carved through dangerous terrain, clearing thorns    \
-                        and thickets, and though each has shown results;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "卑南、歧萊各處，雖分列軍屯，祗有端倪，尚無綱紀。",
-                    rt {
-                        lang: "en",
-                        "at places like Beinan and Qilai, although military settlements have been  \
-                        established separately, there are only beginnings, still no systematic order."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "若不從此悉心籌畫，詳定規模，路非不已開也，謂一開之不復塞，則不敢知；",
-                    rt {
-                        lang: "en",
-                        "If we do not carefully plan from here and establish detailed frameworks,  \
-                        it is not that roads have not been opened, but we dare not know if once    \
-                        opened they will not become blocked again;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "番非不已撫也，謂一撫之不復疑，則不敢必。",
-                    rt {
-                        lang: "en",
-                        "it is not that the aborigines have not been pacified, but we dare not be  \
-                        certain that once pacified they will not become suspicious again."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "何則？",
-                    rt {
-                        lang: "en",
-                        "Why is this so?"
-                    }
-                },
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "台地延袤千有餘里，官吏所治祗濱海平原三分之一，余皆番社耳。",
-                        rt {
-                            lang: "en",
-                            "Taiwan extends for over a thousand li, and the officials only govern  \
-                            one-third of the coastal plains, while the rest are all aboriginal     \
-                            villages."
-                        }
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "國家並育番黎，但令薄輸土貢，永禁侵陵，意至厚也。",
-                    rt {
-                        lang: "en",
-                        "The state nurtures both aborigines and common people, only requiring      \
-                        light tribute of local products and permanently prohibiting encroachment:  \
-                        these intentions are most generous."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而奸民積匪，久已越界潛蹤，驅番佔地，而成窟穴，則有官未開而民先開者；",
-                    rt {
-                        lang: "en",
-                        "But dishonest people and accumulated bandits have long crossed boundaries \
-                        in secret, driving away aborigines and occupying land, making hideouts:    \
-                        these are cases where officials have not yet broken ground but civilians    \
-                        have done so prior;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "入山既深，入跡罕到，野番穴處，涵育孳生，則有番已開而民未開者；",
-                    rt {
-                        lang: "en",
-                        "and where the mountains go deep and human traces rarely reach, wild       \
-                        aborigines dwell in caves and multiply: these are cases where aborigines   \
-                        have developed areas but civilians have not yet done so;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "疊巘外包，平埔中擴，鹿豕游竄，草木蒙茸，地廣番稀，棄而弗處，則有民未開而番亦未開者。",
-                    rt {
-                        lang: "en",
-                        "and layered peaks encircle the outside, the plains and foothills expand   \
-                        in the middle, deer and boars roam freely, vegetation grows thick, the     \
-                        land is vast but aborigines are sparse, abandoned and uninhabited: these   \
-                        are cases where neither civilians nor aborigines have developed the areas."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "是但言開山，而山之不同已若此。",
-                    rt {
-                        lang: "en",
-                        "So just speaking of opening up the mountains, the mountains' conditions   \
-                        already differ this much."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "雖然此第言後山耳，其繁重已若此。",
-                    rt {
-                        lang: "en",
-                        "However, this only speaks of the area behind the mountains, yet the       \
-                        complexity is already this severe."
-                    }
-                },
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "山前之入版圖也，百有餘年，一切規制何嘗具備。",
-                        rt {
-                            lang: "en",
-                            "The area before the mountains have been part of our territory for     \
-                            over a hundred years, yet when have all the regulations ever been implemented?"
-                        }
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "就目前之積弊而論，",
-                    rt {
-                        lang: "en",
-                        "Speaking of current accumulated problems: "
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "班兵之惰窳也、",
-                    rt {
-                        lang: "en",
-                        "the garrison soldiers are lazy and corrupt,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "蠹役之盤役也、",
-                    rt {
-                        lang: "en",
-                        "the petty officials are exploitative,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "土匪之橫恣也、",
-                    rt {
-                        lang: "en",
-                        "the local bandits are unrestrained,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "民俗之慆淫也、",
-                    rt {
-                        lang: "en",
-                        "the folk customs are depraved,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "海防陸守之俱虛也、",
-                    rt {
-                        lang: "en",
-                        "both sea and land defenses are empty,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "械鬥扎厝之迭見也。",
-                    rt {
-                        lang: "en",
-                        "and the frequent occurrence of armed conflicts and house sieges."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "學術之不明，庠序以容豪猾；",
-                    rt {
-                        lang: "en",
-                        " Learning is not promoted, and schools have become havens for the crafty  \
-                        and powerful;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "禁令之不守，煙賭以為饔飧。",
-                    rt {
-                        lang: "en",
-                        "prohibitions are not enforced, and opium smoking and gambling have become \
-                        as common as eating meals."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "官斯土者，",
-                    rt {
-                        lang: "en",
-                        "Among the officials of this land,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "非無振作有為、",
-                    rt {
-                        lang: "en",
-                        "it iss not that there are not those who are enterprising and capable,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "正己率屬之員，",
-                    rt {
-                        lang: "en",
-                        "who rectify themselves and lead their subordinates,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "始苦於事權之牽制，",
-                    rt {
-                        lang: "en",
-                        "but they first suffer from restrictions on their authority,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "繼苦於毀譽之混淆，",
-                    rt {
-                        lang: "en",
-                        "then suffer from confused mix of praise and criticism,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "救過不遑，",
-                    rt {
-                        lang: "en",
-                        "have have no time to correct mistakes…"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "計功何自？",
-                    rt {
-                        lang: "en",
-                        "so how can they even begin to accomplish anything?"
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } }
-            }
-        }
-    })
-}
-
-pub fn c_1875_01_12_shen_01() -> Element {
-    let t01 = rsx!(Tip {
-        tip: S("1st year of Emperor Guangxu (1875)\n12th lunar month (beg. 28 Dec 1875)\n1st day of the month (28 Dec 1875)"),
-        ruby {
-            lang: "cn",
-            "竊臣等於十二月初一日，",
-            rt {
-                lang: "en",
-                "On the 1st day of the 12th month,"
-            }
-        }
+#[component]
+pub fn PoliticsTaiwanSovereigntyIndex() -> Element {
+    // You can hardcode your desired starting hash or fetch index.json here to grab the first one dynamically.
+    use_effect(move || {
+        use_navigator().replace(format!("/politics/tw/sovereignty/{}", stable_hash("Historical Status: pre-1895")));
     });
-    let t02 = rsx!(Tip {
-        tip: S("1st year of Emperor Guangxu (1875)\n10th lunar month (beg. 29 Oct 1875)\n23rd day of the month (21 Nov 1875)"),
-        ruby {
-            lang: "cn",
-            "本年十月二十三日上諭：",
-            rt {
-                lang: "en",
-                "the Imperial Edict dated the 23rd day of the 10th month of this year."
-            }
-        }
-    });
-    rsx!(FileCitation {
-        file: &CN_THDS_V09_P181,
-        FigureAttribution {
-            figure: &SHEN_BAOZHEN,
-            locale: [
-                rsx!(span { "Forbidden City" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { "Jan 12th, 1875" })
-            ],
-            h1 {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "臺地後山請開舊禁摺",
-                    rt {
-                        lang: "en",
-                        "Memorial Requesting That the Old Restrictions Be Lifted from Taiwan's   \
-                        Back Mountain"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "奏為臺地後山急須耕墾，請開舊禁，以杜訛索而廣招徠；",
-                    rt {
-                        lang: "en",
-                        "This memorial concerns the urgent need to cultivate Taiwan's eastern      \
-                        territory, hereby requesting the lifting of old prohibitions to prevent    \
-                        extortion and broadly attract settlers;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "恭摺馳陳，仰祈聖鑑事。",
-                    rt {
-                        lang: "en",
-                        "I humbly submit this memorial for Your Majesty's sage consideration."
-                    }
-                },
-                { t01 },
-                ruby {
-                    lang: "cn",
-                    "業將南北路開通及擬將琅𤩝、旗後等處佈置各情形奏明在案。",
-                    rt {
-                        lang: "en",
-                        "I had already submitted a memorial regarding the opening of north-south   \
-                        roads and the proposed arrangements for Hengchun, Cihou, and other areas."
-                    }
-                },
-                ruby {
-                    lang: "cn","是日，奉到",
-                    rt {
-                        lang: "en",
-                        "On that day, I received"
-                    }
-                },
-                { t02 },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "十二月初四日，復奉到本年十一月十三日上諭：",
-                    rt {
-                        lang: "en",
-                        "On the fourth day of the twelfth month, we again received the Imperial    \
-                        Edict dated the thirteenth day of the eleventh month of this year."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "臣等伏讀之下，仰見聖謨遠大，欽感莫名。",
-                    rt {
-                        lang: "en",
-                        "Upon reading these edicts, I see Your Majesty's far-reaching wisdom and   \
-                        feel boundless gratitude."
-                    }
-                },
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "因思全臺後山除番社外，無非曠土。",
-                    rt {
-                        lang: "en",
-                        "I consider that all of Taiwan's eastern territory, except for         \
-                        indigenous villages, is nothing but wilderness."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "蓋臺灣地廣人稀，山前一帶雖經蕃息百有餘年，戶口尚未充牣。",
-                    rt {
-                        lang: "en",
-                        "For Taiwan's territory is vast but sparsely populated; although the       \
-                        western plains have been settled for over a hundred years, the population  \
-                        is still not sufficient."
-                    }
-                },
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "內地人民向來不准偷渡，",
-                        rt {
-                            lang: "en",
-                            "Mainland people have long been prohibited from illegal crossing,"
-                        }
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "近雖文法稍弛，",
-                    rt {
-                        lang: "en",
-                        "and although regulations have recently loosened somewhat, "
-                    }
-                },
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "而開禁未有明文，",
-                        rt {
-                            lang: "en",
-                            "there is no explicit policy allowing entry,"
-                        }
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "地方官思設法招徠，每恐與例不合。",
-                    rt {
-                        lang: "en",
-                        "so local officials who wish to recruit settlers fear it may violate       \
-                        regulations."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "今欲開山不先招墾，則路雖通而仍塞；",
-                    rt {
-                        lang: "en",
-                        "If we wish to develop the mountains without first recruiting settlers,    \
-                        then even though roads are open they remain blocked;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "欲招墾不先開禁，則民裹足而不前。",
-                    rt {
-                        lang: "en",
-                        "if we wish to recruit settlers without first lifting prohibitions, then   \
-                        people will hold back and not advance."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臣等查舊例稱：",
-                    rt {
-                        lang: "en",
-                        "We have examined the old regulations which state:"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ol {
-                    li {
-                        mark {
-                            ruby {
-                                lang: "cn",
-                                "臺灣不准內地人民偷渡；",
-                                rt {
-                                    lang: "en",
-                                    "Taiwan does not allow mainland people to cross illegally;"
-                                }
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "拏獲偷渡船隻，將船戶等分別治罪，文武官議處兵役治罪。",
-                            rt {
-                                lang: "en",
-                                "when illegal crossing vessels are caught, the vessel owners are   \
-                                to be punished accordingly, and civil and military officials are   \
-                                to deliberate on punishments for soldiers involved."
-                            }
-                        }
-                    },
-                    li {
-                        ruby {
-                            lang: "cn",
-                            "又",
-                            rt {
-                                lang: "en",
-                                "Furthermore,"
-                            }
-                        },
-                        ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                        ruby {
-                            lang: "cn",
-                            "如有充作客頭，在沿海地方引誘偷渡之人，為首者充軍，為從者杖一百、徒三年；",
-                            rt {
-                                lang: "en",
-                                "If there are those who act as migrant leaders and entice people   \
-                                along the coast to cross illegally, the ringleaders shall be       \
-                                exiled to serve in the army, accomplices shall receive 100 strokes \
-                                and three years imprisonment;"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "互保之船戶及歇寓知情容隱者杖一百、枷一個月；",
-                            rt {
-                                lang: "en",
-                                "The vessel owners who provide mutual guarantees and those who     \
-                                knowingly harbor illegal crossers shall receive 100 strokes and    \
-                                wear the cangue for one month;"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "偷渡之人杖八十，遞回原籍；",
-                            rt {
-                                lang: "en",
-                                "Those who cross illegally shall receive 80 strokes and be sent    \
-                                back to their original residence;"
-                            },
-                        },
-                        ruby {
-                            lang: "cn",
-                            "文武失察者，分別議處。",
-                            rt {
-                                lang: "en",
-                                "civil and military officials who fail to detect such cases shall  \
-                                be dealt with accordingly."
-                            },
-                        }
-                    },
-                    li {
-                        ruby {
-                            lang: "cn",
-                            "又內地商人置貨過臺，由原籍給照；",
-                            rt {
-                                lang: "en",
-                                "Furthermore, mainland merchants transporting goods to Taiwan must \
-                                obtain permits from their place of origin;"
-                            },
-                        },
-                        ruby {
-                            lang: "cn",
-                            "如不及回籍，則由廈防廳查明取保給照；",
-                            rt {
-                                lang: "en",
-                                "if unable to return home, they may obtain permits from the Xiamen \
-                                Defense Office after investigation and guarantee;"
-                            },
-                        },
-                        ruby {
-                            lang: "cn",
-                            "該廳濫給，降三級調用。",
-                            rt {
-                                lang: "en",
-                                "if that office issues permits liberally, they shall be demoted    \
-                                three ranks."
-                            },
-                        },
-                    },
-                    li {
-                        ruby {
-                        lang: "cn",
-                            "又沿海村鎮有引誘客民過臺數至三十人以上者，壯者新疆為奴，老者煙瘴充軍。",
-                            rt {
-                                lang: "en",
-                                "Furthermore, if coastal villages and towns entice more than       \
-                                thirty migrants to cross to Taiwan, the able-bodied shall be made  \
-                                slaves in Xinjiang, while the elderly shall be exiled to serve in  \
-                                malarial regions."
-                            }
-                        }
-                    },
-                    li {
-                        ruby {
-                            lang: "cn",
-                            "又內地人民往臺者，地方官給照盤驗出口；",
-                            rt {
-                                lang: "en",
-                                "Furthermore, mainland people going to Taiwan must obtain permits  \
-                                from local officials who inspect exits;"
-                            },
-                        },
-                        ruby {
-                            lang: "cn",
-                            "濫給者，分別次數罰俸降調。",
-                            rt {
-                                lang: "en",
-                                "officials who issue permits liberally shall be fined and demoted  \
-                                according to the number of occurrences."
-                            }
-                        }
-                    },
-                    li {
-                        ruby {
-                            lang: "cn",
-                            "又無照民人過臺，失察之口岸官照人數分別降調；",
-                            rt {
-                                lang: "en",
-                                "Furthermore, for people crossing to Taiwan without permits, port  \
-                                officials who fail to detect them shall be demoted according to    \
-                                the number of people;"
-                            },
-                        },
-                        ruby {
-                            lang: "cn",
-                            "隱匿者革職。",
-                            rt {
-                                lang: "en",
-                                "those who conceal such cases shall be dismissed from office."
-                            }
-                        }
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "以上六條，皆嚴禁內地民人渡臺之舊例也。",
-                    rt {
-                        lang: "en",
-                        "The above six articles are all old regulations strictly prohibiting       \
-                        mainland people from crossing to Taiwan."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "又稱：",
-                    rt {
-                        lang: "en",
-                        "Furthermore, it states: "
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ol {
-                    li {
-                        ruby {
-                            lang: "cn",
-                            "凡民人私入番境者杖一百；",
-                            rt {
-                                lang: "en",
-                                "Any civilian who privately enters indigenous territory shall  \
-                                receive 100 strokes;"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "拏獲如在近番處所抽藤、",
-                            rt {
-                                lang: "en",
-                                "those who are apprehended near indigenous areas collecting rattan,"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "釣鹿、",
-                            rt {
-                                lang: "en",
-                                "hunt deer,"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "伐木、",
-                            rt {
-                                lang: "en",
-                                "cut timber,"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "採棕者杖一百、徒三年。",
-                            rt {
-                                lang: "en",
-                                "or harvest palm near shall receive 100 strokes and three years    \
-                                imprisonment."
-                            }
-                        }
-                    },
-                    li {
-                        ruby {
-                            lang: "cn",
-                            "又臺灣南勢、北勢一帶，山口勒石分為番界；",
-                            rt {
-                                lang: "en",
-                                "Furthermore, along Taiwan's southern and northern regions, stone  \
-                                markers at mountain passes mark the indigenous boundaries;"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "如有偷越運貨者，失察之專管官降調，該管上司罰俸一年。",
-                            rt {
-                                lang: "en",
-                                "if anyone smuggles goods across, the officials who fail to detect \
-                                it shall be demoted, and their superiors shall be fined one year's \
-                                salary."
-                            }
-                        }
-                    },
-                    li {
-                        ruby {
-                            lang: "cn",
-                            "又臺地民人不得與番民結親，",
-                            rt {
-                                lang: "en",
-                                "Furthermore, Taiwan's civilians are not permitted to marry        \
-                                indigenous people,"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "違者離異、治罪，地方官參處；",
-                            rt {
-                                lang: "en",
-                                "and violators shall be separated and punished, with local         \
-                                officials held responsible;"
-                            }
-                        },
-                        ruby {
-                            lang: "cn",
-                            "從前已娶者，毋許往來番社，違者治罪。",
-                            rt {
-                                lang: "en",
-                                "those previously married are not allowed to visit indigenous      \
-                                villages, violators shall be punished."
-                            }
-                        }
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "以上三條，皆嚴禁臺民私入番界之舊例也。",
-                    rt {
-                        lang: "en",
-                        "The above three articles are all old regulations strictly prohibiting     \
-                        Taiwanese civilians from entering indigenous territories."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "際此開山伊始、招墾方興，臣等揆度時勢，合無仰懇天恩，將一切舊禁盡與開豁，以廣招徠，俾無瞻顧。",
-                    rt {
-                        lang: "en",
-                        "As we break ground in the developing of this island, I, considering the   \
-                        circumstances of the times, humbly request Your Majesty's grace to         \
-                        completely lift all old prohibitions to broadly attract settlers and leave \
-                        them without hesitation."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "臣等思當茲開闢後山，凡百以便民為急，不得不因時變通；",
-                    rt {
-                        lang: "en",
-                        "We consider that in developing the eastern territory, facilitating        \
-                        people's lives is urgent and we must adapt to the times;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "合無再懇天恩，飭地方官將鐵、竹兩項悉弛舊禁，以斷胥役勒索之路，以濟閭閻日用之需。",
-                    rt {
-                        lang: "en",
-                        "I humbly request Your Majesty's grace again to order local officials to   \
-                        completely lift the old prohibitions on iron and bamboo, to cut off the    \
-                        path of clerks' and runners' extortion, and to aid common people's daily   \
-                        needs."
-                    }
-                }
-            }
-        }
-    })
-}
 
-pub fn c_1875_08_28_shen_01() -> Element {
-    rsx!(FileCitation {
-        file: &CN_THDS_V04_P070,
-        FigureAttribution {
-            figure: &SHEN_BAOZHEN,
-            locale: [
-                rsx!(span { "Forbidden City" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { "Aug 28th, 1875" })
-            ],
-            h1 {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "會籌全臺大局疏",
-                    rt {
-                        lang: "en",
-                        "Memorial on Planning the Overall Situation of Taiwan"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "福州將軍臣文煜、",
-                    rt {
-                        lang: "en",
-                        "General of Fuzhou Chen Wenyu,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "閩浙總督臣李鶴年、",
-                    rt {
-                        lang: "en",
-                        "Governor-General of Min-Zhe Li Henian,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "福建巡撫臣王凱泰、",
-                    rt {
-                        lang: "en",
-                        "Provincial Governor of Fujian Wang Kaitai,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "辦理臺灣等處海防兼理各國事務臣沈葆楨跪奏，為會籌全臺大局，",
-                    rt {
-                        lang: "en",
-                        "and Taiwan's Maritime Defense and Foreign Affairs Commissioner Shen       \
-                        Baozhen humbly submit this memorial regarding the overall planning for     \
-                        Taiwan, "
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "撫番開路，",
-                    rt {
-                        lang: "en",
-                        "such as pacifying aboriginals and opening roads,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "勢難中止，",
-                    rt {
-                        lang: "en",
-                        "matters which cannot be halted,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "並巡撫兼顧省臺情形，恭折馳陳，仰祈聖鑒事。",
-                    rt {
-                        lang: "en",
-                        "and the situation of the Provincial Governor overseeing both the province \
-                        of Fujian and Taiwan, respectfully presenting this for Imperial            \
-                        consideration."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "惟臺地自去年倭人啟釁，",
-                    rt {
-                        lang: "en",
-                        "Since last year when the Japanese initiated conflict,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "外假復仇，內圖占地，",
-                    rt {
-                        lang: "en",
-                        "outwardly claiming revenge while inwardly plotting to occupy territory,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "狡謀已露，逆焰方張，",
-                    rt {
-                        lang: "en",
-                        "their devious schemes have been exposed and their rebellious intentions   \
-                        are expanding,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不得已而有撫番開路之舉。",
-                    rt {
-                        lang: "en",
-                        "which has made the pacification of aboriginals and road construction      \
-                        unavoidable."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "當時固謂海防未固，則外侮難消，",
-                    rt {
-                        lang: "en",
-                        "At that time, it was said that without secure coastal defenses, external  \
-                        threats cannot be eliminated;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "山險未通，則海防先無從下手。",
-                    rt {
-                        lang: "en",
-                        "but without access through the mountains, coastal defense cannot even     \
-                        begin."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "前山各口消息，尚能探悉，島岸尚可周知，",
-                    rt {
-                        lang: "en",
-                        "while we can gather intelligence about the entrances in the western       \
-                        mountains and know about the coastal conditions,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "後山則途徑不通，人跡罕到。",
-                    rt {
-                        lang: "en",
-                        "the eastern mountains remain inaccessible with rarely any human presence."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "但謀前山拒虎，一任後門進狼，",
-                    rt {
-                        lang: "en",
-                        "If we only plan to resist the tiger at the front mountains while allowing \
-                        wolves to enter through the back door,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "雖日事籌防，而防務究無把握。",
-                    rt {
-                        lang: "en",
-                        "even though we plan defenses daily, our defensive measures will never be  \
-                        reliable."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "雖日事籌防，而防務究無把握。",
-                    rt {
-                        lang: "en",
-                        "even though we plan defenses daily, our defensive measures will never be  \
-                        reliable."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "人第知今日開山之為撫番，固不知今日撫番之實以防海也。",
-                    rt {
-                        lang: "en",
-                        "People only know that today's mountain development is for pacifying       \
-                        aboriginals, but they do n0t realize that today's aboriginal pacification  \
-                        is actually for coastal defense."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "第知豫籌防海之關係臺灣安危，而不知豫籌防海之關係南北洋全局也。",
-                    rt {
-                        lang: "en",
-                        "They only know that planning coastal defense relates to Taiwan's          \
-                        security, but do not realize that planning coastal defense relates to the  \
-                        overall situation of both the Northern and Southern seas."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "倭事雖已順平，而各路之師，至今不可撤。",
-                    rt {
-                        lang: "en",
-                        "Although the Japanese incident has been settled, the troops stationed     \
-                        along various routes still cannot be withdrawn."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "不知臣等之經營後山者為防患計，非為興利計；",
-                    rt {
-                        lang: "en",
-                        "They don't understand that our development of the eastern    \
-                        mountains is a plan to prevent future troubles, not a plan for profit;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "為興利盡可緩圖，為防患必難中止。",
-                    rt {
-                        lang: "en",
-                        "while profit-making can be postponed, preventing future troubles cannot   \
-                        be halted."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "外人之垂涎臺地，非一日亦非一國也。",
-                    rt {
-                        lang: "en",
-                        "Foreigners' covetousness of Taiwan's territory is neither recent nor      \
-                        limited to one country."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "去歲倭事，特嚆矢耳。",
-                    rt {
-                        lang: "en",
-                        "Last year's Japanese incident was merely the beginning."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "自法郎西據安南，",
-                    rt {
-                        lang: "en",
-                        "Since France has occupied Annam,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "英吉利據印度、新加坡等處，",
-                    rt {
-                        lang: "en",
-                        "and England has occupied India, Singapore and other places,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "南洋各國漸為所收，",
-                    rt {
-                        lang: "en",
-                        "various countries in the South Seas have gradually been taken,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "遂使遠隔數萬里之豺狼，得以近吾臥榻。",
-                    rt {
-                        lang: "en",
-                        "allowing wolves from tens of thousands of miles away to approach our      \
-                        bedside."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以臺地閩左屏藩，七省門戶，天氣和暖，年榖易成",
-                    rt {
-                        lang: "en",
-                        "Taiwan serves as Fujian's left flank defense and gateway to seven         \
-                        provinces, with warm weather and easily grown annual crops."
-                    }
-                },
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "後山一帶，我不盡收版圖，",
-                        rt {
-                            lang: "en",
-                            "If we don't fully incorporate the eastern mountain region into our    \
-                            territory,"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "彼必陰謀侵占。",
-                        rt {
-                            lang: "en",
-                            "they will surely plot to occupy it."
-                        }
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "後山一去，前山何可復守！",
-                    rt {
-                        lang: "en",
-                        "If we lose the eastern mountains, how can we defend the western mountains!"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臺地者，中土之藩籬也。",
-                    rt {
-                        lang: "en",
-                        "Taiwan is the fence protecting China proper."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "藩籬既撤，",
-                    rt {
-                        lang: "en",
-                        "If this fence is removed,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "則蛇蠍之毒，將由背膂而入我腹心。",
-                    rt {
-                        lang: "en",
-                        "then the poison of snakes and scorpions will enter our core through our   \
-                        back."
-                    }
-                }
-            }
-        }
-    })
-}
-
-pub fn c_1877_01_xx_shen_01() -> Element {
-    let t01 = rsx!(Tip {
-        tip: S("2nd year of Emperor Guangxu (1876)\n11th lunar month (beg. 16 Dec 1876)\n25th day of the month (10 Jan 1877)"),
-        ruby {
-            lang: "cn",
-            "竊於本年十一月二十五日，",
-            rt {
-                lang: "en",
-                "On the 25th day of the 11th month of this year,"
-            }
-        }
-    });
-    rsx!(FileCitation {
-        file: &CN_THDS_V04_P070,
-        FigureAttribution {
-            figure: &SHEN_BAOZHEN,
-            locale: [
-                rsx!(span { "Forbidden City" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { i {"circa"}, " Jan 1877" })
-            ],
-            h1 {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "籌商臺灣事宜疏",
-                    rt {
-                        lang: "en",
-                        "A Memorial on Deliberating Taiwan Affairs"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "頭品頂帶兩江總督臣沈葆楨跪奏，為遵旨籌商臺灣事宜，恭折具陳，仰祈聖鑒事。",
-                    rt {
-                        lang: "en",
-                        "I, Shen Baozhen, First-Rank Official and Governor-General of Liangjiang,  \
-                        respectfully submit this memorial in accordance with the imperial edict    \
-                        regarding the deliberation of Taiwan affairs, humbly presenting this for   \
-                        Your Majesty's consideration:"
-                    }
-                },
-                { t01 },
-                ruby {
-                    lang: "cn",
-                    "承准軍機大臣密寄，光緒二年十一月十九日奉上諭，",
-                    rt {
-                        lang: "en",
-                        "I received a confidential dispatch from the Grand Council containing an   \
-                        Imperial Edict dated the 19th day of the 11th month of the 2nd year of     \
-                        Guangxu,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "丁日昌奏臺灣亟應統籌全局，省臺勢難兼顧情形，著該督等速議具奏等因。",
-                    rt {
-                        lang: "en",
-                        "stating that Ding Richang had memorialized about the urgent need to plan  \
-                        comprehensively for Taiwan, and the difficulty of managing both provincial \
-                        and Taiwan affairs simultaneously, ordering governors to quickly           \
-                        deliberate and report. "
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "欽此。",
-                    rt {
-                        lang: "en",
-                        "By Imperial Command:"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "查原奏所稱購船、練兵、炮臺、電線、開礦、招墾諸務，皆臣在臺時先後條奏，緣絀於經費，限於時日， \
-                    或奏焉而未及舉，或舉焉而未及成者。",
-                    rt {
-                        lang: "en",
-                        "Regarding the matters mentioned in the original memorial (purchasing      \
-                        ships, training troops, building fortifications, installing telegraph      \
-                        lines, opening mines, and recruiting settlers), I had previously submitted \
-                        memorials about all of these during my time in Taiwan, although, due to    \
-                        limited funds and time constraints, some matters were proposed but not     \
-                        implemented, while others were started but not completed."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "惟鐵路一端，當時未經議及；而實為臺地所宜行。",
-                    rt {
-                        lang: "en",
-                        "However, the matter of railways was not discussed at that time—though it  \
-                        is actually quite suitable for implementation in Taiwan."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "其云不出數年，日本必出全力以圖規取者，誠洞見症結，綢繆未雨之苦衷，非故為危言聳聽者也。",
-                        rt {
-                            lang: "en",
-                            "The warning that within a few years Japan will certainly exert all    \
-                            its effort to attempt to take Taiwan shows true insight into the core  \
-                            problem and represents prudent preparation before the storm; it is     \
-                            not merely alarmist talk."
-                        }
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "然則鐵甲水雷，宜盡北洋先辦，而臺灣眼前，不得不姑且從緩，惟招墾則必不可緩。",
-                    rt {
-                        lang: "en",
-                        "Therefore, ironclads and torpedoes should be prioritized for the          \
-                        Northern Fleet, while such matters in Taiwan must be temporarily           \
-                        postponed. However, the recruitment of settlers cannot be delayed."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "蓋以杜內地之大害，興全臺之大利，計無逾於此者。",
-                    rt {
-                        lang: "en",
-                        "For preventing major problems in the interior and promoting the greatest  \
-                        benefits for all of Taiwan, no plan surpasses this one."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "臺灣之吏治營政，若不認真整頓，則目前之利藪，皆後日之亂階。",
-                    rt {
-                        lang: "en",
-                        "If Taiwan's administrative and military affairs are not seriously put in  \
-                        order, then today's sources of profit will all become tomorrow's seeds of  \
-                        chaos."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "愚昧之見，是否有當，理合恭折密陳，伏乞聖鑒訓示。",
-                    rt {
-                        lang: "en",
-                        "Whether these humble views are appropriate or not, I respectfully submit  \
-                        this confidential memorial and humbly await Your Majesty's sage review and \
-                        instructions."
-                    }
-                }
-            }
-        }
-    })
-}
-
-pub fn c_1875_02_24_ding_01() -> Element {
-    let t01 = rsx!(Tip {
-        tip: P(&LI_HONGZHANG),
-        ruby {
-            lang: "cn",
-            "李鴻章",
-            rt {
-                lang: "en",
-                "Li Hongzhang"
-            }
-        }
-    });
-    let t02 = rsx!(Tip {
-        tip: P(&CHARLES_LEGENDRE),
-        ruby {
-            lang: "cn",
-            "黎展達",
-            rt {
-                lang: "en",
-                "Charles LeGendre"
-            }
-        }
-    });
-    rsx!(FileCitation {
-        file: &CN_THDS_V04_P070,
-        FigureAttribution {
-            figure: &DING_RICHANG,
-            locale: [
-                rsx!(span { "Forbidden City" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { "Feb 24th, 1875" })
-            ],
-            h1 {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "代陳丁日昌議覆海防事宜疏",
-                    rt {
-                        lang: "en",
-                        "Memorial Submitting Deliberations by Ding Richang on Coastal Defense      \
-                        Affairs"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "大學士直隸總督一等伯臣",
-                    rt {
-                        lang: "en",
-                        "Grand Secretary, Governor-General of Zhili, First Class Earl, your        \
-                        minister"
-                    }
-                },
-                { t01 },
-                ruby {
-                    lang: "cn",
-                    "跪奏，",
-                    rt {
-                        lang: "en",
-                        "kneels to memorialize,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "為據情代陳，",
-                    rt {
-                        lang: "en",
-                        "to present facts on behalf of another,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "仰祈聖鑒事。",
-                    rt {
-                        lang: "en",
-                        "and humbly requests Imperial consideration."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "竊上年九月間，欽奉上諭總理各國事務衙門奏，海防亟宜切籌，",
-                    rt {
-                        lang: "en",
-                        "In the ninth month of last year, I humbly received an Imperial Edict in   \
-                        response to the memorial from the Zongli Yamen, stating that coastal       \
-                        defense must be urgently planned,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "所陳練兵、",
-                    rt {
-                        lang: "en",
-                        "and the proposed items regarding training troops,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "簡器、",
-                    rt {
-                        lang: "en",
-                        "selecting wares,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "造船、",
-                    rt {
-                        lang: "en",
-                        "building ships,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "籌餉、",
-                    rt {
-                        lang: "en",
-                        "raising funds,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "用人、",
-                    rt {
-                        lang: "en",
-                        "employing personnel,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "持久各條，",
-                    rt {
-                        lang: "en",
-                        "and maintaining sustainability,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "均係緊要機宜，",
-                    rt {
-                        lang: "en",
-                        "each being equally crucial matters,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "著詳細籌議辦法覆奏。",
-                    rt {
-                        lang: "en",
-                        "of which detailed implementation plans should be deliberated and reported \
-                        back."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "此外別有要計，亦即一並奏陳等因。",
-                    rt {
-                        lang: "en",
-                        "If there are other important strategies, they should also be reported together."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "欽此。",
-                    rt {
-                        lang: "en",
-                        "By Imperial Command:"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臣當即依限詳議覆奏在案。",
-                    rt {
-                        lang: "en",
-                        "Your subject immediately submitted a detailed memorial in response within the prescribed time limit."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "因思前江蘇巡撫臣丁日昌，",
-                    rt {
-                        lang: "en",
-                        "Considering that the former Governor of Jiangsu, your subject Ding Richang,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "隨辦洋務有年，",
-                    rt {
-                        lang: "en",
-                        "has handled foreign affairs for many years,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "熟悉機宜，",
-                    rt {
-                        lang: "en",
-                        "is familiar with proper procedures,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "究心時事，",
-                    rt {
-                        lang: "en",
-                        "and studies current affairs thoroughly,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "曾密鈔總理衙門原奏六條，函屬該前撫妥議切實辦法，",
-                    rt {
-                        lang: "en",
-                        "I had privately copied the six articles from the Zongli Yamen's original  \
-                        memorial and wrote to request that the former governor carefully           \
-                        deliberate on practical methods,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以為集思廣益之助。",
-                    rt {
-                        lang: "en",
-                        "to gather our collective wisdom."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "茲接丁日昌寄呈逐條議覆折稿，",
-                    rt {
-                        lang: "en",
-                        "Now I have received Ding Richang's draft memorial discussing each article \
-                        in detail,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臣思整頓海防為軍國要政，",
-                    rt {
-                        lang: "en",
-                        "I humbly believe that organizing coastal defense is a crucial military    \
-                        and state matter, "
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "該前撫既有所見，未便壅於上聞，",
-                    rt {
-                        lang: "en",
-                        "and since the former governor has insights, it would not be proper to     \
-                        withhold them from Imperial knowledge,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "謹照繕丁日昌議覆六條清單，恭呈御覽。",
-                    rt {
-                        lang: "en",
-                        "and so I respectfully present a clean copy of Ding Richang's responses to \
-                        the six articles for Your Majesty's review:"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "日本彈丸小島，",
-                    rt {
-                        lang: "en",
-                        "Japan, though merely a small island nation,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不過夜郎靡莫之倫，",
-                    rt {
-                        lang: "en",
-                        "no different from the ancient kingdoms of Yelang and Mimo,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而年來發憤為雄，",
-                    rt {
-                        lang: "en",
-                        "has in recent years become ambitious and powerful,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "變更峨冠博帶之舊習，",
-                    rt {
-                        lang: "en",
-                        "abandoning their old customs of tall hats and broad sashes,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "師法輪船飛礮之新製，",
-                    rt {
-                        lang: "en",
-                        "and learning to make new technologies like steamships and artillery."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其陰而有謀，固屬可慮，",
-                    rt {
-                        lang: "en",
-                        "Their secretive scheming is certainly worrisome,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其窮而無賴，則更可憂。",
-                    rt {
-                        lang: "en",
-                        "and their desperate unscrupulousness is even more concerning."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以北境之塞希倫地予俄，",
-                    rt {
-                        lang: "en",
-                        "They have given Russia the northern territory of Sakhalin,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而日俄之交固，",
-                    rt {
-                        lang: "en",
-                        "thereby securing Japanese-Russian relations,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "用",
-                    rt {
-                        lang: "en",
-                        "and employed"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "李太國",
-                    rt {
-                        lang: "en",
-                        "Horatio Lay"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "開火車鐵路，",
-                    rt {
-                        lang: "en",
-                        "to build railways,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而多借英國之債，",
-                    rt {
-                        lang: "en",
-                        "while borrowing heavily from Britain,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其國主常見英使",
-                    rt {
-                        lang: "en",
-                        "and their emperor frequently meets with the British minister"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "巴夏禮",
-                    rt {
-                        lang: "en",
-                        "Harry Parkes"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "與之潛謀密計，",
-                    rt {
-                        lang: "en",
-                        "for secret consultations,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而日英之交固。",
-                    rt {
-                        lang: "en",
-                        "thus securing Japanese-British relations."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "用",
-                    rt {
-                        lang: "en",
-                        "They employed"
-                    }
-                },
-                { t02 },
-                ruby {
-                    lang: "cn",
-                    "密查臺灣情形，",
-                    rt {
-                        lang: "en",
-                        "to secretly investigate conditions in Taiwan,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "資為指臂腹心，",
-                    rt {
-                        lang: "en",
-                        "using this as strategic intelligence,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而日美之交固。",
-                    rt {
-                        lang: "en",
-                        "thus securing Japanese-American relations."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "彼其低首下心，伈伈睍睍，",
-                    rt {
-                        lang: "en",
-                        "Their bowing and scraping, appearing meek and fearful,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以求悅於各國者，",
-                    rt {
-                        lang: "en",
-                        "appearing so humble and eager to please foreign powers,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "豈有他哉？",
-                    rt {
-                        lang: "en",
-                        "what other purpose could this serve?"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "蓋其覬覦臺灣，",
-                    rt {
-                        lang: "en",
-                        "They conceal their lust for Taiwan,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "已寢食寤寐之不忘，",
-                    rt {
-                        lang: "en",
-                        "while they think of it day and night;"
-                    }
-                },
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "中國倘棄之如遺，",
-                        rt {
-                            lang: "en",
-                            "should China abandon it carelessly,"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "固已從心所欲，",
-                        rt {
-                            lang: "en",
-                            "then they would achieve their desire;"
-                        }
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "萬一勢出於戰，",
-                    rt {
-                        lang: "en",
-                        "and should it come to war,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "則有交慝各國，",
-                    rt {
-                        lang: "en",
-                        "then their allies would mediate on their behalf;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "為之解鈴說合，",
-                    rt {
-                        lang: "en",
-                        "as such we may initiate a conflict,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不致能發而不能收。",
-                    rt {
-                        lang: "en",
-                        "but may not control its resolution."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "此其所以肆然無忌，",
-                    rt {
-                        lang: "en",
-                        "This is why they act so brazenly and unrestrained,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "快志於一逞也。",
-                    rt {
-                        lang: "en",
-                        "eager to satisfy their ambitions."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臣任苏藩司时，",
-                    rt {
-                        lang: "en",
-                        "When I served as Provincial Governor of Jiangsu,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "曾於議覆修約條內，",
-                    rt {
-                        lang: "en",
-                        "I stated in my response then regarding treaty provisions:"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "陳明日本陰柔而有遠志，",
-                    rt {
-                        lang: "en",
-                        "Japan—though appearing gentle—harbors long-term ambitions;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "中國所買槍礮，",
-                    rt {
-                        lang: "en",
-                        "the rifles and canons purchased by China,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "皆彼國選餘之物，",
-                    rt {
-                        lang: "en",
-                        "Are all merely their discarded items;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "宜陽與之好，",
-                    rt {
-                        lang: "en",
-                        "and so we should maintain positive relations,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而陰為之備。",
-                    rt {
-                        lang: "en",
-                        "while secretly preparing against them."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "其時李鴻章深以臣言為然，",
-                    rt {
-                        lang: "en",
-                        "At that time, Li Hongzhang seriously took my words for truth,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "當即代為密陳。",
-                    rt {
-                        lang: "en",
-                        "and promptly submitted a secret memorial on my behalf."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "今日本雖小有所償，",
-                    rt {
-                        lang: "en",
-                        "Although Japan is now receiving some compensation,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "然彼之所費，",
-                    rt {
-                        lang: "en",
-                        "compare their actual expenses,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "既不啻十倍此數，",
-                    rt {
-                        lang: "en",
-                        "which is already no less than ten times the figure,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "况死于是役者，",
-                    rt {
-                        lang: "en",
-                        "moreover, those who have died, by way of conscription,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "複五六百人，",
-                    rt {
-                        lang: "en",
-                        "number five or six hundred men;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "萬一他日複藉端發難，",
-                    rt {
-                        lang: "en",
-                        "thus they may one day create further trouble,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以數舶橫亙於黃海黑水洋之間，",
-                    rt {
-                        lang: "en",
-                        "such as positioning several ships across the length of the Yellow Sea,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "則津滬之氣不通，",
-                    rt {
-                        lang: "en",
-                        "thereby blocking communication between Tianjin and Shanghai,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "事事為之棘手；",
-                    rt {
-                        lang: "en",
-                        "and everything will become difficult to handle;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而臺灣之患，",
-                    rt {
-                        lang: "en",
-                        "The danger of Taiwan,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "猶其小而緩者也。",
-                    rt {
-                        lang: "en",
-                        "in comparison, would be relatively minor."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "以上六條，皆就總理衙門原奏，",
-                    rt {
-                        lang: "en",
-                        "The above six points all elaborate on and expand upon the original        \
-                        memorial from the Zongli Yamen,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "略申餘蘊，附呈管見。",
-                    rt {
-                        lang: "en",
-                        "to which I have humbly attached my personal views."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "是否有當？",
-                    rt {
-                        lang: "en",
-                        "Are they appropriate?"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "伏乞聖鑒。",
-                    rt {
-                        lang: "en",
-                        "I respectfully await Your Majesty's enlightened judgment."
-                    }
-                }
-            }
-        }
-    })
-}
-
-pub fn c_1876_xx_xx_ding_01() -> Element {
-    let t01 = rsx!(Tip {
-        tip: P(&SHEN_BAOZHEN),
-        ruby {
-            lang: "cn",
-            "沈葆楨",
-            rt {
-                lang: "en",
-                "Shen Baozhen"
-            }
-        }
-    });
-    rsx!(FileCitation {
-        file: &CN_THDS_V04_P070,
-        FigureAttribution {
-            figure: &DING_RICHANG,
-            locale: [
-                rsx!(span { "Forbidden City" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { i { "circa" }, " 1876" })
-            ],
-            h1 {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "請速籌臺事全局疏",
-                    rt {
-                        lang: "en",
-                        "Memorial Requesting Swift Planning for the Overall Taiwan Situation"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "福建巡撫臣丁日昌跪奏，",
-                    rt {
-                        lang: "en",
-                        "Your humble servant Ding Richang, Governor of Fujian, kneels to submit    \
-                        this memorial,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "為臺事速宜統籌全局，",
-                    rt {
-                        lang: "en",
-                        "regarding the urgent need to plan comprehensively for Taiwan's affairs,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "恭折密陈，仰祈圣鉴事。",
-                    rt {
-                        lang: "en",
-                        "which I humbly present in confidence for Your Majesty's consideration:"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "竊查臺灣生番蠢動，",
-                    rt {
-                        lang: "en",
-                        "Upon investigation, while the aboriginal peoples of Taiwan are provoking  \
-                        unrest,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "尚是癬疥之疾，",
-                    rt {
-                        lang: "en",
-                        "this is but a minor infliction akin to ringworm or scabies,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "惟日本處心積慮，",
-                    rt {
-                        lang: "en",
-                        "however, Japan has been harboring ulterior motives,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "極意窺伺，",
-                    rt {
-                        lang: "en",
-                        "while lying in wait and anticipation,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "傳聞近日有屯兵琉球之說，",
-                    rt {
-                        lang: "en",
-                        "and there is rumor of Japan stationing troops in the Ryukyus,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而德國亦常密遣兵船，",
-                    rt {
-                        lang: "en",
-                        "as well as the secret dispatch of a German vessel,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "前往臺北，",
-                    rt {
-                        lang: "en",
-                        "bound for Taipei,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "測繪地圖。",
-                    rt {
-                        lang: "en",
-                        "for the purpose of survey."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "查琉球距臺北雞籠，",
-                    rt {
-                        lang: "en",
-                        "Investigating further, from Ryukyu to Keelung in northern Taiwan,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "水程不過千里，",
-                    rt {
-                        lang: "en",
-                        "the sea journey is no more than a thousand li,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "朝發可以夕至，",
-                    rt {
-                        lang: "en",
-                        "one can depart in the morning and arrive by evening,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "該國弱小而貧，",
-                    rt {
-                        lang: "en",
-                        "the Ryukyus are weak and poor,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "數百年來，為中國不侵不叛之臣。",
-                    rt {
-                        lang: "en",
-                        "for hundreds of years it has been a loyal vassal to China, neither        \
-                        invading nor rebelling."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其入貢也，",
-                    rt {
-                        lang: "en",
-                        "Regarding their tribute missions,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不惟表其恭謹，",
-                    rt {
-                        lang: "en",
-                        "not only do they demonstrate their respect and carefulness,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "即販賣土貨，",
-                    rt {
-                        lang: "en",
-                        "even in selling local products,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "亦藉以稍得微利。",
-                    rt {
-                        lang: "en",
-                        "but they also only seek modest profits."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "聞今年貢物已具，",
-                    rt {
-                        lang: "en",
-                        "I have heard that this year's tribute goods are already prepared,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而日本強之不令賷行。",
-                    rt {
-                        lang: "en",
-                        "but Japan has forcefully prevented them from proceeding with the mission."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "外則以示桀驁，",
-                    rt {
-                        lang: "en",
-                        "Outwardly, this shows their arrogance,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "實則懼琉球密以情偽相告，",
-                    rt {
-                        lang: "en",
-                        "but in reality, they fear Ryukyu might secretly inform us of their true   \
-                        intentions,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "居心叵測，",
-                    rt {
-                        lang: "en",
-                        "their motives are suspicious,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "可恨亦復可憂。",
-                    rt {
-                        lang: "en",
-                        "this is both hateful and worrisome."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                { t01 },
-                ruby {
-                    lang: "cn",
-                    "前因倭兵屯紮琅嶠，",
-                    rt {
-                        lang: "en",
-                        "previously dealt with Japanese troops stationed in Hengchun,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "是以經營僅在臺南一帶。",
-                    rt {
-                        lang: "en",
-                        "and his administrative focus was limited to the Tainan area."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其實臺灣精華所聚，",
-                    rt {
-                        lang: "en",
-                        "In truth, the essence of Taiwan's value,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "全局在臺北、淡水、雞籠等處，",
-                    rt {
-                        lang: "en",
-                        "the strategic entirety lies in Taipei, Tamsui, Keelung and other such     \
-                        places,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而外人心目所注，亦在臺北、淡水、雞籠。",
-                    rt {
-                        lang: "en",
-                        "and foreigners also have their eyes set on Taipei, Tamsui, and Keelung."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "從前榛狉未闢，",
-                    rt {
-                        lang: "en",
-                        "In the past, when the wilderness was yet untamed,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "習與相忘，",
-                    rt {
-                        lang: "en",
-                        "and we were accustomed to ignoring each other,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "近則天主、耶穌等教，訌入內山，",
-                    rt {
-                        lang: "en",
-                        "but recently, Catholic and Protestant religions have penetrated into the  \
-                        mountains,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "一切利源以及險阻，無不深知。",
-                    rt {
-                        lang: "en",
-                        "and all the resources and strategic positions are known to them."
-                    }
-                },
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "是以彼族所繪臺地圖說，",
-                        rt {
-                            lang: "en",
-                            "Thus the maps of Taiwan drawn by these foreigners,"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "較之官繪者尤為詳盡，",
-                        rt {
-                            lang: "en",
-                            "are even more detailed than those drawn by our officials,"
-                        }
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "而臺屬各口，兵船林立，",
-                    rt {
-                        lang: "en",
-                        "and warships stand like forests at all ports of Taiwan,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "潮來汐往，",
-                    rt {
-                        lang: "en",
-                        "coming and going with the tides,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "無日無之。",
-                    rt {
-                        lang: "en",
-                        "no day gone without them."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "年來彼族，",
-                    rt {
-                        lang: "en",
-                        "In recent years, these foreigners,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "無論要求何事，",
-                    rt {
-                        lang: "en",
-                        "no matter what they demand,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "動輒以兵船相恫喝，",
-                    rt {
-                        lang: "en",
-                        "frequently threaten us with their warships,"
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "惟臺灣勢同孤注，",
-                    rt {
-                        lang: "en",
-                        "and Taiwan stands as our single outpost,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "如果兵力有餘，",
-                    rt {
-                        lang: "en",
-                        "if we have surplus military force,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "則遇彼族用武挾制之時，",
-                    rt {
-                        lang: "en",
-                        "then when these foreigners use military force to coerce us,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "自可由臺出奇兵，",
-                    rt {
-                        lang: "en",
-                        "we can deploy surprise forces from Taiwan,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "斷其後路，",
-                    rt {
-                        lang: "en",
-                        "thereby cutting off their retreat,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "為擊首應尾之計，",
-                    rt {
-                        lang: "en",
-                        "implementing a strategy of striking both head and tail,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "令彼族多所瞻顧，",
-                    rt {
-                        lang: "en",
-                        "making them look over their shoulders in multiple directions,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "似更諸事易於轉圜。",
-                    rt {
-                        lang: "en",
-                        "which would make various matters easier to negotiate."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "同治十三年冬，",
-                    rt {
-                        lang: "en",
-                        "In the winter of 1874,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "總理衙門原議練兵制器，",
-                    rt {
-                        lang: "en",
-                        "the Zongli Yamen originally discussed training troops and manufacturing   \
-                        weapons,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以備海防之用。",
-                    rt {
-                        lang: "en",
-                        "for the purpose of coastal defense."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "蓋亦深慮臺灣有關東南大局，",
-                    rt {
-                        lang: "en",
-                        "This was indeed due to deep concern about Taiwan's importance to the      \
-                        greater southeastern situation,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "因而為未雨綢繆之計。",
-                    rt {
-                        lang: "en",
-                        "thus being prepared in advance."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以臣愚見，",
-                    rt {
-                        lang: "en",
-                        "In my humble opinion,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臺灣若不認真整頓，",
-                    rt {
-                        lang: "en",
-                        "if Taiwan is not seriously put in order,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "速籌備御之方，",
-                    rt {
-                        lang: "en",
-                        "and defensive measures are not quickly prepared,"
-                    }
-                },
-                mark {
-                    ruby {
-                        lang: "cn",
-                        "不出數年，日本必出全力以圖規取，",
-                        rt {
-                            lang: "en",
-                            "within but a few years Japan will certainly use all its power to      \
-                            attempt to take it,"
-                        }
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其時恐不止如前時尚能以言語退敵也。",
-                    rt {
-                        lang: "en",
-                        "and at that time, I fear we will no longer be able to repel enemies with  \
-                        mere words as we did before."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臺中琅嶠之役，",
-                    rt {
-                        lang: "en",
-                        "During the Hengchun incident in central Taiwan,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "沿海各省，",
-                    rt {
-                        lang: "en",
-                        "the coastal provinces,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "舉辦海防，",
-                    rt {
-                        lang: "en",
-                        "in establishing coastal defenses,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "用費殆將千萬，",
-                    rt {
-                        lang: "en",
-                        "spent nearly ten million,"
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-                ruby {
-                    lang: "cn",
-                    "惟臺灣有備，",
-                    rt {
-                        lang: "en",
-                        "However, if Taiwan is prepared,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "沿海可以無憂；",
-                    rt {
-                        lang: "en",
-                        "then the coast can be free from worry;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臺灣不安，",
-                    rt {
-                        lang: "en",
-                        "but if Taiwan is not secure,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "則全局殆為震動。",
-                    rt {
-                        lang: "en",
-                        "then the entire situation would be shaken."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } }
-            }
-        }
-    })
-}
-
-pub fn c_1877_xx_xx_ding_01() -> Element {
-    let t01 = rsx!(Tip {
-        tip: S("2nd year of Emperor Guangxu (1876)\n11th lunar month (beg. 16 Dec 1876)\n15th day of the month (31 Dec 1876)"),
-        ruby {
-            lang: "cn",
-            "竊臣於十一月十五日",
-            rt {
-                lang: "en",
-                "On the 15th day of the 11th month,"
-            }
-        }
-    });
-    rsx!(FileCitation {
-        file: &CN_THDS_V04_P070,
-        FigureAttribution {
-            figure: &DING_RICHANG,
-            locale: [
-                rsx!(span { "Forbidden City" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { i { "circa" }, " 1877" })
-            ],
-            h1 {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "籌商大員移紮臺灣後山疏",
-                    rt {
-                        lang: "en",
-                        "Memorial on Planning the Relocation of the Official to Taiwan's Back      \
-                        Mountains"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "福建巡撫臣丁日昌跪奏，",
-                    rt {
-                        lang: "en",
-                        "The Provincial Governor of Fujian, Official Ding Richang, kneels to       \
-                        present this memorial,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "為臺灣後山防務緊要，",
-                    rt {
-                        lang: "en",
-                        "regarding the urgent military matters of Taiwan's eastern territory,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "擬請大員移紮，以靈呼應而求實濟，",
-                    rt {
-                        lang: "en",
-                        "and the proposed relocation of this official in order to achieve          \
-                        effective coordination and practical results;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "恭折仰祈聖鑒事。",
-                    rt {
-                        lang: "en",
-                        "I humbly submit this memorial for Your Majesty's sage consideration:"
-                    }
-                }
-            }
-        }
-    })
-}
-
-pub fn c_1877_01_xx_ding_01() -> Element {
-    let t01 = rsx!(Tip {
-        tip: S("2nd year of Emperor Guangxu (1876)\n11th lunar month (beg. 16 Dec 1876)\n15th day of the month (31 Dec 1876)"),
-        ruby {
-            lang: "cn",
-            "竊臣於十一月十五日",
-            rt {
-                lang: "en",
-                "On the 15th day of the 11th month,"
-            }
-        }
-    });
-    let t02 = rsx!(Tip {
-        tip: S("2nd year of Emperor Guangxu (1876)\n11th lunar month (beg. 16 Dec 1876)\n18th day of the month (03 Jan 1877)"),
-        ruby {
-            lang: "cn",
-            "旋於十八日",
-            rt {
-                lang: "en",
-                "On the 18th day "
-            }
-        }
-    });
-    rsx!(FileCitation {
-        file: &CN_THDS_V04_P070,
-        FigureAttribution {
-            figure: &DING_RICHANG,
-            locale: [
-                rsx!(span { "Forbidden City" }),
-                rsx!(span { "Beijing, China" }),
-                rsx!(span { i { "circa" }, " Jan 1877" })
-            ],
-            h1 {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "親勘臺灣北路後山大略情形疏",
-                    rt {
-                        lang: "en",
-                        "Memorial Regarding Investigation into the General Condition of the Back   \
-                        Mountains in Northern Taiwan"
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "福建巡撫臣丁日昌跪奏，",
-                    rt {
-                        lang: "en",
-                        "The Provincial Governor of Fujian, Minister Ding Richang, respectfully    \
-                        submits this memorial while kneeling,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "為微臣東渡親勘臺灣北路後山大略情形，",
-                    rt {
-                        lang: "en",
-                        "regarding this humble minister's personal inspection of the general       \
-                        conditions of the back mountains in Northern Taiwan after crossing the sea,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "恭折陳明，仰祈聖鑒事。",
-                    rt {
-                        lang: "en",
-                        "on which I humbly present this detailed report for Your Majesty's         \
-                        consideration:"
-                    }
-                },
-                { t01 },
-                ruby {
-                    lang: "cn",
-                    "由閩省起程，乘坐輪船渡臺，",
-                    rt {
-                        lang: "en",
-                        " I departed from Fujian Province for Taiwan via steamship,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "曾經報明在案。",
-                    rt {
-                        lang: "en",
-                        "as was previously reported and documented."
-                    }
-                },
-                { t02 },
-                ruby {
-                    lang: "cn",
-                    "到臺灣之北路雞籠，",
-                    rt {
-                        lang: "en",
-                        "I subsequently arrived at Keelung in Northern Taiwan,"
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "行三日，",
-                    rt {
-                        lang: "en",
-                        "After traveling for three days,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "抵蘇澳，",
-                    rt {
-                        lang: "en",
-                        "I arrived at Su'ao,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "總兵張升階帶領各弁勇來見，",
-                    rt {
-                        lang: "en",
-                        "where General Zhang Shengjie led various officers and brave soldiers to meet us,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "類皆病容滿面，",
-                    rt {
-                        lang: "en",
-                        "all of whom exhibited signs of illness on their faces;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "據稱該鎮新帶兩營來此駐扎，",
-                    rt {
-                        lang: "en",
-                        "according to them the garrison had recently brought two camps to station  \
-                        here,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不及月餘，病者巳二百餘人，死者復十餘人。",
-                    rt {
-                        lang: "en",
-                        "of whom, in less than a month, over two hundred had fallen ill and more   \
-                        than ten had died."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "半月前，",
-                    rt {
-                        lang: "en",
-                        "half a month ago,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "福靖新到各營勇丁，來市買米，",
-                    rt {
-                        lang: "en",
-                        "the newly arrived brave soldiers from the Fujing camp came to the market  \
-                        to buy rice,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "回至蘇澳五里亭，",
-                    rt {
-                        lang: "en",
-                        "and upon returning to the Five Li Pavilion in Su'ao,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "被生番狙殺九名。",
-                    rt {
-                        lang: "en",
-                        "nine were ambushed and killed by the raw aboriginals."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "該營官副將朱寶隆疏於防範，",
-                    rt {
-                        lang: "en",
-                        "The camp officer Lieutenant General Zhu Baolong was negligent in          \
-                        prevention,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "本應重辦，",
-                    rt {
-                        lang: "en",
-                        "and should have been severely punished,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "姑念全營病者過半，",
-                    rt {
-                        lang: "en",
-                        "but considering more than half the camp was ill,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "情有可原，",
-                    rt {
-                        lang: "en",
-                        "and there were extenuating circumstances,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "相應請旨將候補副將朱寶隆即行革職，",
-                    rt {
-                        lang: "en",
-                        "Lieutenant General Zhu Baolong was accordingly dismissed from his post by \
-                        imperial edict,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以示懲儆。",
-                    rt {
-                        lang: "en",
-                        "as a warning to others."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "該生番向例俟秋冬間，",
-                    rt {
-                        lang: "en",
-                        "It has been the custom of these raw aboriginals that, during autumn and   \
-                        winter,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "即須出草殺人，",
-                    rt {
-                        lang: "en",
-                        "they must go out to hunt heads,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "能割取首級者，眾人稱為英雄，",
-                    rt {
-                        lang: "en",
-                        "and those who can take heads are then heroes by their people,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "即敲折一齒以為號，",
-                    rt {
-                        lang: "en",
-                        "they then break off one tooth as a mark,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "番俗方肯以女妻之。",
-                    rt {
-                        lang: "en",
-                        "and only then will their customs allow them to take a wife."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "該生番數年來，",
-                    rt {
-                        lang: "en",
-                        "These raw aboriginals, over the years,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "依舊殺人，",
-                    rt {
-                        lang: "en",
-                        "have continued to kill,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "並不知有所謂就撫之說。",
-                    rt {
-                        lang: "en",
-                        "and know nothing of what we call submission and pacification."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "臣審明後，",
-                    rt {
-                        lang: "en",
-                        "After my humble investigation,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "當驗各生番有敲折一齒及二齒者，",
-                    rt {
-                        lang: "en",
-                        "I examined the raw aboriginals who had one or two broken teeth,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "計共四名，據供均經殺人數次，",
-                    rt {
-                        lang: "en",
-                        "counted four in total, all confessing to have killed multiple times,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "當即正法，",
-                    rt {
-                        lang: "en",
-                        "and had them executed;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以首級祭陣亡諸勇之靈。",
-                    rt {
-                        lang: "en",
-                        "their heads used as sacrifice to appease the spirits of our fallen brave  \
-                        soldiers."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其未經折齒諸番，飭令暫留營中，",
-                    rt {
-                        lang: "en",
-                        "those aboriginals who had not yet broken their teeth were ordered to
-                        temporarily remain in the camp,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "以備將來擒縱之用。",
-                    rt {
-                        lang: "en",
-                        "to be used for future capture and release operations."
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "臣查後山生番計共數百社，",
-                    rt {
-                        lang: "en",
-                        "I humbly enumerated that the raw aboriginals of the Eastern Mountains     \
-                        total several hundred communities,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "穴居野處，",
-                    rt {
-                        lang: "en",
-                        "living in caves and wild places,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "並無總目管轄，",
-                    rt {
-                        lang: "en",
-                        "with no overall chief governing them,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "行同禽獸。",
-                    rt {
-                        lang: "en",
-                        "while behaving like birds and beasts."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "但以殺人為樂，",
-                    rt {
-                        lang: "en",
-                        "They take pleasure only in killing,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其居平原者，稍知人性，",
-                    rt {
-                        lang: "en",
-                        "even those who live in the plains and know somewhat of human nature—"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "名曰平埔番，",
-                    rt {
-                        lang: "en",
-                        "so-called called Plains Aboriginals—"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "性極詭詐，",
-                    rt {
-                        lang: "en",
-                        "are extremely cunning in nature,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "每慫恿生番殺人，",
-                    rt {
-                        lang: "en",
-                        "often incite the raw aboriginals to kill,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "居間取利。",
-                    rt {
-                        lang: "en",
-                        "and profit from being intermediaries."
-                    }
-                },
-                ins { ruby { lang: "cn", "⋯⋯", rt { lang: "en", "…" } } },
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "臣屬張升階先為確查該番良歹，",
-                    rt {
-                        lang: "en",
-                        "I humbly instructed Zhang Shengjie to first thoroughly investigate the    \
-                        good and bad among these aboriginals:"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "其平埔近海各番易與洋人勾結者，",
-                    rt {
-                        lang: "en",
-                        "those Plains Aboriginals near the sea who easily collude with foreigners,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "可撫則撫，",
-                    rt {
-                        lang: "en",
-                        "pacify those who can be pacified,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不可撫則須擇尤痛加剿辦。",
-                    rt {
-                        lang: "en",
-                        "and those who cannot be pacified must be selected for severe suppression."
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "然後另選頭目，",
-                    rt {
-                        lang: "en",
-                        "Then select new chiefs,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "令之剃髮，",
-                    rt {
-                        lang: "en",
-                        "order them to shave their heads,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "歸入版圖，",
-                    rt {
-                        lang: "en",
-                        "incorporate them into our territory,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "嚴定界地，",
-                    rt {
-                        lang: "en",
-                        "strictly define boundary lands,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不許他人侵占，",
-                    rt {
-                        lang: "en",
-                        "disallow the occupation by others,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "俾得自安耕鑿，",
-                    rt {
-                        lang: "en",
-                        "enable them to till the land,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "庶法立恩加，",
-                    rt {
-                        lang: "en",
-                        "establish law and treat with grace,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "知懼而後知感，",
-                    rt {
-                        lang: "en",
-                        "so they may know fear and then know kindness;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "方免彼此相持，永無息肩之日。",
-                    rt {
-                        lang: "en",
-                        "only then can we avoid mutual conflict and and never-ending struggle."
-                    }
-                },
-                    mark {
-                    ruby {
-                        lang: "cn",
-                        "且我之所以撫番者，",
-                        rt {
-                            lang: "en",
-                            "Moreover, as for our original purpose for pacifying the aboriginals,"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "原以杜洋人覬覦之謀，",
-                        rt {
-                            lang: "en",
-                            "being primarily the prevention of schemes by foreigners who lust      \
-                            after Taiwan:"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "若不大舉剿辦，收入版圖，",
-                        rt {
-                            lang: "en",
-                            "if we do not launch a major campaign and incorporate this territory,"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "萬一洋人復重利餌番，",
-                        rt {
-                            lang: "en",
-                            "and if foreigners again lure the aboriginals with bait,"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "曰吾取地於番也，",
-                        rt {
-                            lang: "en",
-                            "accuse us of taking land that belongs to the aboriginals,"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "非取地於中國也，",
-                        rt {
-                            lang: "en",
-                            "not land that belongs to China,"
-                        }
-                    },
-                    ruby {
-                        lang: "cn",
-                        "我復何說之辭！",
-                        rt {
-                            lang: "en",
-                            "what words would we have in response!"
-                        }
-                    }
-                }
-            },
-            p {
-                class: "chinese-text",
-                ruby {
-                    lang: "cn",
-                    "故為目前計，",
-                    rt {
-                        lang: "en",
-                        "Therefore for current considerations:"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "得番地不足以為益，",
-                    rt {
-                        lang: "en",
-                        "obtaining the aboriginal land may not be beneficial,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不得番地不足以為損，",
-                    rt {
-                        lang: "en",
-                        "while forgoing the aboriginal land may not be harmful;"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "為大局計，",
-                    rt {
-                        lang: "en",
-                        "but for the bigger picture:"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "得番地則可永斷葛藤，",
-                    rt {
-                        lang: "en",
-                        "obtaining the aboriginal land may conclusively terminate entanglements,"
-                    }
-                },
-                ruby {
-                    lang: "cn",
-                    "不得番地，則恐難息窺伺。",
-                    rt {
-                        lang: "en",
-                        "while forgoing the aboriginal may be obstructive towards preventing plots."
-                    }
-                }
-            }
-        }
-    })
+    rsx! { div { class: "loading-text", "Loading..." } }
 }
 
 #[component]
-pub fn PoliticsTaiwanSovereignty() -> Element {
-    rsx! {
-        link { rel: "stylesheet", href: BLOG_CSS },
-        Timeline {
-            id: "primary-timeline",
-            t0: 1845,
-            tf: 2025
-        },
-        div {
-            id: "text-area",
-            BlogChapter {
-                title: "Preface",
-                cites: vec![],
-                p {
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                }
-            },
-            BlogChapter {
-                title: "Section 1.1: Shipwreck Hazard",
-                cites: vec![
-                    c_1851_05_xx_alcock_01(),
-                    c_1851_10_10_conrad_01(),
-                    c_1856_02_12_nye_01(),
-                    c_1858_11_20_bradley_01()
-                ],
-                p {
-                    "The Kelpie, The Rover, The Larpent. Also, The Porpoise, The Highflyer"
-                }
-            },
-            BlogChapter {
-                title: "Section 1.2: Layman's Observed Boundary",
-                cites: vec![
-                    c_1855_02_14_perry_01(),
-                    c_1855_12_xx_habersham_01(),
-                    c_1857_02_10_nye_01(),
-                    c_1886_11_17_denby_01(),
-                    c_1898_05_12_pickering_01()
-                ],
-                p {
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                }
-            },
-            BlogChapter {
-                title: "Section 1.3: Rover Incident",
-                cites: vec![],
-                p {
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                }
-            },
-            BlogChapter {
-                title: "Section 1.4: Taiwan Expedition",
-                cites: vec![c_1874_05_22_house_01()],
-                p {
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                }
-            },
-            BlogChapter {
-                title: "Section 1.5: Is 1875's Taiwan A Part Of The Chinese Empire?",
-                cites: vec![],
-                p {
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                }
-            },
-            BlogChapter {
-                title: "Section 1.6: International Law",
-                cites: vec![],
-                p {
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-                }
-            }
-        }
-    }
-}
-
-#[component]
-fn BlogChapterCitations(cites: Vec<Element>) -> Element {
-    let citation_count: u8 = cites.len() as u8;
-    let mut citation_index = use_signal(|| 1u8);
-    let mut bc_cc_children = use_signal(|| Option::<HtmlCollection>::None);
-
-    use_effect(move || if let Some(bc_cc_children) = bc_cc_children() {
-        let c_el = bc_cc_children.get_with_index((citation_index() - 1) as u32).unwrap();
-        let p_el = c_el.parent_element().unwrap();
-        let disp = c_el.get_bounding_client_rect().x() - p_el.get_bounding_client_rect().x();
-        p_el.scroll_by_with_x_and_y(disp, 0f64);
-        c_el.scroll_to_with_x_and_y(0f64, 0f64);
+pub fn PoliticsTaiwanSovereigntyChapter(chapter_hash: String) -> Element {
+    // Fetch the lightweight index file representing the navigation hierarchy.
+    let sections_resource = use_resource(move || async move {
+        let response = reqwest::get("/assets/data/politics/tw/sovereignty/index.json").await.ok()?;
+        let data: Vec<IndexSection> = response.json().await.ok()?;
+        Some(data)
     });
 
-    rsx! {
-        div {
-            class: "bc-cc-greater",
-            div {
-                class: "bc-cc-panel",
-                span {
-                    class: if citation_index() > 1 {
-                        "bc-cc-button bc-cc-button-prev"
-                    } else {
-                        "bc-cc-button bc-cc-button-prev disabled"
-                    },
-                    onclick: move |_| citation_index.set((citation_index - 1).max(1u8)),
-                    "<"
-                },
-                span {
-                    class: "bc-cc-index",
-                    "{ citation_index() } of { citation_count }"
-                },
-                span {
-                    class: if citation_index() < citation_count {
-                        "bc-cc-button bc-cc-button-next"
-                    } else {
-                        "bc-cc-button bc-cc-button-next disabled"
-                    },
-                    onclick: move |_| citation_index.set((citation_index + 1).min(citation_count)),
-                    ">"
-                }
-            },
-            div {
-                class: "bc-cc-proper",
-                onmounted: move |e| bc_cc_children.set(Some(e.as_web_event().children())),
-                { cites.into_iter() }
-            }
-        }
-    }
-}
-
-#[component]
-fn BlogChapter(title: String, cites: Vec<Element>, children: Element) -> Element {
-    rsx! {
-        div {
-            class: "bc",
-            h2 {
-                "{ title }"
-            },
-            if cites.len() > 0 {
-                BlogChapterCitations { cites: cites }
-            },
-            { children }
-        }
-    }
-}
-
-
-const FILE_LOCAL_STILL: Asset = asset!("/assets/icon/file-local-still.svg");
-const FILE_LOCAL_HOVER: Asset = asset!("/assets/icon/file-local-hover.svg");
-const FILE_CLOUD_STILL: Asset = asset!("/assets/icon/file-cloud-still.svg");
-const FILE_CLOUD_HOVER: Asset = asset!("/assets/icon/file-cloud-hover.svg");
-
-#[component]
-fn FileCitation(file: &'static File, children: Element) -> Element {
-    rsx! {
-        div {
-            class: "file-citation",
-            div {
-                class: "file-citation-header",
-                span {
-                    class: "file-citation-banner",
-                    { file.banner }
-                },
-                div {
-                    class: "file-citation-link-button file-citation-internal-link",
-                    style: "--file-citation-link-image-still: url({FILE_LOCAL_STILL}); --file-citation-link-image-hover: url({FILE_LOCAL_HOVER});",
-                    onclick: move |_| drop(window().unwrap().open_with_url(&*file.record.to_string()))
-                },
-                div {
-                    class: "file-citation-link-button file-citation-external-link",
-                    style: "--file-citation-link-image-still: url({FILE_CLOUD_STILL}); --file-citation-link-image-hover: url({FILE_CLOUD_HOVER});",
-                    onclick: move |_| drop(window().unwrap().open_with_url(file.source))
-                }
-            },
-            {children}
-        }
-    }
-}
-
-#[component]
-fn FigurePortrait(figure: &'static Person) -> Element {
-    let portrait = figure.portraiture.clone().unwrap_or(Portraiture {
-        sketch: asset!("assets/portrait/george_yeh.gif"),
-        normal: asset!("assets/portrait/george_yeh.webp"),
-        source: "<i>葉公超.</i> Photograph. Accessed September 14, 2024. https://k.sina.cn/article_5765389469_157a4dc9d001017eyq.html"
-    });
-    rsx! {
-        div {
-            class: "portrait-box",
-            img {
-                class: "portrait-sketch",
-                src: "{portrait.sketch}"
-            },
-            img {
-                class: "portrait-normal",
-                src: "{portrait.normal}"
-            },
-            span {
-                class: "portrait-banner",
-                { figure.name.last }
-            }
-        }
-    }
-}
-
-#[component]
-fn FigureAttribution(figure: &'static Person, locale: [Element; 3], children: Element) -> Element {
-    let [locale_line_1, locale_line_2, locale_line_3] = locale;
-    let portrait = figure.portraiture.clone().unwrap_or(Portraiture {
-        sketch: asset!("assets/portrait/george_yeh.gif"),
-        normal: asset!("assets/portrait/george_yeh.webp"),
-        source: "<i>葉公超.</i> Photograph. Accessed September 14, 2024. https://k.sina.cn/article_5765389469_157a4dc9d001017eyq.html"
-    });
-    rsx! {
-        div {
-            class: "attribution",
-            div {
-                class: "attribution-locale",
-                FigurePortrait { figure: figure },
-                p {
-                    { locale_line_1 },
-                    br { },
-                    br { },
-                    { locale_line_2 },
-                    br { },
-                    br { },
-                    { locale_line_3 }
-                }
-            },
-            { children }
-        }
-    }
-}
-
-#[component]
-fn FigurelessAttribution(locale: [Element; 3], children: Element) -> Element {
-    let [locale_line_1, locale_line_2, locale_line_3] = locale;
-    rsx! {
-        div {
-            class: "attribution",
-            div {
-                class: "attribution-locale",
-                p {
-                    { locale_line_1 },
-                    br { },
-                    br { },
-                    { locale_line_2 },
-                    br { },
-                    br { },
-                    { locale_line_3 }
-                }
-            },
-            { children }
-        }
-    }
-}
-
-#[derive(Clone, PartialEq)]
-enum TipType {
-    S(&'static str),
-    P(&'static Person)
-}
-
-#[component]
-fn Tip(tip: TipType, children: Element) -> Element {
-    rsx! {
-        span {
-            class: "tooltip-indicator",
-            { children },
-            div {
-                class: "tooltip-box",
-                match tip.clone() {
-                    S(detail) => {
-                        let detail: Vec<&str> = detail.split('\n').collect();
-                        rsx!(for x in 0..detail.len() {
-                            if x > 0 { br{} },
-                            { detail.get(x).unwrap() }
-                        })
-                    },
-                    P(figure) => rsx!(FigurePortrait { figure: figure })
+    match &*sections_resource.read() {
+        Some(Some(sections)) => {
+            rsx! {
+                Politics {
+                    sections: sections.clone(),
+                    active_hash: chapter_hash,
                 }
             }
         }
+        Some(None) => rsx! { div { class: "loading-text", "Failed to parse index data." } },
+        None => rsx! { div { class: "loading-text", "Loading navigation..." } },
     }
 }

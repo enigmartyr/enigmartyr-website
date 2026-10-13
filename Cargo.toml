@@ -2,21 +2,49 @@
 name = "website"
 version = "0.1.0"
 authors = ["enigmartyr <enigmartyr1@gmail.com>"]
-edition = "2021"
+edition = "2024"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-dioxus = { version = "0.6.0", features = ["router", "fullstack"] }
-dioxus-logger = "0.6.0"
-log = "0.4.22"
-web-sys = { version = "0.3.76", features = ["HtmlCollection"] }
+dioxus = { version = "0.7.3", features = ["fullstack", "router"] }
+tracing = "0.1.44"
+wasm-bindgen = "0.2.108"
+web-sys = { version = "0.3.85", features = [
+    "Document",
+    "DocumentFragment",
+    "Element",
+    "Node",
+    "NodeList",
+    "Window",
+    "NodeFilter",
+    "Performance",
+    "TreeWalker",
+    "CssStyleDeclaration",
+    "HtmlImageElement",
+    "DomTokenList",
+    "Text",
+    "CharacterData",
+    "HtmlCanvasElement",
+    "CanvasRenderingContext2d",
+    "console"
+] }
+tracing-subscriber = "0.3.22"
+hyper = "1.8.1"
+axum = { version = "0.7.9", optional = true }
+tower-http = { version = "0.6.8", optional = true, features = ["trace"] }
+tokio = { version = "1", features = ["full", "tracing"], optional = true }
+tower = "0.5.3"
+regex = "1.12.3"
+serde = { version = "1.0.228", features = ["derive"] }
+gloo-net = "0.3"
+js-sys = "0.3.85"
+wasm-bindgen-futures = "0.4.58"
+
 
 [features]
-default = ["web"]
 web = ["dioxus/web"]
-desktop = ["dioxus/desktop"]
-mobile = ["dioxus/mobile"]
+server = ["dioxus/server", "dep:axum", "dep:tower-http", "dep:tokio"]
 
 [profile]
 
