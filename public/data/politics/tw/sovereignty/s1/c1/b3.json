@@ -1,0 +1,17 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1946_03_05_swncc" },
+        { "type": "fileref", "data": "us_memo_1946_03_07_swncc_sfe" },
+        { "type": "fileref", "data": "us_memo_1946_03_11_swncc" },
+        { "type": "fileref", "data": "us_memo_1946_03_08_borton" },
+        { "type": "fileref", "data": "us_memo_1946_03_12_swncc_sfe" },
+        { "type": "fileref", "data": "us_memo_1946_03_24_swncc" }
+      ]
+    }
+  }
+]

@@ -1,0 +1,718 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Chen Cheng was a prominent Kuomintang military commander and political leader appointed as the Chairman of the Taiwan Provincial Government in late 1948, formally assuming office in January 1949. As a trusted loyalist of Chiang Kai-shek, he was tasked with stabilizing Taiwan and transforming it into a secure base of operations as the Nationalist government faced catastrophic defeats on the Chinese mainland. His ambitious public declarations, however, occasionally preceded the delicate diplomatic strategies of the central leadership."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Excerpt from Min Sheng Daily, January 6, 1949 "
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "gazette_1949_01_06_tpvd"
+        }
+      ]
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Chairman Chen Hosted Reporters Yesterday, Elaborating on the Province's Administrative Guidelines"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "陳主席昨招待記者，闡述本省施政方針"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Guided by the principle of \"putting the people first and prioritizing their well-being,\" the primary task is to strive for increased production and equitable distribution."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "『人民至上民生第一』為依歸首要任務力求增產分配合理"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "[Main Report]"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "【本報訊】"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "At 4:00 PM a press conference was held, as follows:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "下午四時舉行記者會，如下："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "(1)"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "（一）"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "The new central directors have taken charge."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "主任新中央令人接主。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "(2)"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "（二）"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "We understand the primary task is to strive for increased production and rational distribution."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "我們了解首要任務力求增產分配合理。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "(3)"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "（三）"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "From now on, this province must take 'putting the people first and prioritizing their well-being' as its guiding principle."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "本省今後當以「人民至上，民生第一」為依歸。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "(4)"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "（四）"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "As the old saying goes, disloyalty is wrong; we must not spare our efforts regarding social phenomena; work is our life, and we will strive for success."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "古語不忠不對，社會的現象我們不要力工作，是命的，我們努力成功。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "(5)"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "（五）"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "What is produced must be distributed."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "生產的，要分配的。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "(6) "
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "（六）"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "In short, what Taiwan needs most today is the spirit of the government and the people sharing hardships and life and death together, making Taiwan a fortress for the rejuvenation of the Chinese nation, to shoulder the mission of rejuvenating the Chinese nation. I sincerely adhere to the principle that governance does not lie in grand words, to mutually encourage all compatriots of the province."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "總之，今日臺灣所最需要的，就是政府與人民共患難同生死的精神，使臺灣成為一個復興中華民族的堡壘，來擔負復興中華民族的使命，謹本為政不在大言之義，以與全省同胞共勉之。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "In response to Chen's unauthorized public declarations, Chiang Kai-shek immediately dispatched a sternly worded telegram on January 12, 1949. Chiang reprimanded Chen for making unilateral statements that contradicted international agreements, explicitly reminding him of the delicate, unresolved legal status of the island pending a formal post-war treaty."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Telegram from Chiang Kai-shek to Chen Cheng, January 12, 1949 "
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1949_01_12_chiang"
+        }
+      ]
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Translated and Dispatched from: Nanjing"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "譯發於：南京"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Year 38 of the Republic of China, 1st Month, 12th Day [January 12th, 1949]"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "中華民國卅八年一月拾貳日"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "To Chairman Chen of Taiwan:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "台灣陳主席："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Your remarks at the press conference were mostly improper and untrue, causing astonishment. Moreover, without seeking prior instructions, you acted on your own accord, still employing the same old methods without any self-reflection. Regarding the fact that "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "Taiwan's legal status and proposition, before the conclusion of the peace conference with Japan, is nothing more than the nature of a trust territory of our country"
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": ", how could you explicitly declare it as a fortress of rejuvenation and an anti-communist base? Chinese and foreign observers alike will surely spread this as a bizarre joke. Uttering statements that most hinder central policies will secretly cause foreign personnel to resent us. You think acting autonomously will not incur jealousy, but it merely increases the government's difficulties."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "記者會上談話皆多不妥實，令人駭異。且未經請示，自作主張，仍是過去一套毫未自反。對於"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "台湾法律地位与主张在对日和会未成以前不过为我国一托管地之性質"
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "，何能明言為复兴之堡壘与反共之根據地？中外必傳為怪笑。今後最有礙中央政策之言論，背後使中外人士忌之。思自專再不受人忌，徒增政府困難。"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

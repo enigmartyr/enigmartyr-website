@@ -1,0 +1,409 @@
+[
+  {
+    "id": "s0",
+    "title": "Historical Status: pre-1895",
+    "uri": "historical_status",
+    "chapters": [
+      {
+        "id": "c0",
+        "title": "Migration Ban",
+        "uri": "migration_ban",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "TODO",
+            "uri": "todo"
+          },
+          {
+            "id": "b1",
+            "title": "TODO",
+            "uri": "todo2"
+          }
+        ]
+      },
+      {
+        "id": "c1",
+        "title": "Vicious Natives",
+        "uri": "vicious_natives",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Perry Expedition (1852-1855)",
+            "uri": "perry_expedition"
+          },
+          {
+            "id": "b1",
+            "title": "Eulenburg Expedition (1859-1862)",
+            "uri": "eulenburg_expedition"
+          },
+          {
+            "id": "b2",
+            "title": "Bax Expedition ()",
+            "uri": "bax_expedition"
+          }
+        ]
+      },
+      {
+        "id": "c2",
+        "title": "Divided Island",
+        "uri": "divided_island",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Perry Expedition, Revisited",
+            "uri": "perry_expedition"
+          },
+          {
+            "id": "b1",
+            "title": "Bax Expedition, Revisited",
+            "uri": "bax_expedition"
+          },
+          {
+            "id": "b2",
+            "title": "Morrison on the Status of Taiwan",
+            "uri": "morrison_on_the_status_of_taiwan"
+          }
+        ]
+      },
+      {
+        "id": "c3",
+        "title": "Wreck of the \"Rover\"",
+        "uri": "rover_shipwreck",
+        "blocks": [
+
+        ]
+      },
+      {
+        "id": "c4",
+        "title": "Wreck of the Miyakoan Maran",
+        "uri": "miyakoan_shipwreck",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Initial Developments",
+            "uri": "initial_developments"
+          },
+          {
+            "id": "b1",
+            "title": "Reaction of LeGendre",
+            "uri": "legendre_reaction"
+          }
+        ]
+      },
+      {
+        "id": "c5",
+        "title": "Taiwan Expedition",
+        "uri": "taiwan_expedition",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Chinese Absolve Responsibility",
+            "uri": "chinese_absolve_responsibility"
+          },
+          {
+            "id": "b1",
+            "title": "Japanese Land Troops in Chinese Territory",
+            "uri": "japanese_land_troops"
+          }
+        ]
+      },
+      {
+        "id": "c6",
+        "title": "Western \"Sympathies\"",
+        "uri": "western_sympathies",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Wade, of Britain",
+            "uri": "wade"
+          },
+          {
+            "id": "b1",
+            "title": "Williams, of America",
+            "uri": "williams"
+          },
+          {
+            "id": "b2",
+            "title": "de Geofroy, of France",
+            "uri": "degeofroy"
+          },
+          {
+            "id": "b3",
+            "title": "von Brandt, of Prussia",
+            "uri": "vonbrandt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s1",
+    "title": "Political Evolution: 1895-1995",
+    "uri": "political_evolution",
+    "chapters": [
+      {
+        "id": "c0",
+        "title": "Wartime Agreements",
+        "uri": "wartime_agreements",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Atlantic Charter",
+            "uri": "atlantic_charter"
+          },
+          {
+            "id": "b1",
+            "title": "Declaration by the United Nations",
+            "uri": "declaration_by_the_united_nations"
+          },
+          {
+            "id": "b2",
+            "title": "Moscow Declarations",
+            "uri": "moscow_declarations"
+          },
+          {
+            "id": "b3",
+            "title": "Cairo Declaration",
+            "uri": "cairo_declaration"
+          },
+          {
+            "id": "b4",
+            "title": "Tehran Declaration",
+            "uri": "tehran_declaration"
+          },
+          {
+            "id": "b5",
+            "title": "Declaration on Liberated Europe",
+            "uri": "declaration_on_liberated_europe"
+          },
+          {
+            "id": "b6",
+            "title": "Potsdam Declaration",
+            "uri": "potsdam_declaration"
+          }
+        ]
+      },
+      {
+        "id": "c1",
+        "title": "Post Surrender Policies",
+        "uri": "post_surrender_policies",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "SWNCC 68: National Composition of Forces to Occupy Formosa",
+            "uri": "swncc_68"
+          },
+          {
+            "id": "b1",
+            "title": "SWNCC 150: Initial Post-Defeat Policy Relating to Japan",
+            "uri": "swncc_150"
+          },
+          {
+            "id": "b2",
+            "title": "SWNCC 1 81: Custody of Japanese Archives and Diplomatic Property",
+            "uri": "swncc_181"
+          },
+          {
+            "id": "b3",
+            "title": "SWNCC 272: Sovereignty of Formosa",
+            "uri": "swncc_272"
+          }
+        ]
+      },
+      {
+        "id": "c2",
+        "title": "Territorial Adjustments",
+        "uri": "territorial_adjustments",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Poland",
+            "uri": "poland"
+          },
+          {
+            "id": "b1",
+            "title": "Kuriles",
+            "uri": "kuriles"
+          }
+        ]
+      },
+      {
+        "id": "c3",
+        "title": "Taiwan Status: Awaiting Treaty",
+        "uri": "taiwan_status_awaiting_treaty",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Repatriation",
+            "uri": "repatriation"
+          },
+          {
+            "id": "b1",
+            "title": "Bevin, UK Secretary of State for Foreign Affairs",
+            "uri": "bevin"
+          },
+          {
+            "id": "b2",
+            "title": "Hoover, US President of the United States",
+            "uri": "hoover"
+          },
+          {
+            "id": "b3",
+            "title": "Younger, UK Minister of State for Foreign Affairs",
+            "uri": "younger"
+          },
+          {
+            "id": "b4",
+            "title": "Chiang, ROC President of the Republic of China",
+            "uri": "chiang"
+          },
+          {
+            "id": "b5",
+            "title": "NSC 37: Strategic Importance of Formosa",
+            "uri": "nsc_37"
+          },
+          {
+            "id": "b6",
+            "title": "Displaced Persons Residing in the United States",
+            "uri": "displaced_persons"
+          },
+          {
+            "id": "b7",
+            "title": "Dulles, US Secretary of State",
+            "uri": "dulles"
+          },
+          {
+            "id": "b8",
+            "title": "Retreat of the Republic of China to Taiwan",
+            "uri": "retreat"
+          }
+        ]
+      },
+      {
+        "id": "c4",
+        "title": "Treaty of San Francisco",
+        "uri": "treaty_of_san_francisco",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Chinese and Russian Participation",
+            "uri": "participation"
+          },
+          {
+            "id": "b1",
+            "title": "Territorial Allocations",
+            "uri": "territorial_allocations"
+          }
+        ]
+      },
+      {
+        "id": "c5",
+        "title": "Treaty of Taipei",
+        "uri": "treaty_of_taipei",
+        "blocks": [
+
+        ]
+      },
+      {
+        "id": "c6",
+        "title": "Mutual Defense Treaty",
+        "uri": "mutual_defense_treaty",
+        "blocks": [
+
+        ]
+      },
+      {
+        "id": "c7",
+        "title": "Taiwan Status: Deferred",
+        "uri": "taiwan_status_deferred",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Yeh, ROC Minister of Foreign Affairs",
+            "uri": "yeh"
+          },
+          {
+            "id": "b1",
+            "title": "Dulles, US Secretary of State",
+            "uri": "dulles"
+          },
+          {
+            "id": "b2",
+            "title": "Churchill, UK Prime Minister of the United Kingdom",
+            "uri": "churchill"
+          },
+          {
+            "id": "b3",
+            "title": "Eden, UK Secretary of State for Foreign Affairs",
+            "uri": "eden"
+          },
+          {
+            "id": "b4",
+            "title": "Displaced Persons Residing in the United States",
+            "uri": "displaced_persons"
+          },
+          {
+            "id": "b5",
+            "title": "Eisenhower, US President of the United States",
+            "uri": "eisenhower"
+          }
+        ]
+      },
+      {
+        "id": "c8",
+        "title": "Broken Promises",
+        "uri": "broken_promises",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "Declaration by the United Nations",
+            "uri": "declaration_by_the_united_nations"
+          },
+          {
+            "id": "b1",
+            "title": "Operation BUCCANEER",
+            "uri": "operation_buccaneer"
+          },
+          {
+            "id": "b2",
+            "title": "Equipped 90 Divisions",
+            "uri": "equipped_90_divisions"
+          },
+          {
+            "id": "b3",
+            "title": "Soviet Reparations",
+            "uri": "soviet_reparations"
+          },
+          {
+            "id": "b4",
+            "title": "Japanese Independence of Choice",
+            "uri": "japanese_independence"
+          }
+        ]
+      },
+      {
+        "id": "c9",
+        "title": "Executive Authority",
+        "uri": "executive_authority",
+        "blocks": [
+          {
+            "id": "b0",
+            "title": "US legal justification renege Cairo",
+            "uri": "todo"
+          },
+          {
+            "id": "b1",
+            "title": "US position justification",
+            "uri": "todo2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "title": "Modern Developments: post-1995",
+    "uri": "modern_developments",
+    "chapters": []
+  }
+]

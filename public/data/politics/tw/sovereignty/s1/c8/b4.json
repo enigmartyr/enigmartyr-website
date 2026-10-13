@@ -1,0 +1,12 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "NOTE: there is also mention of the British reservations about the PRC invading Taiwan, but I don't yet know what to do with this" } },
+        { "type": "fileref", "data": "uk_serial_hansard_040_s01_n0495" }
+      ]
+    }
+  }
+]

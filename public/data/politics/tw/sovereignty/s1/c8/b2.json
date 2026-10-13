@@ -1,0 +1,18 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1945_08_11_hurley" },
+        { "type": "fileref", "data": "us_memo_1945_09_03_byrnes" },
+        { "type": "fileref", "data": "us_memo_1945_09_03_elsey" },
+        { "type": "fileref", "data": "us_memo_1945_09_03_hull" },
+        { "type": "fileref", "data": "us_memo_1945_09_05_leahy" },
+        { "type": "fileref", "data": "us_memo_1945_09_07_acheson" },
+        { "type": "fileref", "data": "us_memo_1945_09_12_swncc" }
+      ]
+    }
+  }
+]

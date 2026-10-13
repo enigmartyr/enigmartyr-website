@@ -1,0 +1,697 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "30 Jun 1947, Under-Secretary speaking on Bevin's behalf" } },
+        { "type": "fileref", "data": "uk_serial_hansard_038_s02_n0439" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Wilson Harris asked the Secretary of State for Foreign Affairs whether he has any information about the riots and massacres in Formosa in March; what is the present situation in the island; and whether the allocation of Formosa to China is definitive or provisional." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Mayhew:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "As a result of local discontent over alleged misrule, serious rioting and bloodshed occurred in Formosa at the end of February and beginning of March. Order was restored following the despatch of Chinese Government troops to the island. A new Governor has been appointed and, a number of reforms effected. No further incidents have been reported since the end of March. As regards the last part of the question, it was agreed in the Cairo Declaration of December, 1943, that Formosa should be returned to China. " } },
+        { "type": "marked", "data": [ { "type": "puretext", "data": { "lang": "en", "content": "It is the view of His Majesty's Government that formal transfer of territories formerly owned or annexed by Japan must await the eventual Peace Conference with Japan." } } ] }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Wilson Harris:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Will my hon. Friend say what was the estimated number of deaths in these massacres; does he not agree that a very unsatisfactory situation was revealed as taking place in Formosa; has he the matter under observation; and has he asked the Far Eastern Commission and the Inter-Allied Control Council to intervene to promote a balanced administration in the country?" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Mayhew:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "On the first part of the supplementary question, some 800 Formosans and Chinese are reported to have been killed in the suppression of the rioting, and a reliable observer has said that at least 250 mainland Chinese were killed in the rioting of 28th February last. On the second part of the Question, the Far Eastern Commission and the Control Council would not have any responsibility here, as Formosa has been under Chinese administration and remains so." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Wilson Harris:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Do I understand from that reply that, whatever the responsibility for riots and massacres of this order, no steps should be taken by the Allies?" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Mayhew:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "marked", "data": [ { "type": "puretext", "data": { "lang": "en", "content": "The formal transfer of this territory must await the Peace Conference with Japan." } } ] }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "14 Nov 1949 Under-Secretary speaking on Bevin's behalf" } },
+        { "type": "fileref", "data": "uk_serial_hansard_038_s05_n0469" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Teeling asked the Secretary of State for Foreign Affairs whether he will make a statement on the present position in Formosa; whether we have representatives there and to whom they are accredited; and what is to be the eventual settlement with regard to Formosa." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Mayhew:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "His Majesty's Government maintain a consulate in Tamsui which is in charge of a regular member of His Majesty's Foreign Service. He maintains contact with the Chinese Nationalist authorities who are in control of the island. " } },
+        { "type": "marked", "data": [ { "type": "puretext", "data": { "lang": "en", "content": "Any change in the legal status of Formosa can only be formally effected in a treaty of peace with Japan. But what the eventual settlement will be is a matter which His Majesty's Government cannot decide alone." } } ] }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Teeling:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Am I to understand that the consul is working under direct instructions from London or from the ambassador who was formerly working in Nanking?" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Mayhew:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "He certainly does not get them from the ambassador. Such instructions as he gets, I should have thought, are directly from us." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "31 Aug 1950" } },
+        { "type": "fileref", "data": "uk_memo_1950_08_21_bevin" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "It must be borne in mind that in the eyes of all Chinese, whether supporters of the Central People's Government or not, Formosa belongs to China. It was Chinese before it was ceded to Japan by the Treaty of Shimonoseki after the Sino-Japanese War of 1894-95. The Cairo Declaration, reaffirmed at Potsdam, announced that it would be restored to China; and the island was allowed to pass under Chinese administration after the Japanese surrender. " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "To assert that the Government now effectively installed on the Chinese mainland has no right to administer Formosa because the island is still de jure a part of Japan, is likely to be regarded by all Chinese, except the adherents of Chiang Kai-Shek, as specious quibbling indulged in for ulterior motives." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " Unfortunately, not only the Chinese themselves but a substantial body of opinion in Asia, and possibly indeed in the West also, may well take a similar view. To argue that the people of Formosa should be allowed to determine their own future might command some support from other Powers, but it would be disliked by all Chinese, whether Nationalist or Communist, since it would indicate clearly an attempt to deny Formosa to China for all time." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "For the United Kingdom and the United States there is a particular commitment in the matter of Formosa because of the Cairo Declaration. " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "It might be possible to argue that the reference to Formosa in that declaration is no longer binding because the circumstances have changed." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " But this would raise an important question of principle apart from which the wisdom of repudiating wartime undertakings is doubtful. If the Cairo Declaration is denounced, why not also the Livadia or Potsdam agreements? Since the Russians are in physical possession of what they got out of Livadia, it would serve no purpose to denounce that agreement. If we denounced the Cairo Declaration we might be accused of trying to take from the weak what they have not yet got, while conceding to the strong possessions to which they have rather less title than China has to Formosa. It would be difficult for the world to reach any other conclusion than that the Cairo Declaration signified an intention to restore Formosa to China and not to a particular Government of China. The fact that China no longer has a Government friendly to the United Kingdom and the United States would not be regarded as affecting the declared purpose or weakening China's title. It could, however, quite reasonably be argued that the fact that " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Formosa's legal status is still Japanese territory" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " does in the circumstances affect the right of the Peking Government to occupy it by force." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Subject to this last point, any solution which appeared to ignore China's title to Formosa would never be accepted by the Chinese people and Formosa would remain the object of irredentist ambitions and be a constant source of friction between China and the West. The Chinese might well be supported in their irredentism by Asian opinion and by a considerable body of world opinion. They would be thrown even more irrevocably into the arms of the Soviet Union since the Russians could claim to be the only people who supported the legitimate nationalist aspirations of China. Furthermore, since it is a declared aim of the Chinese Government to recover Formosa and is likely to remain so for the foreseeable future, there is little prospect that the position could be stabilised. Formosa could only be withheld from the Central People's Government for as long as substantial forces were available for its defence. As far as can be foreseen, the commitment would be heavy and indefinite in duration." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The first essential at the moment is that there should be no disturbance of the peace; and the endeavours of the Indian Government to exercise influence in this direction in Peking are to be welcomed. It is in the general interest that Formosa should be neutralised if this can be successfully achieved. However, so far neutralisation is a purely American policy and, with its implications of support for Chiang Kai-Shek, it is already being represented as interference in the Chinese Civil War and as support for a corrupt and bankrupt emigre regime. Since the United States Government themselves condemned this regime in their White Paper of July 1949, " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "their continued support of Chiang Kai-Shek gives rise to the suspicion, in spite of assurances to the contrary, that the United States intend to determine the future of Formosa unilaterally." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " It is therefore necessary to emphasise and clarify the limited purposes of the policy of neutralisation and to endeavour to obtain for it a wider measure of support. It is considered that further public declarations by the United States would be unlikely to achieve this purpose and might only serve to emphasise the unilateral nature of the action already taken. It seems unlikely that anything short of the United Nations support would serve the purpose. While Russia would of course oppose any move to obtain such support, it might be possible to rally world opinion on Formosa provided that the susceptibilities of Asian countries were taken into account. Though Formosa can be claimed to be a Pacific as well as an Asian problem, anything which savours of an attempt by the West to arrange the destinies of the East is bound to meet with opposition." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "If the approval of the United Nations to a policy of neutralisation is to be sought, members can hardly be excluded from considering the long-term settlement and hence " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "debating an issue which could not (in the absence of special arrangements) become actual until a peace settlement with Japan." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " Indeed, it is considered that there is no possibility of obtaining wide support for a neutralisation policy in the absence of a clarification of longer-term intentions. " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "But although Formosa will remain legally Japanese territory until it is formally detached from Japan by a Treaty of Peace (or some instrument with similar effect)" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", the actual disposition of the ceded territories is not necessarily a subject for exclusive decision by the peace-making Powers. The main territorial article in the Japanese Peace Treaty may well, indeed, merely limit Japanese sovereignty to certain specified islands." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "17 Nov 1951" } },
+        { "type": "fileref", "data": "uk_memo_1950_11_17_bevin" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The Cabinet decided, at their meeting on 13th November (C.M.(50) 73rd Conclusions, Minute 2), that we should consider policy in regard to Formosa in advance of the discussions at Lake Success." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "A brief factual account of the events leading up to the present position is attached at Annex A." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "From this account it will be seen that Formosa is due to be dis¬ cussed both in the Security Council and in the Assembly. The issue in the Security Council is the Chinese complaint against \"United States aggression against Formosa\". The issue in the Assembly is consideration of the general problem of the future of Formosa, for which I have been pressing for some time. It is intended in this connection to table a Resolution in the preparation of which the United States and Commonwealth Governments have been associated." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "I had hoped that the Assembly Resolution would have been disposed of before discussions began in the Council, but - largely on account of the delaying tactics of the United States representatives - this has not been possible. We do not yet know when the Assembly Resolution will be tabled, but the discussions in the Security Council should begin as soon as the Chinese delegation arrive. This is not likely to be earlier than 24th November." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "OBJECTIVES" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "(a)" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "to avoid involvement in a dispute between the Americans and the Chinese;" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "(b)" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "to provide an outlet for the expression of the views of the Central People's Government of China;" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "(c)" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "for these reasons, to set up machinery under United Nations auspices which will enable the problem to be discussed in a calmer atmosphere, aiming at discussion of possible solutions in a few months' time;" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "(d)" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "meanwhile, to ensure that there is no attempt to settle the Formosan issue by force. This implies that Formosa shall not itself be attacked, and that it shall not be used as a base of operations against the Chinese." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "It is, of course, necessary to bear in mind the Cairo Declaration and previous indications of the attitude of His Majesty's Government, such as statements in the House on the status and future of Formosa." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "ANNEX A" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "BACKGROUND TO THE PROBLEM" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Formosa was Chinese before it was ceded to Japan by the Treaty of Shimonoseki after the Sino-Japanese War of 1894-95. The Cairo Declaration, reaffirmed at Potsdam, announced that it would be restored to China; and the island was allowed to pass under Chinese administration after the Japanese surrender. " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "The island is still de jure a part of Japan." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "ANNEX D" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "PROPOSED ASSEMBLY RESOLUTION" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Noting that the signatories to the Cairo declaration declared it to be one of their purposes that certain of the territories formerly held by Japan, including Formosa and the Pescadores, should be restored to the Republic of China, " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "and that no formal act restoring to China\nsovereignty over the territory has yet occurred;" } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Recognising that two parties at present claim the right to administer Formosa, that there have been threats of armed attack on Formosa from the Chinese mainland and that Formosa has been used as a base for attacks on the Chinese mainland, that attempts to settle the dispute by force would heighten international tension and be prejudicial to the maintenance of international peace and security in the area as well as prejudicial to the interests of the people of Formosa; and further" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Recognising that the foregoing considerations are questions as to the obligations and responsibilities of Members under the Charter;" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Decides to establish a Commission composed of the representatives of the following States which, bearing in mind the considerations set forth in the preceding paragraphs, should study the problem and submit a report to the General Assembly containing recommendations for the future of Formosa and the Pescadores, The Commission should consult all Governments, authorities and parties concerned;" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Recommends that, pending the study by the Commission and adoption by the General Assembly of recommendations concerning this problem there be no attempt to change the status of Formosa by force and that there be neither" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "(a)" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "armed attack on Formosa from the Chinese mainland nor" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "(b)" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "armed attack on the Chinese mainland from Formosa;" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Requests all Governments and authorities concerned to act in conformity with the recommendation in the preceding paragraph and render every possible assistance to the Commission in the performance of its tasks." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "12 Feb 1951 lol, what capacity is Eden speaking in" } },
+        { "type": "fileref", "data": "uk_serial_hansard_039_s02_n0484" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Eden:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "deleted", "data": [ { "type": "puretext", "data": { "lang": "en", "content": "..." } }]},
+        { "type": "puretext", "data": { "lang": "en", "content": " I will say a word about the problem of Formosa, for I do not wish to be accused of evading difficulties." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Harold Davies (Leek):" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "And the rearmament of Japan." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Mr. Eden:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "I have nothing to say about Japan, except that I am not personally sponsoring the re-armament of Japan, if that is any comfort to the hon. Gentleman. I am dealing with Formosa. It seems to me that the best contribution I have read to this difficult topic was in the form of a letter in \"The Times\" from Professor Gilbert Murray, a much more respected authority on these matters than I am. It appeared the other day and I will quote it." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "He says it is oversimplifying, \"a complicated problem in claiming that the new China, as soon as she agrees not to pursue aggression further, retains all the rights and privileges that 'China' possessed before the aggression? 'China,' for example, has a right to Formosa. But does that mean that the new mainland 'China' has an indefeasible right, irrespective of the wishes of the inhabitants, to take possession of Formosa by force, and even to demand United Nations help in doing so? These are difficult problems.\"" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "They are indeed. It seems clear to me that they are not capable of any swift and sudden solution; and here, surely, is an issue which must form part of the general peace settlement in the Far East. In the meanwhile, " } },
+        { "type": "marked", "data": [ { "type": "puretext", "data": { "lang": "en", "content": "it is right to recall that the future of Formosa is, in fact, linked with the question of a treaty with Japan." } } ] }
+      ]
+    }
+  }
+]

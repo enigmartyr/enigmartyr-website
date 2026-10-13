@@ -1,0 +1,124 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The Perry Expedition was commanded by United States Commodore " } },
+        { "type": "figref", "data": "perry_matthew" },
+        { "type": "puretext", "data": { "lang": "en", "content": ", under orders from President Millard Fillmore. Perry's primary goal was to force an end to Japan's 220-year-old policy of isolation and to open Japanese ports to American trade, through the use of gunboat diplomacy if necessary. By the time Commodore Perry's squadron of four ships sailed into Tokyo Bay on July 8, 1853, the Japanese Tokugawa government had already fended off similarly unwelcome intrusions by the French, the Russians, the Dutch, and the British." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The expedition made multiple port calls before reaching Japan, including stops at Cape Town, Sri Lanka, Singapore, and Hong Kong. Finally, on March 31, 1854, Perry signed the Convention of Kanagawa which opened the ports of Shimoda and Hakodate to American ships, provided for care of shipwrecked sailors, and the establishment of an American consulate in Shimoda. After Perry returned to the United States in 1855, Congress voted to grant him a reward of $20,000 in appreciation of his work in Japan." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "During their expedition, a visit was paid to the Island of Taiwan, with the goal of locating a rumored coal deposit. Record of this visit survives in the writing of one " } },
+        { "type": "figref", "data": "breese_kidder" },
+        { "type": "puretext", "data": { "lang": "en", "content": "." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Breese was appointed a Navy Midshipman in 1847 during the Mexican–American War and served on the sea until 1852, when he was assigned to the United States Naval Academy to prepare for examination. Warranted a Passed Midshipman in June 1852, Breese took part in the Commodore Perry's expedition to Japan for the next three years." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Breese would attain the rank of Captain (NATO 0F-5) during his lifetime." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "His retelling of the occasion at Taiwan is as follows" } },
+        { "type": "fileref", "data": "book_sproston" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "In the morning when I turned out we were under topsails and courses running free. Keelung Island was close aboard, a small conical island four miles from the port, and looming up through the mist right ahead rose the high land of Formosa. Several heavy squalls obliged us to lay to until they cleared off, when, taking advantage of a lull, we stood in, taking on board a Chinese pilot; and before meridian were at anchor in the harbour of Keelung." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Several of the officers, this day, visited a coal mine about a mile from the town. They found it of easy access and apparently good quality. The mandarins state that the junks load with this useful, and, in this part of the world, scarce article, at a port eighty miles to the southward of this place. We wanted to form a party, and, assisted by a Chinese guide, make a land excursion to the mines, but " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "on inquiry we found that on account of the barbarous tribes—and, as they say here, also cannibals—which infest the country, none of the Chinese would show us the way; so here the expedition ends, no doubt." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "We visited this port with two objects in view; namely, to obtain coal (which we have at least found) and to discover if there were any prisoners upon the islands—unfortunate seamen cast away on this inhospitable land and doomed either to death or slavery. But on this point " } },
+        {
+          "type": "marked",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "we have been unable to gain any information." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Breese's account of the Perry Expedition's visit to Taiwan was a glimpse into the island's violent and lawless nature, as perceived by the expedition. The refusal of Chinese guides to lead the party to the coal mines, citing the presence of \"barbarous tribes\" and rumored cannibals, demonstrates the dangerous and untamed reputation of Taiwan's native inhabitants." } }
+      ]
+    }
+  }
+]

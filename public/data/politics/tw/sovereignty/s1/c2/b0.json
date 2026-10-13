@@ -1,0 +1,15 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1945_07_21_thompson" },
+        { "type": "fileref", "data": "us_memo_1945_07_22_thompson" },
+        { "type": "fileref", "data": "us_memo_1945_07_27_thompson" },
+        { "type": "fileref", "data": "us_memo_1945_08_09_ross" }
+      ]
+    }
+  }
+]

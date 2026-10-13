@@ -1,0 +1,127 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "figref", "data": "bax_bonham" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "fileref", "data": "book_bax" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "We remained here for a few days, and then went on to a large bay, about fifty miles to the southward, called " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Su'ao" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " Bay, which is on the border between the Chinese and savage territory. It is a fine bay, but open to the east, and therefore unsafe in the typhoon season, except for junks and very small gun-vessels that can anchor behind the reef at the end of the bay. A Chinese village is built by a small river, and has a slightly cultivated valley around it. Everywhere else the mountains and hills come close down to the water. On the savage side they are densely wooded; but those hills on the Chinese side are bare of trees, not only on account of cultivation, but also to deprive the savages of the advantage of attacking them by crawling up under cover of the forest, which is their favourite mode of fighting. A few farms were scattered about the valley at the head of the bay, but the farmers had to go to their work in the fields with their weapons ready for use, and keeping one man on the look-out to give the alarm. Many of the fields nearest to the savages had evidently been uncultivated for some time on account of their savage neighbours." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "China " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "has" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " possession of a part of Formosa, and " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "claims" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " the whole of it." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The savages held possession of the mountains, and were in a constant state of warfare with the Chinese settlers on the low country." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "All the villages near the S.W. point of Formosa were peopled by Chinese and " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Pepohoans" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", and owned allegiance to China. On the east side of the bay, the savage tribes held the country, and were constantly fighting with their more civilized neighbours, who have to keep their weapons by them ready for use while cultivating their fields." } }
+      ]
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "uk_serial_hansard_040_s01_n0495"
+        },
+        {
+          "type": "fileref",
+          "data": "uk_serial_hansard_040_s03_n0530"
+        }
+      ]
+    }
+  }
+]

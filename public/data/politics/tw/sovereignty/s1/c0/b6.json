@@ -1,0 +1,15 @@
+[
+  {
+    "type": "subtitle",
+    "data": "Operation TERMINAL"
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } }
+      ]
+    }
+  }
+]

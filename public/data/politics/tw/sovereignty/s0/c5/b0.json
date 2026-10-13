@@ -1,0 +1,30 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "figref", "data": "bax_bonham" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "fileref", "data": "book_bax" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Hitherto they had always replied to complaints of foreign nations, by stating that they had no control over the savage tribes on the east coast, and that the foreigners must punish them themselves." } }
+      ]
+    }
+  }
+]

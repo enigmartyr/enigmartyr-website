@@ -1,0 +1,113 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "figref", "data": "brandt_maximilian" },
+        { "type": "puretext", "data": { "lang": "en", "content": ", a career diplomat of Prussian origin, having served more-or-less a decade each in Japan and China, would later recount his understanding of events." } },
+        { "type": "puretext", "data": { "lang": "en", "content": " He would only find office in China shortly <i>following</i> the events of 1874, therefor his perspective would have been from the vantage of his office in Japan." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Some decades later, in 1897, he would publish a text detailing his work on the Asian continent." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "He betrayed no bias to either Japan or China (having been involved with both by that point), and was quite critical of Japanese means and motivations, but none-the-less <i>does</i> place blame with the Chinese." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "It became his view, after having been present in both Japan and China in official capacities, that" } },
+        { "type": "fileref", "data": "book_brandt_1" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "With characteristic clumsiness, China denied responsibility for these incidents, which gave rise to the Japanese expedition to South Formosa in 1874." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "In 1901, another of his works, also recounting his thoughts and actions at the time, again places blame with the Chinese" } },
+        { "type": "fileref", "data": "book_brandt_2" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The Mikado government " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " decided to take action against the savages on the southern tip of Formosa, since, based on the foolish declarations of the Tsungli Yamen, it believed it could assume that China would give Japan a free hand there. The new American ambassador, Mr. Bingham, seemed to share this view" } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "He even recounts his efforts to dissuade the Japanese against their expedition" } },
+        { "type": "fileref", "data": "book_brandt_2" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "My English colleague and I, along with some of the other representatives, had done our best to dissuade the Japanese government from the venture, which would have required great sacrifices of money and men, promised no practical success, and could at least involve them in unpleasantness." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Notably, he does not list 'Chinese sovereignty' as a cause for concern." } }
+      ]
+    }
+  }
+]

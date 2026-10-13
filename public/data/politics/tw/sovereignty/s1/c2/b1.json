@@ -1,0 +1,13 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1945_05_12_grew_1" },
+        { "type": "fileref", "data": "us_memo_1945_05_12_grew_2" }
+      ]
+    }
+  }
+]

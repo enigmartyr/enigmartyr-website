@@ -1,0 +1,13 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Both of these dudes say the same thing about the attack in 1860:" } },
+        { "type": "fileref", "data": "book_eulenburg" },
+        { "type": "fileref", "data": "book_brandt_1" }
+      ]
+    }
+  }
+]

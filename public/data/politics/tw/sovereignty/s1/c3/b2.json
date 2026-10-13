@@ -1,0 +1,39 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "In 1949, U.S. President " } },
+        { "type": "figref", "data": "hoover_herbert" },
+        { "type": "puretext", "data": { "lang": "en", "content": ", in letter to Senator " } },
+        { "type": "figref", "data": "knowland_william" },
+        { "type": "puretext", "data": { "lang": "en", "content": ", provided \"an argument that could be made\" with respect to the legal status of Taiwan" } },
+        { "type": "fileref", "data": "us_memo_1949_12_31_hoover_2" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "I do not think there is any purpose in my letter of today" } },
+        { "type": "fileref", "data": "us_memo_1949_12_31_hoover_1" },
+        { "type": "puretext", "data": { "lang": "en", "content": " of introducing an argument in it as to the legal situation of Formosa. You might, however, think over an argument that could be made; namely, that Formosa and the Pescadores are still in " } },
+        { "type": "figref", "data": "macarthur_douglas" },
+        { "type": "puretext", "data": { "lang": "en", "content": "'s jurisdiction. The Japanese acquired them from China in 1895. In subsequent years, we frequently ratified the <i>status quo</i> of their possessions." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The Cairo Declaration and the Potsdam surrender were executive acts which were never matters of treaties ratified by the Senate. Such a ratification would only come up in a treaty with Japan, and MacArthur might collaterally hold them pending a treaty." } }
+      ]
+    }
+  }
+]

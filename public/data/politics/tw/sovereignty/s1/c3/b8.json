@@ -1,0 +1,38 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "uk_memo_1949_02_07_tomlinson"
+        },
+        {
+          "type": "fileref",
+          "data": "uk_memo_1949_02_14_tomlinson"
+        },
+        {
+          "type": "fileref",
+          "data": "uk_memo_1949_03_02_tomlinson"
+        },
+        {
+          "type": "fileref",
+          "data": "uk_memo_1949_03_09_tomlinson"
+        },
+        {
+          "type": "fileref",
+          "data": "uk_memo_1949_05_16_tomlinson"
+        },
+        {
+          "type": "fileref",
+          "data": "uk_memo_1949_05_30_tomlinson"
+        },
+        {
+          "type": "fileref",
+          "data": "uk_memo_1949_09_21_coates"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "figref", "data": "bax_bonham" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "fileref", "data": "book_bax" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "There were two villages of " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Pepohoan" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " on the south side of " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Su'ao Bay" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", which were carefully protected by stockades of bamboo, and had a watchtower near the centre, as they also sometimes suffer from the attacks of the savages. In consequence of the crews of vessels that are wrecked on the east coast of Formosa being always ill-treated and often killed, I was desirous of making some arrangement with the tribes to be kind to foreigners who were thrown into their power, and to forward them on to the Chinese, who would send then in to the nearest consulate, according to the treaty. An English gentleman belonging to the Chinese custom service, and who was stationed at Kelung, and had come as my guest to this place, was also anxious to accomplish the same object. We therefore landed with his Chinese servant, and tried to get a guide at the " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Pepohoan" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " villages, but unfortunately without success, as they said they had a feud at present with the nearest savage tribes, and any of their people would be killed if taken by them. The Chinese, of course, refused to go, as they were always at open war." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "On the 25th of May the \"Dwarf\" left Nagasaki to follow the Japanese expedition; after a favourable run we called in at Kelung and coaled, and obtained all the information we could about it" } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "A short time before the arrival of the \"Dwarf\" at Kelung, three canoes, containing twelve men belonging to the Pellew islands, had reached Kelung. They had been blown away from home while fishing, and had been sixty-four days at sea, and had travelled about 1,300 miles. A fourth canoe had been driven off with them, but had parted company a few days before the others had arrived at Kelung, and had not since been heard of. They had lived on the fish they caught, and the rain supplied them with water to drink, as their bamboo vessels for holding it were very small. They had coasted Formosa, but had not dared to land for fear of being killed by the natives; at last they were fortunately set close in to Kelung, and discovered by the Europeans at the custom-house, who had them brought in" } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "When they were first picked up they were in a very emaciated condition, but by the kind treatment they received they soon recovered. On finding their way on board the ship they appeared in good spirits and were much petted by the seamen. In consequence of the great difficulty of getting these people back to their homes again, there being no communication between Kelung and the Pellew islands, they were sent to Hongkong in an English steamer, and from that place an English man-of-war eventually took them back to the Pellew islands." } }
+      ]
+    }
+  }
+]

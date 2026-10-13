@@ -1,0 +1,1377 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "26 Jan 1955"
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "uk_serial_hansard_040_s04_n0536"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Attlee (by Private Notice) asked the Secretary of State for Foreign Affairs whether he has any statement to make with regard to the international situation in the Far East."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "The Secretary of State for Foreign Affairs (Sir Anthony Eden):"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Attlee:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I am obliged to the right hon. Gentleman for his statement. It is, of course, clear that in this matter of Formosa and the islands there is an intervention in a civil war. It is purely an action by the United States of America and not an action of the United Nations. But in view of the need for preventing hostilities and trying to get a peaceful arrangement, is it not clear that the right thing would be that China should occupy her proper position in the United Nations?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir A. Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "As to the first part of the right hon. Gentleman's supplementary question, I must say that I am surprised—"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Hon. Members:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Why?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir A. Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Because, as the right hon. Gentleman must surely be aware, those have always been treated as separate issues, including during the period when he was responsible as Prime Minister. "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "Formosa has never in this century been a part of China and the status of Formosa"
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "—"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Hon. Members:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Oh."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir A. Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "—this is very important; I must be allowed to finish—"
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "was dealt with by the Treaty of San Francisco, signed by the late Government."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Hon. Members:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Oh."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir A. Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I think that hon. Gentlemen should treat this with sufficient seriousness to let the Foreign Secretary make his answer. "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "The offshore islands have always been regarded, and are now regarded, by us as part of China."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " Therefore, we have always been careful to draw that distinction which, I believe, the House should carefully maintain."
+          }
+        },
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Attlee:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I think the right hon. Gentleman will agree that he has left out some of the history. It is quite true that Formosa was seized from China by an act of aggression by Japan. It is equally true that at conferences at the end of the war Formosa was declared to be an integral part of China, and no one stated that more clearly and with more emphasis than Chiang Kai-shek. The fact that he has been put out in favour of another Government does not really alter the position. "
+          }
+        },
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Bevan:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "The Foreign Secretary stated that the position of Formosa is much different from that of the offshore islands."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir A. Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I said \"different.\""
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Bevan:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Is different. This has been described in America as a sort of jurisdictional line. We have not been able to understand the situation there. It has always been understood by us that Formosa, equally with the offshore islands, belonged to the mainland of China. That has been our position. Does the right hon. Gentleman now suggest that the situation has been altered by virtue of the fact that Formosa was stolen from China in 1896? Is it now an interpretation of international law that if you steal property from a thief you can hold it?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir A. Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "As the right hon. Gentleman knows quite well, "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "as a result of a treaty Formosa has not formed part of China throughout the whole of this century."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " I think that we should be doing very little good to our relations, especially our relations with Peking, if we were to indicate that we thought that the position of the offshore islands was comparable with the position of Formosa. It is no such thing, because "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "throughout the period the offshore islands have been beyond dispute a part of China, whereas for half a century Formosa has been part of Japan."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " The legal aspect of that was first dealt with in the Treaty of Peace to which I have already referred."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "4 Feb 1955"
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "uk_serial_hansard_040_s04_n0536"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Shinwell asked the Secretary of State for Foreign Affairs whether he will include in the OFFICIAL REPORT a factual statement on the legalistic and treaty aspects of the situation on the South-East China coast."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir Anthony Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Formosa and the Pescadores were ceded to Japan by China in the Shiminoseki Treaty of 1895. In the Cairo Declaration of November, 1943, the Allies stated that it was their purpose \"that all the territories which Japan has stolen from the Chinese such as Formosa and the Pescadores, shall be restored to the Republic of China...\" "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "This Declaration was a statement of intention that Formosa should be retroceded to China after the war. This retrocession has, in fact, never taken place"
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": ", because of the difficulties arising from the existence of two entities claiming to represent China, and the differences amongst the Powers as to the status of these entities."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "31 Jan 1955"
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "uk_serial_hansard_040_s04_n0536"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Sorensen asked the Secretary of State for Foreign Affairs what further statement he has to make in respect of the situation on the South-East China coast; and what progress has been made towards securing a suspension of hostilities in that area."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir Anthony Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Shinwell:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "In order to remove what I think is undoubtedly some confusion in the minds of many people about the legalistic aspects of the position, for instance, the distinction between the offshore islands and the Pescadores and the position of the Cairo Agreement, and the like, would the Foreign Secretary consider including in the OFFICIAL REPORT a factual statement of the position?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir A. Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I should certainly be glad to consider that if the right hon. Gentleman would be good enough to put down a question. I should like to set out the legal position, as it appears to us, but, of course, the right hon. Gentleman will know that that is not the only consideration. However, it would be good if it were set out."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Shinwell:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "The right hon. Gentleman will appreciate that even across the Atlantic, in the United States, there seems to be a good deal of confusion about the legalistic aspects."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir A. Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I agree."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "7 Feb 1955"
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "uk_serial_hansard_040_s04_n0536"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Bing asked the Secretary of State for Foreign Affairs the date upon which Her Majesty's Government in the United Kingdom considered they were no longer bound by the Cairo and Potsdam declarations as to the future of Formosa; and the dates upon which this decision was communicated to each of the other Governments parties to these declarations."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Driberg asked the Secretary of State for Foreign Affairs what consultations have taken place between Her Majesty's Government and the United States Government on the implementation of the policy on Formosa agreed at the Cairo Conference in 1943; and what communications on this subject have been made to the Central People's Government of China."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir Anthony Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "The policy of Her Majesty's Government with regard to the Cairo Declaration was fully explained to the House by my right hon. Friend the Prime Minister on 1st February. There have been no communications on this subject with the Government of the People's Republic of China. "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "The Potsdam Declaration laid down as conditions for the Japanese that they should carry out the terms of the Cairo Declaration. Japan complied by formally renouncing all title to Formosa in the Japanese Peace Treaty."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Driberg:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "In view of the right hon. Gentleman's statement on Friday, in which he said that the status of Formosa was uncertain, and in view of the terms of the Treaty between the Americans and the Chinese Nationalists, in which Formosa is described by inference as an integral part of China, is it not clear that there is a serious difference of opinion on this matter between Washington and London?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir Anthony Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "No, Sir; that is not so. The position of all countries in this respect is the same. It is that, "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "at the time of the negotiations for the San Francisco Treaty, it was not possible to dispose of Formosa."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " Had it been possible to agree on the future of Formosa, it would have been included in the Treaty. As it was not possible to decide that, "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "all that the Treaty did was to say that Japanese rights were ceded."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " That is the position of all the signatories to the Treaty of San Francisco."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Shinwell:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Would not the right hon. Gentleman agree that the present context has made a change in the situation, as contrasted with the time when the Japanese Treaty was signed in San Francisco? In these circumstances, might it not go a long way to satisfy the Chinese People's Government if a firm declaration were made by the right hon. Gentleman that Formosa, whether now or in the future, but at some time, and perhaps as a result of negotiations or some arrangement made between the parties, is an integral part of China and therefore comes under the control of the Chinese People's Government?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir Anthony Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I think the position is as I stated in reply to the right hon. Gentleman on Friday. It is equally right to say that "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "none of the signatories has ever said that the islands are never to be ceded to China."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " What they did say was that they could not agree at the time of the San Francisco Treaty. "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "They agreed on the first part of the operation, which was that Japan surrendered her rights, without allocating the islands."
+              }
+            }
+          ]
+        },
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Paget:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Is not the truth of the situation that the Cairo Declaration was, in fact, performed in 1945? The Cairo Declaration was that Formosa was Chinese territory, and the Potsdam Declaration and the Japanese surrender terms say that that Declaration should be performed. It was performed by handing over to the then Chinese Government, and, from 1945 onwards, it has been part of China?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir Anthony Eden:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "I am afraid that is not so. The position in law is that an armistice or the cessation of fighting does not affect sovereignty. There has not been a transfer of sovereignty"
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "because, at San Francisco, although there was a desire to agree about China, there was a difference of opinion as to which Chinese authority it should be handed over."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "9 Feb 1955, Under-Secretary of State for Foreign Affairs answers questions in the presence of Eden"
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "uk_serial_hansard_040_s04_n0536"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Warbey asked the Secretary of State for Foreign Affairs what further consultations he has had with the Government of the United States regarding the status of Formosa and the Pescadores."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Turton:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "None. My right hon. Friend gave the House a full statement of Her Majesty's Government's view of the legal position of these islands in reply to a Question by the right hon. Member for Easington (Mr. Shinwell) on 4th February."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. A. Henderson asked the Secretary of State for Foreign Affairs whether he will state the extent to which recognition has been given by the Allied Powers to the formal proclamation of the Chinese Government at Chunking on 30th August, 1945, that Formosa was a new province of China."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Turton:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I have been unable to trace any such proclamation. "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "Unilateral declarations could not affect the legal status of Formosa"
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": ", which my right hon. Friend explained fully in his reply to a question by the right hon. Member for Easington (Mr. Shinwell) on 4th February."
+          }
+        }
+      ]
+    }
+  }
+]

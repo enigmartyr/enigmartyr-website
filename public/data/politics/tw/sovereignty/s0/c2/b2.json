@@ -1,0 +1,314 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "figref", "data": "morrison_gabriel" },
+        { "type": "puretext", "data": { "lang": "en", "content": " was a pioneering British civil engineer whose business ventures in China played a crucial role in the early development of the country's railway infrastructure during the late 19th century. Born in London and educated at Glasgow University under the renowned professor Lord Kelvin, Morrison brought technical expertise to the Far East, having previously participated in laying the first transatlantic telegraph cable." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "His most significant achievement came in 1876 when he served as engineer-in-charge of China's first railway project, successfully constructing and opening the line between Shanghai and Wusong under the consulting supervision of Sir G.B. Bruce, though the Chinese Government soon purchased and dismantled the railway." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Following this initial project, Morrison established himself permanently in Shanghai as a civil engineer and devoted considerable energy to promoting the development of trunk railway lines throughout China. His business approach was characterized by extensive travel through the Chinese interior." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "In 1885, he formed the partnership of \"Morrison & Cratton\" with architect F.M. Cratton, and their firm became associated with many large engineering works undertaken in Shanghai and other Chinese cities. Morrison also served on the Shanghai Municipal Council and was the first President of the Society of Engineers and Architects in Shanghai, demonstrating his significant influence in the foreign business community." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "In 1877, his \"business took him to the island\" of Taiwan, and he had his thoughts on the island published that very year" } },
+        { "type": "fileref", "data": "gazette_geo_mag_v04" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "It is only a very few years since the Island of Formosa, or Taiwan, as it is called by the Chinese, was practically an unknown land, and even now the number of Europeans who have penetrated into the interior is very small." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "In April 1877, business took me to the island, and during my stay I visited all the treaty ports, and journeyed overland from " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Tainan" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " to Kelung, a distance by road of 218 miles." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "My business gave me the entree of the Governor's Yamen, and required that I should collect as much information as possible, from observation and from reports, as well as from interviews with those acquainted with the country. Although I did not penetrate into the savage district, and cannot therefore describe any previously unknown land, still I believe that much of the information contained in the following pages has never been published, and I have no doubt will be found useful by any one wishing to visit the island, or to make himself acquainted with its present condition or future prospects." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Although nominally a part of China, the sovereignty of the Chinese only extends over about half the island; over certain other parts they exercise a nominal sway, but there are still some portions into which no Chinaman dares to enter." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Even subsequent to the appointment of British consuls, the natives were in the habit of murdering the crews of any vessels wrecked on their coast. The crew of the U.S. vessel 'Rover' met with this fate, and the U.S. consul at Amoy, of whose district Formosa formed a part, seeing that it was useless at that time to negotiate with the Chinese authorities, who were powerless, determined to go direct to the savages." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The island may be divided, either according to its physical character or according to its inhabitants; but, practically, it makes little difference which method is adopted, because, roughly speaking, the flat portion is civilised, while the mountainous portion is savage." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The country which has just been described is the flat and civilised portion of the island. The hilly and uncivilised portion is of quite a different character. The west coast of the island is so low that it can hardly be seen at a distance of 3 or 4 miles, and houses and trees near the coast are liable to be mistaken for junks at a very slight distance. The east coast, on the other hand, is generally mountainous, with deep water very close to the shore. A ridge of mountains runs up the centre of the island. Mount Morrison, the highest of the range, is said to be 12,850 feet, and Mount Sylvia 11,300 feet. Mount Morrison is not named after the well known missionary and Chinese scholar, but after the captain of one of the early vessels trading to " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Tainan" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": "." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "All the land east of the mountains is supposed to be hilly, and inhabited by savages." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "For some time the Chinese have had military stationed on the borders of the savage country, trying to open up communication with the east coast. " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Su'ao" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " Bay, on the east coast, and all to the north of it, have been in Chinese hands for many years. South of it, there are two Chinese settlements, called " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Xincheng" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " and " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Hualien" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ". The most northerly has been in existence twenty years, but has never numbered more than a hundred Chinese. In " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Hualien" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", on the other hand, there are about 700 Chinese and about 1000 semi-civilised savages." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The people who inhabit the two parts of the island differ as much in their characteristics as do the two portions of country." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "In travelling through the civilised part of the island, it is a good thing to take a proper supply of provisions. Carrying coolies can easily be obtained, and no advantage is to be derived from going badly provided, except the advantage of being more than usually uncomfortable. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " It must, of course, be understood that these remarks refer only to the civilised portion of the island. When the traveller makes up his mind to enter the borders of the savage country, he must cut down his baggage to the smallest possible dimensions, and, if he carries provisions, should only carry a small supply to guard against emergencies, and not for general use. And here it may be well to speak of carrying a revolver or other weapon." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Morrison's account once again reflects the limited nature of Chinese control over Taiwan during this period. His observation that Chinese sovereignty \"only extends over about half the island\" is  consistent with other contemporary assessments, with effective control confined largely to the western coastal plains while mountainous regions remained under indigenous control." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Morrison describes Chinese military forces \"stationed on the borders of the savage country, trying to open up communication with the east coast\"—language that suggests ongoing efforts at expansion. The minimal Chinese settlements on the east coast, with Xincheng numbering fewer than a hundred residents after twenty years, further illustrates the tenuous nature of Chinese territorial claims beyond the core administrative areas." } }
+      ]
+    }
+  }
+]

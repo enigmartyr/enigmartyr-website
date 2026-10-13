@@ -1,0 +1,26 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_memo_1949_12_14_vandenburg"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1949_12_15_dulles"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1950_01_06_dulles_1"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1950_01_06_dulles_2"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": ""
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "serial_federal_supplement_v144"
+        },
+        {
+          "type": "fileref",
+          "data": "serial_federal_reporter_s02_v269"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1959_09_10_house_of_representatives"
+        },
+        {
+          "type": "fileref",
+          "data": "us_serial_congessional_record_v105_p15"
+        },
+        {
+          "type": "fileref",
+          "data": "serial_federal_supplement_v177"
+        },
+        {
+          "type": "fileref",
+          "data": "gazette_1958_01_28_san_francisco_chronicle"
+        },
+        {
+          "type": "fileref",
+          "data": "gazette_1959_10_09_miami_news"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1960_02_26_stewart"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1960_02_29_stewart"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1960_03_15_stewart"
+        },
+        {
+          "type": "fileref",
+          "data": "serial_federal_reporter_v280"
+        },
+        {
+          "type": "fileref",
+          "data": "serial_federal_reporter_v294"
+        },
+        {
+          "type": "fileref",
+          "data": "serial_federal_reporter_v400"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_05_05_huang"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_09_14_yeh"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_08_yeh_1"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_08_yeh_2"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_09_yeh_1"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_09_yeh_2"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_13_yeh_1"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_13_yeh_2"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_14_yeh"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_09_cna"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1959_10_21_cna"
+        },
+        {
+          "type": "fileref",
+          "data": "gazette_1959_10_22_tpvd"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_memo_1988_08_17_yu"
+        }
+      ]
+    }
+  }
+]

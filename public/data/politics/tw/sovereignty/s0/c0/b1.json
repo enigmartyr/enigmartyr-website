@@ -1,0 +1,1562 @@
+[
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Memorial on the Conference Regarding the Post-Incident Arrangements in Taiwan (14th Year of Daoguang [1834])" } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "會議臺灣善後事宜疏（道光十四年）" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "by Cao Zhenyong et al." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "曹振鏞等" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Grand Secretary Your Subjects Cao Zhenyong and others humbly kneel and memorialize for the matter of complying with the imperial decree to confer and memorialize." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "大學士臣曹振鏞等跪奏，為遵旨會議具奏事。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "On the 23rd day of the 12th month of the 13th year of Daoguang, Cheng Zulo submitted a memorial on the post-incident arrangements in Taiwan. It received the vermilion endorsement: 'Let the Grand Council ministers confer with the relevant board and memorialize.' We have respectfully conferred with the relevant boards, carefully deliberated, and now present our views for Your Majesty’s consideration." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "道光十三年十二月二十三日，程祖洛奏，臺灣善後事宜一摺，奉硃批軍機大臣會同該部議奏欽此。臣等謹會同各該部悉心覈議，為我皇上陳之。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "1. The original memorial states: 'Prohibit illegal crossings to eliminate the source of banditry,' etc. We have investigated that from Funing to Zhangzhou on the mainland, there is no place where illegal crossings cannot occur." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱禁偷渡以杜盜源等語。臣等查內地自福寧以訖漳州，無處不可偷渡。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Fishing boats from Chongwu and other places under Quanzhou Prefecture can all cross to Taiwan, making illegal crossings especially easy. Some conceal themselves by the seashore, wait for merchant ships or patrol boats at the main ports to be inspected and cleared, then use small boats to board and attach themselves. After arriving in Taiwan, they can land anywhere along the shallow tidal flats. Escaped criminals and prohibited goods all slip through this way, turning Taiwan into a den for harboring filth and dirt." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "泉州府屬之崇武等處，漁船皆可渡臺，偷渡尤易，並有潛身海濱，俟正口商船載兵哨船驗放出口，即用小船載登附搭到臺後，沿海之淺水浮埔，無處不可登岸，逃逸兇盜，違禁貨物，胥由此脫漏，臺灣遂成藏垢納汙之所。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The local temperament is already extremely volatile, and with such cunning and trouble-seeking people flocking there like ducks to water, it is no wonder that cases of unrest occur repeatedly. These illegal-crossing bandits cannot fly across the vast ocean without boat heads and ship owners to guide and carry them." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "該處人情本極浮動，而又有此等桀黠好事者趨之若騖，無怪乎屢有不靖之案也。此等偷渡匪徒，無客頭船戶為之引領攬載，重洋豈能飛越。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "If boat heads and ship owners do not collude with harbor guards and patrol soldiers, they cannot commit such crimes. Port officials privately issuing permits is also inevitable. We approve the request: henceforth, civilians crossing to Taiwan shall, in accordance with regulations, receive permits from local officials, proceed to the main ports for inspection and embarkation, and upon arrival in Taiwan surrender the original permits." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "客頭船戶，若不勾通澳甲汛兵，斷難作奸。其口員徇情私給照票，更所不免，應如所請，嗣後渡臺民人，照例由地方官給照票，至正口驗放配渡，赴臺投繳原照" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The prefectures and counties that issued the permits, as well as the port officials in Taiwan who inspected and received them, shall compile monthly registers and report them. If anyone is found without a permit, or if the person and permit do not match, or if they hold a private permit from a port official, the individual shall be punished according to the regulations. The boat heads, ship owners, harbor guards, and patrol soldiers shall be strictly investigated and prosecuted." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "仍責成給照之州縣，驗放驗收之臺內管口廳員，按月造冊通報。如查無照票，或人照不符及所執係口員私票，即將本人照例治罪，仍嚴究客頭船戶、澳甲汛兵姓名，指拏究辦。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "If the individual does not truthfully identify the boat heads and others, he shall himself be punished with the same penalty as the boat heads. Merchant ships and patrol boats that smuggle people shall hold the ship owners and commanding officers liable with the same penalty as boat heads." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "如不將客頭人等據實拱指，即將本人坐以客頭等應得之罪。商船哨船夾帶，坐船戶及管駕弁目以客頭之罪。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "For remote harbors and inlets as well as Chongwu and other places under Quanzhou Prefecture, civil and military officials shall be ordered to supervise the sub-station officers and soldiers in clearing them section by section. All fishing boats capable of crossing the open sea shall be escorted back to the main ports for inspection and may not anchor in private inlets." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "至各處偏僻港澳及泉州府屬之崇武等處，責令文武印官，督率分汛官弁，逐段清查。凡有漁船之可放大洋者；一概押歸正口，以便稽查，不得停泊私澳。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Small boats with short, narrow beams that cannot venture far shall be allowed as before. Taiwan’s water and land sub-station officers shall mutually inspect the shallow tidal flats, river branches, and harbors. Any boats found shall be escorted to the main ports. Persons wading ashore shall have both the individuals and boats seized and handed over to local officials for interrogation and handling." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其樑頭短窄不能遠涉者，仍聽其便，並令臺灣水陸汛弁，在於淺水浮埔支河汊港，互相稽查，見有船隻，亦即押赴正口，如遇涉水登岸之人，將人船一並拏交地方官訊辦" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Sub-station officers shall be strictly ordered not to use this as a pretext for extortion or harassment, thereby creating new disturbances. Mainland port officials who are negligent in prevention shall be impeached according to the regulations. Those who privately issue permits shall be dismissed and punished according to the statute for knowingly releasing criminals." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "仍嚴飭分汛官弁，不得藉此需索擾累，別滋事端。其內地口員疏於防範，照例參處，私給照票者，照知情賣放例革職治罪。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Taiwan port officials have no existing regulation for punishment for failing to detect mainland civilians crossing illegally. However, since illegal crossers exist, it is inevitable that rice and grain smuggling may also occur. We approve the request to treat them the same as mainland port officials and impeach them accordingly." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臺灣口員，例無失察內地民人偷渡處分，惟既有偷渡之人，難保無脫漏米糧情事，應如所請，比照內地口員例一體參處。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "2. The original memorial states: 'Implement village clearing to eliminate bandit lairs,' etc. We note that Taiwan’s village-clearing regulations are similar to the baojia system but further incorporate militia training." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱行清莊以除盜藪等語。臣等伏查臺灣清莊章程，與保甲略同，而更寓團練之意。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "However, the terrain is long and narrow, villages are scattered like stars, and dialects differ. Local officials going to the countryside cannot avoid relying on clerks and runners as guides and interpreters. These clerks and runners, fearing the distance and trouble, may accept bribes and shield offenders or point in the wrong direction." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "惟形勢袤長，村居星散，言語咮\uD843\uDED7，地方官赴鄉查辦，不能不藉書役為引路通事。該書役等憚於繁遠，或竟得規包庇，不免指東畫西。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "There are 115 officers from company commanders downward in Taiwan’s various camps who are stationed in sub-districts—ten times more than civil sub-station officers. They are all natives of Fujian, speak the local dialect, and their jurisdictions are limited, making personal inspection feasible." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "查臺灣各營，千總以下等官之分防汛地者，有一百十五員，較文質汛官多至十倍，籍隸閩省，土音是操，所轄地面，亦甚有限，不難親歷清查。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We approve the proposal: henceforth, after each autumn harvest, the Taiwan commander and circuit intendant shall select capable officials to compile and inspect once. If anyone on the original register is missing or the number of arrivals and departures does not match the report, they shall be seized and handed over to local officials for strict interrogation." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "慎選總董，編聯保甲，應如所奏。嗣後每年秋收後，由臺灣鎮道，遴委幹員編查一次，如遇原冊無名之人，或去來人數與所報不符者，即拏交地方官嚴訊究辦，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "If the delegated officials and sub-station officers are lax in inspection, the Taiwan commander and circuit intendant shall investigate and impeach them. If they genuinely exert effort, they shall be rewarded according to merit." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "委員汛弁編查不力，由臺灣鎮道查明詳參，倘實心經理，計功獎賞。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "3. The original memorial states: 'Strictly enforce joint liability to prevent harboring,' etc. We note that Taiwan’s village headmen, elders, placard heads, and baojia chiefs are not all necessarily virtuous or powerful." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱嚴連坐以杜包庇等語。臣等查臺灣總董莊耆牌頭甲長人等，未必盡賢而有力，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Last year the rebel Cantonese ruffians were all local village scoundrels, not people from a single village or neighborhood. If the village headmen truly understood that one family’s crime implicates ten families, they would surely protect their own families and would not allow the trouble to spread." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "前年逆匪粵棍，俱係各莊無賴，並非一鄉一里之人，各莊總董人等，果能知一家有犯，十家連坐，自必各顧身家，何至縱令滋蔓。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We approve the proposal: after village clearing, if any persons of unclear origin commit crimes, the village headmen, elders, baojia chiefs, and neighbors who fail to bind and deliver them immediately upon discovery shall all be jointly liable." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "應如所奏，清莊之後，如有來歷不明，為匪犯法之人，該總董莊耆保甲鄰右，並不隨時捆解，發覺到官，一並連坐，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Civil and military sub-station officers shall also not intimidate ordinary civilians without cause, lest new disturbances arise." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "文武汛弁，亦不得無故恐嚇平民，致滋事端。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "4. The original memorial states: 'Prohibit moving to avoid spying,' etc. We note that the people of Taiwan are volatile by nature and, having repeatedly suffered unrest, are all like birds startled by the bow." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱禁搬徙以免窺伺等語。臣等伏查臺灣人情浮動，而又屢遭不靖，悉屬驚弓之鳥，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Cunning fellows fabricate rumors out of thin air—claiming Fujian-Cantonese divisions or that bandits have raised banners—causing people to flee in panic. Both Fujian and Cantonese groups become suspicious and fearful, allowing ruffians to exploit the situation and incite trouble. This is truly the root of disorder." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "奸徒憑空造謠，或稱閩粵分類，或稱匪徒豎旗，聞者紛紛遷避，閩粵既各懷疑懼，棍徒即乘機構煽，此實致亂之由也。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Last year when rebels spied on Bengang Town, the local manager Lin Xitai and others united the villages, forbidding reckless movement. They fought three battles and won three victories; within Chiayi, that area alone remained intact." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "前年逆匪窺伺笨港鎮，該處總理林西泰等，聯約各莊，不準妄動，三戰三捷，嘉義境內惟該處最為完善。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We approve the proposal: henceforth, if rumors cause people to move, the local manager shall first be cangued and displayed publicly. The rumor-mongers shall then be strictly seized and punished according to the regulations. Thus people will have no grounds for suspicion, and evil will not arise of itself." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "應如所奏，嗣後如有聞謠遷徙之事，先將該總理枷號示眾，再嚴拏造謠之人，照例治罪，庶幾人無釁焉，妖不自作矣。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "5. The original memorial states: 'Earnestly carry out moral guidance to reform corrupt customs,' etc. We note that the customs of Taiwan favor profit and aggression while lacking benevolence and deference." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱實力化導以挽頹風等語。臣等伏查臺灣之俗，嗜利尚氣，而鮮仁讓之風。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Over more than a century of imperial nurturing, there have certainly been people who read books and understand principle, yet among the ignorant villagers, teachers are not chosen carefully. Thus litigation masters and cunning ruffians use private tutoring as a cover for incitement." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "百數十年來，教養涵濡，讀書明理者，固不乏人，而鄉曲愚民，不知擇師，故訟師奸棍，即藉訓蒙以為搆煽。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "In the recent rebellion case, most of the fake military advisors were private tutors. We approve the proposal: henceforth, the Taiwan commander, circuit intendant, prefects, sub-prefects, magistrates, and the county assistants and inspectors stationed in rural towns shall, on the first and fifteenth of each month, assemble the gentry and elders and reverently expound the Sacred Edict and Amplified Instructions." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "此次逆案內之偽軍師等，大半皆蒙師也，應如所奏，嗣後責令臺灣鎮道府廳縣及駐防鄉鎮之縣丞巡檢等官，每逢朔望，傳集衿耆，敬謹宣講聖諭廣訓，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "They shall explain the principles of father-son, ruler-minister, and elder-younger relations, as well as the principles of mind, nature, and destiny, so that all understand that filial piety, fraternity, loyalty, and trustworthiness can lead to sagehood." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "講明父子、君臣、長幼之道，身心性命之理，使知孝弟忠信，即可以造於聖賢，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "School instructors shall also be ordered, during the agricultural slack season, to tour and inspect whether the private tutors are fit models for the young, clearly rewarding or punishing them. If any harbor bandits or hold absurd or eccentric views, they shall be sent to the county for interrogation and handling." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "並責成各學教官，於農隙時周歷稽查，訓蒙之人是否皆堪為後生矜式，明示獎罰，如有奸匪溷蹟及荒謬怪癖之徒，即送縣訊辦，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Circuit intendants, prefects, sub-prefects, magistrates, and school instructors, whenever hearing lawsuits, examining scholars, or going to the countryside on public business and meeting the people, shall provide timely moral instruction so that orthodox learning flourishes and minds are settled. Even the ignorant men and women shall know the joy of doing good, and customs will naturally be transformed." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "道府廳縣教官，每遇聽訟課士，或因公下鄉與民接見，隨時訓導，務令正學明而人心定，俾愚夫愚婦，皆知為善之樂，則風俗自化矣。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "6. The original memorial states: 'Repair city walls, build enclosing artillery platforms, and add crescent gates and barracks to strengthen defense,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱修建城牆，築圍砲臺，並增設月城兵房，以資桿衛等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that the prefectural city is the foundation of all Taiwan. The area outside the West Gate forms a strategic pincer with Luermen and Anping Town and is the throat of the prefectural city as well as the place where rice, grain, and goods accumulate." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查府城為全臺根本重地，西門外地方，與鹿耳門安平鎮互相掎角，實郡城之咽喉，亦米糧財貨積聚之所。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Formerly, because it bordered the inner sea with natural defenses, it was not enclosed in the city wall. Since the 3rd year of Daoguang, silt has accumulated along the inner sea. From Huiwen in Chiayi in the north to forty-odd li outside the small North Gate of the prefectural city in the south, and from the Zhouziwei seashore in the east to fifteen or sixteen li inside Luermen in the west, all has become dry land." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "從前因其濱臨內海，有險可恃，故未包羅入城，道光三年以後，內海之濱，沙日淤墊，北自嘉義之會文，南至郡城小北門外四十餘裏，東自洲仔尾海岸，西至鹿耳門內十五六里，俱已漲成陸埔。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "One can march from the northern route straight to the end of the dry land, wading with lifted clothes, reaching the area outside the West Gate with no natural defenses." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "由北路長驅，直至埔尾，撩衣而涉，即屬西門外地，無險可守。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Last year during the rebellion, people were terrified; some fled into the city, others fought for boats to cross. Thanks to the circuit intendant, prefect, and gentry who coordinated and led, the outer defenses were first secured." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "前年逆匪滋事，人心驚惶，或遷徙入城，或爭舟欲渡，辛道府紳士調度倡率，首固藩籬，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The governor surveyed the terrain and had the city wall extended around the east, north, and south sides while leaving the west open, forming a half-moon shape. We approve the proposal: expand an outer wall from the northwest to the southwest of the city, enclosing all the markets and residences outside the West Gate." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "經該督相度形勢，該城環繞東南北三面，而弦其西，形如半月，應如所奏，於城之西北以訖西南，擴一外城，將西門外市集民居，悉行圍繞在內，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Strategic artillery platforms shall be built, crescent gates added to each city gate, and barracks built over the battlements. Along the coast where sand is abundant and soil scarce, or where the ground is low-lying, the terrain shall first be surveyed, moats dug, and existing water gates dredged. Earth from the moats shall fill the low areas." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "擇要建造砲臺，並於各城門添築月城，城上各垛增蓋兵房，其沿海沙多土少，並有地勢低窪處所，應先審定地勢，開穵濠溝，並修濬舊有水關，取土以實低窪之處，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Inside the moats, thorny bamboo shall be planted as a wall, and artillery platforms built in sections. Crescent gates and barracks shall be gradually added. The more than forty collapsed sections of Chiayi county walls shall all be repaired and strengthened." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "濠溝以內，栽種莿竹為城，分段建造砲臺，並徐議添建月城兵房。其嘉義縣坍塌四十餘處，俱應修理完固，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Four artillery platforms shall be built at the four corners of the city, and crescent gates added to each city gate. The proposal by the juren Zheng Chaolan and others to fund and manage the project themselves, while retaining part of the contributions to be lent to merchants for interest to cover annual repairs, is approved." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "再於城之四維，建砲臺四座，各城門增築月城。所有該舉人鄭朝蘭等，呈請民捐民辦，並酌留損項發商生息，按年修理之處，均應如所奏辦理，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "After completion, the amounts donated and the labor contributed shall be investigated and reported, with rewards requested according to the degree of contribution." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "仍俟事竣查明捐錢數目出力等差，分別奏請獎勵。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "7. The original memorial states: 'Adjust the boundaries of Taiwan and Chiayi counties evenly to facilitate control,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱劃勻臺灣、嘉義二縣疆界，以資維制等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that Taiwan’s overall terrain is long from north to south. Chiayi county lies in the middle of the western side. Its jurisdiction extends south to Xingang Stream on the Taiwan county border (eighty li) and north to Huwei Stream on the Zhanghua county border (fifty li)." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查全臺形勢，南北袤長，嘉義縣實居西面適中之地，其境轄，南至臺灣縣交界之新港溪八十里，北至彰化縣交界之虎尾溪五十里，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Beyond the sea the distance is vast—twice as much in reality—making the actual north-south length two hundred and forty to fifty li. With numerous harbors and inlets and sudden wind and rain, travelers are often cut off." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "海外道里荒遠，裏以倍計，實在南北袤長共二百四五十里，加上港汊紛歧，風雨倏忽，行路之人，往往斷絕。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "East-west it spans fifty-one li, yet from the westernmost seashore to the easternmost aboriginal border requires three days’ travel. The area is vast, the population dense, the customs most fierce, and administration extremely heavy." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其東西各五十一里，而自極西海埔至極東番界，非三日程不能到。地廣人稠，風氣最悍，政務極繁。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Even residents on the southern border can go to the prefectural city and return the same day, but to reach the county seat requires two days, which is often inconvenient." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "即迆南邊界，居民赴郡則可朝去暮回，赴縣必得二日始到，常若不便。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Taiwan county’s jurisdiction extends south to Erzanxing Stream on the Fengshan border (twenty li) and north to Xingang Stream on the Chiayi border (twenty li)—again twice that in reality—making the north-south length only eighty li and east-west sixty-eight li, merely one-third of Chiayi’s." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其臺灣縣境轄，南至鳳山交界之二贊行溪二十里，北至嘉義交界之新港溪二十里，亦以倍計，南北不過八十里，東西廣六十八里，僅及嘉義三分之一，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Moreover, the commander, circuit intendant, prefect, and sub-prefect are all stationed in the same city, making administration easier than in Chiayi." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "並有鎮道府廳駐紮同城，治理易於嘉義，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We approve the request: transfer the area from north of Xingang Stream in Chiayi county to Wanli Stream—approximately twenty-odd li—west to the seashore and east to the aboriginal border, to Taiwan county’s jurisdiction. The boundaries will then be even and convenient for both officials and people." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "應如所請，將嘉義縣新港溪迆北至灣裏溪止，計地二十餘裏，西極海濱，東竟番界，劃歸臺灣縣管轄，則疆界既勻，官民均便。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "In total, Taiwan county’s jurisdiction will still be only half of Chiayi’s. Taiwan will have no difficulty in oversight, while Chiayi, minus these twenty-odd li, will find administration easier and avoid overextension." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "綜計臺灣縣管轄地方，仍止及嘉義之半，在臺灣不患照料難周，在嘉義少此二十餘裏，治理較易，不至鞭長莫及矣。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "All matters of household registration, taxes, grain, postal stations, and other transfers shall await the governor’s careful deliberation, separate consultation, and compilation of registers for verification and handling." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "所有戶口錢糧郵驛，一切應行改撥之處，應俟該督妥議分別題諮，造冊覈辦。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "8. The original memorial states: 'Deliberate on reducing and adjusting sub-station defenses to facilitate patrols and suppression,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱酌議裁改汛防，以資巡查彈壓等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that in the 15th year of Jiaqing, the former governor Fang Weidian proposed reductions, transfers, and mergers, which were approved and implemented. More than twenty years have now passed, so adjustments according to the times are appropriate." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查嘉慶十五年，前督臣方維甸，議定裁移歸併。奏準遵辦。迄今又閱二十餘年，自當因時制宜，酌量裁改，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Cheng Zulo has already ordered the commander to inspect in person. We approve the proposals: new dry land has emerged inside Luermen; a sub-station shall be added at the strategic Xiaolong area where the old shore meets the new dry land." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "見據程祖洛督飭該鎮周歷履勘，應如所奏。鹿耳門內海漲出埔地，應於老岸與新埔接壤之蕭隴地方，扼要添設汛防。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Xiaolong originally belongs to the Right Battalion of the City Defense Camp. Troops shall be evenly drawn from its sub-stations: one squad leader and six soldiers from the Jiali Bay sub-station, seventeen from the Dawulong sub-station, and four from the old sub-station of forty-four soldiers—totaling twenty-seven soldiers." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "查蕭壟本係城守營右軍管轄，應即在該軍所屬各汛內均勻抽撥，請於原防加溜灣汛把總一員、外委一員、兵四十一名內，裁撥外委一員、兵六名，並於大武壟汛兵七十七名內，裁撥十七名，舊設汛兵四十四名內，裁撥四名；共兵二十七名。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Twenty soldiers and one squad leader shall be stationed at Xiaolong as the Xiaolong sub-station; seven soldiers shall be stationed five li away at Xigangzai under the same squad leader." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "以二十名同外委一員，駐紮蕭壟，為蕭壟汛。以七名駐紮距蕭壟五里之西港仔，歸蕭壟汛外委管轄。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Maogangwei is a thoroughfare with dense population. The original five tang soldiers are insufficient. One squad leader shall be transferred from the Jiushen sub-station and twenty soldiers from the City Defense Camp’s reserve—together with the original five, totaling twenty-five soldiers and one squad leader—to be stationed as the Maogangwei sub-station." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "又茅港尾為往來孔道，居民稠密，原設僅止塘兵五名，請於原防舊社汛外委一員、額外一員內，裁撥外委一員，並在城守營右軍存城兵一百七十二名內，裁撥兵二十名，連原設塘兵五名，共兵二十五名，外委一員，駐紮茅港尾汛。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The Dadun area under the Northern Route Middle Camp has long been mixed Fujian-Cantonese. The Maowupai sub-station company commander and soldiers shall be moved to Huludun, while the Huludun squad leader and forty soldiers shall be moved to Dadun and renamed the Dadun sub-station." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "又北路中營所屬之大墩地方，向為閩粵雜處之所，有貓霧拺汛千總帶兵駐防。邇來粵籍居民，遷往他處，惟葫蘆墩汛，轉成閩粵交錯之區，原設弁兵，不敷彈壓，請將貓霧拺汛千總一員，兵八十五名，移駐葫蘆墩，而將葫蘆墩汛外委一員，兵四十名，移駐大墩，改為大墩汛。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The Dajia tang under the Northern Route Right Camp originally had thirty tang soldiers. Later a company commander and two hundred soldiers were moved to the Dajia sub-station two li away. The Dajia tang soldiers remain, but thirty-five li from the Dajia sub-station, at the mixed Fujian-Cantonese Tunxiao area, there are only ten tang soldiers—an uneven arrangement." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "又北路右營所屬之大甲塘，原設塘兵三十名，嗣於離大甲塘二里之大甲汛，移駐守備及兵二百名。大甲塘兵尚仍其舊，而離大甲汛三十五里，閩粵雜處之吞霄地方，僅止塘兵十名，形勢不甚勻稱。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "One squad leader shall be transferred from the nearby Daan kou sub-station, together with twenty soldiers from the Dajia tang—plus the original ten at Tunxiao—totaling thirty soldiers and one squad leader, to be stationed as the Tunxiao sub-station." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "請在附近大甲汛之大安口汛，原設把總一員，外委一員內，裁撥外委一員，並裁撥大甲塘兵二十名，連原設吞霄塘兵十名，共兵三十名，外委一員，駐紮吞霄，為吞霄汛。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The A-kau area under the Southern Route Xiashuishui Camp is a market at the Fujian-Cantonese junction with only a sub-prefect and no military officer. One company commander and sixty-nine soldiers from the camp reserve shall be moved there to form the A-kau sub-station." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "又南路下淡水營所屬之阿猴地方，為閩粵交關之市，僅有下淡水縣丞一員，並無武弁，請將該營隨防把總一員，並於存營兵二百六十九名內，裁撥兵六十九名，移駐阿猴為阿猴汛。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "A-li-kang is a bustling merchant area. The original squad leader and sixty soldiers are insufficient. One company commander shall be transferred from the Southern Route Camp reserve and twenty soldiers from the Shijing sub-station—together with the original sixty, totaling eighty soldiers and one company commander—to be stationed at A-li-kang under the Xiashuishui Camp." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "又阿里港為商賈雲集之所，原設外委一員，兵六十名，職卑力薄，請於南路營存城把總二員內，裁撥一員，並於南路營石井汛原設兵一百六十名內，裁發二十名，改歸下淡水營管轄，與原駐阿里港兵六十名，共兵八十名，把總一員，駐紮阿里港。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The original A-li-kang squad leader shall be reassigned to the Xiashuishui Camp reserve. At Jiukuacuo, ten li from each of Shanzhuma, A-kau, and A-li-kang and at the Fujian-Cantonese border, where there was previously no sub-station, one supernumerary officer and twenty soldiers shall be transferred to form the Jiukuacuo sub-station under the A-li-kang sub-station." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其原設阿里港外委一員，裁歸下淡水營隨防，又離山豬毛及阿猴、阿裏港，各十里之九塊厝，為閩粵交界處，向無汛塘，請於下淡水營隨防額外三員內，裁撥一員，再於東港汛兵四十五名內，裁撥十五名，又於新園汛兵一百十五名內，裁撥五名，共兵二十名，額外一員，駐紮九塊厝，歸阿里港汛管轄。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "At Chaozhou Village, fifteen li from the Xinyuan sub-station and twenty-five li from Shanzhuma, where population is growing but there was previously no sub-station, the Fangliao sub-station under the Xiashuishui Camp—only four li from the Southern Route Camp commander’s station at Shuixiliao—shall be reassigned to the Southern Route Camp commander." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "又距山豬毛二十五里新園汛十五里之潮州莊，生聚日繁，向無汛防，查下淡水營所轄，有枋寮一汛，離南路營守備駐紮之水底寮，僅止四里，應將枋寮汛改歸南路營守備管轄，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The commander shall dispatch twenty soldiers from his reserve to patrol. The original Fangliao squad leader and thirty soldiers shall be moved to Chaozhou Village. Ten more soldiers shall be drawn from the Xinyuan sub-station—totaling forty soldiers and one squad leader—to form the Chaozhou Village sub-station." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "即令該守備於隨防兵一百五十名內，撥兵二十名駐防巡查。其下淡水營原設枋寮汛外委一員，兵三十名，移駐潮洲莊 。 該處本係新園汛所轄 ， 應再在新園汛撥兵十名 ，共兵四十名 ， 外委 一 員 ， 為潮洲莊汛 。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "With these reductions and transfers, the distances between sub-stations will be even. In peacetime the watch drums will be heard from one to another; in wartime the war drums will respond. The people’s will shall become a solid wall." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "如此裁移，於各汛相去道里適勻，無事則刁斗相聞，有事則鼓桴相應，行見眾志成城，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "For the seals and tallies of the transferred officers, the governor shall propose appropriate wording, prepare sample impressions, and submit a clear register for the board to verify and issue. Construction of offices and barracks shall be estimated frugally by the governor and reported for approval in stages." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其移駐各員弁關防條記，有應行改鑄之處，應由該督照例擬定字樣，造具印模清冊，送部覈辦，移建衙署兵房等項，應令該督撙節估計，分別題諮，次第造冊覈辦。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "9. The original memorial states: 'Build earthen forts, offices, and barracks to strengthen garrison duty,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱修築土堡衙署兵房以資戍守等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that Taiwan’s camp sub-stations and tang posts, when isolated in the wilderness, lack mutual support; when mixed among markets, they foster laziness and slackness. Those that have collapsed into flat ground must be urgently repaired to strengthen military appearance." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣各營汛塘，其孤懸曠野者，既無掎角之形，其錯居廛市者，又成驕惰之習。此外坍為平地者，亟須修整以壯軍容，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The governor proposes a comprehensive inspection of all Taiwan sub-station offices and barracks for repair or reconstruction, and the addition of earthen forts at strategic points to enclose the offices and barracks." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "該督請將全臺汛署兵房通行查勘，分別修建，仍於扼要汛地添築土堡，將衙署兵房圍繞在內，應如所奏辦理，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Even if bandits appear, they will not dare to seize military weapons from the sub-stations first, thereby arming the enemy. Officers and soldiers will no longer have the excuse of having no defenses and abandoning their posts." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "即間有匪徒，亦不敢先搶汛塘軍械，以藉寇兵，將弁等亦不致諉為無險可守，委而去之矣。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "10. The original memorial states: 'Train in martial skills to achieve proficiency and thereby gather capable forces,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱練習技藝以臻熟諳，藉資收束等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that Taiwan’s camps have long been lax. We approve the governor’s proposal: each camp’s company commanders and officers shall, according to the skills their soldiers practice, require daily practice of twenty-five arrows for archers, five rounds of linked or five-shot firing for musketmen, and full practice of shield, spear, and other weapons." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺營廢弛已久，應如該督所奏責成各營千總等弁，就所管兵丁，各按所習技藝，如弓箭每日墩箭二十五枝，鳥槍或連環，或五子，各演五回，牌械長矛雜技，一體演習，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "They shall then conduct periodic rotation drills, explain military regulations, and ensure that soldiers guarding city walls, granaries, and warehouses rotate every five days for practice without neglect." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "再行按期分日輪操，講解行軍紀律，其看守城垣倉庫等兵，五日一班輪流換回演習，不準曠誤，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Bow strength must be strong and accurate; musket fire must be swift and accurate. Those agile in miscellaneous skills shall be selected as instructors. Every half month the camp commanders shall personally examine them once and send registers to the commander for spot checks." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "務令弓力勁而有準，放槍捷而多中，雜技跳舞便捷者拔為教習，每半月由專營將領，親考一次，造冊送該鎮抽調考驗，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Instructors who can teach ten or more men shall be rewarded; those who can teach a hundred or more shall be promoted. The mediocre, old, or weak shall be dismissed. Daily and monthly tests with clear rewards and punishments shall forge a crack force." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "教習中能教十人以上者賞，能教百人以上者拔用，庸劣老弱斥革，日省月試，信賞必罰，鹹成勁旅矣。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "11. The original memorial states: 'Conduct regular joint patrols to facilitate capture and accustom troops to hardship,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱按期會哨以資巡緝，藉習勞苦等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that Taiwan, with its mixed Fujian and Cantonese population, easily harbors criminals, and the roads are extremely rugged, making capture difficult. The sub-stations at borders have not studied the difficulty of the routes or the volatility of local sentiment, so they cannot be relied upon in emergencies." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣閩粵雜處，最易藏奸，道路又極崎嶇，緝捕非易，各汛交界，於路逕之險易，民情之浮澆，全未究心，緩急豈復可恃，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We approve the governor’s proposal: sub-station officers and soldiers at the borders between two sub-stations shall, regardless of wind, rain, cold, or heat, conduct a joint patrol once every five days. They shall report the route taken and return route to the commander on schedule." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "應如該督所奏，責成各汛兵弁於兩汛交界處，無分風雨寒暑，五日一期，兩汛弁兵會哨一次，將由何處去、由何處回，按期報明該鎮，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "They shall not occupy civilian houses or disturb the people by taking even a single blade of grass or tree. Violators shall be severely punished. This will familiarize them with the routes and train them in military discipline, causing bandits to restrain themselves." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "不準佔宿民房，騷擾民間一草一木，違者嚴辦，既可熟悉路逕，亦可練習軍旅，匪徒當知斂跡矣。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "12. The original memorial states: 'Sub-station officers shall not be transferred arbitrarily so as to fix responsibility,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱駐防汛弁，不準任意更調，以專責成等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that all company commanders and lower officers in Taiwan’s camps are transferred from the mainland and are not yet familiar with the local soldiers." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣各營千總以下各弁，皆由內地調往，與該營兵丁，本非熟習，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Because Taiwan’s drills are lax, soldiers wander out of camp at will. Sub-station officers either evade punishment or assess the profitability of posts and seek transfers. Sometimes soldiers do not even recognize their own officers, let alone the troops. How then can one expect soldiers to know their commander’s mind or commanders to inspire troop morale?" } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "因臺灣操演疏懈，兵丁既任意出營，汛弁非規避處分，則揣量肥瘠，營求更調，甚至兵弁不識頭目，更無論兵卒，此而望其士識將心，將作士氣，豈可得乎？" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Henceforth, transferred sub-station officers shall remain at their assigned posts for training and shall not be arbitrarily transferred. If a genuine mismatch of person and place requires mutual exchange, the commander shall report in detail to the governor for approval. Violators shall be impeached according to the statute for evading transfer." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "嗣後調臺汛弁，應照調定汛地駐防訓練，不得任意更換，倘實在人地未宜，必須互調，由該鎮詳報該督，俟批准調防，違者照移駐規避例參處，應照該督所請行。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "13. The original memorial states: 'Adjust the regulations for transferring camp officers back to the mainland to achieve results,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱酌更營弁，調補內地章程，以收成效等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that company commanders, squad leaders, squad leaders, and supernumerary squad leaders in Taiwan have traditionally been returned to the mainland after three years. Before the 4th year of Daoguang, Governor Zhao Shenzen, noting that short tenures led to lax control and soldiers causing trouble, requested they remain in Taiwan with promotion or demotion." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣千總、把總、外委、額外外委四項，三年期滿，調回內地，本屬舊制，道光四年前，督臣趙慎畛以官非久任，管轄不常，兵丁任意滋事，轉為臺地之害，奏請無庸調回，留於臺地，分別升降等因。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "In the 8th year of Daoguang, former Governor Sun Erzhun noted that once Taiwan garrison soldiers were selected as supernumerary squad leaders, they had to rise through squad leader, company commander, and up to battalion commander before transferring back to the mainland. Few were willing, viewing promotion as a path of hardship. He requested restoration of the old system of three-year terms with evaluation and exchange with mainland substantive officials; the Board of War approved it." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "嗣於道光八年，前督臣孫爾准以戍臺班兵，一經挑拔額外外委，必須由外委、把總、千總升至守備，方得升轉內地，遇有缺出願挑者少，竟視拔擢為畏途，奏請仍復舊制，三年期滿，分別考覈，與內地之實缺人員對調，均經兵部覆準在案，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Now the governor states that Taiwan company commanders and other officers are transferred too frequently, so camp officers have no long tenure and soldiers have no permanent commanders. Moreover, Taiwan officers must first become familiar with local conditions; just as they become familiar they are transferred back, and new hands keep replacing them—this is not appropriate." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "今該督以臺灣千總等弁更調太頻，營官無久任，管兵無常官，且臺營員弁首貴熟習風土，甫經熟習，又須調回，生手屢更，殊非所宜，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Henceforth, transferred Taiwan officers who have truly trained effectively and captured criminals diligently may, upon completing three years, be recommended by the commander and circuit intendant to remain in Taiwan. Those whose skills are average but who perform their duties conscientiously shall be returned after three years according to the old rule." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "請嗣後調臺弁實在訓練有方、緝捕勤能者，於三年期滿時，準鎮道稟請留臺，其才技並不出眾，尚能循分供職各弁，循例三年調回，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Company and squad commanders shall be evaluated by the governor; squad leaders and supernumeraries by the commander. Those slightly less capable but still promising shall be given vacancies to practice; the next tier shall be demoted and reassigned; the lowest shall be dismissed." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "千總、把總由總督考驗，外委、額外外委由鎮將考驗，擇其才技稍次，尚堪造就者，準補遺缺；勒限練習，其次降等補用，再次斥革，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The Taiwan commander shall also be ordered to screen and eliminate officers at any time and keep a separate register of those retained in Taiwan. When the governor-general, governor, or provincial commander tours Taiwan, they shall re-examine them." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "並責成臺灣鎮總兵隨時甄汰，仍由該鎮將留臺各弁另立一冊，於將軍督撫提督輪屆巡臺時，覆加考校，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The governor’s proposal is made out of concern for the maritime frontier and adapts to circumstances by allowing some to remain and some to return. The capable will provide experienced hands, while the mediocre will not clutter the ranks. We approve the proposal." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "該督係為慎重海疆，因時制宜起見，於二次奏改章程內，酌量變通，分別留臺調回，庶精練者可以藉資熟手，而平庸者亦不致濫廁戎行，應如所奏辦理。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "For the order of officer promotions, the governor proposes that company commanders who complete their term shall first be registered with the board. When a Taiwan battalion commander vacancy occurs, they shall be promoted according to seniority. After approval, they shall go to the provincial capital for the governor’s evaluation, then proceed to the board with the certificate." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其各弁升補班次，該督請將期滿千總先行諮部註冊，遇有臺灣守備缺出，論俸請升，於準升調後，赴省城由總督考驗，給諮赴部，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "If any are found lacking in skill, they shall be demoted or dismissed, and the commander and circuit intendant who over-recommended them shall be impeached. Squad leaders and below shall also be registered with the board and promoted within Taiwan." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "倘有技藝疏庸者，即行降革，並將濫保之鎮、道議處，把總以下各弁，亦諮部註冊，就臺灣分別拔擢，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "If no retained company commander is available for a Taiwan battalion commander vacancy, or no retained or diligent squad commander is available for a company commander vacancy, the vacancy shall be filled from the mainland. Retained squad commanders who have completed their term but find no company commander vacancy in Taiwan may be promoted to mainland company commander vacancies that arise under the old rotation, after three mainland candidates have been used." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "如臺灣守備缺出，並無俸滿留臺之千總及千總以下缺出，並無年滿留臺與操防勤慎之把總等弁，仍由內地調補，如留臺年滿把總，臺灣並無千總缺出，遇有內地輪值舊制應升臺灣把總之缺，亦準拔補等語；" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "This restores the old regulations from the 4th year of Daoguang and is approved. However, for company commanders the governor shall still follow the seniority and military service rules: three years for those who have seen battle, six years for those who have not, before recommending them for appointment and sending them to the board for audience." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "係復道光四年奏改章程之舊，亦應如所請行。惟千總一項，該督仍應查照歷俸年限，並分別出兵者三年，未出兵六年，保題請補，送部引見。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Regarding retained company commanders who have completed their term but find no Taiwan battalion commander vacancy and no mainland promotion slot, the governor proposes they be placed in the promotion pool and, after three mainland candidates, be inserted for the next available mainland battalion commander vacancy, applying uniformly to both naval and land forces." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "至所稱留臺千總，歷俸已滿，臺灣並無守備缺出，內地又無應升之班，未免向隅，請歸於應升班內，遇有內地輪用應升守備缺出，俟用內地應升三人後，輪應見任人員缺次，準將留臺俸滿千總插補一人，無論水師陸路，一律辦理等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "According to the 4th year of Daoguang regulations, retained Taiwan company commanders who have completed their term and find no Taiwan battalion commander vacancy may be promoted to a mainland battalion commander vacancy only when there are no candidates in the waiting or recommendation pools. Since the number of retained officers is now smaller, the promotion path is somewhat wider." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "查道光四年章程內，臺灣千總歷俸已滿，臺灣並無守備缺出，遇內地有守備員缺，而候題候推各班無人，方准以臺灣俸滿千總升補。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "It should continue to follow the 4th year of Daoguang regulations. Moreover, the governor’s proposal to allow retained Taiwan naval and land company commanders to be inserted into mainland battalion commander slots would disrupt the rotation order and create a second set of rules alongside the old regulations. Therefore, that part of the proposal is rejected." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "今留臺人數，較前量減，升補之途，即較前稍寬，自應循照道光四年章程辦理，且該督既因臺地需人久任，又復令其插班升用內地，不獨與輪缺次序，致多窒礙，抑且與舊定章程，又屬二歧，所有該督請將臺灣水師陸路千總一律插升內地守備之處，應無庸議。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "14. The original memorial states: 'Reduce the number of locally recruited Taiwan soldiers to guard against gradual problems,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱酌減臺募兵數以防微漸等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that Taiwan soldiers include locally recruited natives to assist in patrols. Board regulations limit them to one-tenth of the total. Those who distinguish themselves in capture may also be promoted, but not exceeding one-tenth." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣兵丁，亦有召募土著入伍，藉資巡緝，部議章程，不得過十分之一。其緝捕得力，量予甄拔者，亦不得過十分之一。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "This is because Taiwan’s temperament is volatile; these are inherently cunning and trouble-seeking people. Giving them weapons and training them in combat would make them uncontrollable if too numerous." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "誠以臺灣人情浮動，本係桀黠好事，而又假以兇器，習之以戰鬥，多則不可復制，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "However, locally recruited Taiwan soldiers are familiar with the routes and maritime capture, making them most effective. The governor proposes that henceforth locally recruited Taiwan soldiers shall not exceed one-twentieth, and those distinguished in capture shall also not exceed one-twentieth. We approve the proposal." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "然而臺募兵丁熟習路逕，海道緝捕，最為得力。該督請嗣後臺募兵丁，不得過二十分之一，其緝捕得力，量予甄拔者，亦不得過二十分之一，應如所奏辦理。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "15. The original memorial states: 'Examine garrison soldiers upon arrival to prevent substitution,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱考校班兵以杜頂冒等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that Taiwan garrison officers and soldiers arriving from Xiamen or Hanjiang are inspected by the naval commander and Xingquan-Yong circuit intendant; those from Wuhu Gate are inspected by the governor or a delegated colonel." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查撥戍臺灣弁兵，向例從廈門蚶江配渡者，由水路提督及興泉永道點驗；其從五虎門配渡者，由督撫或委副將點驗。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "They only check whether the number of soldiers is complete and whether the men are robust, but not whether their skills are proficient or their regulations understood. If new recruits or substitutes have slipped in, there is no way to detect them." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "惟點其兵之是否足額、人之是否壯健，而不考其技藝之是否精熟、紀律之是否通曉，設有甫經入伍，或頂名冒替，亦竟無從覺察。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The governor proposes that henceforth when garrison soldiers arrive at the port, the governor, naval commander, and circuit intendant shall personally examine each man’s skills and require them to explain military regulations. Those whose skills are crude or regulations unclear shall be sent back and replaced." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "該督請嗣後班兵到口，由督撫水路提督按名親加閱看技藝，並令各兵講解行軍紀律，如有技藝生疏，紀律未明者，即駁回另換，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "If substitution is discovered, the original dispatching officers shall be dismissed if they assigned the men; escorting officers shall be investigated and dismissed if substitution occurred en route; the responsible commanders shall also be impeached. In this way the mainland will first correct the root, and Taiwan’s camps can then be strictly trained, so each soldier will be used to full effect. We approve the proposal." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "察出頂冒情弊，查係該營派撥者，將原派員弁斥革，如中途更換，將帶領員弁究革，該管將領一並議處，如此則內地先治其本，再責臺灣各營實力訓練，庶一兵得一兵之用，應如所奏辦理。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "16. The original memorial states: 'Select and manufacture military weapons to ensure practical use,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱選制軍器，以收實用等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that military weapons in Fujian camps are manufactured by the camps themselves, but those for Taiwan and Penghu are manufactured by the sub-prefectural office in the provincial capital. Civil officials are often deceived by artisans, resulting in weapons less sturdy and effective than those made by the camps." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查閩省各營軍械，皆係各營製造，惟臺澎各營，由省城委理事同知制辦，文員每為工匠所欺，不如營造之堅利合用，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We approve the governor’s proposal: henceforth Taiwan military weapons shall be the responsibility of the naval commander, who shall select reliable and knowledgeable officers from among the assistant and company commanders to supervise manufacture." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "應如該督所奏，嗣後臺灣軍械，責成水師提督，於將備中擇其熟諳可靠者，委令監造，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The naval commander, together with the Xingquan-Yong circuit intendant, shall personally select and test them, then dispatch personnel to escort them on the garrison troop patrol boats to Taiwan. If materials are skimped or workmanship is substandard, the Taiwan commander and circuit intendant may reject them and report to the governor for compensation according to the regulations." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "由該提督會同興泉永道親自揀選試驗，就近派員附配渡載班兵哨船帶運渡臺，如有偷減工料，造不如法，準臺灣鎮道駁換，並稟報總督照例參賠。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "17. The original memorial states: 'Clear up tuntian affairs to show imperial grace and provide troops for dispatch,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱清釐屯務，以示體卹，而資調遣等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that the civilized aboriginals of Taiwan are by nature docile and strong. Since the establishment of tuntian officers and soldiers in the 53rd year of Qianlong, they have always served eagerly in military campaigns and have no grudge against Fujian or Cantonese residents, making them the strongest force in the maritime region." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣向化熟番，賦性馴謹，膂力矯健，自乾隆五十三年設立屯弁丁，凡遇軍興，無不急公用命，且與閩粵居民兩無好惡，最為海邦勁旅。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Their tuntian stipends come from rent collected by officials on land reclaimed by civilians from aboriginal fields, aboriginal-reclaimed civilian fields, and confiscated fields. Twice yearly, in spring and autumn, local officials personally go to the tuntian sites to distribute payments by name." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其屯餉一項，係將清出民佔番地及番墾民耕，與充公田畝，官為徵租，按春秋二季地方官親赴屯所，按名散放。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Uncultivated wasteland beyond the boundary has also been allocated for them to cultivate to supply grain. Later, because the aboriginal soldiers were poor managers, some land was seized or fraudulently sold; stipends were also embezzled by tuntian officers and clerks." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "又將界外未墾荒地，撥給耕種，以充糧米。嗣因番丁不善經理，或被侵佔，或誘典賣，餉亦為屯弁胥吏所侵漁，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Although Fang Weidian and Zhao Shenzen conducted two clean-ups, the problems were never fully resolved. Currently, unaccounted and overdue tuntian stipends total more than 100,000 taels; tuntian land has also been extensively seized or concealed. The aboriginals are suffering hardship and tuntian soldiers are below quota." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "雖經方維甸、趙慎畛二次清釐，總未淨盡，見在無著及欠繳歷年屯餉，共計十萬有奇，屯地亦多侵佔隱蒙，番情困苦，屯丁亦不足額，自應及早查辦。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Cheng Zulo has already ordered the prefect to clear the land, recover overdue rent, and the northern and southern route aboriginal affairs sub-prefects to verify the tuntian soldiers to full quota. We approve the proposal." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "程祖洛已飭該府先行清出地畝，追出租欠，並責成南北二路理番同知，將屯丁挑驗足額，應如所奏。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Henceforth, in spring and autumn, the aboriginal affairs sub-prefects, together with local officials, shall tour all tuntian sites, distribute stipends by name, and on the same occasion examine the tuntian officers’ and soldiers’ skills. A register of the amounts distributed shall be reported to the governor to prevent collusion and embezzlement by tuntian officers and clerks." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "嗣後春秋二季，由理番同知會同地方官周歷各屯，按名散放屯餉，就便考校屯弁、屯丁技藝，仍將放過銀數造冊詳報總督，以杜屯弁、胥吏勾通侵蝕之弊。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "If tuntian rent has already been paid to the government but shortfalls occur or distribution is irregular, the responsible officials and clerks shall be investigated and punished for embezzling state funds." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "如屯租已交在官，設有短缺，散放不時，究明官吏，理以侵盜錢糧治罪。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "18. The original memorial states: 'Restore the pass barriers to prevent collusion with savages and incitement of trouble,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱整復隘口，以杜勾番滋事等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that the raw aboriginals of Taiwan originally did not dare come out of the mountains to cause trouble. Strategic pass barriers were established at the borders and guarded by tuntian soldiers." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣生番，原不敢出山滋事，向在交界處擇要設立隘口，派撥屯丁防堵，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The required tuntian soldier rations were either supplied by allocating uncultivated wasteland for them to farm themselves or by requiring nearby landowners to provide grain according to their fields." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "所需屯丁口糧，或指撥未墾荒地，令其自耕，或有附近業戶，按田派給。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "In recent years lawless scoundrels have learned the aboriginal language, crossed the fixed boundary, let their hair grow, changed their dress, and married aboriginal women. They are called 'savage brokers' (fan-ge)." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "近年有不法奸民，學習番語，偷越定界，散髮改裝，謀娶番女，名為番割，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "In the 6th year of Daoguang, savage brokers such as Huang Dounai and, in the present case, Yang Shilaolao and others, colluded with raw aboriginals to rob and kill. Savage brokers are most detestable." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "道光六年有番割黃鬥乃等，此次有番割楊石老二等，勾串生番搶殺，是番割最為可惡，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Cheng Zulo has already strictly ordered civil and military officials, together with gentry and elders, to inspect and restore the barriers section by section, recover the originally allocated land for rations, and order tuntian officers to select strong soldiers to guard them day and night." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "業經程祖洛嚴飭地方文武督同紳耆按段履勘修復，並清出原撥地畝應給口糧，責令屯弁選撥壯丁，住宿防守，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Sub-station officers shall also inspect the barriers during their five-day joint patrols to prevent illegal crossings. We approve the proposal." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "並令汛弁於五日會哨之時，按隘稽查，以杜偷越，應如所奏。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Henceforth, when savage brokers are captured, in addition to those who have committed capital crimes, any who are found to have let their hair grow, changed dress, or married aboriginal women shall be punished according to the statute for rootless vagrants in Taiwan who are fierce and lawless and have committed crimes punishable by exile or worse—sentenced to military exile according to the severity of the circumstances." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "嗣後拏獲番割，除實犯死罪外，但經訊有散髮改裝，擅娶番女情事，即照臺灣無籍遊民，獷悍不法，犯該徒罪以上例，酌量情節輕重，分別充軍，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Those who have only married aboriginal women without changing dress or letting hair grow shall be punished with one hundred strokes and three years’ exile according to the statute for illegally entering deep mountains to gather rattan, trap deer, or cut timber and palm." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其僅止擅娶番女，並無散髮改裝情事，比照偷越深山，抽藤鉤鹿，伐木採棕例，杖一百徒三年。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Civilized aboriginals have been assimilated for a long time and are no different from Han people; Han men marrying civilized aboriginal women shall still be permitted. The Board of Punishments is requested to incorporate this into the statutes." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "熟番向化已久，與漢人無異，民娶熟番之婦，仍聽其便，應請飭交刑部纂入條例。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "19. The original memorial states: 'Strictly enforce the prohibition on saltpeter and sulfur to prevent private smelting,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱嚴硝磺之禁，以杜私煎等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that Taiwan is surrounded by sea and much of the land is saline. People build earthen walls; when the earth is steamed by the sun, saltpeter can be extracted by boiling the wall soil." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣環海，地多斥鹵，民間築土為牆，氣蒸日曬，取牆土煎之，即可成硝。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "In the Danshui sub-prefecture, Jinbaoli, Damingshan, Donggualu Mountain, and Beitou Mountain are sulfur-producing areas, divided into mine caves and hot-spring caves. The ground is covered with sulfur flowers; soil that forms sulfur lumps is mine-cave sulfur; places with toxic smoke and hot springs are hot-spring caves." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "又淡水廳屬之金包裏、大礦山、東瓜湖山、北投山，為產礦之區，而有礦窟湯窟之分，滿地礦花，結成礦土者為礦窟，毒煙蒸騰，湯泉擁出者為湯窟，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "When the hot-spring caves’ smoke dissipates and water dries, they also become mine caves. Boiling the soil from mine caves or the sulfur flowers outside hot-spring caves can produce sulfur." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "湯窟煙消水涸，亦成礦窟，取礦窟之土及湯窟邊外之磺花煎之，皆可成磺。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Now that the people of Taiwan know wall soil can produce saltpeter, the old regulation of burning twice a year is insufficient to eliminate the source. We approve the proposal: the Mengxia county assistant, together with the Mengxia camp colonel, shall, in the second month of each of the four seasons, go to the mountains and burn once per season." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "見在臺民已知牆土可以成硝，自嚴禁舊定章程，一年燬燒二次，不足以杜絕其源，應照所奏，責成艋舺縣丞，會同艋舺營參將，於春夏秋冬四仲月，每季赴山查燒一次，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The Danshui sub-prefect shall also inspect while on official tours in the countryside and burn any caves found. The commander shall personally inspect during troop reviews, reward or punish accordingly, and at year’s end submit a sealed report to the board." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "並令淡水廳同知，於因公下鄉順道查勘，有窟即燒，仍令該鎮於閱伍之便，親詣查勘，分別獎罰，年終取結諮部。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Since anyone can privately boil saltpeter from wall soil, we approve the governor’s proposal: henceforth, if any Taiwan scoundrels privately boil saltpeter or sulfur—whether or not they have sold it—they shall be punished according to the statute for those within five hundred li of the Miao frontier who privately boil, hoard, or sell saltpeter or sulfur." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "至土牆人人可以私煎，應照該督所奏，嗣後如有臺灣奸民，私煎硝礦，無論已未興販，照附近苗疆五百里以內煎穵窩頓興販硝磺例，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "For less than ten jin, one hundred strokes and tattooing followed by exile beyond the sea; for ten jin or more, sixty strokes and one year’s exile; each additional ten jin increases the penalty by one degree. For one hundred jin or more, or for manufacturing gunpowder of ten jin or less, they shall be sent to the near frontier for military service according to the statute for selling gunpowder to salt smugglers." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "數在十斤以下，杖一百刺字逐水，十斤以上，杖六十徒一年，每十斤加一等，多至百斤以上，及合成火藥在十斤以下者，照合成火藥賣與鹽徒例，發近邊充軍，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "For three hundred jin or more, or for manufacturing gunpowder of ten jin or more, they shall be beheaded according to the statute for privately casting red-barrel cannons of any size; their wives and children shall be enslaved and property confiscated." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "多至三百斤以上，及合成火藥至十斤以上者，照私鑄紅衣等大小砲位例處斬，妻子緣坐，財產入官。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Trading saltpeter or sulfur for goods with raw aboriginals or smuggling it out to sea shall be treated as communicating with the enemy. Village headmen, placard and baojia chiefs, neighbors, porters, and boat owners who know of it but do not report shall be jointly liable." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "如將硝磺與生番交易貨物，及偷漏出海者，均以通賊論，總董、牌甲、鄰右、挑伕、船戶知情不舉者連坐，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Officials who fail to detect it shall be impeached accordingly. Those who capture the offenders themselves shall be exempt from punishment. The Board of Punishments is requested to incorporate this into the statutes." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "失察各官，比照議處，自行拏獲者免議，並請飭交刑纂入條例。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "20. The original memorial states: 'Strictly enforce the iron prohibition to prevent leakage and private manufacture,' etc." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "一、原奏內稱嚴申鐵禁，以防透漏而杜私造等語。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We note that Taiwan produces no iron. Each year civilians are issued permits to purchase 27,000 iron pots from Zhangzhou. Iron nails, kitchen knives, and farm tools are limited to twenty-seven licensed iron shops in the whole island." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "臣等伏查臺灣不產鐵斤，民間鐵鍋，每年給照赴漳州採買二萬七千口，其鐵釘、菜刀、農具，全臺酌定鐵店二十七戶，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Local officials obtain guarantees and report to the provincial treasurer, who issues permits. The shops purchase waste pots and old iron or leftover iron from the Taiwan circuit intendant’s shipyard and forge in the cities." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "由地方官取結具詳藩司，給照就臺收買廢鍋舊鐵及臺灣道廠造船用剩餘鐵，在城市打造，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "In recent years iron pots have not been purchased annually according to regulation, and shipyard leftover iron has accumulated, clearly indicating private iron leakage." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "近年鐵鍋既不按年請買，道廠餘鐵亦多積存，顯有私鐵透漏情事，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "We approve the proposal: Taiwan port officials shall rigorously inspect. If private traders are captured, the place of illegal export shall be investigated. Mainland port officials shall be punished according to whether they deliberately released or were negligent—dismissed and prosecuted if deliberate." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "應如所奏，責令臺灣口員，實力稽查，獲有私販，究出偷運出口地方，將內地口員分別是否故縱，革職治罪，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Those who buy and resell shall be severely punished. Garrison soldiers who smuggle shall be punished one degree higher. Taiwan port officials who fail to detect it shall be strictly impeached." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "販賣接連之犯，從重究治，班兵夾帶，加等問擬，臺灣口員失察，嚴參議處。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The original twenty-seven iron shops shall all be moved into the cities of the prefectures, sub-prefectures, and counties. Civil and military officials shall strictly inspect and punish private manufacture of weapons according to the law." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "其原有鐵店二十七戶，應令悉移府廳各縣城中，責成文武官員，稽查嚴拏私造軍器，照律治罪，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "They shall not be allowed to open even one shop or set up one workshop in rural markets or along mountains or the seashore. Those who secretly open under false pretenses or carry portable furnaces to forge in the countryside shall also be punished according to the statute for private trading, calculated by the amount of iron." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "不準在鄉市及沿山沿海地方私開一鋪、私設一廠，其影射私開，及肩挑小鑪，沿鄉打造者，亦照私販計鐵科罪，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "If the iron amount is less than one hundred jin, they shall receive one hundred strokes, be cangued for two months, tattooed, and exiled beyond the sea. In all cases above, the houses, boats, goods, and tools shall all be confiscated." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "如鐵數不及百斤者，照律杖一百枷號二個月刺字逐水，以上有犯，房屋船隻貨物器具，概行入官。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The above twenty articles have been carefully deliberated by us together with the relevant board, and our views are identical." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "以上二十條，臣等謹會同該部公同商酌，意見相同。" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "In summary, Taiwan is the gateway to all Fujian. If the camps are lax, the troops will be weak; if the commanders are negligent, the bandits will run rampant. After the recent devastation, nurturing is difficult; to eliminate evil customs, moral education must be urgent." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "總之，臺灣為全閩門戶，營伍廢弛，則士卒弱，將帥素屍，則盜賊恣。況繼凋敝之餘，培養維艱，消嚚陵之習，教化宜急，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "The essential task for those who govern this land is to take moral instruction and shaping customs as their own responsibility and long-term peace and stability as the goal. Then we shall see the upper and lower classes living in harmony and contentment, the people secure and at peace, recorded in one book." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "總在官斯土著以訓俗型方為己任，以久安長治為要圖，將見上康樂和親安平為一書，" } }
+    ]}
+  }
+  },
+  {
+    "type": "translated", "data": { "lang": "zh",
+    "left": { "p_type": "typical", "p_text": [
+      { "type": "puretext", "data": { "lang": "en", "content": "Combining the three great matters of correct virtue, beneficial use, and generous life-giving, this will lay the foundation of Great Peace and bring benefit for ten thousand generations." } }
+    ]},
+    "right": { "p_type": "excerpt", "p_text": [
+      { "type": "puretext", "data": { "lang": "zh", "content": "合正德利用厚生成三事，太平之基，萬世之利也。" } }
+    ]}
+  }
+  }
+]

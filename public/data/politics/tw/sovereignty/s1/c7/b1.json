@@ -1,0 +1,772 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_memo_1952_07_04_staint_george"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "My dear Doctor Dulles:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "What, please, is the exact, legal, technical status of Formosa, now that the Treaty with Japan has been signed and is being implemented?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Up to the moment of signing, Formosa was of course a conquered territory of Japan's, and was occupied and dominated by Chiang Kai-shek and his Nationalist China government and forces only because Japan could not do anything about the matter."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "But now, with Japan reconstituted as a sovereign nation, has Formosa became Chinese again, or has it become a U. N. trust territory, or what?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_memo_1952_07_15_dulles"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Dear Gen. St. George:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I have your letter of July 4th."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "There is as yet no definitive allocation of Formosa to any sovereignty."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " Japan has renounced her title to Formosa but not in favor of any designated sovereignty. Under the Treaty of Peace the Allied Powers reserved their future right to deal with this problem."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Formosa is under the administration of Chiang Kai-shek pursuant to the Surrender Terms but "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "it is not yet recognized by the United States as formally part of China and it is not under United Nations trusteeship."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_memo_1954_10_18_dulles"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I "
+          }
+        },
+        {
+          "type": "inserted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "discussed"
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " the matter of a security treaty with Nationalist China to cover Formosa and the Pescadores coupled with UN action to deal with the offshore islands under National control such as Quemoy. The President agreed that we should follow this procedure. He said that as far as he was concerned, the United States would never tolerate Formosa and the Pescadores going into unfriendly hands."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "He also reaffirmed the point I had mentioned, namely, that "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "Formosa and the Pescadores had a distinctive juridical status under the Japanese Peace Treaty. They were not technically under Chinese sovereignty since Japan had made no cession in favor of China."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " The President agreed, however, that once we made a security treaty with Nationalist China covering Formosa and the Pescadores, it would be necessary for them to refrain from offensive operations from their \"privileged sanctuary\"."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_memo_1954_11_16_suydam"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Q:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Secretary, are you prepared to say whether the Tachen Islands are considered part of Formosa?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "A:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "They are not considered part of Formosa, although they conceivably could be involved in the defense of Formosa. They are approximately, as I recall, 200 miles north of Formosa."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Q:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "I’m a little puzzled, sir, what is meant by \"part of Formosa\". They obviously aren’t part of the Island system. Could you tell me whether you answered the question in a political sense?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "A:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Well, "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "there is"
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": ", as you perhaps recall, "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "a special Juridical status which applies to Formosa and the Pescadores"
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " because Formosa and the Pescadores were for approximately 60 years, since I think 1893, under the sovereignty of Japan. Japan, by the Japanese Peace Treaty and by the treaty between Japan and the Republic of China, renounced its right, title and Interest in those Islands. But "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "these Islands were never reconveyed in any formal sense to any other country."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " Therefore, "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "those Islands have a distinctive international status"
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": ", which is not shared by the other Islands mentioned and with Tachen. Also, Tachen Island is quite remote physically from Formosa and the Pescadores, but is related to them in the sense that there is on that Island, I believe, an early warning system which would detect air attacks against Formosa from the Shanghai complex of air bases."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_memo_1954_12_01_suydam"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Q:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "What is the legal position of the coastal Islands now, Mr. Dulles, because it is different, isn't it from that of Formosa and the Pescadores?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "A:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "The legal position is different as I think I pointed out in my last press conference, by virtue of the fact that "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "technical sovereignty over Formosa and the Pescadores has never been settled."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " That is because the Japanese Peace Treaty merely involves a renunciation by Japan of its right and title to these islands. But "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "the future title is not determined by the Japanese Peace Treaty nor is it determined by the Peace Treaty which was concluded between the Republic of China and Japan."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " Therefore, the juridical status of these islands, Formosa and the Pescadores, is different from the juridical status of the offshore islands which have always been Chinese territory."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_memo_1954_12_01_suydam"
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Q:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Mr. Secretary, the failure to cover these offshore islands in this treaty, doesn’t that imply that we are prepared to make some deal on them possibly?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "A:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "A deal on what?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Q:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "On these offshore islands, as to their status?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "A:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Well, I am not quite sure—you say \"we\" are prepared to make a deal with them?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Q:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Well, I gathered from what you said that we specifically mentioned Formosa and the Pescadores so that everybody would know that they are not to attack those, but by omitting the offshore islands, aren’t we inferring that we might be prepared to make a deal on them, whomever they might belong to?"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "A:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "We do not feel in any position to make a deal about the offshore islands because we have no interest in the offshore islands of a legal character certainly, whereas "
+          }
+        },
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "we do have a certain interest in Formosa and the Pescadores."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

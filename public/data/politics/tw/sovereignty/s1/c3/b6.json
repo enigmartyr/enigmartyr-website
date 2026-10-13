@@ -1,0 +1,34 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_manifest_1947_06_17_general_m_c_meigs"
+        },
+        {
+          "type": "fileref",
+          "data": "us_c082_s01_report_n0091"
+        },
+        {
+          "type": "fileref",
+          "data": "us_serial_ussl_v065"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_gazette_1947_05_08_gmzfgb"
+        },
+        {
+          "type": "fileref",
+          "data": "tw_gazette_1947_07_12_gmzfgb"
+        },
+        {
+          "type": "fileref",
+          "data": "book_brown_university"
+        }
+      ]
+    }
+  }
+]

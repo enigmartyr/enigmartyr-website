@@ -1,0 +1,21 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1945_03_19_swncc" },
+        { "type": "fileref", "data": "us_memo_1945_07_30_swncc_sfe" },
+        { "type": "fileref", "data": "us_memo_1945_08_03_roberts" },
+        { "type": "fileref", "data": "us_memo_1945_08_06_swncc_sfe" },
+        { "type": "fileref", "data": "us_memo_1945_08_10_mcfarland" },
+        { "type": "fileref", "data": "us_memo_1945_08_23_swncc_sfe_1" },
+        { "type": "fileref", "data": "us_memo_1945_08_23_swncc_sfe_2" },
+        { "type": "fileref", "data": "us_memo_1945_09_19_swncc_sfe_1" },
+        { "type": "fileref", "data": "us_memo_1945_09_21_swncc_1" },
+        { "type": "fileref", "data": "us_memo_1945_09_25_swncc" }
+      ]
+    }
+  }
+]

@@ -1,0 +1,309 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Previously, we explored Commodore " } },
+        { "type": "figref", "data": "perry_matthew" },
+        { "type": "puretext", "data": { "lang": "en", "content": "'s expedition to Japan in 1853, specifically their interim visit to Taiwan, as recounted by " } },
+        { "type": "figref", "data": "breese_kidder" },
+        { "type": "puretext", "data": { "lang": "en", "content": ". Their expedition's attempt to locate rumored coal deposits was unsuccessful, on account of the refusal by Chinese guides to venture inland due to their fear of the barbarous tribes and \"cannibals\"." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Here, we look again to Breese's commentary on Taiwan, its isolation, and the dynamics between its Chinese settlers and native tribes, alongside Perry's thoughts on the matter. Breese's account of Taiwan continues" } },
+        { "type": "fileref", "data": "book_sproston" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The Chinese have but little intercourse with the savage tribes, that we can discover, holding but an insecure footing themselves and liable to attacks from their formidable enemies at any moment. This is in every sense an unknown island to civilized nations, and years will in all probability lapse before any determined steps will be taken to explore it to any great extent." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Formosa is a large island off the Province of " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Fujian" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " China, from which it is separated by a channel from 90 to 120 miles in breadth. Its length is about 250 miles by 50 or so in width. It was the last conquest made " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "in" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " the present Tartar dynasty, and even now, it is only a conquest by name, as the Chinese are restricted to a very small part of the Island. Vessels have now and then been wrecked upon its inhospitable shores, " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "and" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " the fates of all have been death or captivity." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Breese reveals that Chinese dominion over Taiwan was largely nominal and geographically limited, described as \"only a conquest by name\" with the Chinese \"restricted to a very small part of the Island.\" The Chinese presence was militarily insecure, facing constant threats from indigenous populations, and had failed to establish effective control or integration across the island. Essentially, Chinese authority existed more as a theoretical claim than as practical governance over Taiwan." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Perry also has written on the subject. In his report to Congress, Perry implored that the United States should make itself a greater presence in Asia, \"especially\" with regard to Taiwan" } },
+        { "type": "fileref", "data": "us_c033_s02_report_n0097" },
+        { "type": "puretext", "data": { "lang": "en", "content": ":" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The day will however arrive, and at no distant period, when political events, and the unanimous and urgent appeals of our commercial men, will make it obligatory on the United States to look with greater solicitude to our eastern commerce, and to extend the advantages of our national friendship and protection, as well to Japan and " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Ryukyu" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " as to other powers but little better known to western nations." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "I may refer to " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Thailand" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", Cambodia, " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Vietnam" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", parts of Borneo and Sumatra, and many of the islands of the eastern archipelago, and more especially to the island of Formosa." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "It only belongs to us to endeavor to act justly and honorably in all our foreign relations, and I cannot but believe that we should be just to ourselves and to the world, to " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "encourage" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " whatever practical measures might be suggested to change for the better the political and civil condition of China and Japan, and the countries more to the south; and especially with respect to Formosa. The United States alone should assume the initiative." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "He then supplied his thoughts with relation to Taiwan:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The imperial authorities maintaining a feeble and precarious footing only in isolated parts of the island; a large portion being in possession of independent tribes, and yet such is its productiveness in minerals, drugs, and the more valuable products of those genial regions, that at this time a revenue, estimated at a million of dollars, is collected, though little or none of it goes into the imperial treasury." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The inhabitants of the island may be divided into two classes: the first composed of those at present submitting to the authority of China, whether of native or Chinese blood; and the other, and probably the more numerous portion, of natives, yet in their unconquered and primitive state. The whole population has been estimated at two, and by some, as high as three millions; and looking to the peculiar abstemiousness of the people of the east, who rarely indulge in any other than vegetable food, it may reasonably be supposed that an island of the extent of Formosa, and of such fertility, could subsist even a larger number." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "He even went so far as to advocate for American possession of the island:" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "It may, I think, be safely assumed that an American settlement at Kelung would be looked upon with favor by the Chinese" } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Grants of land and important privileges, including the advantages of working the coal mines, could, doubtless, be obtained by purchase at nominal cost" } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Kelung would become a port of general resort for vessels of all nations. The settlers might not only direct the working of the mines, already fully described in this volume, but the products of the land could be largely increased by the introduction of those improvements in agriculture and the mechanic arts which have been hitherto unknown to the Chinese" } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "An American settlement, once firmly established in Formosa, would gradually increase its social and political power, its area of landed possessions, and consequently its wealth and usefulness. Neither of the European governments could reasonably object to its advancement" } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The geographical position of Formosa renders it eminently suited as an entrepôt for American trade, from which communications might be established with China, Japan, " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Ryukyu" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Vietnam" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", Cambodia, " } },
+        {
+          "type": "inserted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "Thailand" } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": ", the Philippines, and all the islands situated in the adjacent seas; and it recommends itself more strongly from the fact of its capability of furnishing abundant supplies of coal, which, in the present and increasing use of steam for purposes of commerce, will prove of vast importance to the eastern trade." } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Perry's report confirms that Chinese dominion over Taiwan remained extremely weak, describing Chinese authorities as maintaining \"a feeble and precarious footing only in isolated parts of the island\" with \"a large portion being in possession of independent tribes.\" Even more telling, while some revenue was collected from the island, \"little or none of it goes into the imperial treasury,\" indicating Chinese administrative control was so limited they couldn't effectively extract resources from their supposed territory. Perry saw this weakness as an opportunity for American expansion, believing the Chinese presence was so tenuous that an American settlement could gradually expand its influence across the island." } }
+      ]
+    }
+  }
+]

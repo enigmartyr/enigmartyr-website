@@ -1,0 +1,47 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1946_04_02_armstrong" },
+        { "type": "fileref", "data": "uk_memo_1946_06_03_morley" },
+        { "type": "fileref", "data": "tw_memo_1946_05_24_yin" },
+        { "type": "fileref", "data": "tw_memo_1946_06_22_wang" },
+        { "type": "fileref", "data": "tw_memo_1946_07_12_yin" },
+        { "type": "fileref", "data": "tw_memo_1946_08_05_yin" },
+        { "type": "fileref", "data": "tw_memo_1946_08_15_kan" },
+        { "type": "fileref", "data": "tw_memo_1946_08_19_kan" },
+        { "type": "fileref", "data": "tw_memo_1946_08_31_cheng" },
+        { "type": "fileref", "data": "tw_memo_1946_09_03_kan" },
+        { "type": "fileref", "data": "tw_memo_1946_09_05_cheng" },
+        { "type": "fileref", "data": "tw_memo_1946_09_06_cheng" },
+        { "type": "fileref", "data": "uk_memo_1946_09_26_bevin" },
+        { "type": "fileref", "data": "tw_memo_1946_09_30_cheng" },
+        { "type": "fileref", "data": "tw_memo_1946_10_07_wang" },
+        { "type": "fileref", "data": "tw_memo_1946_10_07_cheng" },
+        { "type": "fileref", "data": "tw_memo_1946_10_12_cheng" },
+        { "type": "fileref", "data": "tw_memo_1946_10_19_wang" },
+        { "type": "fileref", "data": "us_memo_1946_11_19_rice" },
+        { "type": "fileref", "data": "tw_memo_1946_10_21_wang" },
+        { "type": "fileref", "data": "tw_memo_1946_10_28_cheng" },
+        { "type": "fileref", "data": "tw_memo_1946_11_04_wang" },
+        { "type": "fileref", "data": "tw_memo_1946_11_06_li" },
+        { "type": "fileref", "data": "tw_memo_1946_11_14_wang" },
+        { "type": "fileref", "data": "us_memo_1946_11_27_turner" },
+        { "type": "fileref", "data": "tw_memo_1946_12_06_shen" },
+        { "type": "fileref", "data": "tw_memo_1946_12_09_shen_1" },
+        { "type": "fileref", "data": "tw_memo_1946_12_09_shen_2" },
+        { "type": "fileref", "data": "tw_memo_1946_12_12_wang" },
+        { "type": "fileref", "data": "tw_memo_1946_12_14_cheng" },
+        { "type": "fileref", "data": "tw_memo_1946_12_12_ku" },
+        { "type": "fileref", "data": "tw_memo_1947_01_10_wang" },
+        { "type": "fileref", "data": "tw_memo_1947_01_11_cheng" },
+        { "type": "fileref", "data": "tw_memo_1947_01_21_wang" },
+        { "type": "fileref", "data": "tw_memo_1947_01_25_wang" },
+        { "type": "fileref", "data": "tw_memo_1947_01_28_wang" }
+      ]
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "subtitle",
+    "data": "Operation SEXTANT"
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1943_12_01_early" },
+        { "type": "fileref", "data": "book_mountbatten" },
+        { "type": "fileref", "data": "us_memo_1942_03_07_gauss" },
+        { "type": "fileref", "data": "us_memo_1942_04_08_gauss" },
+        { "type": "fileref", "data": "us_memo_1942_04_16_gauss" },
+        { "type": "fileref", "data": "us_memo_1942_05_26_gauss" },
+        { "type": "fileref", "data": "us_memo_1942_07_14_gauss" },
+        { "type": "fileref", "data": "gazette_1942_11_04_cdn" },
+        { "type": "fileref", "data": "us_memo_1943_03_09_davies" },
+        { "type": "fileref", "data": "us_memo_1943_05_18_currie" },
+        { "type": "fileref", "data": "us_memo_1943_10_18_gauss" },
+        { "type": "fileref", "data": "tw_memo_1943_11_22_chiang" },
+        { "type": "fileref", "data": "us_memo_1943_11_30_stettinius" },
+        { "type": "fileref", "data": "us_memo_1943_12_02_hull" },
+        { "type": "fileref", "data": "us_memo_1943_12_09_summerlin" },
+        { "type": "fileref", "data": "us_memo_1943_01_xx_ccs" },
+        { "type": "fileref", "data": "us_memo_1943_12_xx_ccs" }
+      ]
+    }
+  }
+]

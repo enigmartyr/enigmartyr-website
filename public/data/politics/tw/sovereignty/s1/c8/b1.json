@@ -1,0 +1,19 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1944_xx_xx_mccrea" },
+        { "type": "fileref", "data": "us_memo_1944_06_22_vincent" },
+        { "type": "fileref", "data": "book_leahy" },
+        { "type": "fileref", "data": "book_king" },
+        { "type": "fileref", "data": "book_mountbatten" },
+        { "type": "fileref", "data": "us_memo_1943_12_05_hopkins" },
+        { "type": "fileref", "data": "us_memo_1943_12_06_roosevelt" },
+        { "type": "fileref", "data": "us_memo_1943_12_09_hearn" }
+      ]
+    }
+  }
+]

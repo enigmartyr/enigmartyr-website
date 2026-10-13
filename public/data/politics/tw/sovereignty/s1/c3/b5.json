@@ -1,0 +1,30 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "us_memo_1949_01_07_nsc"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1949_02_04_nsc"
+        },
+        {
+          "type": "fileref",
+          "data": "us_memo_1949_03_04_nsc"
+        },
+        {
+          "type": "fileref",
+          "data": "serial_life_v26_n08"
+        },
+        {
+          "type": "fileref",
+          "data": "gazette_1949_02_08_richmond_independent"
+        }
+      ]
+    }
+  }
+]

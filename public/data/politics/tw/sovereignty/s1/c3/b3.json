@@ -1,0 +1,369 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "Sir Kenneth Gilmour Younger was a British Labour Party politician who served as the Minister of State for Foreign Affairs from 1950 to 1951. During his tenure, which coincided with the outbreak of the Korean War, he played a key role in articulating the United Kingdom's foreign policy and legal stance regarding the geopolitical status of Formosa (Taiwan) and the involvement of the United States Seventh Fleet in the Taiwan Strait."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": ""
+          }
+        },
+        { "type": "fileref", "data": "uk_memo_1950_07_03_younger" }
+      ]
+    }
+  },
+  {
+    "type": "subtitle",
+    "data": "FORMOSA: Memorandum by the Minister of State"
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "The following is a statement on the present position in regard to Formosa."
+          }
+        },
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "In his statement on Korea on 27th June President Truman declared that:"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "The attack upon Korea makes it plain beyond all doubt that Communism has passed beyond the use of subversion to conquer independent nations and will now use armed invasion and war. It has defied the orders of the Security Council of the United Nations issued to preserve international peace. In these circumstances the occupation of Formosa by Communist forces would be a direct threat to the security of the Pacific area and to the United States forces performing their lawful and necessary functions in that area. Accordingly I have ordered the Seventh Fleet to prevent any attack on Formosa. As a corollary of this action I am calling upon the Chinese Government on Formosa to cease all air and sea operations against the mainland. The Seventh Fleet will see that this is done. The determination of the future status of Formosa must await the restoration of security in the Pacific, a peace settlement with Japan, or consideration by the United Nations."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "His Majesty's Government's views on the status of Formosa were set out in the reply given by the Foreign Secretary on 15th February, 1950, to an enquiry by the Chief Justice, Hong Kong. This reply was as follows"
+          }
+        },
+        {
+          "type": "fileref",
+          "data": "uk_bdfa_04_e_10"
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": ":"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "In 1943 Formosa was part of the territory of the Japanese Empire and His Majesty's Government consider that Formosa is still de jure part of that territory."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " On 1st December, 1943, at Cairo, President Roosevelt, Generalissimo Chiang Kai-shek and Prime Minister Churchill declared that all the territories that Japan had stolen from the Chinese, including Formosa, should be restored to the Republic of China. On 26th July, 1945, at Potsdam, the Heads of the Governments of the United States of America and the United Kingdom and the Republic of China reaffirmed that the \"terms of the Cairo Declaration should be carried out\"."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "On 25th October, 1945, as a result of an Order issued on the basis of consultation and agreement between the Allied Powers concerned, the Japanese Forces in Formosa surrendered to Chiang Kai-shek. Thereupon, with the consent of the Allied Powers, administration of Formosa was undertaken by the Government of the Republic of China."
+              }
+            }
+          ]
+        },
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": " At present, the actual administration of the island is by Wu Kuo-cheng, who has not, so far as His Majesty's Government are aware, repudiated the superior authority of the Nationalist Government."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "puretext",
+          "data": {
+            "lang": "en",
+            "content": "No statement should be made unless the question of our attitude to the American action in Formosa, and whether we support it or not, is definitely raised in such a way as to render some answer unavoidable."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "If, however, questions are raised (a) criticising American action in Formosa on legal grounds and (b) asking us whether we support it or not, and what our attitude etc. is, answers might be given on the following lines:"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "One likely line of criticism runs as follows:"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "Formosa is Chinese territory. What right has the United States, when not apparently requested to do so by any Chinese Government, to say that it is taking military command of affairs in Formosa, and that Formosa would be protected against any attack from the People's Government of China by the American Seventh Fleet?"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "The best answer to this criticism would be:"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "nestedexcerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "Formosa is not at present a territory under the sovereignty of China. When the Second World War broke out it was part of the Japanese Empire. The Great Powers decided at Cairo on 1st December, 1943, that it should be taken from Japan and restored to China, but, from the legal point of view, the Japanese sovereignty over Formosa must be extinguished by a peace treaty or some similar instrument. It is true that, in anticipation of such a provision in the peace treaty, the Chinese Government were permitted or invited to assume administration of Formosa, and they did so. At present, however, they are in Formosa as an administering authority merely by the will of the Allies, and in matters relating to Japan, by Allied arrangements, the United States Government take the lead. Therefore the United States Government were not wrong when they said that the ultimate status of Formosa had to be determined by a peace treaty or, in times of crisis, indicating that they would exercise a certain supreme control so far as Formosa is concerned."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "deleted",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "..."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        {
+          "type": "marked",
+          "data": [
+            {
+              "type": "puretext",
+              "data": {
+                "lang": "en",
+                "content": "His Majesty's Government welcome this policy since what the United States are doing is to ensure that, pending the conclusion of a peace treaty with Japan, the final determination of Formosa will not be prejudged by force. Pending the conclusion of such a treaty, it is necessary to take steps to ensure that its administration is carried on in peaceful and orderly fashion and to prevent, if at all possible, the extension of hostilities to Formosa. It is also necessary to ensure that forces based on Formosa shall not engage in wanton attacks on the mainland. The American declaration will, it is hoped, serve both objectives."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

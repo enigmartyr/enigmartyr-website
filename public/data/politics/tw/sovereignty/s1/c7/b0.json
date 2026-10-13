@@ -1,0 +1,1471 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "gazette_1952_07_17_tpvd"
+        }
+      ]
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Minister Yeh said:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "葉部長說："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"Qualifying 'all territories' with the words 'under its control' was to maintain the integrity of sovereignty, and to avoid bearing many responsibility issues arising from the tyranny of the Communist bandits after their usurpation of the mainland."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "所以在『全部領土』前冠上『在其控制下』五字，是爲了維持主權的完整，且不負擔共匪竊據大陸後，因暴政而產生的許多責任問題。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "If the text did not use the words 'under its control', there would be many problems that the international community would require Free China to bear.\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "假若文字上不用在其控制下五字，則有很多問題國際上要我自由中國負擔。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "When giving examples, Yeh used facts such as the US embargo on mainland China and international tariff agreements to illustrate the necessity of these words. "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "As for the issue of the attribution of Taiwan and the Pescadores not being rigidly stipulated, it is limited by facts. But since Taiwan and the Pescadores are under our country's control, they are naturally our country's territory. Although this is a reluctant difficulty, it is absolutely advantageous to our country."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "葉氏舉例時，曾以美國對中國大陸禁運，以及國際關稅協定等項事實來說明該五字之必需。"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "至於臺，澎歸屬問題未作硬性規定，係限於事實。但臺澎既在我國控制之下，自然是我國的領土。這雖是不已的苦衷，但對我國絕對有利。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Legislator Cheng Peng-yi asked:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "成蓬一問："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"We very much approve of China waiving several provisions of the Treaty of San Francisco, but why didn't we use this concession as an exchange condition to have Taiwan and the Pescadores returned to China?\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "中國放棄金山和約多項的規定，這是我們很贊同，但為何查以這項讓步作為交換條件，使臺灣澎湖歸還中國？"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Foreign Minister Yeh replied:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "葉外長答："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"I am very sympathetic to this inquiry. Perhaps some people think, on what basis do we add things that are not in the Treaty of San Francisco, yet on the contrary give up things that are in the Treaty of San Francisco?"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "我很同情這一詢問，也許可人認為我們以何作為根據如何金山和約中所無的，我們來增加金山和約中所有的，我們反又放棄，"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "My answer is that we do not abandon the principles of the Treaty of San Francisco; we take the Treaty of San Francisco as a blueprint, but it is not true that not a single word of the Treaty of San Francisco's provisions can be changed."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "我的答覆是金山和約的原則，我們是不放棄的，我們是以金山和約為藍本，但卻非金山和約的規定一字不能更改，"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "At that time, we had differing internal opinions on whether to participate in the Treaty of San Francisco, and later decided to strive to sign the Treaty of San Francisco."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "我們當時對於是否參加金山和約內部意見不同，後來決定爭簽訂金山和約。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "However, it is fortunate that we did not sign the Treaty of San Francisco. If we had signed it, there would be many problems that could not be resolved, and we would certainly still have to sign another treaty with Japan."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "然而，我們是幸而未簽金山和約，如果簽了的話，將有許多問題不能解決，一定還須另和日本簽一條約，"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "For example, the Treaty of San Francisco did not stipulate that the residents of Taiwan and the Pescadores are Chinese citizens. That is one example. If we say that when signing the Sino-Japanese Peace Treaty, what is not in the Treaty of San Francisco cannot be included, I hold this view on behalf of the government."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "例如金山和約並未規定臺灣澎湖居民為中國人民，即其一如說我們簽訂中日和約時，金山和約中無的不能無的不能有，我代表政府有此觀點，"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "As for the failure to stipulate the return of Taiwan and the Pescadores to China, it is because, first, some countries, unclear about the international situation and not understanding the danger of the Communist Party, recognized the bandit puppet regime and believed that Taiwan and the Pescadores should be returned to the bandit puppet regime."
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "至於臺灣澎湖未能規定歸還中國，是因第一，是若干國家不明國際情勢不了解共產黨的危險性，而承認了匪僞政權，認爲臺灣澎湖應該交還匪僞政權，"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Second, "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "according to international practice, the return of Taiwan and the Pescadores to us would also require a procedure. But if the Japanese were to return Taiwan and the Pescadores to us, it would not only be impossible but also disadvantageous to us."
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": " If we strove to add the return of Taiwan and the Pescadores to us in the Treaty of San Francisco, it was merely the right thing to do, but we did strive for it and suffered defeat.\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "第二，"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "依照國際慣性，臺灣澎湖交還我們，也須有一個手續，但如果日本人把臺灣澎湖歸還我們，則是不但不能的且對我們是不利的，如果我們力爭在金山和約中加入臺灣澎湖歸還我們，只是對的，但我們曾力爭遭受失敗了。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Wei Hsi-yen asked:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "魏惜言問："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"The Treaty of Shimonoseki ceded Taiwan and the Pescadores to Japan without any formal transfer procedures. Now that the property is being returned to its original owner, is there likewise no need for any formal procedures?\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "馬關條約將臺灣澎湖割交日本，並無手續，現在物歸原主，是否亦無需有何手續？"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Foreign Minister George Yeh replied:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "葉公超答："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"The cession of Taiwan and the Pescadores to Japan was an extremely tragic and shameful chapter of history. "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "The Cairo Declaration and the Potsdam Declaration are political in nature and are not binding upon states that did not sign them."
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": " Taiwan and the Pescadores were originally Chinese territory; they were once ceded to Japan, and now Japan has disgorged them again. "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "As for whether it is legally valid for us simply to receive them back from Japan, I cannot answer with a simple yes or no, because doing so would affect the position of the government."
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "臺灣澎湖割予日本是一段極痛極可恥的歷史，"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "開羅宣言及波茨坦宣言皆爲政治性的，對于未簽字國沒有拘束"
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "，臺灣澎湖原是中國國土，曾割予日本，現日本又吐出來了，"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "我們現在如單從日本手中接受是否合法　不能以可否作答，因將影響政府的地位。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Legislator Hsieh Cheng-yu asked:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "委員謝澄宇問："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"The Sino-Japanese Peace Treaty does not provide for the return of Taiwan and the Pescadores to our country. Since we were unable to sign the multilateral peace treaty, why did we also fail to secure such a provision in the bilateral treaty? What difficulties prevented this?\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "中日和約中未規定將臺灣澎湖交還我國，我們旣未能在多邊和約上簽字，為何也未在雙邊和約中爭有何困難？"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Foreign Minister George Yeh replied:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "葉公超答："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"Our present position is that Taiwan and the Pescadores are a part of our national territory. The Communist bandits know this, and the countries that recognize the Communist bandits also know this. "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "Japan's defeat was not brought about by our country alone. The question of Taiwan and the Pescadores is an issue among the Allied powers, not an issue between China and Japan."
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": " But our present position is that Taiwan and the Pescadores are already a part of our national territory, and the whole world knows this.\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "我們現在的態度是臺灣澎湖爲我國領土的一部份，這個態度匪幫知道，承認匪幫的國家也都知道，"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "把日本戰敗，非我一國，臺灣澎湖問題乃盟國間的一項問題，非中日間的一項問題。"
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "但我們現在的立場，是臺灣澎湖已是我國領土的一部份，全世界都知道。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "gazette_1952_07_18_tpvd"
+        }
+      ]
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Member Wang Ta-jen said:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "委員王大任說："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"In the Sino-Japanese Peace Treaty I cannot see the date when war began, I cannot see who was right and who was wrong, and I cannot see who won and who lost. We have also renounced labor reparations. This may be called a peace treaty that compromises for the sake of avoiding worse outcomes. I propose that the Legislative Yuan cannot pass this treaty.\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "我在中日和約中看不見開戰日期，看不見誰是誰非，看不見誰勝誰敗。我們並且放棄了勞役賠償，這可說是一個委曲求全的和平條約，我建議立法院不能通過這個條約"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Foreign Minister Yeh Kung-chao said:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "外交部長葉公超說："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"I said yesterday that I do not consider the treaty completely satisfactory. I too am a Chinese, a citizen. "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "What we are dissatisfied with is that the treaty does not stipulate the return of Taiwan and Penghu to China."
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": " This point is very unsatisfactory and is a major political defect. But "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "since we were unable to secure it in the Treaty of San Francisco, to try to secure it in the Sino-Japanese Peace Treaty was an impossible matter."
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "我昨天說過，我對和約認為並非完全滿意，我也是一個中國人，一個國民，"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "我們不滿意的是未能在和約上規定將臺灣澎湖歸還中國"
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "這一點很不理想，是一個很大的政治上的缺憾，但"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "我們既在金山和約中未能爭得到手，在中日和約中爭勝算不可能的事。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Hsieh Jen-chao asked:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "謝仁釗問："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"Why does Article 3 of the Sino-Japanese Peace Treaty not cite the provision from the Treaty of San Francisco that 'Japan shall recognize the validity of dispositions of property made by occupying forces in their occupied areas'?\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "中日和約第三條何以不引用金山和約中「佔領軍在其佔領區內處分之財產日本須一律承認」之規定？"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Yeh Kung-chao answered:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "葉公超答："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"Taiwan and Penghu are part of our country’s territory, and their situation is different from that of the American military government in Okinawa. We were unwilling to cite the above provision.\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "臺灣澎湖為我國領土的一部份，和美國在沖繩島的軍政府地位不同，不願引用上述規定。"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Niu Chien-chu asked:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "牛踐初問："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"Since the Treaty of Shimonoseki has already become void, why can Taiwan and Penghu, which were ceded to Japan under the Treaty of Shimonoseki, not be returned to us?\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "馬關條約既已成為無效，則因馬關條約所割予日本的臺灣澎湖為何不可歸還于我？"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Yeh Kung-chao answered:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "葉公超答："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\""
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "The Taiwan and Penghu question is now a matter among the Allied powers."
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "臺灣澎湖問題現為盟國間的事。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        {
+          "type": "fileref",
+          "data": "gazette_1952_07_19_tpvd"
+        }
+      ]
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Member Chang Han-shu further asked:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "委員張翰書又問："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"The return of Taiwan and Penghu to our country still requires the completion of one procedure. I do not know what remedial measures the government has, and how the preparatory work is proceeding?\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "臺灣澎湖歸還我國尚須完成一項手續，不知政府有何補救辦法，準備工作如何？"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "Foreign Minister Yeh Kung-chao replied:"
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "excerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "外長葉公超答："
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "translated",
+    "data": {
+      "lang": "zh",
+      "left": {
+        "p_type": "typical",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": "\"I wish to state again that, from the standpoint of our government, Taiwan and Penghu are already part of our national territory. The San Francisco Peace Treaty failed to stipulate this expressly because there was disagreement among the Allied countries. "
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "en",
+                  "content": "If one asks what preparations the government has made regarding the one procedure still awaiting completion, my answer is that the government is now actively preparing;"
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "en",
+              "content": " this is summed up in the eight-character slogan: consolidate Taiwan and counterattack the mainland.\""
+            }
+          }
+        ]
+      },
+      "right": {
+        "p_type": "nestedexcerpt",
+        "p_text": [
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "我願重複聲明，在我們政府的立場，臺灣澎湖已是我國領土的一部份，金山和約未能明文規定，是因盟國間的意見不一致，"
+            }
+          },
+          {
+            "type": "marked",
+            "data": [
+              {
+                "type": "puretext",
+                "data": {
+                  "lang": "zh",
+                  "content": "如問政府對於尚待完成的一項手續有何準備，我的答復是政府現正積極準備，"
+                }
+              }
+            ]
+          },
+          {
+            "type": "puretext",
+            "data": {
+              "lang": "zh",
+              "content": "此即鞏固臺灣，反攻大陸八個字"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

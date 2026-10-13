@@ -1,0 +1,11 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "fileref", "data": "us_memo_1945_08_09_ross" }
+      ]
+    }
+  }
+]

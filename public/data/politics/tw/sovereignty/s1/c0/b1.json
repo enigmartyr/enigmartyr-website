@@ -1,0 +1,324 @@
+[
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "initial",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "" } },
+        { "type": "fileref", "data": "us_memo_1941_12_08_gauss" },
+        { "type": "fileref", "data": "us_memo_1941_12_08_hull" },
+        { "type": "fileref", "data": "us_memo_1941_12_10_roosevelt" },
+        { "type": "fileref", "data": "us_memo_1941_12_12_welles" },
+        { "type": "fileref", "data": "tw_memo_1941_12_12_soong" },
+        { "type": "fileref", "data": "us_memo_1941_12_16_gauss" },
+        { "type": "fileref", "data": "us_memo_1941_12_17_stimson" },
+        { "type": "fileref", "data": "us_memo_1941_12_19_hull" },
+        { "type": "fileref", "data": "us_memo_1941_12_19_savage_1" },
+        { "type": "fileref", "data": "us_memo_1941_12_19_savage_2" },
+        { "type": "fileref", "data": "us_memo_1941_12_22_hull" },
+        { "type": "fileref", "data": "us_memo_1942_01_01_early" },
+        { "type": "fileref", "data": "us_memo_1942_01_01_roosevelt" },
+        { "type": "fileref", "data": "book_hull" },
+        { "type": "fileref", "data": "book_churchill_1" },
+        { "type": "fileref", "data": "us_serial_frus_1942_1942_v01" },
+        { "type": "fileref", "data": "us_memo_1942_01_xx_ccs" }
+      ]
+    }
+  },
+  {
+    "type": "subtitle",
+    "data": "Operation ARCADIA"
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "My associates and I had been preparing a comprehensive summary of our relations with Japan, culminating in Pearl Harbor, which the President might wish to send to Congress. We completed this about December 10, and Mr. Roosevelt sent it as a message to Congress on December 15. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "subtitle",
+    "data": "Operation ARCADIA"
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "My associates and I had been preparing a comprehensive summary of our relations with Japan, culminating in Pearl Harbor, which the President might wish to send to Congress. We completed this about December 10, and Mr. Roosevelt sent it as a message to Congress on December 15. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "I was then beginning to work, along with my associates at the State Department, on a far more important declaration—that which later was called the Declaration by United Nations. Almost immediately after Pearl Harbor I had begun to consider the form of unity the nations fighting against Hitler and Japan should take. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "On Saturday December 13 I asked Maxwell M. Hamilton, Chief of the Division of Far Eastern Affairs, to draw up a draft of a declaration to be made by the nations fighting the Axis, which would bind them together until victory and would commit them to the basic principles that we upheld. The following morning, Sunday, exactly one week after Pearl Harbor, I met with a group of my associates to discuss this declaration and another declaration setting up a Supreme War Council. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "From December 15 to December 19 my associates and I spent considerable time perfecting drafts of the document that became the United Nations Declaration. We also discussed another document that would have created a Supreme War Council composed of the heads or representatives of the Governments of the United Kingdom, the United States, China, and the U.S.S.R. The function of the War Council would be \"to supervise and coordinate the general conduct of the war and to provide for its successful prosecution.\"" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "typical",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "TODO" } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "I sent both papers to the President at the White House at one o'clock on December 19" } },
+        { "type": "fileref", "data": "us_memo_1941_12_19_hull" },
+        { "type": "fileref", "data": "us_serial_frus_1942_1942_v01" },
+        { "type": "puretext", "data": { "lang": "en", "content": ", along with a memorandum outlining the activities of the Supreme War Council of 1917-1918. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "In the Cabinet discussion that followed, there seemed to be general approval of both documents. The President raised only one point about which he had any hesitancy. This concerned the constitutionality of the Joint Declaration, which later became known officially as the Declaration by United Nations. He brought up especially the question whether he had the constitutional right to sign an agreement that pledged the signatories not to conclude a separate armistice or cease hostilities." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "When I returned to the State Department I called my advisers in for a discussion of this point. We generally felt that there was no real doubt as to the constitutionality of the provisions. I suggested, however, that the provision might well be taken from the Joint Declaration, which would be signed by many countries, and placed in the Supreme War Council agreement, which would be signed by four countries. We therefore prepared new drafts, also embodying two other minor changes, and I sent these to the White House that evening to be substituted for the two documents I had placed before the Cabinet." } },
+        { "type": "fileref", "data": "us_memo_1941_12_19_savage_2" }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "December 22 I sent the President an eight-page opinion by Green H. Hackworth, Legal Adviser of the State Department, to the effect that there was not the slightest question about the constitutionality of the President's undertaking not to cease hostilities against or conclude a separate armistice with the common enemies or any of them except by common agreement." } },
+        { "type": "fileref", "data": "us_memo_1941_12_22_hull" },
+        { "type": "puretext", "data": { "lang": "en", "content": " I wrote the President that, in my judgment, Hackworth's opinion \"makes clear the legal and constitutional validity of this provision.\" " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " The President thereupon agreed that this clause could well be reinserted in the Declaration." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "That day I gave the President a further memorandum on the Supreme War Council my associates and I proposed. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " On the same day Prime Minister Churchill arrived in Washington. During the next few days the President went over with the Prime Minister our texts of the proposed Joint Declaration and of the proposal or the Supreme War Council. Mr. Churchill or Ambassador Halifax communicated these to London for the War Cabinet’s opinion." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The President sent me on December 27 his written comments on the two texts. Churchill had received recommendations from the War Cabinet on the Joint Declaration and the President said he had taken these into account. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " The President said he had been trying to think of a way to obviate the necessity of two different documents, the Joint Declaration and the Supreme War Council proposal. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " To meet his thought that there should not be two separate documents, we prepared a draft combining the Joint Declaration and the Supreme War Council proposal." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "I now had ready three drafts to take to the White House—the new draft of the Joint Declaration, a copy of the December 19 draft on the Supreme War Council, and the amalgamated draft containing the Joint Declaration and the agreement on the Supreme War Council." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Lord Halifax joined in the later stages of the conference in my office. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " Halifax and I then went to the White House for our conference with the President and the Prime Minister. During the conference it was apparent that Mr. Roosevelt and Mr. Churchill were not yet in agreement that a Supreme War Council should be set up. Most of our discussion was devoted to this subject. We therefore agreed to adopt the new draft of the Joint Declaration, standing alone, leaving the Supreme War Council draft for further discussion. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "Two days later Litvinov came to my office with three amendments suggested by his Government." } },
+        { "type": "fileref", "data": "us_memo_1941_12_29_hull" },
+        { "type": "puretext", "data": { "lang": "en", "content": " " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " The Ambassador seemed surprised when I said that the proposed declaration had not been delivered to any other country for signature pending Soviet Russia’s reaction. He had brought with him a separate declaration that Stalin planned to make upon the assumption that the Joint Declaration was already in circulation among other countries for signature. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " I sent the Soviet amendments to the President later that day. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " The President agreed to the incorporation of the Soviet amendments. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "The following day, December 31, I sent the Joint Declaration in its final form to the President for signature by himself and the Prime Minister. I suggested that the President might desire to ask Ambassador Litvinov and T. V. Soong, who had just been made Foreign Minister of China, to attach their signatures at the White House. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " Later I telephoned the President and suggested that since there would not be enough signatures on the document by the next day, January 1, it would be preferable to wait a few days before releasing it. The President and I agreed that the Joint Declaration should be dated January 1 and made public on January 2 or 3. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "On the morning of December 31, while Prime Minister Churchill was having a bath in the White House, the President came to him and suggested that the Joint Declaration carry the title, \"Declaration by United Nations.\" The distinguished bather agreed, and thus the term \"United Nations\" came into being. The President had our final draft recopied at the White House so as to bear the new title." } }
+      ]
+    }
+  },
+  {
+    "type": "paragraph",
+    "data": {
+      "p_type": "excerpt",
+      "p_text": [
+        { "type": "puretext", "data": { "lang": "en", "content": "On the first day of the New Year, Roosevelt, Churchill, Litvinov, and Soong signed the historic document. " } },
+        {
+          "type": "deleted",
+          "data": [
+            { "type": "puretext", "data": { "lang": "en", "content": "..." } }
+          ]
+        },
+        { "type": "puretext", "data": { "lang": "en", "content": " While these signatures were being affixed, I issued a public statement, saying: \"The Declaration by the United Nations joins together, in the greatest common war effort in history, the purpose and will of twenty-six free nations, representing the overwhelming majority of the inhabitants of all six continents. This is a living proof that law-abiding and peace-loving nations can unite in using the sword when necessary to preserve liberty and justice and the fundamental values of mankind. Against this host we can be sure that the forces of barbaric savagery and organized wickedness cannot and will not prevail.\"" } }
+      ]
+    }
+  }
+]
